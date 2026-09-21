@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="The Ancient Archive — what indigenous peoples actually ate. Drawn from anthropological records, archaeological evidence, and oral traditions. The original human diet, documented and explained. Kwik Fat Cut Education First.">
+<title>The Ancient Archive — What Indigenous Peoples Actually Ate — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(ellipse 58% 68% at 72% 28%,rgba(218,165,32,0.08) 0%,transparent 62%),
+    radial-gradient(ellipse 42% 48% at 8% 82%,rgba(46,107,62,0.06) 0%,transparent 55%);}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb span{margin:0 0.6rem;}
+  .article-tag{display:inline-block;font-size:0.64rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--gold);border:1px solid rgba(218,165,32,0.35);padding:0.25rem 0.7rem;border-radius:2px;margin-bottom:1.5rem;opacity:0;animation:up 0.9s 0.15s ease forwards;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(2.8rem,8vw,7.5rem);font-weight:300;line-height:1.03;color:var(--cream);max-width:880px;opacity:0;animation:up 0.9s 0.22s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:600px;margin-top:2rem;font-size:1.05rem;line-height:1.9;color:var(--c60);font-style:italic;opacity:0;animation:up 0.9s 0.38s ease forwards;}
+  .article-meta{margin-top:2rem;display:flex;gap:2rem;flex-wrap:wrap;opacity:0;animation:up 0.9s 0.48s ease forwards;}
+  .meta-item{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);}
+  .meta-item strong{color:var(--c60);font-weight:400;}
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:4px;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+  .article-wrap{padding:6rem 6vw;display:grid;grid-template-columns:1fr 2.5fr;gap:6rem;align-items:start;}
+  .sidebar{position:sticky;top:110px;}
+  .sidebar-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:1.2rem;font-weight:500;}
+  .toc a{font-size:0.82rem;color:var(--c60);text-decoration:none;padding:0.65rem 0;border-bottom:1px solid var(--c10);display:block;transition:color 0.2s;line-height:1.4;}
+  .toc a:first-child{border-top:1px solid var(--c10);}
+  .toc a:hover{color:var(--gold);}
+  .sidebar-archive{margin-top:2.5rem;border-left:2px solid var(--gold);padding:1.2rem;background:var(--g08);}
+  .sa-label{font-size:0.62rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--gold);font-weight:500;margin-bottom:0.6rem;}
+  .sidebar-archive p{font-size:0.8rem;line-height:1.78;color:var(--c60);}
+  .sidebar-archive strong{color:var(--cream);font-weight:400;}
+  .series-nav-sidebar{margin-top:2rem;}
+  .sns-label{font-size:0.62rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:0.8rem;}
+  .sns-links{display:flex;flex-direction:column;gap:0.4rem;}
+  .sns-link{font-size:0.78rem;color:var(--c60);text-decoration:none;padding:0.5rem 0;border-bottom:1px solid var(--c10);transition:color 0.2s;display:flex;align-items:center;gap:0.5rem;}
+  .sns-link:hover{color:var(--gold);}
+  .sns-link.active{color:var(--gold);}
+  .sidebar-logo{margin-top:2rem;text-align:center;}
+  .sidebar-logo img{width:120px;height:auto;opacity:0.85;}
+  .article-body{display:flex;flex-direction:column;gap:0;}
+  .article-section{padding:3.8rem 0;border-bottom:1px solid var(--c10);}
+  .article-section:first-child{padding-top:0;}
+  .article-section:last-child{border-bottom:none;}
+  .section-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.9rem;}
+  .section-label.green{color:var(--green);}
+  .section-label.gold{color:var(--gold);}
+  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.7rem,3vw,2.6rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.5rem;}
+  .article-section h2 em{font-style:italic;color:var(--gold);}
+  .article-section p{font-size:0.97rem;line-height:1.97;color:var(--c60);margin-bottom:1.2rem;}
+  .article-section p:last-child{margin-bottom:0;}
+  .article-section p strong{color:var(--cream);font-weight:400;}
+  .pull-quote{margin:2.8rem 0;padding:2.2rem 2.8rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .pull-quote p{font-family:'Cormorant Garamond',serif;font-size:1.28rem;font-weight:300;font-style:italic;line-height:1.65;color:var(--cream);}
+  .pull-quote p em{font-style:normal;color:var(--gold);}
+  .archive-card{margin:2rem 0;border:1px solid rgba(218,165,32,0.2);overflow:hidden;}
+  .ac-header{padding:1.3rem 2rem;background:rgba(218,165,32,0.07);border-bottom:1px solid rgba(218,165,32,0.15);}
+  .ac-period{font-size:0.62rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--gold);font-weight:500;margin-bottom:0.3rem;}
+  .ac-title{font-family:'Cormorant Garamond',serif;font-size:1.15rem;font-weight:400;color:var(--cream);}
+  .ac-body{padding:1.8rem 2rem;}
+  .ac-body p{font-size:0.9rem;line-height:1.88;color:var(--c60);margin-bottom:0.9rem;}
+  .ac-body p:last-child{margin-bottom:0;}
+  .ac-body p strong{color:var(--cream);font-weight:400;}
+  .ac-foods{display:flex;flex-wrap:wrap;gap:0.5rem;margin-top:1rem;}
+  .ac-food-tag{font-size:0.76rem;padding:0.28rem 0.8rem;border:1px solid rgba(46,107,62,0.3);color:var(--green);border-radius:2px;letter-spacing:0.06em;}
+  .convergence-grid{display:grid;grid-template-columns:1fr 1fr;gap:2px;margin:2rem 0;}
+  .cg-card{padding:1.8rem 1.6rem;border:1px solid var(--c10);transition:border-color 0.3s,background 0.3s;}
+  .cg-card:hover{border-color:var(--g20);background:var(--g08);}
+  .cg-region{font-size:0.62rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--gold);font-weight:500;margin-bottom:0.5rem;}
+  .cg-card h3{font-family:'Cormorant Garamond',serif;font-size:1.05rem;font-weight:400;color:var(--cream);margin-bottom:0.5rem;}
+  .cg-card p{font-size:0.82rem;line-height:1.72;color:var(--c60);}
+  .fact-band{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:2px;margin:2rem 0;}
+  .fb-card{padding:1.6rem 1.4rem;border:1px solid var(--c10);text-align:center;}
+  .fb-num{font-family:'Cormorant Garamond',serif;font-size:2.6rem;font-weight:300;color:var(--gold);line-height:1;}
+  .fb-unit{font-size:0.66rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--gold);opacity:0.6;margin-bottom:0.4rem;}
+  .fb-desc{font-size:0.78rem;line-height:1.6;color:var(--c60);}
+  .item-list{display:flex;flex-direction:column;gap:0;margin:2rem 0;}
+  .il-item{display:flex;gap:1.5rem;align-items:flex-start;padding:1.4rem 0;border-bottom:1px solid var(--c10);}
+  .il-item:first-child{border-top:1px solid var(--c10);}
+  .il-dot{width:7px;height:7px;border-radius:50%;background:var(--green);flex-shrink:0;margin-top:0.65rem;}
+  .il-item p{font-size:0.9rem;line-height:1.85;color:var(--c60);}
+  .il-item p strong{color:var(--cream);font-weight:400;}
+  .series-footer{margin:3rem 0;display:grid;grid-template-columns:1fr 1fr;gap:2px;}
+  .sf-card{padding:2rem 1.8rem;border:1px solid var(--c10);text-decoration:none;transition:border-color 0.3s,background 0.3s;display:flex;flex-direction:column;justify-content:space-between;}
+  .sf-card:hover{border-color:var(--g20);background:var(--g08);}
+  .sf-label{font-size:0.62rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--green);font-weight:500;margin-bottom:0.5rem;}
+  .sf-card h3{font-family:'Cormorant Garamond',serif;font-size:1.05rem;font-weight:400;color:var(--cream);margin-bottom:0.4rem;}
+  .sf-card p{font-size:0.8rem;line-height:1.6;color:var(--c60);}
+  .sf-arrow{color:var(--gold);font-size:0.85rem;margin-top:1.2rem;}
+  .article-close{padding:4rem 0 2rem;}
+  .article-close h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.12;color:var(--cream);margin-bottom:1.2rem;}
+  .article-close h2 em{font-style:italic;color:var(--gold);}
+  .article-close p{font-size:0.97rem;line-height:1.97;color:var(--c60);margin-bottom:1rem;}
+  .article-close p strong{color:var(--cream);font-weight:400;}
+  .article-close .sign{font-size:0.7rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);margin-top:2rem;}
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,transform 0.2s;}
+  .btn-primary:hover{background:var(--cream);transform:translateY(-2px);}
+  .btn-outline{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .btn-outline:hover{border-color:var(--c60);color:var(--cream);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){.article-wrap{grid-template-columns:1fr;gap:3.5rem;}.sidebar{position:static;}.convergence-grid,.series-footer{grid-template-columns:1fr;}.cta-strip{flex-direction:column;align-items:flex-start;}}
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/learn-ancient-archive.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span><a href="learn.html">Learn</a><span>&middot;</span>Return to Real Food Series</p>
+  <span class="article-tag">📜 Return to Real Food Series &mdash; Part 1 &mdash; Ancient Archive</span>
+  <h1>The ancient archive.<br><em>What indigenous peoples<br>actually ate.</em></h1>
+  <p class="lede">Drawn from anthropological records, archaeological evidence, ancient manuscripts, and oral traditions spanning six continents. Not theory. Not trend. The documented nutritional reality of the longest-lived, healthiest populations in human history.</p>
+  <div class="article-meta">
+    <div class="meta-item">Series <strong>Return to Real Food &mdash; 1 of 7</strong></div>
+    <div class="meta-item">Reading time <strong>14 min</strong></div>
+    <div class="meta-item">Sources <strong>Archaeological &amp; Anthropological</strong></div>
+  </div>
+</header>
+
+<div class="colour-band"><div class="cb-black"></div><div class="cb-red"></div><div class="cb-gold"></div><div class="cb-green"></div></div>
+
+<div class="article-wrap">
+  <aside class="sidebar reveal">
+    <p class="sidebar-label">In this article</p>
+    <nav class="toc">
+      <a href="#record">The archaeological record</a>
+      <a href="#africa">Ancient Africa</a>
+      <a href="#americas">The Americas</a>
+      <a href="#asia">Asia &amp; Oceania</a>
+      <a href="#middle-east">The Middle East</a>
+      <a href="#convergence">The great convergence</a>
+      <a href="#what-changed">What the archives teach us now</a>
+    </nav>
+    <div class="sidebar-archive">
+      <p class="sa-label">Why this matters</p>
+      <p>The foods that sustained <strong>300,000 years of human civilisation</strong> are not lost. They still grow. They still nourish. They are simply being ignored &mdash; replaced by products that have existed for 150 years and have produced a global chronic disease crisis. The archive is the instruction manual.</p>
+    </div>
+    <div class="series-nav-sidebar">
+      <p class="sns-label">The Series</p>
+      <div class="sns-links">
+        <span class="sns-link active">01 &mdash; The Ancient Archive</span>
+        <a href="learn-taino-diet.html" class="sns-link">02 &mdash; The Taino Diet</a>
+        <a href="learn-west-african-food-traditions.html" class="sns-link">03 &mdash; West African Roots</a>
+        <a href="learn-moorish-table.html" class="sns-link">04 &mdash; The Moorish Table</a>
+        <a href="learn-nations-guide-health.html" class="sns-link">05 &mdash; A Nation&rsquo;s Guide</a>
+        <a href="learn-food-community.html" class="sns-link">06 &mdash; Building the Community</a>
+        <a href="learn-living-longer.html" class="sns-link">07 &mdash; Living Longer &amp; Happier</a>
+      </div>
+    </div>
+    <div class="sidebar-logo"><img src="kwik-logo.jpeg" alt="Kwik Fat Cut" loading="eager" fetchpriority="high" decoding="async"></div>
+  </aside>
+
+  <article class="article-body">
+
+    <div class="article-section reveal" id="record">
+      <p class="section-label gold">The Archaeological Record</p>
+      <h2>What bones, seeds, and<br><em>ancient refuse tell us.</em></h2>
+      <p>Archaeologists do not guess at ancient diets. They excavate them. From the analysis of dental calculus (hardened plaque on ancient teeth containing microscopic food particles), stable isotope analysis of bone collagen, and the study of ancient refuse mounds called middens, a detailed picture of pre-industrial human nutrition has been assembled across decades of meticulous research.</p>
+      <p>The findings are consistent across cultures that had no contact with each other, across continents separated by oceans, and across time periods spanning tens of thousands of years. <strong>The convergence is not coincidence. It is the signature of what the human body actually requires.</strong></p>
+
+      <div class="fact-band">
+        <div class="fb-card reveal">
+          <div class="fb-num">50&ndash;100g</div>
+          <div class="fb-unit">Fibre / day</div>
+          <div class="fb-desc">Pre-industrial dietary fibre intake, documented through coprolite (fossilised faeces) analysis. Modern average: 15&ndash;20g.</div>
+        </div>
+        <div class="fb-card reveal">
+          <div class="fb-num">200+</div>
+          <div class="fb-unit">Plant species</div>
+          <div class="fb-desc">Average number of plant species consumed annually by hunter-gatherer populations. Modern Western diet: fewer than 20.</div>
+        </div>
+        <div class="fb-card reveal">
+          <div class="fb-num">~0g</div>
+          <div class="fb-unit">Refined sugar</div>
+          <div class="fb-desc">Refined sugar consumption in pre-industrial populations. Modern average: 40kg per person per year.</div>
+        </div>
+        <div class="fb-card reveal">
+          <div class="fb-num">60,000</div>
+          <div class="fb-unit">Years</div>
+          <div class="fb-desc">Duration of Australian Aboriginal oral food traditions &mdash; the longest continuous food culture documented on earth.</div>
+        </div>
+      </div>
+
+      <div class="pull-quote">
+        <p>&ldquo;The archaeological record does not show a struggle for nutrition. It shows populations that were lean, strong-boned, and largely free of chronic disease &mdash; until their food supply was disrupted. <em>The disruption was always external. The food was always the answer.</em>&rdquo;</p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="africa">
+      <p class="section-label green">Ancient Africa</p>
+      <h2>The continent where<br><em>human nutrition began.</em></h2>
+      <p>Africa is where <em>Homo sapiens</em> emerged, and where the original human diet was shaped. Archaeological evidence from sites across East Africa, dating back 300,000 years, shows early humans consuming a diverse range of plant foods &mdash; tubers, fruits, seeds, and legumes &mdash; supplemented by occasional animal protein from hunting and fishing.</p>
+      <p>The ancient Egyptian record is particularly well-preserved. Medical papyri dating to 1550 BCE &mdash; including the Ebers Papyrus, one of the oldest medical documents ever discovered &mdash; document the use of over 700 plant-based remedies and foods. <strong>Garlic, onions, leeks, lentils, figs, dates, pomegranates, and wheat were the foundation of Egyptian nutrition</strong> for thousands of years.</p>
+
+      <div class="archive-card reveal">
+        <div class="ac-header">
+          <p class="ac-period">Egypt &mdash; c.3000 BCE to 500 BCE &mdash; Documented through papyri, tomb paintings, and food remains</p>
+          <p class="ac-title">The ancient Egyptian diet &mdash; worker and noble alike</p>
+        </div>
+        <div class="ac-body">
+          <p>Tomb paintings at Saqqara, Luxor, and the Valley of the Kings document food production and consumption in extraordinary detail. Workers building the Great Pyramid were fed a documented daily ration of <strong>bread, beer (a fermented grain drink rich in B vitamins), onions, garlic, and radishes</strong> &mdash; recorded in accounts from the pyramid builders&rsquo; village at Giza.</p>
+          <p>Archaeological analysis of mummies from the New Kingdom period (1550&ndash;1070 BCE) found significant amounts of plant material in intestinal tracts: emmer wheat, barley, lentils, figs, dates, and garlic. <strong>Atherosclerosis, while present in some nobles who ate more animal fat, was rare among the general population</strong> whose diet was overwhelmingly plant-based.</p>
+          <p>The Ebers Papyrus (c.1550 BCE) specifically prescribes onion for heart conditions, garlic as an immune booster, and figs for digestive health &mdash; all prescriptions now confirmed by clinical research.</p>
+          <div class="ac-foods">
+            <span class="ac-food-tag">Emmer wheat</span>
+            <span class="ac-food-tag">Lentils</span>
+            <span class="ac-food-tag">Garlic</span>
+            <span class="ac-food-tag">Onions</span>
+            <span class="ac-food-tag">Figs</span>
+            <span class="ac-food-tag">Dates</span>
+            <span class="ac-food-tag">Pomegranates</span>
+            <span class="ac-food-tag">Chickpeas</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="archive-card reveal">
+        <div class="ac-header">
+          <p class="ac-period">West Africa &mdash; Ancient kingdoms of Mali, Songhai, and Benin &mdash; Documented through oral griots, Portuguese colonial records, and archaeological sites</p>
+          <p class="ac-title">The great kingdoms&rsquo; food traditions</p>
+        </div>
+        <div class="ac-body">
+          <p>The Mali Empire (1235&ndash;1600 CE) was documented by Arab traveller Ibn Battuta in 1352. He recorded a diet centred on <strong>millet, sorghum, black-eyed peas, moringa leaves, baobab fruit, tamarind, and sesame</strong>. Moringa &mdash; called the &ldquo;miracle tree&rdquo; &mdash; was used daily as a nutritional supplement. Its leaves contain more vitamin C than oranges, more calcium than milk, and more iron than spinach.</p>
+          <p>Portuguese records from the Kingdom of Benin (15th&ndash;17th century) documented cultivation of yams, plantains, palm oil, and a wide variety of leafy greens across a highly organised agricultural society. <strong>Bitter leaf (Vernonia amygdalina)</strong> was documented as both food and medicine &mdash; its charantin content, now studied for blood sugar regulation, was understood by Benin healers centuries before the chemistry was named.</p>
+          <div class="ac-foods">
+            <span class="ac-food-tag">Millet</span>
+            <span class="ac-food-tag">Sorghum</span>
+            <span class="ac-food-tag">Moringa</span>
+            <span class="ac-food-tag">Baobab</span>
+            <span class="ac-food-tag">Black-eyed peas</span>
+            <span class="ac-food-tag">Bitter leaf</span>
+            <span class="ac-food-tag">Tamarind</span>
+            <span class="ac-food-tag">Sesame</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="americas">
+      <p class="section-label">The Americas</p>
+      <h2>The Three Sisters &mdash;<br><em>the most sophisticated food system ever designed.</em></h2>
+      <p>Indigenous Americans, across Mesoamerica, North America, and South America, developed food systems of extraordinary nutritional sophistication without formal scientific training. They did it through multigenerational observation, experimentation, and the transmission of knowledge through oral tradition.</p>
+      <p>The most documented example is the <strong>Three Sisters</strong> &mdash; the intercropped cultivation of maize, beans, and squash practised by Indigenous peoples across the Americas for at least 5,000 years. This system was not merely agricultural convenience. It was a complete nutritional strategy.</p>
+
+      <div class="archive-card reveal">
+        <div class="ac-header">
+          <p class="ac-period">Mesoamerica &mdash; c.3000 BCE onward &mdash; Documented through Aztec codices, Maya manuscripts, and Spanish colonial records</p>
+          <p class="ac-title">The Three Sisters &mdash; a complete nutritional system</p>
+        </div>
+        <div class="ac-body">
+          <p><strong>Maize</strong> provides complex carbohydrates and calories. <strong>Beans</strong> fix nitrogen in the soil and provide the plant protein and amino acids that maize lacks &mdash; together they form a complete protein. <strong>Squash</strong> shades the ground, retaining moisture and suppressing weeds, while providing vitamins A and C. Grown together, they also support each other structurally. This is companion planting and nutritional balance simultaneously.</p>
+          <p>The Aztec codices &mdash; preserved manuscripts documenting Aztec knowledge &mdash; record over 200 edible plant species in regular use, including <strong>amaranth, chia seeds, cacao, chilli peppers, tomatoes, avocados, sweet potatoes, and various medicinal herbs</strong>. Chia seeds &mdash; now celebrated in modern wellness culture &mdash; were documented as a primary energy source for Aztec runners and warriors 500 years before &ldquo;superfood&rdquo; became a marketing term.</p>
+          <p>Spanish colonial records from the 16th century document the bewilderment of European observers at the health and physique of indigenous Mexicans &mdash; noting their lean, strong bodies and apparent absence of the obesity and chronic disease common among Europeans of the same period.</p>
+          <div class="ac-foods">
+            <span class="ac-food-tag">Maize</span>
+            <span class="ac-food-tag">Beans</span>
+            <span class="ac-food-tag">Squash</span>
+            <span class="ac-food-tag">Amaranth</span>
+            <span class="ac-food-tag">Chia seeds</span>
+            <span class="ac-food-tag">Cacao</span>
+            <span class="ac-food-tag">Avocado</span>
+            <span class="ac-food-tag">Chilli</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="asia">
+      <p class="section-label gold">Asia &amp; Oceania</p>
+      <h2>Ten thousand years<br><em>of documented nutritional wisdom.</em></h2>
+      <p>Asia and Oceania contain some of the most detailed ancient food records available &mdash; preserved through Chinese medical texts, Ayurvedic manuscripts, and the extraordinary oral traditions of Polynesian navigators and Aboriginal Australians.</p>
+
+      <div class="archive-card reveal">
+        <div class="ac-header">
+          <p class="ac-period">China &mdash; c.2700 BCE onward &mdash; The Yellow Emperor&rsquo;s Classic of Medicine and Ben Cao Gang Mu</p>
+          <p class="ac-title">The most documented ancient food-medicine archive in history</p>
+        </div>
+        <div class="ac-body">
+          <p>The <em>Huangdi Neijing</em> (Yellow Emperor&rsquo;s Classic of Medicine, c.2700 BCE) is the foundational text of Traditional Chinese Medicine and one of the oldest medical manuscripts in existence. It documents food as the primary form of medicine, listing the therapeutic properties of hundreds of plant foods in precise detail.</p>
+          <p>The <em>Ben Cao Gang Mu</em> (Compendium of Materia Medica, 1596 CE) by Li Shizhen documents <strong>1,892 medicinal substances</strong>, the vast majority plant-based. This 52-volume work represents 27 years of research and remains one of the most comprehensive food-medicine archives ever compiled by a single individual.</p>
+          <p>The documented Chinese diet across historical periods centred on <strong>rice, millet, soybeans, tofu, seaweed, mushrooms, green tea, ginger, and an extraordinary diversity of vegetables and herbs</strong>. The concept of food as medicine &mdash; <em>yao shi tong yuan</em> (medicine and food share the same origin) &mdash; has governed Chinese nutrition for over 4,000 years.</p>
+          <div class="ac-foods">
+            <span class="ac-food-tag">Brown rice</span>
+            <span class="ac-food-tag">Soybeans</span>
+            <span class="ac-food-tag">Ginger</span>
+            <span class="ac-food-tag">Green tea</span>
+            <span class="ac-food-tag">Seaweed</span>
+            <span class="ac-food-tag">Shiitake</span>
+            <span class="ac-food-tag">Millet</span>
+            <span class="ac-food-tag">Tofu</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="archive-card reveal">
+        <div class="ac-header">
+          <p class="ac-period">India &mdash; c.1500 BCE onward &mdash; The Charaka Samhita and Sushruta Samhita</p>
+          <p class="ac-title">Ayurveda &mdash; the world&rsquo;s oldest complete nutritional system</p>
+        </div>
+        <div class="ac-body">
+          <p>The <em>Charaka Samhita</em> (c.300 BCE) and <em>Sushruta Samhita</em> are the foundational texts of Ayurvedic medicine. Together they document a nutritional system of extraordinary completeness &mdash; categorising foods by their effects on digestion, constitution, season, and disease state.</p>
+          <p>The Charaka Samhita lists <strong>341 plant-based medicines and 177 animal-based medicines</strong>, with plant foods forming the overwhelming foundation of both prevention and treatment. Turmeric, ginger, amla (Indian gooseberry), neem, and ashwagandha are among the most documented &mdash; all now subjects of extensive clinical research confirming their documented traditional uses.</p>
+          <p>Critically, the Charaka Samhita states: <em>&ldquo;The physician who does not know the properties of food cannot know the properties of medicine.&rdquo;</em> This principle &mdash; that food knowledge precedes medical knowledge &mdash; is the exact foundation of the Kwik Fat Cut education-first approach, documented 2,300 years ago.</p>
+          <div class="ac-foods">
+            <span class="ac-food-tag">Turmeric</span>
+            <span class="ac-food-tag">Amla</span>
+            <span class="ac-food-tag">Ginger</span>
+            <span class="ac-food-tag">Lentils</span>
+            <span class="ac-food-tag">Neem</span>
+            <span class="ac-food-tag">Ghee</span>
+            <span class="ac-food-tag">Ashwagandha</span>
+            <span class="ac-food-tag">Sesame</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="middle-east">
+      <p class="section-label">The Middle East</p>
+      <h2>Where agriculture<br><em>and medicine first met.</em></h2>
+      <p>The Fertile Crescent &mdash; the arc of land spanning modern Iraq, Syria, Lebanon, Israel, and Turkey &mdash; is where organised agriculture first developed, approximately 12,000 years ago. The crops domesticated there became the foundation of much of world nutrition: <strong>wheat, barley, lentils, chickpeas, bitter vetch, flax, and emmer.</strong></p>
+
+      <div class="archive-card reveal">
+        <div class="ac-header">
+          <p class="ac-period">The Islamic Golden Age &mdash; 8th to 13th century CE &mdash; Preserved in the British Library and manuscript collections globally</p>
+          <p class="ac-title">The Moorish medical tradition &mdash; food as the first medicine</p>
+        </div>
+        <div class="ac-body">
+          <p>The Islamic scholars of the Golden Age &mdash; Ibn Sina (Avicenna), Ibn Rushd (Averroes), and Al-Razi (Rhazes) &mdash; produced the most comprehensive medical texts of the medieval period, synthesising Greek, Persian, Indian, and Arab traditions into detailed food-medicine archives.</p>
+          <p>Ibn Sina&rsquo;s <em>Canon of Medicine</em> (1025 CE) &mdash; used as a medical textbook in European universities until the 17th century &mdash; devotes extensive chapters to the medicinal properties of specific foods. It documents the blood-sugar-lowering effects of bitter foods, the cardiovascular properties of garlic, and the digestive benefits of fermented foods with a precision that modern research has systematically confirmed.</p>
+          <p>The <em>Fid&#257;lat al-Khiw&#257;n</em> (13th-century Andalusian cookbook) &mdash; of which missing chapters were discovered at the British Library in 2018 &mdash; documents <strong>hundreds of recipes based on olive oil, whole grains, legumes, aromatic herbs, citrus, and almonds</strong>: the exact dietary pattern now clinically validated as the most protective against cardiovascular disease.</p>
+          <div class="ac-foods">
+            <span class="ac-food-tag">Olive oil</span>
+            <span class="ac-food-tag">Chickpeas</span>
+            <span class="ac-food-tag">Dates</span>
+            <span class="ac-food-tag">Figs</span>
+            <span class="ac-food-tag">Pomegranate</span>
+            <span class="ac-food-tag">Almonds</span>
+            <span class="ac-food-tag">Lentils</span>
+            <span class="ac-food-tag">Cumin</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="convergence">
+      <p class="section-label green">The Great Convergence</p>
+      <h2>Six continents.<br>One conclusion.<br><em>The same foods.</em></h2>
+      <p>The most remarkable finding from the ancient archive is not any single food or tradition. It is the convergence. Cultures with no contact with each other, separated by oceans and millennia, independently arrived at nutritional patterns with extraordinary similarities. <strong>This convergence is the strongest possible evidence that these patterns are not cultural preference &mdash; they are biological truth.</strong></p>
+
+      <div class="convergence-grid">
+        <div class="cg-card reveal">
+          <p class="cg-region">🌍 Africa</p>
+          <h3>Legumes, leafy greens, tubers, whole grains</h3>
+          <p>Lentils, black-eyed peas, moringa, sorghum, millet, baobab, bitter leaf. High fibre, high antioxidants, minimal animal fat.</p>
+        </div>
+        <div class="cg-card reveal">
+          <p class="cg-region">🌎 The Americas</p>
+          <h3>The Three Sisters, seeds, peppers, cacao</h3>
+          <p>Maize, beans, squash, amaranth, chia, avocado, tomato. Complete plant protein, extraordinary phytochemical diversity.</p>
+        </div>
+        <div class="cg-card reveal">
+          <p class="cg-region">🌏 Asia</p>
+          <h3>Rice, legumes, ferments, medicinal herbs</h3>
+          <p>Brown rice, soybeans, ginger, turmeric, green tea, seaweed, mushrooms. Fermented foods supporting gut microbiome diversity.</p>
+        </div>
+        <div class="cg-card reveal">
+          <p class="cg-region">🌐 Middle East</p>
+          <h3>Olive oil, legumes, whole grains, aromatic spices</h3>
+          <p>Chickpeas, lentils, olive oil, wheat, dates, pomegranate, cumin, coriander. The documented foundation of the world&rsquo;s most studied heart-protective diet.</p>
+        </div>
+        <div class="cg-card reveal">
+          <p class="cg-region">🌊 Oceania</p>
+          <h3>Tubers, seafood, tropical fruits, native herbs</h3>
+          <p>Taro, sweet potato, breadfruit, coconut, native greens. Aboriginal Australian diets documented through 60,000 years of oral tradition showed extraordinary micronutrient density.</p>
+        </div>
+        <div class="cg-card reveal">
+          <p class="cg-region">🌴 Caribbean &amp; Jamaica</p>
+          <h3>Tropical provisions, leafy greens, legumes, sea</h3>
+          <p>Callaloo, yam, ackee, breadfruit, scotch bonnet, allspice, pimento, red peas. The synthesis of West African, Taino, and Caribbean botanical wisdom in one culinary tradition.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="what-changed">
+      <p class="section-label gold">What the Archives Teach Us Now</p>
+      <h2>The instruction was always<br><em>here. We stopped reading it.</em></h2>
+      <p>The ancient archive is not a museum piece. It is an active instruction manual &mdash; one that modern nutritional science is systematically validating, one study at a time. <strong>Every major finding of contemporary nutrition research points back to the same foods, the same patterns, and the same principles</strong> that indigenous cultures documented centuries and millennia ago.</p>
+
+      <div class="item-list">
+        <div class="il-item reveal">
+          <div class="il-dot"></div>
+          <p><strong>Fibre diversity predicts gut microbiome health</strong> &mdash; exactly what 200+ plant species per year provides. Modern dietary guidelines recommending 30 different plant foods per week are catching up to what indigenous diets always delivered.</p>
+        </div>
+        <div class="il-item reveal">
+          <div class="il-dot"></div>
+          <p><strong>Fermented foods support mental health</strong> &mdash; the gut-brain axis science that emerged in 2010&ndash;2020 explains why every ancient food culture independently developed fermentation: kefir in Central Asia, kimchi in Korea, injera in Ethiopia, fermented cassava in West Africa, pickled vegetables across the Mediterranean. They knew the outcome. Now we know the mechanism.</p>
+        </div>
+        <div class="il-item reveal">
+          <div class="il-dot"></div>
+          <p><strong>Spices are medicine</strong> &mdash; turmeric, ginger, garlic, cumin, coriander, allspice, scotch bonnet. Every ancient culture seasoned food with compounds that are now confirmed anti-inflammatory agents, antimicrobials, and metabolic regulators. They were not seasoning for flavour alone. <strong>They were prescribing.</strong></p>
+        </div>
+        <div class="il-item reveal">
+          <div class="il-dot"></div>
+          <p><strong>Seasonal eating aligns with the body</strong> &mdash; the hormonal and metabolic rhythms of the human body shift across seasons, calibrated over hundreds of thousands of years to the seasonal availability of different foods. Eating out of season, year-round, disrupts these rhythms. Indigenous seasonal eating was physiological synchronisation.</p>
+        </div>
+        <div class="il-item reveal">
+          <div class="il-dot"></div>
+          <p><strong>Community eating is health protection</strong> &mdash; every ancient food culture was communal. Food was grown, prepared, and eaten collectively. The loneliness of modern individualised eating &mdash; alone in front of a screen with processed convenience food &mdash; is not just socially impoverished. It is physiologically damaging, documented in cortisol levels, gut health, and mortality risk.</p>
+        </div>
+      </div>
+
+      <div class="series-footer">
+        <a href="learn-taino-diet.html" class="sf-card reveal">
+          <div>
+            <p class="sf-label">Next in the series &rarr;</p>
+            <h3>The Taino Diet</h3>
+            <p>Jamaica&rsquo;s first food tradition. What the original inhabitants ate, how they prepared it, and what was lost &mdash; and what survives.</p>
+          </div>
+          <div class="sf-arrow">Part 2 &rarr;</div>
+        </a>
+        <a href="learn-west-african-food-traditions.html" class="sf-card reveal">
+          <div>
+            <p class="sf-label">Coming in the series &rarr;</p>
+            <h3>West African Food Traditions</h3>
+            <p>The roots of Caribbean cuisine. The foods that crossed the Atlantic and became the foundation of Jamaican cooking.</p>
+          </div>
+          <div class="sf-arrow">Part 3 &rarr;</div>
+        </a>
+      </div>
+    </div>
+
+    <div class="article-close reveal">
+      <h2>The archive is open.<br><em>The food still grows.</em></h2>
+      <p>Everything documented in this archive &mdash; the lentils of ancient Egypt, the moringa of the Mali Empire, the Three Sisters of Mesoamerica, the turmeric of Ayurvedic India &mdash; <strong>is available today.</strong> It grows from the same earth. It carries the same compounds. It produces the same outcomes.</p>
+      <p>Kwik Fat Cut exists to make sure that the archive reaches the people it belongs to. Freely. Clearly. Without pressure or product. <strong>The knowledge is yours. It always was.</strong></p>
+      <p>Smile for me, Jamaica. We row. You steer. 🇯🇲❤️💚</p>
+      <p class="sign">Kwik Fat Cut &mdash; Return to Real Food Series &mdash; Education First &mdash; A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+    </div>
+
+  </article>
+</div>
+
+<div class="rule"></div>
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>Continue the<br><em>series.</em></h3>
+    <p>Seven deep reads. All free. All rooted in the ancient archive.</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="learn-taino-diet.html" class="btn-primary">Part 2 &mdash; Taino Diet</a>
+    <a href="learn.html" class="btn-outline">Learn Hub</a>
+  </div>
+</div>
+
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <p class="ss-body">Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">Share this article</button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link">Twitter / X</a>
+      <a href="#" class="ss-social-link">Instagram</a>
+      <a href="#" class="ss-social-link">TikTok</a>
+      <a href="#" class="ss-social-link">Facebook</a>
+    </div>
+    <p class="ss-note">Movements are medicines. We row. You steer. 🇯🇲</p>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+<script>
+function shareKFC(){const url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 The Ancient Archive',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ss-btn.share');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
+</script>
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

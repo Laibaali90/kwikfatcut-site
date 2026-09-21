@@ -1,0 +1,343 @@
+{
+  "_note": "Page content for thank-you.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "15a1e654": {
+      "src": "A Personal Word",
+      "t": ""
+    },
+    "fec98c5d": {
+      "src": "A modern, dynamic community.",
+      "t": ""
+    },
+    "195406fb": {
+      "src": "A modern, dynamic platform that prioritises creativity and excellence — meeting ancient wisdom with contemporary rigour.",
+      "t": ""
+    },
+    "e61e3c43": {
+      "src": "Ackee, garlic, sweet potato, Moorish food traditions, Jamaican A–Z and more.",
+      "t": ""
+    },
+    "04890b7e": {
+      "src": "Before anyone is asked to change anything, they deserve to understand everything. That is what we offer. That is what you are sustaining. And that is not a small thing.",
+      "t": ""
+    },
+    "c892cf25": {
+      "src": "Communities that were underserved get reached.",
+      "t": ""
+    },
+    "7788978e": {
+      "src": "Digestion, oral health, ancestral foods, mindful eating, blood health — all free, all deep.",
+      "t": ""
+    },
+    "edb9f90b": {
+      "src": "Education First",
+      "t": ""
+    },
+    "7e29bc2d": {
+      "src": "Every act of giving carries forward what the elders always knew — that a community which shares its knowledge, its food, and its care is a community that survives and thrives.",
+      "t": ""
+    },
+    "2d215062": {
+      "src": "Every article, deep read, and ancestral food guide remains accessible to anyone, anywhere, without a subscription or payment. You have just extended that promise.",
+      "t": ""
+    },
+    "5a14bc42": {
+      "src": "Explore the roots",
+      "t": ""
+    },
+    "8176519e": {
+      "src": "Family & Community",
+      "t": ""
+    },
+    "f9320476": {
+      "src": "Follow the platform",
+      "t": ""
+    },
+    "a06ea73d": {
+      "src": "For the next person who comes looking. For the family that cannot afford a consultation. For the community that was never told where to start.",
+      "t": ""
+    },
+    "76b16946": {
+      "src": "Founder & CEO — Kwik Fat Cut — Kingston, Jamaica 🇯🇲❤️💚",
+      "t": ""
+    },
+    "dc244153": {
+      "src": "Free health education stays free.",
+      "t": ""
+    },
+    "33324aec": {
+      "src": "From the Kwik Fat Cut family — with deep gratitude",
+      "t": ""
+    },
+    "3698c6b4": {
+      "src": "Generosity is",
+      "t": ""
+    },
+    "0836b0f8": {
+      "src": "Health is not an individual project. It grows in families, in neighbourhoods, in communities that hold each other with care.",
+      "t": ""
+    },
+    "bebf89f9": {
+      "src": "Here is what",
+      "t": ""
+    },
+    "8dd965a2": {
+      "src": "Honey Ras (Wilbert Blackwood)",
+      "t": ""
+    },
+    "f3343df9": {
+      "src": "Indigenous Wisdom",
+      "t": ""
+    },
+    "0c053cf2": {
+      "src": "Innovation & Excellence",
+      "t": ""
+    },
+    "93dd42ca": {
+      "src": "Keep Going",
+      "t": ""
+    },
+    "39da8f86": {
+      "src": "Knowledge before intervention. Every article, every guide, every food profile — free and grounded in truth.",
+      "t": ""
+    },
+    "e8da5e21": {
+      "src": "Knowledge is",
+      "t": ""
+    },
+    "f1ca47de": {
+      "src": "Kwik Fat Cut is committed to delivering innovative health and wellness solutions designed to empower individuals in achieving a healthier lifestyle. We are dedicated to helping individuals, families, and communities reach their goals through",
+      "t": ""
+    },
+    "6adf050a": {
+      "src": "Local health fairs, neighbourhood education sessions, and one-on-one guidance for individuals who need it most — your support funds that reach.",
+      "t": ""
+    },
+    "f55a9313": {
+      "src": "Meet the family",
+      "t": ""
+    },
+    "5b93219b": {
+      "src": "Movements are",
+      "t": ""
+    },
+    "7b29a18c": {
+      "src": "No advertising. No product sales. No commercial compromise. Your donation is exactly what keeps Kwik Fat Cut free to speak the truth without obligation to anyone but the reader.",
+      "t": ""
+    },
+    "4db35abd": {
+      "src": "Not literally — but in the truest sense. You are part of what makes this possible.",
+      "t": ""
+    },
+    "670f3b0a": {
+      "src": "Our mission is to empower individuals and foster a supportive community throughout their journey to well-being.",
+      "t": ""
+    },
+    "5864289e": {
+      "src": "Physical, mental & spiritual",
+      "t": ""
+    },
+    "57372c59": {
+      "src": "Rare content gets built.",
+      "t": ""
+    },
+    "e29b9ddb": {
+      "src": "Rooted in something ancient.",
+      "t": ""
+    },
+    "8ad3e329": {
+      "src": "Share Kwik Fat Cut",
+      "t": ""
+    },
+    "652eca87": {
+      "src": "Share this platform",
+      "t": ""
+    },
+    "1539be93": {
+      "src": "Start reading",
+      "t": ""
+    },
+    "bc14f783": {
+      "src": "Thank",
+      "t": ""
+    },
+    "cae7a768": {
+      "src": "That mission has your name on it now.",
+      "t": ""
+    },
+    "139b2ef1": {
+      "src": "The ancestral food knowledge of Jamaica, West Africa, and the Caribbean — documented, respected, and made accessible.",
+      "t": ""
+    },
+    "7c8f8201": {
+      "src": "The greatest gift you can give now is passing the knowledge forward. Share freely. It costs nothing. It changes everything.",
+      "t": ""
+    },
+    "576472d8": {
+      "src": "The knowledge tree",
+      "t": ""
+    },
+    "4be0d1af": {
+      "src": "The platform stays independent.",
+      "t": ""
+    },
+    "155f21c4": {
+      "src": "The research into Moorish food traditions, Jamaican bush medicine, Ital nutrition science, and ancestral healing practices takes time and care. You are funding that careful work.",
+      "t": ""
+    },
+    "3092136f": {
+      "src": "The three-part series on holistic healthy living. Start with Part 1.",
+      "t": ""
+    },
+    "571a5955": {
+      "src": "This platform was built on a simple, unbreakable principle:",
+      "t": ""
+    },
+    "4e2d656a": {
+      "src": "We are honoured by your trust. We carry it carefully.",
+      "t": ""
+    },
+    "7ced5e70": {
+      "src": "We prioritise creativity and excellence in everything we do — and your support makes that standard possible to keep.",
+      "t": ""
+    },
+    "0d74a8a9": {
+      "src": "We row. You steer. Thank you.”",
+      "t": ""
+    },
+    "64c60407": {
+      "src": "We row. You steer. — Kwik Fat Cut, Education First. 🇯🇲❤️💚",
+      "t": ""
+    },
+    "91041df4": {
+      "src": "What You Are Part Of",
+      "t": ""
+    },
+    "4d6f03d4": {
+      "src": "What you have just done is not small. In a world where health information is frequently locked behind paywalls, sold as product, or diluted into marketing —",
+      "t": ""
+    },
+    "100e76cf": {
+      "src": "Who we are, why we exist, and the community you have just joined.",
+      "t": ""
+    },
+    "c3e9f620": {
+      "src": "With sincere gratitude and deepest respect —",
+      "t": ""
+    },
+    "2278b7ba": {
+      "src": "You are part of that chain now. We are honoured.",
+      "t": ""
+    },
+    "e4c2b0f7": {
+      "src": "Young people get introduced to ancestral food knowledge.",
+      "t": ""
+    },
+    "7efa903e": {
+      "src": "Your Donation At Work",
+      "t": ""
+    },
+    "1e16f906": {
+      "src": "Your generosity keeps the knowledge tree rooted, growing, and free for",
+      "t": ""
+    },
+    "9948d64b": {
+      "src": "Youth food mentoring programmes that show the next generation what grows here, what it does, and why it matters. The roots go deeper with your help.",
+      "t": ""
+    },
+    "75eb773d": {
+      "src": "education before intervention.",
+      "t": ""
+    },
+    "f1b3bb8a": {
+      "src": "enhances the old and embraces the new.",
+      "t": ""
+    },
+    "3d446e62": {
+      "src": "everyone.",
+      "t": ""
+    },
+    "aa442945": {
+      "src": "is waiting for",
+      "t": ""
+    },
+    "dd5a9f57": {
+      "src": "makes possible.",
+      "t": ""
+    },
+    "0fdcca49": {
+      "src": "medicine.",
+      "t": ""
+    },
+    "de246b4c": {
+      "src": "medicines.",
+      "t": ""
+    },
+    "7c24a7b7": {
+      "src": "needs it.",
+      "t": ""
+    },
+    "ced7ae57": {
+      "src": "personalised educational programmes and indigenous, whole-foods expert guidance.",
+      "t": ""
+    },
+    "feb7d4ad": {
+      "src": "with someone who",
+      "t": ""
+    },
+    "4875403b": {
+      "src": "you have chosen to keep it free.",
+      "t": ""
+    },
+    "c4f08836": {
+      "src": "you.",
+      "t": ""
+    },
+    "bc117cc3": {
+      "src": "your generosity",
+      "t": ""
+    },
+    "e81abcdf": {
+      "src": "“Movements are medicines. Kwik Fat Cut —",
+      "t": ""
+    },
+    "973c7cf5": {
+      "src": "→",
+      "t": ""
+    },
+    "ec2f7e42": {
+      "src": "🌍",
+      "t": ""
+    },
+    "be2f35d8": {
+      "src": "🌳",
+      "t": ""
+    },
+    "438bdfe5": {
+      "src": "🌳 About the Platform",
+      "t": ""
+    },
+    "f37bf1aa": {
+      "src": "🌿 Foods Hub",
+      "t": ""
+    },
+    "efa37181": {
+      "src": "🏃 Movements Are Medicines",
+      "t": ""
+    },
+    "5aa43ed0": {
+      "src": "👨‍👩‍👧‍👦",
+      "t": ""
+    },
+    "bf0694eb": {
+      "src": "📚 Learn Hub",
+      "t": ""
+    },
+    "a72cd30c": {
+      "src": "🔬",
+      "t": ""
+    }
+  }
+}

@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Stillness Is Medicine — the deeply researched mental dimension of healthy living. How the mind heals through rest, silence, and awareness. Plant-based foods that support brain health and mental clarity.">
+<title>Stillness Is Medicine — Mental Health — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(ellipse 60% 65% at 72% 32%,rgba(218,165,32,0.08) 0%,transparent 62%),
+    radial-gradient(ellipse 40% 45% at 8% 80%,rgba(46,107,62,0.05) 0%,transparent 55%);}
+  .series-nav{display:flex;gap:0.5rem;flex-wrap:wrap;margin-bottom:2rem;opacity:0;animation:up 0.9s 0.05s ease forwards;}
+  .sn-item{font-size:0.62rem;letter-spacing:0.18em;text-transform:uppercase;padding:0.28rem 0.75rem;border-radius:2px;text-decoration:none;border:1px solid;}
+  .sn-item.active{background:var(--gold);color:var(--bg);border-color:var(--gold);}
+  .sn-item.inactive{color:var(--c30);border-color:var(--c10);}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb span{margin:0 0.6rem;}
+  .article-tag{display:inline-block;font-size:0.64rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--gold);border:1px solid rgba(218,165,32,0.35);padding:0.25rem 0.7rem;border-radius:2px;margin-bottom:1.5rem;opacity:0;animation:up 0.9s 0.15s ease forwards;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(3.2rem,9vw,8.5rem);font-weight:300;line-height:1.02;color:var(--cream);max-width:900px;opacity:0;animation:up 0.9s 0.22s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:580px;margin-top:2rem;font-size:1.05rem;line-height:1.9;color:var(--c60);font-style:italic;opacity:0;animation:up 0.9s 0.38s ease forwards;}
+  .article-meta{margin-top:2rem;display:flex;gap:2rem;flex-wrap:wrap;opacity:0;animation:up 0.9s 0.48s ease forwards;}
+  .meta-item{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);}
+  .meta-item strong{color:var(--c60);font-weight:400;}
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:4px;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+  .article-wrap{padding:6rem 6vw;display:grid;grid-template-columns:1fr 2.5fr;gap:6rem;align-items:start;}
+  .sidebar{position:sticky;top:110px;}
+  .sidebar-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:1.2rem;font-weight:500;}
+  .toc a{font-size:0.82rem;color:var(--c60);text-decoration:none;padding:0.65rem 0;border-bottom:1px solid var(--c10);display:block;transition:color 0.2s;line-height:1.4;}
+  .toc a:first-child{border-top:1px solid var(--c10);}
+  .toc a:hover{color:var(--gold);}
+  .sidebar-stat{margin-top:2.5rem;border-left:2px solid var(--gold);padding:1.2rem;background:var(--g08);}
+  .sidebar-stat p{font-size:0.8rem;line-height:1.75;color:var(--c60);}
+  .sidebar-stat strong{color:var(--cream);font-weight:400;}
+  .sidebar-series{margin-top:2rem;}
+  .ss-stitle{font-size:0.62rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:0.8rem;}
+  .ss-links{display:flex;flex-direction:column;gap:0.4rem;}
+  .ss-link{font-size:0.8rem;color:var(--c60);text-decoration:none;padding:0.5rem 0;border-bottom:1px solid var(--c10);transition:color 0.2s;}
+  .ss-link:hover{color:var(--gold);}
+  .ss-link.current{color:var(--gold);}
+  .sidebar-logo{margin-top:2rem;text-align:center;}
+  .sidebar-logo img{width:120px;height:auto;opacity:0.85;}
+  .article-body{display:flex;flex-direction:column;gap:0;}
+  .article-section{padding:3.5rem 0;border-bottom:1px solid var(--c10);}
+  .article-section:first-child{padding-top:0;}
+  .article-section:last-child{border-bottom:none;}
+  .section-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.8rem;}
+  .section-label.green{color:var(--green);}
+  .section-label.gold{color:var(--gold);}
+  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.7rem,3vw,2.6rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.5rem;}
+  .article-section h2 em{font-style:italic;color:var(--gold);}
+  .article-section p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1.2rem;}
+  .article-section p:last-child{margin-bottom:0;}
+  .article-section p strong{color:var(--cream);font-weight:400;}
+  .pull-quote{margin:2.5rem 0;padding:2rem 2.5rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .pull-quote p{font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:300;font-style:italic;line-height:1.6;color:var(--cream);}
+  .pull-quote p em{font-style:normal;color:var(--gold);}
+  .fact-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:2px;margin:2rem 0;}
+  .fact-card{padding:1.8rem 1.4rem;border:1px solid var(--c10);text-align:center;transition:border-color 0.3s,background 0.3s;}
+  .fact-card:hover{border-color:var(--g20);background:var(--g08);}
+  .fact-number{font-family:'Cormorant Garamond',serif;font-size:2.8rem;font-weight:300;color:var(--gold);line-height:1;}
+  .fact-unit{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--gold);opacity:0.6;margin-bottom:0.5rem;}
+  .fact-label{font-size:0.8rem;line-height:1.6;color:var(--c60);}
+  .mind-list{display:flex;flex-direction:column;gap:0;margin:2rem 0;}
+  .ml-item{display:flex;gap:1.5rem;align-items:flex-start;padding:1.6rem 0;border-bottom:1px solid var(--c10);}
+  .ml-item:first-child{border-top:1px solid var(--c10);}
+  .ml-icon{font-size:1.4rem;flex-shrink:0;line-height:1.3;}
+  .ml-content h3{font-size:0.9rem;font-weight:500;color:var(--cream);margin-bottom:0.3rem;}
+  .ml-content p{font-size:0.87rem;line-height:1.82;color:var(--c60);}
+  .ml-content p strong{color:var(--cream);font-weight:400;}
+  .practice-cards{display:grid;grid-template-columns:1fr 1fr;gap:2px;margin:2rem 0;}
+  .pc-card{padding:2rem 1.8rem;border:1px solid var(--c10);transition:border-color 0.3s,background 0.3s;}
+  .pc-card:hover{border-color:var(--g20);background:var(--g08);}
+  .pc-num{font-family:'Cormorant Garamond',serif;font-size:2.5rem;font-weight:300;color:var(--gold);opacity:0.2;line-height:1;margin-bottom:0.8rem;}
+  .pc-name{font-size:0.88rem;font-weight:500;color:var(--cream);margin-bottom:0.5rem;}
+  .pc-desc{font-size:0.82rem;line-height:1.72;color:var(--c60);}
+  .pc-science{margin-top:0.8rem;font-size:0.76rem;color:var(--green);font-style:italic;line-height:1.5;}
+  .brain-food{display:grid;grid-template-columns:1fr 1fr;gap:2px;margin:2rem 0;}
+  .bf-card{padding:1.6rem 1.5rem;border:1px solid var(--c10);transition:border-color 0.3s,background 0.3s;}
+  .bf-card:hover{border-color:rgba(46,107,62,0.3);background:rgba(46,107,62,0.05);}
+  .bf-food{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:400;color:var(--cream);margin-bottom:0.4rem;}
+  .bf-role{font-size:0.8rem;line-height:1.65;color:var(--c60);}
+  .bf-role strong{color:var(--green);font-weight:400;}
+  .closing-block{margin:2rem 0;padding:2.5rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .closing-block p{font-family:'Cormorant Garamond',serif;font-size:1.15rem;font-weight:300;font-style:italic;line-height:1.7;color:var(--cream);}
+  .closing-block p em{font-style:normal;color:var(--gold);}
+  .series-cta{margin:3rem 0;padding:2rem;border:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;}
+  .sc-text p{font-size:0.82rem;color:var(--c60);margin-top:0.2rem;}
+  .sc-text strong{color:var(--cream);font-weight:400;font-size:0.9rem;}
+  .sc-link{display:inline-block;background:var(--gold);color:var(--bg);padding:0.7rem 1.5rem;border-radius:1px;font-size:0.74rem;font-weight:500;letter-spacing:0.14em;text-transform:uppercase;text-decoration:none;transition:background 0.2s;}
+  .sc-link:hover{background:var(--cream);}
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,transform 0.2s;}
+  .btn-primary:hover{background:var(--cream);transform:translateY(-2px);}
+  .btn-outline{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .btn-outline:hover{border-color:var(--c60);color:var(--cream);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){.article-wrap{grid-template-columns:1fr;gap:3rem;}.sidebar{position:static;}.practice-cards,.brain-food{grid-template-columns:1fr;}.cta-strip{flex-direction:column;align-items:flex-start;}}
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/learn-stillness-is-medicine.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <div class="series-nav">
+    <a href="learn-movement-is-medicine.html" class="sn-item inactive">Part 1 — Physical</a>
+    <span class="sn-item active">Part 2 — Mental</span>
+    <a href="learn-spirit-is-the-root.html" class="sn-item inactive">Part 3 — Spiritual</a>
+  </div>
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span><a href="learn.html">Learn</a><span>&middot;</span>Stillness Is Medicine</p>
+  <span class="article-tag">Embrace Healthy Living &mdash; Part 2 of 3 &mdash; Mental</span>
+  <h1>Stillness<br>is<br><em>medicine.</em></h1>
+  <p class="lede">The mind is not separate from the body. It is not floating above it, looking down. The mind is embodied — woven into every cell, every nerve signal, every heartbeat. What you think shapes what you feel. What you feel shapes what you become. And stillness, true stillness, is where the healing begins.</p>
+  <div class="article-meta">
+    <div class="meta-item">Series <strong>Embrace Healthy Living &mdash; 2 of 3</strong></div>
+    <div class="meta-item">Reading time <strong>11 min</strong></div>
+    <div class="meta-item">Level <strong>Deep Research</strong></div>
+  </div>
+</header>
+
+<div class="colour-band"><div class="cb-black"></div><div class="cb-red"></div><div class="cb-gold"></div><div class="cb-green"></div></div>
+
+<div class="article-wrap">
+  <aside class="sidebar reveal">
+    <p class="sidebar-label">In this article</p>
+    <nav class="toc">
+      <a href="#crisis">The mental health crisis</a>
+      <a href="#stress">What chronic stress does</a>
+      <a href="#gut-brain">The gut-brain connection</a>
+      <a href="#stillness">What stillness actually is</a>
+      <a href="#practices">Mental health practices</a>
+      <a href="#plant-mind">Plant foods for the mind</a>
+      <a href="#jamaica-mind">Jamaica&rsquo;s mental wisdom</a>
+    </nav>
+    <div class="sidebar-stat">
+      <p><strong>1 in 4 people</strong> globally will experience a mental health condition in their lifetime. Yet the relationship between food, movement, and mental health is rarely discussed. <strong>The gut produces 95% of the body&rsquo;s serotonin.</strong> What you eat is what you think.</p>
+    </div>
+    <div class="sidebar-series">
+      <p class="ss-stitle">This Series</p>
+      <div class="ss-links">
+        <a href="learn-movement-is-medicine.html" class="ss-link">Part 1 — Movement Is Medicine (Physical)</a>
+        <span class="ss-link current">Part 2 — Stillness Is Medicine (Mental)</span>
+        <a href="learn-spirit-is-the-root.html" class="ss-link">Part 3 — Spirit Is the Root (Spiritual)</a>
+      </div>
+    </div>
+    <div class="sidebar-logo">
+      <img src="kwik-logo.jpeg" alt="Kwik Fat Cut" loading="eager" fetchpriority="high" decoding="async">
+    </div>
+  </aside>
+
+  <article class="article-body">
+
+    <div class="article-section reveal" id="crisis">
+      <p class="section-label">The Landscape</p>
+      <h2>Mental health &mdash;<br><em>what we know and what we ignore.</em></h2>
+      <p>The World Health Organization estimates that depression is the leading cause of disability worldwide. Anxiety disorders affect 284 million people globally. <strong>Mental health conditions account for more years of healthy life lost than any other group of conditions, including cardiovascular disease and cancer.</strong></p>
+      <p>And yet the conversation about mental health rarely includes food, movement, or stillness. It rarely includes the quality of sleep, the health of the gut, the presence of nature, or the depth of community connection. <strong>These are not peripheral factors. They are central ones.</strong> The research is unambiguous. The conversation has simply not caught up.</p>
+
+      <div class="fact-grid">
+        <div class="fact-card reveal">
+          <div class="fact-number">95%</div>
+          <div class="fact-unit">Of serotonin</div>
+          <div class="fact-label">Produced in the gut, not the brain. What you eat directly shapes your mood chemistry.</div>
+        </div>
+        <div class="fact-card reveal">
+          <div class="fact-number">43%</div>
+          <div class="fact-unit">Reduction</div>
+          <div class="fact-label">In depression symptoms with a Mediterranean-style plant-rich diet, compared to standard diet (SMILES Trial, 2017)</div>
+        </div>
+        <div class="fact-card reveal">
+          <div class="fact-number">8hrs</div>
+          <div class="fact-unit">Sleep</div>
+          <div class="fact-label">Adults sleeping less than 6 hours have a 4.2x increased risk of catching a cold — and dramatically elevated anxiety levels (Carnegie Mellon, 2015)</div>
+        </div>
+        <div class="fact-card reveal">
+          <div class="fact-number">47%</div>
+          <div class="fact-unit">Reduction</div>
+          <div class="fact-label">In cortisol (stress hormone) after 8 weeks of mindfulness practice — documented by Harvard Medical School researchers</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="stress">
+      <p class="section-label">The Biology of Stress</p>
+      <h2>What chronic stress<br><em>does to the body.</em></h2>
+      <p>Stress is not a feeling. It is a full-body physiological response. The hypothalamic-pituitary-adrenal (HPA) axis activates, cortisol and adrenaline flood the bloodstream, heart rate elevates, digestion slows, and the immune system goes on high alert. <strong>This is the fight-or-flight response, and it was designed for brief, acute threats.</strong></p>
+      <p>Modern life has turned this emergency system on permanently. Traffic, financial pressure, social media, workplace demands, unresolved grief — <strong>the body cannot distinguish between a predator and a mortgage.</strong> It simply responds. And when that response never switches off, the cumulative damage is profound.</p>
+
+      <div class="mind-list">
+        <div class="ml-item reveal">
+          <div class="ml-icon">🧠</div>
+          <div class="ml-content">
+            <h3>Hippocampal shrinkage</h3>
+            <p>Chronic cortisol exposure causes measurable shrinkage of the hippocampus — the brain region responsible for <strong>memory, learning, and emotional regulation.</strong> A 2012 Yale study found that people who experienced significant life stress had visibly reduced grey matter in regions controlling self-control and emotion. This is not metaphor. This is measurable brain change.</p>
+          </div>
+        </div>
+        <div class="ml-item reveal">
+          <div class="ml-icon">🫀</div>
+          <div class="ml-content">
+            <h3>Cardiovascular damage</h3>
+            <p>Chronic stress elevates blood pressure, increases arterial inflammation, and makes platelets stickier — raising the risk of blood clots. <strong>Psychological stress is an independent risk factor for heart attack,</strong> as significant as smoking or high cholesterol. The heart and the mind are not separate systems.</p>
+          </div>
+        </div>
+        <div class="ml-item reveal">
+          <div class="ml-icon">🦠</div>
+          <div class="ml-content">
+            <h3>Immune suppression</h3>
+            <p>Cortisol is an immunosuppressant. Chronic stress reduces the activity of natural killer cells, lowers antibody production, and increases systemic inflammation. <strong>People under high chronic stress get sick more often, heal more slowly, and are at higher risk of autoimmune conditions.</strong></p>
+          </div>
+        </div>
+        <div class="ml-item reveal">
+          <div class="ml-icon">🫁</div>
+          <div class="ml-content">
+            <h3>Gut disruption</h3>
+            <p>The gut and brain communicate directly via the vagus nerve. Chronic stress alters gut motility, disrupts the microbiome, and increases intestinal permeability — what is sometimes called &ldquo;leaky gut.&rdquo; <strong>This creates a feedback loop: a damaged gut produces less serotonin, worsening mood, worsening stress, further damaging the gut.</strong></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="gut-brain">
+      <p class="section-label gold">The Second Brain</p>
+      <h2>The gut-brain axis &mdash;<br><em>your most important conversation.</em></h2>
+      <p>The enteric nervous system — the network of over 500 million neurons lining the gastrointestinal tract — is sometimes called the second brain. It contains more neurons than the spinal cord. <strong>It produces 95% of the body&rsquo;s serotonin, 50% of its dopamine, and communicates with the brain via the vagus nerve in both directions.</strong></p>
+      <p>This means that what you eat is not just a physical decision. It is a mental health decision. The diversity of your gut microbiome directly affects your mood, anxiety levels, cognitive clarity, and stress resilience. The landmark 2019 study in Nature Microbiology identified specific gut bacteria — <em>Coprococcus</em> and <em>Dialister</em> — that were consistently lower in people with depression across multiple countries and populations.</p>
+      <p>What feeds beneficial gut bacteria? <strong>Fibre. Plant diversity. Fermented foods. The exact foods that ancestral and Ital diets have always prioritised.</strong> Once again, the science arrives at the same conclusion the elders reached through observation and lived experience.</p>
+
+      <div class="pull-quote">
+        <p>&ldquo;Feed the gut well, and the mind follows. The gut-brain axis is not a metaphor. <em>It is the most important nutritional fact in mental health.</em>&rdquo;</p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="stillness">
+      <p class="section-label green">The Practice</p>
+      <h2>What stillness<br><em>actually is.</em></h2>
+      <p>Stillness is not emptiness. It is not the absence of thought. <strong>Stillness is active attention to the present moment</strong> — a skill that the Rastafarian tradition has practised through meditation, chanting, and communion with nature for generations. A skill that neuroscience has now documented with extraordinary precision.</p>
+      <p>In 2011, Harvard neuroscientist Sara Lazar published landmark MRI research showing that <strong>eight weeks of mindfulness practice produced measurable thickening of the prefrontal cortex</strong> — the brain region associated with attention, self-awareness, and emotional regulation — and reduced the size of the amygdala, the brain&rsquo;s threat-detection and stress centre.</p>
+      <p>Eight weeks. Measurable brain change. <strong>Stillness literally reshapes the brain.</strong></p>
+    </div>
+
+    <div class="article-section reveal" id="practices">
+      <p class="section-label">The Medicine Cabinet</p>
+      <h2>Mental practices<br><em>with documented effects.</em></h2>
+
+      <div class="practice-cards">
+        <div class="pc-card reveal">
+          <div class="pc-num">01</div>
+          <div class="pc-name">Meditation — the cortisol reducer</div>
+          <div class="pc-desc">Even 10 minutes of daily focused breathing reduces cortisol levels measurably. The technique matters less than the consistency. Breath awareness. Body scan. Silent observation.</div>
+          <div class="pc-science">Harvard Medical School: 47% cortisol reduction after 8 weeks. Amygdala shrinkage documented on MRI.</div>
+        </div>
+        <div class="pc-card reveal">
+          <div class="pc-num">02</div>
+          <div class="pc-name">Sleep — the memory consolidator</div>
+          <div class="pc-desc">During deep sleep, the glymphatic system — the brain&rsquo;s waste removal network — activates fully. Toxic proteins including beta-amyloid (linked to Alzheimer&rsquo;s) are cleared. Without sufficient sleep, they accumulate.</div>
+          <div class="pc-science">Matthew Walker (Why We Sleep, 2017): every major disease killing people in developed nations has causal links to insufficient sleep.</div>
+        </div>
+        <div class="pc-card reveal">
+          <div class="pc-num">03</div>
+          <div class="pc-name">Nature exposure — the nervous system reset</div>
+          <div class="pc-desc">Spending 20 minutes in a natural environment reduces cortisol by 21% and adrenaline by 28% (University of Michigan, 2019). The Japanese practice of Shinrin-yoku (forest bathing) is now prescribed by doctors. Jamaica&rsquo;s hills, coasts, and gardens are free medicine.</div>
+          <div class="pc-science">Japanese Forest Agency: 2-hour forest walks reduce blood pressure, heart rate, and stress hormones in controlled clinical trials.</div>
+        </div>
+        <div class="pc-card reveal">
+          <div class="pc-num">04</div>
+          <div class="pc-name">Journaling — the emotional processor</div>
+          <div class="pc-desc">Writing about difficult experiences for 15-20 minutes per day, over 3-4 days, reduces psychological distress and improves immune function. Expressive writing activates the prefrontal cortex and reduces amygdala reactivity — literally calming the threat response through language.</div>
+          <div class="pc-science">James Pennebaker (University of Texas): journaling reduces doctor visits, improves mood, and strengthens immune markers over 3-month trials.</div>
+        </div>
+        <div class="pc-card reveal">
+          <div class="pc-num">05</div>
+          <div class="pc-name">Chanting and music — the vagus nerve activator</div>
+          <div class="pc-desc">Vibration from humming, chanting, and singing directly stimulates the vagus nerve — activating the parasympathetic nervous system and shifting the body from stress to rest. Rastafarian chanting and nyahbinghi drumming are not simply cultural practices. They are physiological interventions.</div>
+          <div class="pc-science">Vagus nerve stimulation is now used clinically for treatment-resistant depression. The body has always known this. Jamaican music culture encoded it for generations.</div>
+        </div>
+        <div class="pc-card reveal">
+          <div class="pc-num">06</div>
+          <div class="pc-name">Community — the longevity hormone</div>
+          <div class="pc-desc">Social connection is associated with a 50% increased likelihood of survival compared to social isolation — more powerful than quitting smoking, losing weight, or exercising. Loneliness elevates cortisol, disrupts sleep, increases inflammation, and raises cardiovascular risk. Community is not comfort. It is medicine.</div>
+          <div class="pc-science">Brigham Young University meta-analysis (Holt-Lunstad, 2015): social isolation as dangerous as smoking 15 cigarettes per day. Documented across 3.4 million participants.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="plant-mind">
+      <p class="section-label green">Plant Foods for the Mind</p>
+      <h2>What feeds<br><em>the brain.</em></h2>
+      <p>The brain is 60% fat. It runs on glucose. It requires specific micronutrients to produce neurotransmitters, maintain myelin sheaths around nerve fibres, and protect itself from oxidative damage. <strong>Every mental health condition has a nutritional dimension.</strong> Here is what whole plant foods provide.</p>
+
+      <div class="brain-food">
+        <div class="bf-card reveal">
+          <div class="bf-food">🍌 Banana</div>
+          <div class="bf-role"><strong>Tryptophan + vitamin B6.</strong> Tryptophan is the precursor to serotonin. B6 is essential for converting it. Without these, serotonin cannot be produced regardless of gut health.</div>
+        </div>
+        <div class="bf-card reveal">
+          <div class="bf-food">🫐 Dark Berries</div>
+          <div class="bf-role"><strong>Anthocyanins crossing the blood-brain barrier.</strong> These polyphenols reduce neuroinflammation, improve memory, and slow cognitive decline. Blueberries have the most research. Jamaican cherries and huckleberries carry similar profiles.</div>
+        </div>
+        <div class="bf-card reveal">
+          <div class="bf-food">🥬 Dark Leafy Greens</div>
+          <div class="bf-role"><strong>Folate for neurotransmitter synthesis.</strong> Low folate is strongly associated with depression. Callaloo, moringa, and dark greens are among the richest plant sources. Studies show folate supplementation improves antidepressant response.</div>
+        </div>
+        <div class="bf-card reveal">
+          <div class="bf-food">🌰 Pumpkin Seeds</div>
+          <div class="bf-role"><strong>Zinc, magnesium, and tryptophan.</strong> Zinc deficiency is found in a disproportionate number of people with depression and anxiety. Magnesium activates GABA — the brain&rsquo;s primary calming neurotransmitter. Pumpkin seeds provide both.</div>
+        </div>
+        <div class="bf-card reveal">
+          <div class="bf-food">🌿 Moringa</div>
+          <div class="bf-role"><strong>Adaptogens and neuroprotective compounds.</strong> Moringa contains isothiocyanates that cross the blood-brain barrier and reduce neuroinflammation. Studies in animals show reversal of stress-induced anxiety behaviours. One of the most neuroprotective plants known.</div>
+        </div>
+        <div class="bf-card reveal">
+          <div class="bf-food">🍵 Cerasee Tea</div>
+          <div class="bf-role"><strong>Nervous system calming.</strong> Traditional use across Jamaica for anxiety, restlessness, and stress. Contains compounds that modulate cortisol response. The grandmothers knew. The chemistry is now being confirmed.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="jamaica-mind">
+      <p class="section-label">Smile for Me Jamaica</p>
+      <h2>Jamaica&rsquo;s wisdom<br><em>about the mind.</em></h2>
+      <p>Jamaica has a word — <em>livity</em>. It describes the conscious way of living that integrates body, mind, and spirit as one. <strong>Mental health in the Rastafarian tradition was never separated from how you ate, how you moved, how you related to the Creator, and how you participated in community.</strong> Depression and anxiety were understood not as brain malfunctions but as disconnections — from self, from nature, from community, from purpose.</p>
+      <p>This is not primitive thinking. It is integrative medicine, practised at scale, for centuries, before the terminology existed. <strong>The Blue Zones of the world — the places where people live longest and with the greatest mental wellbeing — all share these same characteristics.</strong> Strong community. Connection to nature. Purposeful daily movement. Diets rooted in whole plants. A sense of meaning larger than the individual.</p>
+      <p>Kwik Fat Cut documents this not as nostalgia but as instruction. <strong>The answers were always here.</strong></p>
+
+      <div class="closing-block reveal">
+        <p>&ldquo;The mind heals in stillness. Not the stillness of giving up &mdash; the stillness of arriving. Of breathing. Of knowing that this moment, this breath, this quiet &mdash; <em>this is the medicine.</em> Smile for me, Jamaica. We row. You steer.&rdquo;</p>
+      </div>
+
+      <div class="series-cta reveal">
+        <div class="sc-text">
+          <strong>Continue the series</strong>
+          <p>Part 3 — Spirit Is the Root (Spiritual Health)</p>
+        </div>
+        <a href="learn-spirit-is-the-root.html" class="sc-link">Read Part 3 →</a>
+      </div>
+    </div>
+
+  </article>
+</div>
+
+<div class="rule"></div>
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>Continue the<br><em>journey.</em></h3>
+    <p>Part 3 — Spirit Is the Root. The deepest dimension of healthy living.</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="learn-spirit-is-the-root.html" class="btn-primary">Part 3 — Spiritual</a>
+    <a href="learn-movement-is-medicine.html" class="btn-outline">Part 1 — Physical</a>
+  </div>
+</div>
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <p class="ss-body">Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">Share this article</button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link">Twitter / X</a>
+      <a href="#" class="ss-social-link">Instagram</a>
+      <a href="#" class="ss-social-link">TikTok</a>
+      <a href="#" class="ss-social-link">Facebook</a>
+    </div>
+    <p class="ss-note">Follow, like, share, comment. Tell a friend to tell a friend.</p>
+  </div>
+</section>
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+<script>
+function shareKFC(){const url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 Stillness Is Medicine',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ss-btn.share');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
+</script>
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

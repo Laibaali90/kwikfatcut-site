@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="West African Food Traditions — the roots of Caribbean cuisine. The foods, farming systems, and nutritional wisdom that crossed the Atlantic and became the foundation of Jamaican cooking. Kwik Fat Cut Education First.">
+<title>West African Food Traditions — The Roots of Caribbean Cuisine — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse 58% 65% at 72% 30%,rgba(46,107,62,0.1) 0%,transparent 62%),radial-gradient(ellipse 42% 48% at 8% 82%,rgba(218,165,32,0.05) 0%,transparent 55%);}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb span{margin:0 0.6rem;}
+  .article-tag{display:inline-block;font-size:0.64rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--green);border:1px solid rgba(46,107,62,0.4);padding:0.25rem 0.7rem;border-radius:2px;margin-bottom:1.5rem;opacity:0;animation:up 0.9s 0.15s ease forwards;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(2.8rem,7.5vw,7rem);font-weight:300;line-height:1.05;color:var(--cream);max-width:880px;opacity:0;animation:up 0.9s 0.22s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:580px;margin-top:2rem;font-size:1.02rem;line-height:1.9;color:var(--c60);font-style:italic;opacity:0;animation:up 0.9s 0.38s ease forwards;}
+  .article-meta{margin-top:2rem;display:flex;gap:2rem;flex-wrap:wrap;opacity:0;animation:up 0.9s 0.48s ease forwards;}
+  .meta-item{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);}
+  .meta-item strong{color:var(--c60);font-weight:400;}
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:4px;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+  .article-wrap{padding:6rem 6vw;display:grid;grid-template-columns:1fr 2.5fr;gap:6rem;align-items:start;}
+  .sidebar{position:sticky;top:110px;}
+  .sidebar-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:1.2rem;font-weight:500;}
+  .toc a{font-size:0.82rem;color:var(--c60);text-decoration:none;padding:0.65rem 0;border-bottom:1px solid var(--c10);display:block;transition:color 0.2s;line-height:1.4;}
+  .toc a:first-child{border-top:1px solid var(--c10);}
+  .toc a:hover{color:var(--gold);}
+  .sidebar-note{margin-top:2.5rem;border-left:2px solid var(--green);padding:1.2rem;background:rgba(46,107,62,0.07);}
+  .sidebar-note p{font-size:0.8rem;line-height:1.78;color:var(--c60);}
+  .sidebar-note strong{color:var(--cream);font-weight:400;}
+  .series-nav{margin-top:2rem;}
+  .sn-title{font-size:0.62rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:0.8rem;}
+  .sn-links{display:flex;flex-direction:column;gap:0.4rem;}
+  .sn-link{font-size:0.76rem;color:var(--c60);text-decoration:none;padding:0.45rem 0;border-bottom:1px solid var(--c10);transition:color 0.2s;}
+  .sn-link:hover{color:var(--gold);}
+  .sn-link.current{color:var(--green);}
+  .sidebar-logo{margin-top:2rem;text-align:center;}
+  .sidebar-logo img{width:120px;height:auto;opacity:0.85;}
+  .article-body{display:flex;flex-direction:column;gap:0;}
+  .article-section{padding:3.5rem 0;border-bottom:1px solid var(--c10);}
+  .article-section:first-child{padding-top:0;}
+  .article-section:last-child{border-bottom:none;}
+  .sl{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.9rem;}
+  .sl.g{color:var(--green);}
+  .sl.gold{color:var(--gold);}
+  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.6rem,2.8vw,2.5rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.4rem;}
+  .article-section h2 em{font-style:italic;color:var(--gold);}
+  .article-section p{font-size:0.97rem;line-height:1.97;color:var(--c60);margin-bottom:1.1rem;}
+  .article-section p:last-child{margin-bottom:0;}
+  .article-section p strong{color:var(--cream);font-weight:400;}
+  .pq{margin:2.5rem 0;padding:2rem 2.5rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .pq p{font-family:'Cormorant Garamond',serif;font-size:1.25rem;font-weight:300;font-style:italic;line-height:1.65;color:var(--cream);}
+  .pq p em{font-style:normal;color:var(--gold);}
+  .il{display:flex;flex-direction:column;gap:0;margin:1.8rem 0;}
+  .il-row{display:flex;gap:1.5rem;align-items:flex-start;padding:1.3rem 0;border-bottom:1px solid var(--c10);}
+  .il-row:first-child{border-top:1px solid var(--c10);}
+  .dot{width:7px;height:7px;border-radius:50%;background:var(--green);flex-shrink:0;margin-top:0.65rem;}
+  .dot.g{background:var(--gold);}
+  .dot.r{background:var(--red);}
+  .il-row p{font-size:0.9rem;line-height:1.85;color:var(--c60);}
+  .il-row p strong{color:var(--cream);font-weight:400;}
+  .food-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:2px;margin:1.8rem 0;}
+  .fg-card{padding:1.8rem 1.5rem;border:1px solid var(--c10);transition:border-color 0.3s,background 0.3s;}
+  .fg-card:hover{border-color:rgba(46,107,62,0.3);background:rgba(46,107,62,0.05);}
+  .fg-origin{font-size:0.62rem;letter-spacing:0.16em;text-transform:uppercase;color:var(--gold);opacity:0.7;margin-bottom:0.4rem;}
+  .fg-name{font-family:'Cormorant Garamond',serif;font-size:1.05rem;font-weight:400;color:var(--cream);margin-bottom:0.4rem;}
+  .fg-desc{font-size:0.8rem;line-height:1.65;color:var(--c60);}
+  .fg-desc strong{color:var(--green);font-weight:400;}
+  .archive-block{margin:2rem 0;border:1px solid rgba(218,165,32,0.2);overflow:hidden;}
+  .ab-head{padding:1.3rem 2rem;background:rgba(218,165,32,0.07);border-bottom:1px solid rgba(218,165,32,0.15);}
+  .ab-period{font-size:0.62rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--gold);font-weight:500;margin-bottom:0.3rem;}
+  .ab-head h3{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:400;color:var(--cream);}
+  .ab-body{padding:1.8rem 2rem;}
+  .ab-body p{font-size:0.9rem;line-height:1.88;color:var(--c60);margin-bottom:0.9rem;}
+  .ab-body p:last-child{margin-bottom:0;}
+  .ab-body p strong{color:var(--cream);font-weight:400;}
+  .fact-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:2px;margin:1.8rem 0;}
+  .fact{padding:1.6rem 1.3rem;border:1px solid var(--c10);text-align:center;}
+  .fact-n{font-family:'Cormorant Garamond',serif;font-size:2.4rem;font-weight:300;color:var(--gold);line-height:1;}
+  .fact-u{font-size:0.64rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--gold);opacity:0.6;margin-bottom:0.4rem;}
+  .fact-d{font-size:0.76rem;line-height:1.6;color:var(--c60);}
+  .gb{margin:2rem 0;padding:1.8rem 2.2rem;border-left:2px solid var(--green);background:rgba(46,107,62,0.06);}
+  .gb p{font-size:0.9rem;line-height:1.88;color:var(--c60);}
+  .gb p strong{color:var(--cream);font-weight:400;}
+  .gb p:not(:last-child){margin-bottom:0.8rem;}
+  .series-next{margin:3rem 0;padding:2rem;border:1px solid var(--g20);background:var(--g08);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;}
+  .sn-txt strong{color:var(--cream);font-size:0.9rem;display:block;margin-bottom:0.2rem;font-weight:400;}
+  .sn-txt p{font-size:0.82rem;color:var(--c60);}
+  .sn-btn{display:inline-block;background:var(--gold);color:var(--bg);padding:0.7rem 1.5rem;border-radius:1px;font-size:0.74rem;font-weight:500;letter-spacing:0.14em;text-transform:uppercase;text-decoration:none;transition:background 0.2s;}
+  .sn-btn:hover{background:var(--cream);}
+  .article-close{padding:4rem 0 2rem;}
+  .article-close h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.12;color:var(--cream);margin-bottom:1.2rem;}
+  .article-close h2 em{font-style:italic;color:var(--gold);}
+  .article-close p{font-size:0.97rem;line-height:1.97;color:var(--c60);margin-bottom:1rem;}
+  .article-close p strong{color:var(--cream);font-weight:400;}
+  .sign{font-size:0.7rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);margin-top:2rem;}
+  .sstrip{padding:4rem 6vw;border-top:1px solid var(--c10);}
+  .sstrip-i{max-width:680px;margin:0 auto;text-align:center;}
+  .sstrip-l{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1rem;}
+  .sstrip-h{font-family:'Cormorant Garamond',serif;font-size:clamp(1.4rem,2.5vw,2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .sstrip-h em{font-style:italic;color:var(--gold);}
+  .sstrip-a{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:1.8rem;}
+  .ssb{display:inline-flex;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ssb.sh{background:var(--gold);color:var(--bg);}
+  .ssb.sh:hover{background:var(--cream);}
+  .ssb.fo{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .soc{display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap;margin-top:0.8rem;}
+  .soc a{font-size:0.68rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.28rem 0.7rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s;}
+  .soc a:hover{color:var(--gold);}
+  .sstrip-n{margin-top:1rem;font-size:0.72rem;font-style:italic;color:var(--c30);}
+  .cta{padding:4.5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-l h3{font-family:'Cormorant Garamond',serif;font-size:1.7rem;font-weight:300;color:var(--cream);}
+  .cta-l h3 em{font-style:italic;color:var(--gold);}
+  .cta-l p{font-size:0.86rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-r{display:flex;gap:1rem;flex-wrap:wrap;}
+  .bp{display:inline-block;background:var(--gold);color:var(--bg);padding:0.82rem 1.8rem;border-radius:1px;font-size:0.76rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s;}
+  .bp:hover{background:var(--cream);}
+  .bo{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.82rem 1.8rem;border-radius:1px;font-size:0.76rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .bo:hover{border-color:var(--c60);color:var(--cream);}
+  .fl{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .fl em{font-style:italic;color:var(--gold);}
+  .ft{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+  .fn{display:flex;gap:1.8rem;flex-wrap:wrap;}
+  .fn a{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;transition:color 0.2s;}
+  .fn a:hover{color:var(--c60);}
+  .fc{font-size:0.68rem;color:rgba(253,245,230,0.16);letter-spacing:0.06em;}
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){.article-wrap{grid-template-columns:1fr;gap:3rem;}.sidebar{position:static;}.food-grid{grid-template-columns:1fr 1fr;}.cta{flex-direction:column;align-items:flex-start;}}
+  @media(max-width:540px){.food-grid{grid-template-columns:1fr;}}
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/learn-west-african-food-traditions.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+<header class="page-header">
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span><a href="learn.html">Learn</a><span>&middot;</span>Return to Real Food</p>
+  <span class="article-tag">🌍 Return to Real Food Series &mdash; Part 3 of 7</span>
+  <h1>West African food<br>traditions.<br><em>The roots of<br>Caribbean cuisine.</em></h1>
+  <p class="lede">The food traditions of West Africa did not disappear when millions of people were forcibly transported across the Atlantic. They survived &mdash; in seeds hidden in hair, in knowledge carried in memory, in the hands that planted Jamaica&rsquo;s first gardens. This is the documented record of what they brought.</p>
+  <div class="article-meta">
+    <div class="meta-item">Series <strong>Return to Real Food &mdash; 3 of 7</strong></div>
+    <div class="meta-item">Reading time <strong>13 min</strong></div>
+    <div class="meta-item">Sources <strong>Colonial records, oral tradition, archaeology</strong></div>
+  </div>
+</header>
+<div class="colour-band"><div class="cb-black"></div><div class="cb-red"></div><div class="cb-gold"></div><div class="cb-green"></div></div>
+
+<div class="article-wrap">
+  <aside class="sidebar reveal">
+    <p class="sidebar-label">In this article</p>
+    <nav class="toc">
+      <a href="#kingdoms">The great kingdoms and their food</a>
+      <a href="#what-they-ate">What West Africans actually ate</a>
+      <a href="#crossed">What crossed the Atlantic</a>
+      <a href="#medicine">Food as medicine in West Africa</a>
+      <a href="#moringa">Moringa — the miracle tree</a>
+      <a href="#callaloo">Callaloo — Africa in a pot</a>
+      <a href="#legacy">The living legacy in Jamaica</a>
+    </nav>
+    <div class="sidebar-note">
+      <p><strong>A documented fact:</strong> Enslaved West Africans brought okra, black-eyed peas, sorghum, plantain knowledge, and numerous medicinal herbs to the Caribbean. Many are now staples of Jamaican cuisine, identified in historical records and genomic studies of Caribbean crop origins.</p>
+    </div>
+    <div class="series-nav">
+      <p class="sn-title">The Series</p>
+      <div class="sn-links">
+        <a href="learn-ancient-archive.html" class="sn-link">01 &mdash; The Ancient Archive</a>
+        <a href="learn-taino-diet.html" class="sn-link">02 &mdash; The Taino Diet</a>
+        <span class="sn-link current">03 &mdash; West African Roots</span>
+        <a href="learn-moorish-table.html" class="sn-link">04 &mdash; The Moorish Table</a>
+        <a href="learn-nations-guide-health.html" class="sn-link">05 &mdash; A Nation&rsquo;s Guide</a>
+        <a href="learn-food-community.html" class="sn-link">06 &mdash; Building the Community</a>
+        <a href="learn-living-longer.html" class="sn-link">07 &mdash; Living Longer &amp; Happier</a>
+      </div>
+    </div>
+    <div class="sidebar-logo"><img src="kwik-logo.jpeg" alt="Kwik Fat Cut" loading="eager" fetchpriority="high" decoding="async"></div>
+  </aside>
+
+  <article class="article-body">
+
+    <div class="article-section reveal" id="kingdoms">
+      <p class="sl gold">The Archive</p>
+      <h2>The great kingdoms and<br><em>their food traditions.</em></h2>
+      <p>West Africa was not a monolithic culture. It was a continent of empires, kingdoms, and city-states &mdash; each with distinct food traditions shaped by local ecology, trade networks, and centuries of agricultural refinement. The four great kingdoms most relevant to Jamaica&rsquo;s food heritage are the Mali Empire, the Songhai Empire, the Benin Kingdom, and the Ashanti Kingdom &mdash; all documented through Arab traveller accounts, Portuguese colonial records, and the oral traditions preserved by professional historians called griots.</p>
+
+      <div class="archive-block reveal">
+        <div class="ab-head">
+          <p class="ab-period">Mali Empire (1235&ndash;1600 CE) &mdash; documented by Ibn Battuta (1352) and Ibn Khaldun (1377)</p>
+          <h3>The most documented medieval African food culture</h3>
+        </div>
+        <div class="ab-body">
+          <p>Ibn Battuta &mdash; the Moroccan scholar who travelled more widely than Marco Polo &mdash; spent eight months in the Mali Empire in 1352 and documented its food culture in precise detail in his <em>Rihla</em> (Travels). He recorded a population eating a diet centred on <strong>millet porridge, black-eyed peas, dried fish, fresh fruit, and moringa leaves</strong> prepared in multiple ways.</p>
+          <p>Ibn Battuta noted with admiration the nutritional adequacy and organisation of Malian food systems: granaries were maintained at the village level, food was distributed communally during shortage, and every household maintained kitchen gardens of medicinal herbs. <strong>No household went without food</strong> &mdash; a food security model that modern nations still fail to achieve.</p>
+          <p>Ibn Khaldun&rsquo;s <em>Muqaddimah</em> (1377) further documents that West African populations eating millet-based diets were <strong>&ldquo;numerous, healthy, and long-lived&rdquo;</strong> &mdash; an observation now confirmed by millet&rsquo;s documented role in reducing cardiovascular risk and supporting gut microbiome diversity.</p>
+        </div>
+      </div>
+
+      <div class="archive-block reveal">
+        <div class="ab-head">
+          <p class="ab-period">Kingdom of Benin (900&ndash;1897 CE) &mdash; documented through Portuguese records (1485) and British colonial accounts (19th century)</p>
+          <h3>The most sophisticated agricultural kingdom in West Africa</h3>
+        </div>
+        <div class="ab-body">
+          <p>Portuguese explorers who arrived in Benin City in 1485 documented a city larger than Lisbon at the time, with paved roads, organised markets, and a highly productive agricultural hinterland. Their records note extensive cultivation of <strong>yams, plantains, palm oil, okra, bitter leaf, and various peppers</strong> across a landscape of carefully managed farmland.</p>
+          <p>The Benin Kingdom maintained a sophisticated system of crop rotation and intercropping that preserved soil fertility across generations &mdash; a practice that took European agriculture until the 18th century to formalise through Jethro Tull and the British Agricultural Revolution. <strong>Benin farmers were practising it 300 years earlier.</strong></p>
+          <p>Bitter leaf (<em>Vernonia amygdalina</em>) &mdash; a cornerstone of Benin food and medicine &mdash; is now documented to contain vernodalin and vernolide, compounds with demonstrated anti-cancer, anti-malarial, and hypoglycaemic properties. The Benin healers who prescribed it understood the outcome. Modern phytochemistry identified the mechanism.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="what-they-ate">
+      <p class="sl g">The Diet</p>
+      <h2>What West Africans<br><em>actually ate &mdash; documented.</em></h2>
+      <p>Archaeological analysis of ancient West African sites, combined with colonial-era food records and oral traditions preserved by griots, produces a consistent picture of the pre-colonial West African diet. It was <strong>plant-dominant, fermented-food-rich, fibre-dense, and extraordinarily diverse</strong> &mdash; exactly the dietary pattern that modern nutritional science identifies as most protective against chronic disease.</p>
+
+      <div class="fact-row">
+        <div class="fact reveal">
+          <div class="fact-n">80%</div>
+          <div class="fact-u">Plant-based</div>
+          <div class="fact-d">Estimated proportion of pre-colonial West African diet from plant sources, documented through archaeological midden analysis and colonial food records.</div>
+        </div>
+        <div class="fact reveal">
+          <div class="fact-n">200+</div>
+          <div class="fact-u">Plant species</div>
+          <div class="fact-d">Documented edible plant species in use across West Africa before European contact, per ethnobotanical surveys of oral traditions.</div>
+        </div>
+        <div class="fact reveal">
+          <div class="fact-n">12,000</div>
+          <div class="fact-u">Years</div>
+          <div class="fact-d">Documented agricultural history in the Niger Delta region, making West African farming among the oldest continuously practised on earth.</div>
+        </div>
+        <div class="fact reveal">
+          <div class="fact-n">~60g</div>
+          <div class="fact-u">Fibre/day</div>
+          <div class="fact-d">Estimated daily dietary fibre intake in traditional West African populations &mdash; three times the modern Western average. The gut microbiome consequences are measurable across generations.</div>
+        </div>
+      </div>
+
+      <div class="food-grid">
+        <div class="fg-card reveal">
+          <p class="fg-origin">West Africa &mdash; documented 4,000+ years</p>
+          <div class="fg-name">Sorghum</div>
+          <div class="fg-desc"><strong>Gluten-free ancient grain.</strong> Higher in antioxidants than blueberries. Rich in tannins documented to reduce cancer risk. Supports blood sugar regulation. Drought-resistant &mdash; the grain of food security across the Sahel.</div>
+        </div>
+        <div class="fg-card reveal">
+          <p class="fg-origin">West Africa &mdash; documented 5,000+ years</p>
+          <div class="fg-name">Black-Eyed Peas</div>
+          <div class="fg-desc"><strong>Iron, folate, plant protein, and fibre.</strong> Documented in ancient Egyptian records and West African oral traditions. One of the first legumes carried to the Caribbean. Still a Jamaican staple. Still providing the same nutrients it always did.</div>
+        </div>
+        <div class="fg-card reveal">
+          <p class="fg-origin">West Africa &mdash; documented 3,000+ years</p>
+          <div class="fg-name">Okra (Abelmoschus esculentus)</div>
+          <div class="fg-desc"><strong>Soluble fibre that binds cholesterol and supports blood sugar regulation.</strong> Its mucilage coats and soothes the intestinal lining. Documented in West African cooking as a thickening agent and medicine for 3,000 years before it appeared in Jamaican pepper pot.</div>
+        </div>
+        <div class="fg-card reveal">
+          <p class="fg-origin">West Africa &mdash; documented use across all major kingdoms</p>
+          <div class="fg-name">Palm Oil (Red)</div>
+          <div class="fg-desc"><strong>Rich in beta-carotene and vitamin E.</strong> Traditional unrefined red palm oil &mdash; distinct from the industrially refined white palm oil &mdash; contains carotenoids protective against vitamin A deficiency. Used medicinally across West Africa for skin health and immunity.</div>
+        </div>
+        <div class="fg-card reveal">
+          <p class="fg-origin">West Africa &mdash; documented use spanning 2,000+ years</p>
+          <div class="fg-name">Tamarind</div>
+          <div class="fg-desc"><strong>Tartaric acid, antioxidants, and documented antimalarial properties.</strong> Used across West Africa for fever management, digestive complaints, and as a vitamin C source. Found in Jamaican cooking to this day.</div>
+        </div>
+        <div class="fg-card reveal">
+          <p class="fg-origin">West Africa &mdash; documented in Mali Empire records</p>
+          <div class="fg-name">Baobab Fruit</div>
+          <div class="fg-desc"><strong>More vitamin C than oranges, more calcium than milk, more iron than spinach</strong> &mdash; per gram. The baobab tree lives up to 3,000 years. Its fruit has sustained West African communities through drought and famine for longer than any written record exists.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="crossed">
+      <p class="sl">What Crossed the Atlantic</p>
+      <h2>Seeds in hair.<br><em>Knowledge in memory.<br>Survival in the hands.</em></h2>
+      <p>The transatlantic slave trade transported an estimated 12.5 million people from West and Central Africa to the Americas between 1500 and 1900. It is one of history&rsquo;s greatest crimes. It is also &mdash; through the extraordinary resilience of the people it displaced &mdash; one of the most significant moments of agricultural and nutritional knowledge transfer in human history.</p>
+      <p>Historical records, genetic analysis of Caribbean crops, and oral histories documented by scholars including <strong>Jessica Harris</strong> (author of <em>High on the Hog</em>), <strong>Michael Twitty</strong> (culinary historian), and <strong>Judith Carney</strong> (University of California, <em>Black Rice</em>, 2001) establish that enslaved Africans brought specific food knowledge and seeds that transformed Caribbean and American agriculture.</p>
+
+      <div class="il">
+        <div class="il-row reveal">
+          <div class="dot"></div>
+          <p><strong>Rice cultivation knowledge &mdash;</strong> Judith Carney&rsquo;s groundbreaking 2001 research documented that rice cultivation in South Carolina was possible specifically because enslaved people from rice-growing regions of West Africa brought the technical knowledge to cultivate it. Planters who owned this knowledge, not the planters who owned the land, built the American rice economy.</p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot"></div>
+          <p><strong>Okra seeds &mdash;</strong> Documented in colonial Caribbean records from as early as 1647. Genetic analysis confirms Caribbean okra varieties trace directly to West African cultivars. Okra is now inseparable from Jamaican cooking &mdash; in pepper pot, callaloo, and soups.</p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot"></div>
+          <p><strong>Black-eyed peas &mdash;</strong> Brought to the Caribbean and American South as a direct transplant from West African food tradition. Archaeological and documentary evidence places black-eyed peas in Jamaican food culture from the earliest colonial records.</p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot"></div>
+          <p><strong>Medicinal herb knowledge &mdash;</strong> The bush medicine tradition of Jamaica &mdash; cerasee, fever grass, search-mi-heart, and dozens of other plants &mdash; integrates West African medicinal plant knowledge with Taino plant knowledge. <strong>The two traditions, encountering the same Caribbean environment, arrived at complementary rather than contradictory healing systems.</strong></p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot"></div>
+          <p><strong>Callaloo &mdash;</strong> The leafy green that became Jamaica&rsquo;s most important vegetable is directly descended from West African cooking traditions. The name, the preparation method (sautéed or steamed with aromatics), and the nutritional role it plays are all documented continuations of West African leafy green traditions.</p>
+        </div>
+      </div>
+
+      <div class="pq">
+        <p>&ldquo;The enslaved people who were brought to Jamaica did not leave their food knowledge in Africa. They carried it in their hands, in their seeds, and in the memory of every preparation. <em>The food of Jamaica is African food grown in Caribbean soil.</em>&rdquo;</p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="medicine">
+      <p class="sl g">Food as Medicine</p>
+      <h2>The West African<br><em>pharmacopoeia.</em></h2>
+      <p>West African healing traditions &mdash; including Yoruba medicine, Akan healing practices, and the traditions of the Mandinka healers &mdash; understood food and medicine as inseparable. Every major healer in West African tradition was first a food knowledge holder. <strong>The boundary between nutrition and medicine did not exist.</strong></p>
+      <p>This understanding produced one of the most extensive plant medicine traditions in the world, documented across hundreds of years of observation and now being systematically validated by clinical research. The following represent West African food-medicines whose traditional uses have been confirmed by modern science.</p>
+
+      <div class="il">
+        <div class="il-row reveal">
+          <div class="dot g"></div>
+          <p><strong>Bitter leaf (Vernonia amygdalina) &mdash;</strong> Documented across Igbo, Yoruba, and Efik healing traditions for malaria, diabetes, and fever. 2012 research in the <em>Asian Pacific Journal of Tropical Biomedicine</em> confirmed significant anti-malarial activity in bitter leaf extract. Charantin compounds demonstrate blood sugar lowering effects comparable to some pharmaceutical interventions.</p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot g"></div>
+          <p><strong>African basil (Ocimum gratissimum) &mdash;</strong> Used across West Africa for respiratory infections, fevers, and skin conditions. Laboratory analysis has identified eugenol, thymol, and carvacrol &mdash; documented antimicrobial compounds that inhibit bacterial growth. The traditional use as a respiratory medicine is consistent with documented anti-inflammatory effects on airway tissue.</p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot g"></div>
+          <p><strong>Moringa oleifera &mdash;</strong> Called the &ldquo;tree of life&rdquo; across West Africa for over 2,000 documented years. Every part is edible and medicinal. Modern analysis confirms it contains <strong>92 nutrients, 46 antioxidants, and 36 anti-inflammatory compounds</strong> &mdash; making it among the most nutritionally dense plants ever documented. The traditional claims made about it are not exaggerated.</p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot g"></div>
+          <p><strong>Ginger &mdash;</strong> Introduced to West Africa via ancient trade routes from Asia and fully integrated into West African food medicine within centuries. Documented across Mali, Benin, and Ashanti traditions as a digestive, anti-inflammatory, and fever remedy. Over 150 clinical studies now confirm ginger&rsquo;s efficacy for nausea, inflammation, and blood sugar regulation.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="moringa">
+      <p class="sl gold">The Miracle Tree</p>
+      <h2>Moringa &mdash;<br><em>what 2,000 years of West African knowledge knew.</em></h2>
+      <p>Moringa oleifera has been used in West African food and medicine for over 2,000 documented years. The <em>Ben Cao Gang Mu</em> (Chinese Compendium of Materia Medica, 1596) also documents moringa, confirming its independent discovery and use across multiple ancient civilisations. <strong>This convergence across unconnected cultures is the strongest possible evidence of genuine nutritional significance.</strong></p>
+
+      <div class="gb reveal">
+        <p><strong>What one serving of moringa leaves (21g, fresh) provides:</strong></p>
+        <p>Protein: 2g &mdash; Vitamin B6: 19% of daily value &mdash; Vitamin C: 12% of daily value &mdash; Iron: 11% of daily value &mdash; Riboflavin (B2): 11% of daily value &mdash; Vitamin A: 9% of daily value &mdash; Magnesium: 8% of daily value. It also contains all nine essential amino acids &mdash; making it one of the few plant-based complete proteins. West African mothers have fed moringa to infants and nursing women for two thousand years. Modern nutritional science took until the 1990s to document why this was correct.</p>
+      </div>
+
+      <p>The National Institutes of Health (NIH) describes moringa as &ldquo;almost every part of the moringa tree has been used as food&rdquo; and notes its documented anti-inflammatory, antioxidant, and neuroprotective properties. <strong>The NIH is confirming what West African grandmothers already knew.</strong></p>
+    </div>
+
+    <div class="article-section reveal" id="callaloo">
+      <p class="sl g">Jamaica&rsquo;s Green Foundation</p>
+      <h2>Callaloo &mdash;<br><em>Africa in a pot.</em></h2>
+      <p>Callaloo (<em>Amaranthus viridis</em>) is the most nutritionally significant leafy green in Jamaican cuisine. Its cultivation and preparation methods trace directly to West African leafy green traditions &mdash; particularly the use of leafy amaranth species across Nigeria, Ghana, and Senegal, where it has been eaten for over 3,000 documented years.</p>
+      <p>The word &ldquo;callaloo&rdquo; itself is documented in Jamaican records from the 17th century, shortly after the period of largest African agricultural knowledge transfer. <strong>It is an African name for an African vegetable grown in Caribbean soil.</strong></p>
+
+      <div class="il">
+        <div class="il-row reveal">
+          <div class="dot"></div>
+          <p><strong>Iron content:</strong> Callaloo contains approximately 3mg of iron per 100g &mdash; comparable to beef and significantly higher than spinach when adjusted for bioavailability with vitamin C. West African populations relying on plant-based iron sources developed cooking traditions (pairing iron-rich greens with acidic fruits) that maximise absorption. <strong>This is not coincidence. It is nutritional intelligence refined over generations.</strong></p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot"></div>
+          <p><strong>Calcium:</strong> 266mg per 100g &mdash; higher than cow&rsquo;s milk per serving. The West African populations that consumed minimal dairy maintained excellent bone density through callaloo, moringa, and sesame-based calcium intake. Archaeological bone density analysis of West African skeletal remains confirms this.</p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot"></div>
+          <p><strong>Folate:</strong> Critical for neurotransmitter synthesis, DNA repair, and the prevention of neural tube defects. Callaloo is among the richest plant sources available in the Caribbean. West African food traditions that emphasised callaloo consumption during pregnancy were providing folate supplementation two millennia before the supplement existed.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="legacy">
+      <p class="sl g">The Living Legacy</p>
+      <h2>West Africa in<br><em>every Jamaican kitchen.</em></h2>
+      <p>The food of Jamaica is the food of West Africa, grown in Caribbean soil, combined with Taino knowledge, and refined across centuries of community practice. <strong>When a Jamaican grandmother makes pepper pot, she is preparing a dish whose roots extend to the kingdoms of Benin and Mali.</strong> When callaloo is sautéed with onion and scotch bonnet, the technique traces to West African leafy green preparation methods documented in 17th century colonial records.</p>
+      <p>This heritage is not simply cultural pride &mdash; though it deserves that too. It is a <strong>nutritional instruction manual</strong>: a record of what combination of foods sustained large, healthy, long-lived populations for thousands of years before chronic disease became the dominant global health threat.</p>
+      <p>Returning to real food in Jamaica means, in large part, returning to Africa. Not as a cultural rejection of the present, but as a nutritional homecoming &mdash; to the foods the body was shaped to receive, prepared by the methods that preserve their greatest value, eaten in the community that amplifies their benefit.</p>
+
+      <div class="series-next reveal">
+        <div class="sn-txt">
+          <strong>Next in the series</strong>
+          <p>Part 4 &mdash; The Moorish Table: the foods that changed the world</p>
+        </div>
+        <a href="learn-moorish-table.html" class="sn-btn">Read Part 4 &rarr;</a>
+      </div>
+    </div>
+
+    <div class="article-close reveal">
+      <h2>The roots run<br><em>deeper than the ocean.</em></h2>
+      <p>The Atlantic was wide. But the knowledge survived it. In the seeds, in the hands, in the memory &mdash; West African food wisdom crossed an ocean and took root in Jamaican soil. <strong>It is still here. It still grows. It still nourishes.</strong></p>
+      <p>Smile for me, Jamaica. What you eat is what your ancestors grew. What they grew, they understood. What they understood, they carried. <strong>We row. You steer.</strong> 🇯🇲❤️💚</p>
+      <p class="sign">Kwik Fat Cut &mdash; Return to Real Food Series &mdash; Education First</p>
+    </div>
+
+  </article>
+</div>
+<div class="rule"></div>
+<div class="cta reveal">
+  <div class="cta-l"><h3>Continue the <em>series.</em></h3><p>Part 4 &mdash; The Moorish Table. The foods that changed the world.</p></div>
+  <div class="cta-r">
+    <a href="learn-moorish-table.html" class="bp">Part 4 &rarr;</a>
+    <a href="learn-taino-diet.html" class="bo">&larr; Part 2</a>
+  </div>
+</div>
+<section class="sstrip reveal">
+  <div class="sstrip-i">
+    <p class="sstrip-l">Tell a friend to tell a friend</p>
+    <h3 class="sstrip-h">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <div class="sstrip-a">
+      <button class="ssb sh" onclick="shareKFC()">Share this article</button>
+      <a href="https://kwikfatcut.com" class="ssb fo" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="soc"><a href="#">Twitter / X</a><a href="#">Instagram</a><a href="#">TikTok</a><a href="#">Facebook</a></div>
+    <p class="sstrip-n">Movements are medicines. We row. You steer. 🇯🇲</p>
+  </div>
+</section>
+</main>
+<footer>
+  <div><a href="kwik-fat-cut-homepage.html" class="fl">Kwik <em>Fat Cut</em></a><p class="ft">A knowledge tree for health, wellness, awareness &amp; opportunity.</p></div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="fc">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+<script>
+function shareKFC(){const url=window.location.href;if(navigator.share){navigator.share({title:document.title,url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ssb.sh');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
+</script>
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

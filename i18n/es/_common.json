@@ -1,0 +1,187 @@
+{
+  "_note": "Shared chrome: nav, footer, share block. Loaded on every page.",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "20ed70ba": {
+      "src": "01",
+      "t": ""
+    },
+    "1fed6f27": {
+      "src": "02",
+      "t": ""
+    },
+    "1eed6d94": {
+      "src": "03",
+      "t": ""
+    },
+    "1ded6c01": {
+      "src": "04",
+      "t": ""
+    },
+    "98c74e18": {
+      "src": "A knowledge tree for health, wellness, awareness & opportunity.",
+      "t": "Un arbol de conocimiento para la salud, el bienestar, la conciencia y la oportunidad."
+    },
+    "58e096de": {
+      "src": "About",
+      "t": "Acerca de"
+    },
+    "afb3e591": {
+      "src": "Category",
+      "t": "Categoria"
+    },
+    "200c502a": {
+      "src": "Donate",
+      "t": "Donar"
+    },
+    "ac37c251": {
+      "src": "Facebook",
+      "t": ""
+    },
+    "2e48ba34": {
+      "src": "Fat Cut",
+      "t": ""
+    },
+    "c68a9541": {
+      "src": "Follow Kwik Fat Cut",
+      "t": "Sigue a Kwik Fat Cut"
+    },
+    "3025cb5a": {
+      "src": "Follow, like, share, comment. Tell a friend to tell a friend.",
+      "t": "Sigue, da me gusta, comparte, comenta. Dile a un amigo que le diga a otro."
+    },
+    "e7e26241": {
+      "src": "Follow, like, share, comment. Tell a friend to tell a friend. — Kwik Fat Cut, Education First.",
+      "t": "Sigue, da me gusta, comparte, comenta. Dile a un amigo que le diga a otro. — Kwik Fat Cut, la educacion primero."
+    },
+    "22a51311": {
+      "src": "Foods Hub",
+      "t": "Centro de alimentos"
+    },
+    "52f50eae": {
+      "src": "Home",
+      "t": "Inicio"
+    },
+    "85ebd6bf": {
+      "src": "If this helped you —",
+      "t": "Si esto te ayudo"
+    },
+    "cb4d39d4": {
+      "src": "In this article",
+      "t": "En este articulo"
+    },
+    "0f95701b": {
+      "src": "Instagram",
+      "t": ""
+    },
+    "34785993": {
+      "src": "Kwik",
+      "t": ""
+    },
+    "90575f6b": {
+      "src": "Kwik Fat Cut — Education First — A knowledge tree for health, wellness, awareness & opportunity.",
+      "t": "Kwik Fat Cut — la educacion primero — un arbol de conocimiento para la salud, el bienestar, la conciencia y la oportunidad."
+    },
+    "2524e8b5": {
+      "src": "Learn",
+      "t": "Aprende"
+    },
+    "1c8fe4f6": {
+      "src": "Learn Hub",
+      "t": "Centro de aprendizaje"
+    },
+    "4155597d": {
+      "src": "Level",
+      "t": "Nivel"
+    },
+    "9f88b18c": {
+      "src": "Our Roots",
+      "t": "Nuestras raices"
+    },
+    "ebfa87e7": {
+      "src": "Privacy",
+      "t": "Privacidad"
+    },
+    "a7c3f998": {
+      "src": "Reading time",
+      "t": "Tiempo de lectura"
+    },
+    "098b99d0": {
+      "src": "Series",
+      "t": "Serie"
+    },
+    "06d7397e": {
+      "src": "Share this article",
+      "t": "Comparte este articulo"
+    },
+    "c7af44e6": {
+      "src": "Skip to content",
+      "t": "Saltar al contenido"
+    },
+    "c27dd5c1": {
+      "src": "Spread the knowledge",
+      "t": "Difunde el conocimiento"
+    },
+    "5df3be53": {
+      "src": "Start Learning",
+      "t": "Empieza a aprender"
+    },
+    "6be6f488": {
+      "src": "Support",
+      "t": "Apoyo"
+    },
+    "2329c92c": {
+      "src": "Team",
+      "t": "Equipo"
+    },
+    "cbf4d9a0": {
+      "src": "Tell a friend to tell a friend",
+      "t": "Dile a un amigo que le diga a otro"
+    },
+    "a61c44d1": {
+      "src": "Tell a friend to tell a friend. — Kwik Fat Cut, Education First.",
+      "t": "Dile a un amigo que le diga a otro. — Kwik Fat Cut, la educacion primero."
+    },
+    "c8a113f3": {
+      "src": "TikTok",
+      "t": ""
+    },
+    "48e914d9": {
+      "src": "Twitter / X",
+      "t": ""
+    },
+    "af757a93": {
+      "src": "We row. You steer.",
+      "t": "Nosotros remamos. Tu diriges."
+    },
+    "2c0b3dc0": {
+      "src": "We take feedback like yours seriously. If Kwik Fat Cut opened your eyes, helped you understand your body better, or gave someone you love a new perspective — pass it on. Tell a friend to tell a friend. No pressure. Just a gentle invitation.",
+      "t": "Tomamos muy en serio comentarios como el tuyo. Si Kwik Fat Cut te abrio los ojos, te ayudo a entender mejor tu cuerpo, o le dio a alguien que quieres una nueva perspectiva, pasalo. Dile a un amigo que le diga a otro. Sin presion. Solo una invitacion sincera."
+    },
+    "1e938601": {
+      "src": "Why Free",
+      "t": "Por que es gratis"
+    },
+    "82fe5fdc": {
+      "src": "pass it on.",
+      "t": "pasalo."
+    },
+    "762dbd87": {
+      "src": "© 2026 Kwik Fat Cut",
+      "t": ""
+    },
+    "b20bda76": {
+      "src": "·",
+      "t": ""
+    },
+    "183edb08": {
+      "src": "”",
+      "t": ""
+    },
+    "ba2f2f8c": {
+      "src": "🌿",
+      "t": ""
+    }
+  }
+}

@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="The Moorish Table — the foods that changed the world. Drawn from the British Library's Andalusian manuscripts, Ibn Sina's Canon of Medicine, and 700 years of documented Islamic nutritional science. Kwik Fat Cut Education First.">
+<title>The Moorish Table — Foods That Changed the World — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse 58% 65% at 72% 30%,rgba(218,165,32,0.09) 0%,transparent 62%),radial-gradient(ellipse 42% 48% at 8% 82%,rgba(46,107,62,0.05) 0%,transparent 55%);}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}.breadcrumb span{margin:0 0.6rem;}
+  .article-tag{display:inline-block;font-size:0.64rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--gold);border:1px solid rgba(218,165,32,0.35);padding:0.25rem 0.7rem;border-radius:2px;margin-bottom:1.5rem;opacity:0;animation:up 0.9s 0.15s ease forwards;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(2.8rem,7.5vw,7rem);font-weight:300;line-height:1.05;color:var(--cream);max-width:880px;opacity:0;animation:up 0.9s 0.22s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:580px;margin-top:2rem;font-size:1.02rem;line-height:1.9;color:var(--c60);font-style:italic;opacity:0;animation:up 0.9s 0.38s ease forwards;}
+  .article-meta{margin-top:2rem;display:flex;gap:2rem;flex-wrap:wrap;opacity:0;animation:up 0.9s 0.48s ease forwards;}
+  .meta-item{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);}
+  .meta-item strong{color:var(--c60);font-weight:400;}
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:4px;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+  .article-wrap{padding:6rem 6vw;display:grid;grid-template-columns:1fr 2.5fr;gap:6rem;align-items:start;}
+  .sidebar{position:sticky;top:110px;}
+  .sidebar-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:1.2rem;font-weight:500;}
+  .toc a{font-size:0.82rem;color:var(--c60);text-decoration:none;padding:0.65rem 0;border-bottom:1px solid var(--c10);display:block;transition:color 0.2s;line-height:1.4;}
+  .toc a:first-child{border-top:1px solid var(--c10);}
+  .toc a:hover{color:var(--gold);}
+  .sidebar-archive{margin-top:2.5rem;border-left:2px solid var(--gold);padding:1.2rem;background:var(--g08);}
+  .sa-label{font-size:0.62rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--gold);font-weight:500;margin-bottom:0.6rem;}
+  .sidebar-archive p{font-size:0.8rem;line-height:1.78;color:var(--c60);}
+  .sidebar-archive strong{color:var(--cream);font-weight:400;}
+  .series-nav{margin-top:2rem;}
+  .sn-title{font-size:0.62rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:0.8rem;}
+  .sn-links{display:flex;flex-direction:column;gap:0.4rem;}
+  .sn-link{font-size:0.76rem;color:var(--c60);text-decoration:none;padding:0.45rem 0;border-bottom:1px solid var(--c10);transition:color 0.2s;}
+  .sn-link:hover{color:var(--gold);}
+  .sn-link.current{color:var(--gold);}
+  .sidebar-logo{margin-top:2rem;text-align:center;}
+  .sidebar-logo img{width:120px;height:auto;opacity:0.85;}
+  .article-body{display:flex;flex-direction:column;gap:0;}
+  .article-section{padding:3.5rem 0;border-bottom:1px solid var(--c10);}
+  .article-section:first-child{padding-top:0;}
+  .article-section:last-child{border-bottom:none;}
+  .sl{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.9rem;}
+  .sl.g{color:var(--green);}
+  .sl.gold{color:var(--gold);}
+  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.6rem,2.8vw,2.5rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.4rem;}
+  .article-section h2 em{font-style:italic;color:var(--gold);}
+  .article-section p{font-size:0.97rem;line-height:1.97;color:var(--c60);margin-bottom:1.1rem;}
+  .article-section p:last-child{margin-bottom:0;}
+  .article-section p strong{color:var(--cream);font-weight:400;}
+  .pq{margin:2.5rem 0;padding:2rem 2.5rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .pq p{font-family:'Cormorant Garamond',serif;font-size:1.25rem;font-weight:300;font-style:italic;line-height:1.65;color:var(--cream);}
+  .pq p em{font-style:normal;color:var(--gold);}
+  .pq .attr{font-size:0.7rem;letter-spacing:0.16em;text-transform:uppercase;color:var(--gold);opacity:0.6;margin-top:0.8rem;font-style:normal;font-family:'DM Sans',sans-serif;}
+  .il{display:flex;flex-direction:column;gap:0;margin:1.8rem 0;}
+  .il-row{display:flex;gap:1.5rem;align-items:flex-start;padding:1.3rem 0;border-bottom:1px solid var(--c10);}
+  .il-row:first-child{border-top:1px solid var(--c10);}
+  .dot{width:7px;height:7px;border-radius:50%;background:var(--gold);flex-shrink:0;margin-top:0.65rem;}
+  .dot.g{background:var(--green);}
+  .il-row p{font-size:0.9rem;line-height:1.85;color:var(--c60);}
+  .il-row p strong{color:var(--cream);font-weight:400;}
+  .manuscript-card{margin:2rem 0;border:1px solid rgba(218,165,32,0.2);overflow:hidden;}
+  .mc-header{padding:1.4rem 2rem;background:rgba(218,165,32,0.07);border-bottom:1px solid rgba(218,165,32,0.15);}
+  .mc-source{font-size:0.62rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--gold);font-weight:500;margin-bottom:0.3rem;}
+  .mc-header h3{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:400;color:var(--cream);}
+  .mc-body{padding:1.8rem 2rem;}
+  .mc-body p{font-size:0.9rem;line-height:1.88;color:var(--c60);margin-bottom:0.9rem;}
+  .mc-body p:last-child{margin-bottom:0;}
+  .mc-body p strong{color:var(--cream);font-weight:400;}
+  .food-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:2px;margin:1.8rem 0;}
+  .fr-card{padding:1.6rem 1.4rem;border:1px solid var(--c10);transition:border-color 0.3s,background 0.3s;}
+  .fr-card:hover{border-color:var(--g20);background:var(--g08);}
+  .fr-name{font-family:'Cormorant Garamond',serif;font-size:1.05rem;font-weight:400;color:var(--cream);margin-bottom:0.3rem;}
+  .fr-science{font-size:0.62rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--gold);opacity:0.6;margin-bottom:0.4rem;}
+  .fr-desc{font-size:0.8rem;line-height:1.65;color:var(--c60);}
+  .fr-desc strong{color:var(--green);font-weight:400;}
+  .fact-band{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:2px;margin:1.8rem 0;}
+  .fb{padding:1.6rem 1.3rem;border:1px solid var(--c10);text-align:center;}
+  .fb-n{font-family:'Cormorant Garamond',serif;font-size:2.4rem;font-weight:300;color:var(--gold);line-height:1;}
+  .fb-u{font-size:0.64rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--gold);opacity:0.6;margin-bottom:0.4rem;}
+  .fb-d{font-size:0.76rem;line-height:1.6;color:var(--c60);}
+  .gb{margin:2rem 0;padding:1.8rem 2.2rem;border-left:2px solid var(--green);background:rgba(46,107,62,0.06);}
+  .gb p{font-size:0.9rem;line-height:1.88;color:var(--c60);}
+  .gb p strong{color:var(--cream);font-weight:400;}
+  .gb p:not(:last-child){margin-bottom:0.8rem;}
+  .series-next{margin:3rem 0;padding:2rem;border:1px solid var(--g20);background:var(--g08);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;}
+  .sn-txt strong{color:var(--cream);font-size:0.9rem;display:block;margin-bottom:0.2rem;font-weight:400;}
+  .sn-txt p{font-size:0.82rem;color:var(--c60);}
+  .sn-btn{display:inline-block;background:var(--gold);color:var(--bg);padding:0.7rem 1.5rem;border-radius:1px;font-size:0.74rem;font-weight:500;letter-spacing:0.14em;text-transform:uppercase;text-decoration:none;transition:background 0.2s;}
+  .sn-btn:hover{background:var(--cream);}
+  .article-close{padding:4rem 0 2rem;}
+  .article-close h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.12;color:var(--cream);margin-bottom:1.2rem;}
+  .article-close h2 em{font-style:italic;color:var(--gold);}
+  .article-close p{font-size:0.97rem;line-height:1.97;color:var(--c60);margin-bottom:1rem;}
+  .article-close p strong{color:var(--cream);font-weight:400;}
+  .sign{font-size:0.7rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);margin-top:2rem;}
+  .sstrip{padding:4rem 6vw;border-top:1px solid var(--c10);}
+  .sstrip-i{max-width:680px;margin:0 auto;text-align:center;}
+  .sstrip-l{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1rem;}
+  .sstrip-h{font-family:'Cormorant Garamond',serif;font-size:clamp(1.4rem,2.5vw,2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .sstrip-h em{font-style:italic;color:var(--gold);}
+  .sstrip-a{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:1.8rem;}
+  .ssb{display:inline-flex;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ssb.sh{background:var(--gold);color:var(--bg);}
+  .ssb.sh:hover{background:var(--cream);}
+  .ssb.fo{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .soc{display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap;margin-top:0.8rem;}
+  .soc a{font-size:0.68rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.28rem 0.7rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s;}
+  .soc a:hover{color:var(--gold);}
+  .sstrip-n{margin-top:1rem;font-size:0.72rem;font-style:italic;color:var(--c30);}
+  .cta{padding:4.5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-l h3{font-family:'Cormorant Garamond',serif;font-size:1.7rem;font-weight:300;color:var(--cream);}
+  .cta-l h3 em{font-style:italic;color:var(--gold);}
+  .cta-l p{font-size:0.86rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-r{display:flex;gap:1rem;flex-wrap:wrap;}
+  .bp{display:inline-block;background:var(--gold);color:var(--bg);padding:0.82rem 1.8rem;border-radius:1px;font-size:0.76rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s;}
+  .bp:hover{background:var(--cream);}
+  .bo{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.82rem 1.8rem;border-radius:1px;font-size:0.76rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .bo:hover{border-color:var(--c60);color:var(--cream);}
+  .fl{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .fl em{font-style:italic;color:var(--gold);}
+  .ft{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+  .fn{display:flex;gap:1.8rem;flex-wrap:wrap;}
+  .fn a{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;transition:color 0.2s;}
+  .fn a:hover{color:var(--c60);}
+  .fc{font-size:0.68rem;color:rgba(253,245,230,0.16);letter-spacing:0.06em;}
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){.article-wrap{grid-template-columns:1fr;gap:3rem;}.sidebar{position:static;}.food-row{grid-template-columns:1fr 1fr;}.cta{flex-direction:column;align-items:flex-start;}}
+  @media(max-width:540px){.food-row{grid-template-columns:1fr;}}
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/learn-moorish-table.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span><a href="learn.html">Learn</a><span>&middot;</span>Return to Real Food</p>
+  <span class="article-tag">📜 Return to Real Food Series &mdash; Part 4 of 7</span>
+  <h1>The Moorish table.<br><em>The foods that<br>changed the world.</em></h1>
+  <p class="lede">Between the 8th and 15th centuries, the Islamic scholars of Al-Andalus produced the most advanced nutritional science in human history. Their manuscripts &mdash; preserved in the British Library, the Real Biblioteca de El Escorial, and the Bibliothèque nationale de France &mdash; document a food medicine system that modern clinical research continues to validate, one study at a time.</p>
+  <div class="article-meta">
+    <div class="meta-item">Series <strong>Return to Real Food &mdash; 4 of 7</strong></div>
+    <div class="meta-item">Reading time <strong>13 min</strong></div>
+    <div class="meta-item">Sources <strong>British Library, Ibn Sina, Al-Andalus manuscripts</strong></div>
+  </div>
+</header>
+
+<div class="colour-band"><div class="cb-black"></div><div class="cb-red"></div><div class="cb-gold"></div><div class="cb-green"></div></div>
+
+<div class="article-wrap">
+  <aside class="sidebar reveal">
+    <p class="sidebar-label">In this article</p>
+    <nav class="toc">
+      <a href="#golden-age">The Islamic Golden Age</a>
+      <a href="#ibn-sina">Ibn Sina — Canon of Medicine</a>
+      <a href="#fidala">The Fidala manuscript</a>
+      <a href="#foods">Foods the Moors documented</a>
+      <a href="#miswak">The miswak &amp; oral health</a>
+      <a href="#agriculture">Agricultural revolution</a>
+      <a href="#connection">The Caribbean connection</a>
+    </nav>
+    <div class="sidebar-archive">
+      <p class="sa-label">Primary sources used</p>
+      <p><strong>Ibn Sina:</strong> <em>Canon of Medicine</em> (1025 CE) &mdash; British Library Add MS 23407<br><br><strong>Fid&#257;lat al-Khiw&#257;n</strong> (c.1260 CE) &mdash; Chapters rediscovered British Library 2018<br><br><strong>Ibn Rushd:</strong> <em>Kulliyat</em> (1162 CE) &mdash; General principles of medicine<br><br><strong>Al-Razi:</strong> <em>Kitab al-Mansuri</em> (c.900 CE) &mdash; Ten books on medicine</p>
+    </div>
+    <div class="series-nav">
+      <p class="sn-title">The Series</p>
+      <div class="sn-links">
+        <a href="learn-ancient-archive.html" class="sn-link">01 &mdash; The Ancient Archive</a>
+        <a href="learn-taino-diet.html" class="sn-link">02 &mdash; The Taino Diet</a>
+        <a href="learn-west-african-food-traditions.html" class="sn-link">03 &mdash; West African Roots</a>
+        <span class="sn-link current">04 &mdash; The Moorish Table</span>
+        <a href="learn-nations-guide-health.html" class="sn-link">05 &mdash; A Nation&rsquo;s Guide</a>
+        <a href="learn-food-community.html" class="sn-link">06 &mdash; Building the Community</a>
+        <a href="learn-living-longer.html" class="sn-link">07 &mdash; Living Longer &amp; Happier</a>
+      </div>
+    </div>
+    <div class="sidebar-logo"><img src="kwik-logo.jpeg" alt="Kwik Fat Cut" loading="eager" fetchpriority="high" decoding="async"></div>
+  </aside>
+
+  <article class="article-body">
+
+    <div class="article-section reveal" id="golden-age">
+      <p class="sl gold">The Islamic Golden Age (750&ndash;1258 CE)</p>
+      <h2>When the most advanced<br><em>nutritional science in history<br>was being written.</em></h2>
+      <p>Between the 8th and 13th centuries CE, the Islamic world produced an explosion of scientific knowledge that had no parallel anywhere on earth. While much of Europe was in the early medieval period, the scholars of Baghdad, Cairo, and Al-Andalus (Muslim-ruled Iberia) were translating, synthesising, and extending the knowledge of ancient Greece, Persia, India, and the Arab world into comprehensive medical and nutritional texts.</p>
+      <p>The House of Wisdom in Baghdad &mdash; established by Caliph Harun al-Rashid (reigned 786&ndash;809 CE) and expanded by Al-Mamun (reigned 813&ndash;833 CE) &mdash; employed scholars from across the known world to translate every available scientific manuscript into Arabic. <strong>It became the largest library in human history up to that point</strong>, holding an estimated 400,000 manuscripts at its peak. Among them: every available Greek medical text, every Persian herbal, every Indian Ayurvedic work.</p>
+      <p>What emerged from this synthesis was not a copy of ancient knowledge. It was something entirely new: <strong>a systematic, tested, evidence-based nutritional science</strong> that integrated food, medicine, body constitution, and seasonal variation into a coherent framework &mdash; 700 years before the modern scientific method was formalised.</p>
+
+      <div class="fact-band">
+        <div class="fb reveal">
+          <div class="fb-n">700+</div>
+          <div class="fb-u">Plant medicines</div>
+          <div class="fb-d">Documented in Ibn Sina's Canon of Medicine (1025 CE), with specific dosing, preparation methods, and clinical indications.</div>
+        </div>
+        <div class="fb reveal">
+          <div class="fb-n">52</div>
+          <div class="fb-u">Volumes</div>
+          <div class="fb-d">Li Shizhen's Ben Cao Gang Mu (1596) — the Chinese equivalent — took 27 years to compile. Ibn Sina's Canon was written in the 1010s-1020s and used as a European medical textbook until 1650.</div>
+        </div>
+        <div class="fb reveal">
+          <div class="fb-n">600yrs</div>
+          <div class="fb-u">In use</div>
+          <div class="fb-d">The Canon of Medicine remained the standard medical textbook at European universities from the 12th to 17th century — longer than any other medical text in history.</div>
+        </div>
+        <div class="fb reveal">
+          <div class="fb-n">1,001</div>
+          <div class="fb-u">Recipes</div>
+          <div class="fb-d">Documented in the Andalusian Cookbook (Fid&#257;lat al-Khiw&#257;n, c.1260 CE) — including detailed medicinal and nutritional annotations for each dish.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="ibn-sina">
+      <p class="sl gold">The Canon of Medicine — 1025 CE</p>
+      <h2>Ibn Sina &mdash;<br><em>the physician who documented food as the first medicine.</em></h2>
+      <p>Abu Ali al-Husayn ibn Sina &mdash; known in the West as Avicenna &mdash; was born in Persia in 980 CE and died in 1037 CE. In his 57 years, he wrote over 450 works on medicine, philosophy, mathematics, and astronomy. His <em>al-Qanun fi al-Tibb</em> (The Canon of Medicine) is the most comprehensive and influential medical text produced by a single author in human history.</p>
+      <p>The Canon opens with a statement that Kwik Fat Cut makes its own: <em>&ldquo;Medicine considers the human body as to the means by which it may be maintained in health and the means by which health may be restored after it has been lost.&rdquo;</em> Ibn Sina then immediately proceeds to discuss food &mdash; because <strong>he understood that food was the primary means of both maintaining and restoring health.</strong></p>
+
+      <div class="manuscript-card reveal">
+        <div class="mc-header">
+          <p class="mc-source">Canon of Medicine, Book II — Simple Drugs — Ibn Sina, c.1020 CE — British Library Add MS 23407</p>
+          <h3>What Ibn Sina documented about specific foods</h3>
+        </div>
+        <div class="mc-body">
+          <p><strong>Garlic (thum):</strong> Ibn Sina documents garlic as effective for &ldquo;cold diseases of the chest&rdquo; (respiratory infections), as a blood purifier, and as a treatment for intestinal parasites. He notes its warming properties and recommends it for the elderly and those with weak digestion. Modern research has confirmed allicin&rsquo;s antimicrobial, cardiovascular, and immune-stimulating properties across hundreds of clinical trials &mdash; exactly the conditions Ibn Sina described.</p>
+          <p><strong>Pomegranate (rumman):</strong> Documented for its astringent properties in treating diarrhoea, its role in &ldquo;strengthening the stomach,&rdquo; and its effects on fever. The Canon recommends pomegranate juice for inflammatory conditions. Modern research has identified punicalagins and punicic acid as potent antioxidants with documented anti-inflammatory effects that reduce inflammatory markers including C-reactive protein.</p>
+          <p><strong>Figs (tin):</strong> Ibn Sina prescribes figs for constipation, respiratory conditions, and as a general tonic for the liver. He documents their laxative properties and their role in &ldquo;opening obstructions.&rdquo; Modern analysis confirms figs are among the highest dietary fibre fruits available, with documented prebiotic effects and liver-protective compounds.</p>
+          <p><strong>Ginger (zanjabil):</strong> One of the most extensively documented spices in the Canon. Ibn Sina prescribes it for digestive weakness, nausea, respiratory congestion, and joint pain. He notes its ability to &ldquo;warm the stomach and aid digestion.&rdquo; Gingerols and shogaols &mdash; ginger&rsquo;s active compounds &mdash; have now been confirmed across 150+ clinical studies as anti-inflammatory, antiemetic, and gastroprotective.</p>
+          <p><strong>Olive oil (zayt al-zaytun):</strong> Ibn Sina classifies olive oil as having &ldquo;moderate warmth&rdquo; and documents its role in &ldquo;softening the bowels, cleansing the arteries, and nourishing the body.&rdquo; The PREDIMED trial (7,447 participants, 2013) confirmed that extra-virgin olive oil reduces cardiovascular events by 30%. Ibn Sina was correct about every documented use.</p>
+        </div>
+      </div>
+
+      <div class="pq">
+        <p>&ldquo;The physician who does not know the properties of food cannot know the properties of medicine. Food comes first &mdash; always. It is the foundation, not the supplement.&rdquo;</p>
+        <p class="attr">Ibn Sina, Canon of Medicine, Book I &mdash; 1025 CE</p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="fidala">
+      <p class="sl">The Lost Cookbook</p>
+      <h2>Fid&#257;lat al-Khiw&#257;n &mdash;<br><em>the 13th-century Andalusian manuscript rediscovered in 2018.</em></h2>
+      <p>In 2018, Dr. Bink Hallum, the British Library&rsquo;s curator of Arabic scientific manuscripts, announced the discovery of previously unknown chapters of the <em>Fid&#257;lat al-Khiw&#257;n f&#299; &#7788;ayyib&#257;t al-&#7788;a&lsquo;&#257;m wa-l-Alw&#257;n</em> (Excellence of the Table, on the Delicacies of Food and the Different Dishes). Written in 13th-century Al-Andalus, the Fid&#257;la is one of the most important food manuscripts in Islamic history &mdash; and one of the most nutritionally sophisticated documents ever produced.</p>
+      <p>The manuscript documents over 1,000 recipes, each with detailed annotations on their medicinal properties, digestive effects, and appropriate use by body type and season. <strong>It is not a recipe book in the modern sense. It is a clinical nutritional text that happens to contain recipes.</strong></p>
+
+      <div class="manuscript-card reveal">
+        <div class="mc-header">
+          <p class="mc-source">Fid&#257;lat al-Khiw&#257;n — c.1260 CE — Chapters rediscovered British Library, 2018</p>
+          <h3>What the Andalusian manuscript documents</h3>
+        </div>
+        <div class="mc-body">
+          <p>The recovered chapters focus on <strong>vegetable dishes, grain preparations, and fermented foods</strong> &mdash; specifically the sections most relevant to plant-based nutrition. They document:</p>
+          <p><strong>Legume preparations:</strong> Detailed recipes for chickpea, lentil, and fava bean dishes, with specific notes on their role in &ldquo;strengthening the body without heating the blood&rdquo; &mdash; a description that corresponds precisely to their documented effect of providing plant protein without the inflammatory compounds found in animal sources.</p>
+          <p><strong>Fermented and preserved foods:</strong> Multiple preparations involving vinegar, fermented vegetables, and dairy ferments, with annotations on their role in &ldquo;supporting the stomach&rsquo;s digestive function.&rdquo; The gut microbiome science of fermented foods &mdash; their role in supporting beneficial bacterial populations &mdash; was understood functionally 760 years before the gut-brain axis was named.</p>
+          <p><strong>Spice as medicine:</strong> Every spice in the Andalusian kitchen is documented with its specific therapeutic properties. Cumin for digestion. Coriander for fever. Saffron for mood. Turmeric &mdash; introduced to Al-Andalus via trade &mdash; for inflammation. <strong>These are not flavour preferences. They are prescriptions.</strong></p>
+          <p><strong>Olive oil as foundation:</strong> The Fid&#257;la treats olive oil not as a cooking medium but as a medicinal foundation &mdash; used in virtually every dish as a nutritional carrier. This aligns exactly with modern understanding of extra-virgin olive oil&rsquo;s role in improving the bioavailability of fat-soluble vitamins and phytochemicals in other foods.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="foods">
+      <p class="sl g">The Foods They Ate</p>
+      <h2>What Moorish Al-Andalus<br><em>put on the table &mdash; documented.</em></h2>
+      <p>The diet of Moorish Al-Andalus was a synthesis of Arab, Persian, Berber, and Iberian food traditions, refined across 700 years of agricultural experimentation and nutritional observation. Arabic agricultural manuals &mdash; particularly Ibn al-&#703;Aww&#257;m&rsquo;s <em>Kit&#257;b al-Fil&#257;&#7717;a</em> (Book of Agriculture, c.1180 CE) &mdash; document crop varieties, cultivation methods, and the nutritional properties of hundreds of plants grown in Al-Andalus.</p>
+
+      <div class="food-row">
+        <div class="fr-card reveal">
+          <p class="fr-science">Introduced to Europe by the Moors</p>
+          <div class="fr-name">Citrus fruits</div>
+          <div class="fr-desc"><strong>Vitamin C, bioflavonoids, limonene.</strong> Oranges, lemons, and limes were unknown in Europe before Moorish cultivation in Iberia. Ibn al-&#703;Aww&#257;m documents detailed citrus cultivation techniques. Citrus groves planted by Moorish farmers in the 10th century formed the foundation of Spanish and Portuguese citrus industries that persist today.</div>
+        </div>
+        <div class="fr-card reveal">
+          <p class="fr-science">Documented in Fid&#257;la and Ibn Sina</p>
+          <div class="fr-name">Almonds</div>
+          <div class="fr-desc"><strong>Vitamin E (highest of any nut), magnesium, calcium, riboflavin.</strong> Ibn Sina prescribes almonds for strengthening the brain and nervous system. Spain today produces 25% of the world&rsquo;s almonds &mdash; on orchards descended from Moorish plantings. The almond milk documented in 13th-century Andalusian recipes is identical to what is now marketed as a modern health food.</div>
+        </div>
+        <div class="fr-card reveal">
+          <p class="fr-science">Documented in all major Moorish medical texts</p>
+          <div class="fr-name">Dates</div>
+          <div class="fr-desc"><strong>Natural sugars with fibre, potassium, magnesium, and antioxidants.</strong> Ibn Sina documents dates as &ldquo;strengthening for the whole body.&rdquo; They deliver glucose with a fibre buffer that moderates blood sugar response &mdash; the exact mechanism now documented for preventing insulin spikes. The hadith (Islamic teachings) specifically recommend dates as a foundation food, reflecting their nutritional completeness.</div>
+        </div>
+        <div class="fr-card reveal">
+          <p class="fr-science">Core of the Andalusian diet across all social classes</p>
+          <div class="fr-name">Chickpeas (Garbanzo)</div>
+          <div class="fr-desc"><strong>Plant protein, folate, iron, soluble fibre, resistant starch.</strong> Chickpeas appear in virtually every Andalusian cookbook recipe collection. Ibn Sina prescribes them for &ldquo;building body strength without producing excess heat.&rdquo; A 100g serving provides 19g of protein, 17g of fibre, and 105% of daily folate requirements &mdash; with a glycaemic index of 28 (very low).</div>
+        </div>
+        <div class="fr-card reveal">
+          <p class="fr-science">Introduced to Iberia by the Moors</p>
+          <div class="fr-name">Eggplant (Aubergine)</div>
+          <div class="fr-desc"><strong>Nasunin &mdash; a potent anthocyanin antioxidant concentrated in the skin.</strong> Eggplant was unknown in Europe before Moorish introduction. Ibn Sina documents specific preparation methods (salting to remove bitterness) identical to modern preparation. Nasunin has been shown to protect brain lipids from free radical damage and support iron absorption.</div>
+        </div>
+        <div class="fr-card reveal">
+          <p class="fr-science">Documented across Ibn Sina and Fid&#257;la</p>
+          <div class="fr-name">Saffron</div>
+          <div class="fr-desc"><strong>Crocin, crocetin, and safranal &mdash; documented antidepressant and neuroprotective compounds.</strong> Ibn Sina prescribes saffron for &ldquo;lifting the spirits and brightening the mood.&rdquo; Multiple clinical trials have since confirmed saffron extract&rsquo;s efficacy for mild-to-moderate depression &mdash; comparable to standard antidepressants in several studies. The most expensive spice on earth, and among the most medicinally validated.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="miswak">
+      <p class="sl g">Oral Health as Daily Practice</p>
+      <h2>The miswak &mdash;<br><em>7th-century oral medicine confirmed by 21st-century science.</em></h2>
+      <p>Among the most documented practices of Islamic medicine is the use of the <strong>miswak</strong> &mdash; a teeth-cleaning twig cut from the Salvadora persica tree (known in Arabic as <em>arak</em>). Its use is documented in hadith literature from the 7th century CE, prescribed as a daily practice to be performed multiple times a day &mdash; before prayer, before eating, and upon waking.</p>
+      <p>The World Health Organization (WHO, 1986) published a report recommending the miswak as an effective oral hygiene tool after multiple studies confirmed its antimicrobial properties. The Journal of Periodontology (2002) published a study finding that miswak users showed <strong>significantly lower plaque levels and lower rates of periodontal disease</strong> than toothbrush users in matched populations.</p>
+
+      <div class="gb reveal">
+        <p><strong>What clinical research has confirmed about the miswak:</strong></p>
+        <p>Salvadora persica contains: <strong>Fluoride</strong> (natural, in bioavailable form) &mdash; strengthens enamel. <strong>Salvadorine</strong> &mdash; alkaloid with documented antibacterial activity against Streptococcus mutans (primary cavity-causing bacteria). <strong>Silica</strong> &mdash; gentle abrasive that removes surface stains. <strong>Benzyl isothiocyanate</strong> &mdash; antibacterial compound. <strong>Vitamin C</strong> &mdash; supports gum tissue integrity. The mechanical action of miswak fibres on the tooth surface also provides superior interproximal cleaning compared to standard toothbrush bristles for certain tooth geometries.</p>
+        <p>Ibn Sina&rsquo;s Canon of Medicine specifically discusses oral health as the gateway to systemic health &mdash; recommending daily oral cleaning as a preventive medicine practice. <strong>The relationship between oral bacteria, cardiovascular disease, and systemic inflammation that modern cardiology documents was understood functionally by Ibn Sina 1,000 years ago.</strong></p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="agriculture">
+      <p class="sl">Agricultural Revolution</p>
+      <h2>What the Moors planted<br><em>still feeds the world.</em></h2>
+      <p>The Moorish period in Iberia (711&ndash;1492 CE) produced one of the most significant agricultural transformations in European history. Arab and Berber farmers introduced sophisticated irrigation systems (the <em>acequia</em> network), crop rotation practices, and hundreds of new plant species to a landscape that had previously sustained far simpler agriculture.</p>
+
+      <div class="il">
+        <div class="il-row reveal">
+          <div class="dot g"></div>
+          <p><strong>Rice cultivation in Europe</strong> was introduced by the Moors. The Valencian rice paddies that produce paella rice today are fed by irrigation systems built by Moorish engineers in the 10th century. Rice remains one of the world&rsquo;s three most important staple crops.</p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot g"></div>
+          <p><strong>Sugar cane</strong> was brought to Iberia by Arab farmers from its origins in India, via Persia and North Africa. From Iberia, it was later carried to the Canary Islands and then to the Caribbean &mdash; where it reshaped the Atlantic economy and, catastrophically, drove the demand for enslaved labour that brought West African food knowledge to Jamaica.</p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot g"></div>
+          <p><strong>Cotton, silk, figs, pomegranates, saffron, carob, and artichokes</strong> were all introduced or significantly expanded in cultivation by Moorish farmers in Iberia. The citrus groves of Andalusia and the almond orchards of southern Spain are living memorials to this agricultural revolution.</p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot g"></div>
+          <p><strong>Irrigation technology:</strong> The Moors introduced the <em>noria</em> (waterwheel), the <em>qanat</em> (underground water channel), and the <em>acequia</em> (irrigation canal) to Iberian agriculture. These allowed cultivation of crops that previously required monsoon rainfall in a semi-arid climate. <strong>The same irrigation principles are used in modern Jamaican agricultural practice today.</strong></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="connection">
+      <p class="sl gold">The Caribbean Connection</p>
+      <h2>Al-Andalus to Jamaica &mdash;<br><em>the journey of food knowledge.</em></h2>
+      <p>The connection between Moorish food knowledge and Jamaica is not direct &mdash; but it is real, and it is documented. When Spanish colonisers arrived in Jamaica in 1494, they brought with them an agricultural tradition that had been profoundly shaped by 700 years of Moorish food culture. The citrus trees, the chickpeas, the spice knowledge, the irrigation methods &mdash; <strong>all bore the fingerprints of Al-Andalus.</strong></p>
+      <p>More directly: the olive oil, almonds, and Mediterranean herbs that arrived with Spanish colonists combined with West African, Taino, and indigenous Caribbean food knowledge to create the complex nutritional ecosystem from which modern Jamaican cuisine grew. <strong>Every Jamaican kitchen holds at least one ingredient or technique whose lineage traces back to the Moorish table.</strong></p>
+      <p>The spice traditions of Jamaica &mdash; allspice, scotch bonnet, ginger, cinnamon, nutmeg &mdash; reflect a spice philosophy whose sophistication matches and extends the Moorish understanding of spice as medicine. <strong>Honey Ras&rsquo;s Ital kitchen and Ibn Sina&rsquo;s Canon of Medicine are 1,000 years and an ocean apart. Their nutritional principles are the same.</strong></p>
+
+      <div class="series-next reveal">
+        <div class="sn-txt">
+          <strong>Next in the series</strong>
+          <p>Part 5 &mdash; A Nation&rsquo;s Guide to Health, Wealth &amp; Wisdom</p>
+        </div>
+        <a href="learn-nations-guide-health.html" class="sn-btn">Read Part 5 &rarr;</a>
+      </div>
+    </div>
+
+    <div class="article-close reveal">
+      <h2>The manuscript is open.<br><em>The knowledge is yours.</em></h2>
+      <p>Ibn Sina wrote the Canon of Medicine over a thousand years ago. The Fid&#257;la was written 760 years ago. Both are preserved in the British Library. Both are available to scholars. <strong>Both contain nutritional knowledge that modern research is still working to fully document.</strong></p>
+      <p>The ancient archive is not closed. It is waiting. Smile for me, Jamaica &mdash; the table was set long before we arrived. <strong>We row. You steer.</strong> 🇯🇲❤️💚</p>
+      <p class="sign">Kwik Fat Cut &mdash; Return to Real Food Series &mdash; Education First</p>
+    </div>
+  </article>
+</div>
+<div class="rule"></div>
+<div class="cta reveal">
+  <div class="cta-l"><h3>Continue the <em>series.</em></h3><p>Part 5 &mdash; A Nation&rsquo;s Guide to Health, Wealth &amp; Wisdom.</p></div>
+  <div class="cta-r">
+    <a href="learn-nations-guide-health.html" class="bp">Part 5 &rarr;</a>
+    <a href="learn-west-african-food-traditions.html" class="bo">&larr; Part 3</a>
+  </div>
+</div>
+<section class="sstrip reveal">
+  <div class="sstrip-i">
+    <p class="sstrip-l">Tell a friend to tell a friend</p>
+    <h3 class="sstrip-h">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <div class="sstrip-a">
+      <button class="ssb sh" onclick="shareKFC()">Share this article</button>
+      <a href="https://kwikfatcut.com" class="ssb fo" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="soc"><a href="#">Twitter / X</a><a href="#">Instagram</a><a href="#">TikTok</a><a href="#">Facebook</a></div>
+    <p class="sstrip-n">Movements are medicines. We row. You steer. 🇯🇲</p>
+  </div>
+</section>
+</main>
+<footer>
+  <div><a href="kwik-fat-cut-homepage.html" class="fl">Kwik <em>Fat Cut</em></a><p class="ft">A knowledge tree for health, wellness, awareness &amp; opportunity.</p></div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="fc">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+<script>
+function shareKFC(){const url=window.location.href;if(navigator.share){navigator.share({title:document.title,url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ssb.sh');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
+</script>
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

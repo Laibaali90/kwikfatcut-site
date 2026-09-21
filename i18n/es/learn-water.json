@@ -1,0 +1,727 @@
+{
+  "_note": "Page content for learn-water.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "a358904f": {
+      "src": "), had documented public health consequences in reducing disease transmission in communities that practised it.",
+      "t": ""
+    },
+    "7daed809": {
+      "src": ", causing ice to be less dense than liquid water, which is why ice floats. If ice sank, the world’s oceans would freeze from the bottom up, destroying the aquatic ecosystems that support the global food chain and produce 50% of the earth’s oxygen.",
+      "t": ""
+    },
+    "96ea21ae": {
+      "src": ", many of which are experienced daily by people who do not recognise them as hydration-related.",
+      "t": ""
+    },
+    "87006662": {
+      "src": "1% dehydration (barely noticeable):",
+      "t": ""
+    },
+    "9c7a139b": {
+      "src": "10%+ dehydration:",
+      "t": ""
+    },
+    "09ff3687": {
+      "src": "11 min",
+      "t": ""
+    },
+    "66c981ac": {
+      "src": "2% dehydration reduces cognitive performance by up to 20%",
+      "t": ""
+    },
+    "e0a263d3": {
+      "src": "2% dehydration:",
+      "t": ""
+    },
+    "0ce59b1c": {
+      "src": "2% of body water",
+      "t": ""
+    },
+    "2d8e0d65": {
+      "src": "3 days",
+      "t": ""
+    },
+    "b6e66d24": {
+      "src": "3.8bn",
+      "t": ""
+    },
+    "1ac03e93": {
+      "src": "3–4% dehydration:",
+      "t": ""
+    },
+    "0d488031": {
+      "src": "5–8% dehydration:",
+      "t": ""
+    },
+    "9b9bf53a": {
+      "src": "60%",
+      "t": ""
+    },
+    "79ca2d20": {
+      "src": "71%",
+      "t": ""
+    },
+    "898a180f": {
+      "src": "75% water.",
+      "t": ""
+    },
+    "7fc658fa": {
+      "src": "A loss of just",
+      "t": ""
+    },
+    "0e7c8d14": {
+      "src": "All of these increase the daily requirement above the baseline estimate.",
+      "t": ""
+    },
+    "003b4bff": {
+      "src": "Ancient Egypt (c.3000 BCE):",
+      "t": ""
+    },
+    "485debb6": {
+      "src": "Ancient Rome (27 BCE–476 CE):",
+      "t": ""
+    },
+    "b8ad3813": {
+      "src": "Ancient knowledge of water",
+      "t": ""
+    },
+    "bddc9346": {
+      "src": "Ayurvedic India (c.1500 BCE):",
+      "t": ""
+    },
+    "f6fec517": {
+      "src": "Blood — The Body’s Living River",
+      "t": ""
+    },
+    "3ee09a23": {
+      "src": "Blood — the body’s living river. What runs through you is extraordinary.",
+      "t": ""
+    },
+    "327526d6": {
+      "src": "Blood: 90% water.",
+      "t": ""
+    },
+    "9b0ab978": {
+      "src": "Brain function is exquisitely sensitive to hydration status.",
+      "t": ""
+    },
+    "5cb8adb3": {
+      "src": "Brain: 75% water.",
+      "t": ""
+    },
+    "b615c60f": {
+      "src": "Caffeine (mild diuretic effect). Alcohol (significant diuretic effect). Heavily salted food (increases obligatory water loss). High protein intake (increases renal water demand for waste excretion). Hot and humid climates. Exercise. Illness involving fever, diarrhoea, or vomiting.",
+      "t": ""
+    },
+    "845047c2": {
+      "src": "Carries dissolved minerals — calcium, magnesium, potassium, and bicarbonate — in forms that are highly bioavailable. Studies on mineral water consumption show that regular intake of magnesium-rich spring water reduces blood pressure and supports bone density.",
+      "t": ""
+    },
+    "d9e1cd3e": {
+      "src": "Chronic mild dehydration — the hidden health risk",
+      "t": ""
+    },
+    "ec48123b": {
+      "src": "Coconut water:",
+      "t": ""
+    },
+    "6376b04d": {
+      "src": "Cognitive function",
+      "t": ""
+    },
+    "c96b1ee7": {
+      "src": "Covered by water. Yet only 2.5% is freshwater, and less than 1% is accessible to humans as drinking water.",
+      "t": ""
+    },
+    "d549daf4": {
+      "src": "Deep Research",
+      "t": ""
+    },
+    "0948535f": {
+      "src": "Dehydration is a cardiovascular stressor.",
+      "t": ""
+    },
+    "fbb3bc25": {
+      "src": "Documented cognitive impairment begins. Short-term memory, concentration, and psychomotor speed measurably decline. A 2011 study in the British Journal of Nutrition found that 1.36% dehydration in young women increased perception of task difficulty, reduced concentration, and worsened headache frequency — without any sensation of significant thirst.",
+      "t": ""
+    },
+    "a4d1ce4c": {
+      "src": "Drink it. Eat it in your whole foods. Respect it.",
+      "t": ""
+    },
+    "62145eee": {
+      "src": "Drink water before meals (improves digestion and nutrient absorption). Drink water on waking (after 7–8 hours without intake). Drink water during any physical activity. And eat whole plant foods daily — because every fruit, vegetable, and leafy green is partly a water delivery system.",
+      "t": ""
+    },
+    "36f1c513": {
+      "src": "Eating whole foods is partly a hydration strategy.",
+      "t": ""
+    },
+    "68fb5738": {
+      "src": "Estimated age of life on Earth — all of which has existed in water, depended on water, or required water to function.",
+      "t": ""
+    },
+    "62944b79": {
+      "src": "Every chemical reaction in the body occurs in aqueous (water-based) solution.",
+      "t": ""
+    },
+    "f02cade2": {
+      "src": "Every organ in the human body contains significant water — and every organ requires it continuously to function. These are not approximate figures. They are measured values from anatomical research and body composition studies published in medical literature.",
+      "t": ""
+    },
+    "fa182930": {
+      "src": "Every role water plays —",
+      "t": ""
+    },
+    "92050c54": {
+      "src": "Foundations of Life",
+      "t": ""
+    },
+    "77235cd5": {
+      "src": "Fruits and vegetables are 80–95% water by weight and deliver hydration alongside fibre, vitamins, minerals, and phytochemicals. Cucumbers (96% water), watermelon (92%), oranges (88%), and callaloo (92%) provide hydration in a form that the body absorbs more gradually than plain water — supporting sustained hydration throughout the day.",
+      "t": ""
+    },
+    "972ec5fc": {
+      "src": "Herbal teas:",
+      "t": ""
+    },
+    "4b2ca0c9": {
+      "src": "How much water",
+      "t": ""
+    },
+    "4f5f3e0e": {
+      "src": "How much you actually need",
+      "t": ""
+    },
+    "13150e27": {
+      "src": "Hydration is the body’s most fundamental detoxification mechanism.",
+      "t": ""
+    },
+    "ee5ad9d8": {
+      "src": "Ibn Sina’s Canon of Medicine devotes an entire section to water quality — prescribing boiled water for certain conditions, spring water for others, and documenting the health consequences of consuming stagnant or contaminated water. The Islamic tradition of cleanliness, including the use of clean water for ritual purification (",
+      "t": ""
+    },
+    "2174f558": {
+      "src": "In Jamaican conditions",
+      "t": ""
+    },
+    "abb965ca": {
+      "src": "Inside the Body",
+      "t": ""
+    },
+    "6ee864f4": {
+      "src": "Is it truly",
+      "t": ""
+    },
+    "a8425b28": {
+      "src": "Is water by weight in adults. The brain is 75%. The lungs are 83%. The blood is 90%. Even bone is 31% water.",
+      "t": ""
+    },
+    "caee78fd": {
+      "src": "Is water life?",
+      "t": ""
+    },
+    "90879df3": {
+      "src": "Islamic Golden Age (8th–13th century CE):",
+      "t": ""
+    },
+    "8ad89280": {
+      "src": "It is not a supplement. It is the foundation.",
+      "t": ""
+    },
+    "bd3e449a": {
+      "src": "It is one of the only liquids that expands when it freezes",
+      "t": ""
+    },
+    "6726f9d1": {
+      "src": "Its properties are so precisely calibrated for supporting life that some scientists describe it as the only molecule that could have made biological life possible.",
+      "t": ""
+    },
+    "8a0708b3": {
+      "src": "Joint lubrication",
+      "t": ""
+    },
+    "02d63ad2": {
+      "src": "Kidneys: 79% water.",
+      "t": ""
+    },
+    "3ae7b15b": {
+      "src": "Lungs: 83% water.",
+      "t": ""
+    },
+    "a6241e62": {
+      "src": "Many cases of joint pain have hydration as a primary factor.",
+      "t": ""
+    },
+    "32138c75": {
+      "src": "Maximum survival",
+      "t": ""
+    },
+    "9fcb50d8": {
+      "src": "Most people associate dehydration with thirst. But thirst is a late warning signal — by the time the thirst mechanism activates, the body is already physiologically compromised.",
+      "t": ""
+    },
+    "adc44201": {
+      "src": "Movements are medicines. We row. You steer. 🇯🇲",
+      "t": ""
+    },
+    "7f27a0b7": {
+      "src": "Muscle contraction depends on the movement of ions (sodium, potassium, calcium) across cell membranes — a process entirely dependent on adequate fluid volume. Dehydration reduces muscle endurance, power output, and recovery speed. A 2007 study in the Journal of Athletic Training found that a 3% body weight loss through dehydration reduced muscle strength by up to 8%.",
+      "t": ""
+    },
+    "5c3de6f7": {
+      "src": "Muscles: 79% water.",
+      "t": ""
+    },
+    "4d3e7f96": {
+      "src": "Natural spring water:",
+      "t": ""
+    },
+    "b72753ba": {
+      "src": "Neurons communicate through electrochemical signals that require water as the conducting medium. Cerebrospinal fluid — which cushions the brain and spinal cord against physical shock — is 99% water. Even mild dehydration alters the brain’s physical structure: a 2011 MRI study found that 24 hours of fluid restriction produced measurable shrinkage of brain tissue, accompanied by increased task effort and reduced performance.",
+      "t": ""
+    },
+    "eb07b9cb": {
+      "src": "No organism on earth has ever been found that does not require water. No biological process has ever been documented that does not depend on water. Every cell in your body — all 37 trillion of them — is immersed in it, built from it, and depends on it continuously.",
+      "t": ""
+    },
+    "35ebee9d": {
+      "src": "No other substance on earth behaves the way water does.",
+      "t": ""
+    },
+    "1edfa5c1": {
+      "src": "No skincare product can compensate for systemic dehydration.",
+      "t": ""
+    },
+    "b235d772": {
+      "src": "Not all water is equal —",
+      "t": ""
+    },
+    "452e165b": {
+      "src": "Nutrient transport",
+      "t": ""
+    },
+    "5d74594c": {
+      "src": "Nutrients cannot reach cells without water as the transport medium.",
+      "t": ""
+    },
+    "6073d0f7": {
+      "src": "Of Earth’s surface",
+      "t": ""
+    },
+    "8756707e": {
+      "src": "Of the human body",
+      "t": ""
+    },
+    "87a81a5c": {
+      "src": "Often called “nature’s sports drink,” coconut water contains an electrolyte profile (potassium, magnesium, sodium, calcium) that closely mirrors human blood plasma. A 2012 study in the Journal of the International Society of Sports Nutrition found coconut water equally effective to commercial sports drinks for rehydration post-exercise — with no artificial additives, no refined sugar, and significantly higher potassium content. Used as emergency IV fluid during World War II field conditions. Its bioavailability is not approximate. It is precise.",
+      "t": ""
+    },
+    "05db8b7b": {
+      "src": "Pale yellow (like lemonade) — well-hydrated. Medium yellow — acceptable, drink more. Dark yellow or amber — dehydrated, drink immediately. Clear (no colour) — potentially over-hydrated, which can dilute electrolytes.",
+      "t": ""
+    },
+    "a2c6c6b8": {
+      "src": "Read next →",
+      "t": ""
+    },
+    "2b9279f0": {
+      "src": "Read the companion",
+      "t": ""
+    },
+    "eef76edb": {
+      "src": "Read: Blood →",
+      "t": ""
+    },
+    "036ea0e4": {
+      "src": "Remove water and life stops. Not eventually. Immediately.",
+      "t": ""
+    },
+    "114fb558": {
+      "src": "Research published in the European Journal of Nutrition (2016) found that",
+      "t": ""
+    },
+    "0b3ce4f6": {
+      "src": "Risk of delirium, organ failure, and death. The body’s regulatory systems begin to fail as fluid volume falls below the minimum required to maintain blood pressure and organ perfusion.",
+      "t": ""
+    },
+    "e8bf539f": {
+      "src": "Severe fatigue, dizziness, headache, nausea, and rapid heart rate. Urine becomes dark amber or brown as the kidneys maximally concentrate waste products. This level of dehydration represents a medical concern requiring immediate fluid replacement.",
+      "t": ""
+    },
+    "e8bb4c75": {
+      "src": "Significant reduction in athletic endurance (up to 25%). Core temperature rises faster during exercise. Muscle cramping risk increases dramatically. Blood becomes measurably more viscous, increasing cardiovascular workload.",
+      "t": ""
+    },
+    "35a3b2ca": {
+      "src": "Skin: 64% water.",
+      "t": ""
+    },
+    "2dbb4615": {
+      "src": "Smile for me, Jamaica. We row. You steer. 🇯🇲❤️💚",
+      "t": ""
+    },
+    "176906b7": {
+      "src": "Solvent for biochemistry",
+      "t": ""
+    },
+    "8020d0d4": {
+      "src": "Survival without water becomes measured in hours, not days.",
+      "t": ""
+    },
+    "20d9a8b6": {
+      "src": "Sweating is the body’s primary cooling mechanism. Water evaporation from the skin surface removes heat with extraordinary efficiency. Without this, core body temperature would reach dangerous levels during exercise or fever.",
+      "t": ""
+    },
+    "64254145": {
+      "src": "Synovial fluid — the lubricant in joints — is primarily water. Adequate hydration maintains cartilage flexibility and reduces joint friction. Chronic dehydration contributes to joint pain and accelerates cartilage degradation.",
+      "t": ""
+    },
+    "2a853b4b": {
+      "src": "Temperature regulation",
+      "t": ""
+    },
+    "a6795fbd": {
+      "src": "The Ancient Record",
+      "t": ""
+    },
+    "0b93ca48": {
+      "src": "The Best Sources",
+      "t": ""
+    },
+    "fab69000": {
+      "src": "The Charaka Samhita devotes extensive sections to the properties of different water sources — rain water, river water, spring water, well water — classifying each by its therapeutic properties, mineral content, and appropriate medical use. The distinction between water types and their different effects on the body was understood systematically 3,500 years before modern hydrology.",
+      "t": ""
+    },
+    "d5976c03": {
+      "src": "The Ebers Papyrus — one of the oldest medical texts ever discovered — documents water-based treatments for dozens of conditions. Egyptian physicians understood that certain water sources were medicinal and others caused illness — a proto-understanding of waterborne pathogens that preceded germ theory by 3,500 years. The Nile was not worshipped arbitrarily; it was the foundation of Egyptian civilisation’s agricultural surplus, and Egyptians understood this with precision.",
+      "t": ""
+    },
+    "aa6f9414": {
+      "src": "The Jamaican bush tea tradition is not folklore. It is medicine in a cup.",
+      "t": ""
+    },
+    "2cf7ee48": {
+      "src": "The Molecule",
+      "t": ""
+    },
+    "ab10592b": {
+      "src": "The Practical Guide",
+      "t": ""
+    },
+    "4389f380": {
+      "src": "The Roman aqueduct system — which transported clean water from mountain springs to cities across the empire — is one of the greatest public health innovations in human history. Roman engineers understood empirically that clean water prevented the diseases that contaminated urban water supplies caused. The Roman Empire’s population health was significantly better than populations without aqueduct access — documented in skeletal analysis of contemporaneous populations.",
+      "t": ""
+    },
+    "abb15ee8": {
+      "src": "The Silent Emergency",
+      "t": ""
+    },
+    "0bdd3adb": {
+      "src": "The WHO and National Academies of Sciences recommendations:",
+      "t": ""
+    },
+    "f030153a": {
+      "src": "The best sources of water",
+      "t": ""
+    },
+    "1ef45ad9": {
+      "src": "The familiar “eight glasses a day” recommendation is a simplification. The actual requirement varies significantly by body weight, climate, activity level, and the water content of food consumed.",
+      "t": ""
+    },
+    "a745b650": {
+      "src": "The first intervention for most of these conditions should be water. Not a pharmaceutical. Water.",
+      "t": ""
+    },
+    "8c0ffbeb": {
+      "src": "The human brain is",
+      "t": ""
+    },
+    "e7c97c40": {
+      "src": "The kidneys filter approximately 200 litres of blood per day, excreting waste products in urine. Adequate water intake dilutes these waste products, preventing the concentration of compounds that form kidney stones. Chronic mild dehydration is among the most documented preventable causes of kidney stone formation and chronic kidney disease progression.",
+      "t": ""
+    },
+    "66073a92": {
+      "src": "The lung’s alveoli — the tiny air sacs where oxygen exchanges into the bloodstream — must remain moist to function. Dry air dehydrates the alveolar surface, reducing the efficiency of oxygen transfer. This is why athletes, singers, and speakers in dry climates experience performance degradation without adequate hydration.",
+      "t": ""
+    },
+    "2e9b91df": {
+      "src": "The mineral content is not an impurity. It is the benefit.",
+      "t": ""
+    },
+    "9cb44162": {
+      "src": "The most accurate guide is urine colour",
+      "t": ""
+    },
+    "b41cd8d0": {
+      "src": "The number that matters",
+      "t": ""
+    },
+    "7a07238a": {
+      "src": "The progression of dehydration is a cascade of increasingly serious impairments",
+      "t": ""
+    },
+    "c0855455": {
+      "src": "The question “is water the fluid of life?” has a simple, documented, unambiguous answer. Yes. It is not a fluid of life. It is",
+      "t": ""
+    },
+    "4441798d": {
+      "src": "The reverence that ancient civilisations showed toward water was not superstition. It was accurate observation — recorded in texts, embedded in architecture, and encoded in religious practice across every major culture that left a written record.",
+      "t": ""
+    },
+    "0912b9df": {
+      "src": "The skin’s elasticity, barrier function, and appearance all depend on hydration. Chronic dehydration accelerates the appearance of fine lines, reduces the skin’s ability to repair damage, and impairs its role as the body’s first line of immune defence.",
+      "t": ""
+    },
+    "d99ff3d2": {
+      "src": "The urine colour guide (documented):",
+      "t": ""
+    },
+    "d02aeeb1": {
+      "src": "Thirst begins. Mild reduction in physical performance. Slightly elevated heart rate as blood volume decreases and the heart compensates. Most people experience this level of dehydration regularly without recognising it.",
+      "t": ""
+    },
+    "b8c9b63b": {
+      "src": "Thirst is a late signal, not an early one.",
+      "t": ""
+    },
+    "8742908e": {
+      "src": "This simple observation replaces the need for any hydration tracking app.",
+      "t": ""
+    },
+    "2e7747d6": {
+      "src": "Urine, sweat, and faeces all contain water as the medium for removing metabolic waste. Without adequate water, waste products accumulate in tissues, raising toxin levels and inflammation.",
+      "t": ""
+    },
+    "cf4b04c4": {
+      "src": "Waste elimination",
+      "t": ""
+    },
+    "b9f18200": {
+      "src": "Water carries glucose, amino acids, vitamins, minerals, and oxygen through the bloodstream to every cell.",
+      "t": ""
+    },
+    "dca7f4df": {
+      "src": "Water does not perform a single function in the body. It performs dozens — simultaneously, continuously, without pause. The following represent the most critical documented roles of water in human physiology.",
+      "t": ""
+    },
+    "7c3c0133": {
+      "src": "Water has the",
+      "t": ""
+    },
+    "53f89777": {
+      "src": "Water in the human body",
+      "t": ""
+    },
+    "ed910933": {
+      "src": "Water in the human body —",
+      "t": ""
+    },
+    "df713c9e": {
+      "src": "Water in whole plant foods:",
+      "t": ""
+    },
+    "6e0d5829": {
+      "src": "Water infused with medicinal herbs — fever grass (lemongrass), moringa, soursop leaf, cerasee — delivers hydration alongside documented active compounds. The Ikarian Blue Zone populations drink wild herbal teas daily as their primary beverage, combining hydration with antioxidant and anti-inflammatory benefits.",
+      "t": ""
+    },
+    "623539cd": {
+      "src": "Water is a molecule of two hydrogen atoms bonded to one oxygen atom: H₂O. It is the most studied chemical compound in human history — and the more it is studied, the more extraordinary it reveals itself to be.",
+      "t": ""
+    },
+    "066d0780": {
+      "src": "Water is the body’s thermostat.",
+      "t": ""
+    },
+    "d0eecbe0": {
+      "src": "Water is the only common substance that exists naturally in all three states — solid, liquid, and gas — within the temperature range found on earth.",
+      "t": ""
+    },
+    "e1a29ee5": {
+      "src": "Water is water in its molecular form — but what it carries varies enormously. Spring water, filtered water, coconut water, and the water contained in whole plant foods each deliver hydration with different mineral profiles and different benefits.",
+      "t": ""
+    },
+    "dd1bcdab": {
+      "src": "We cannot survive without it. Every cell in the human body depends on it. Ancient civilisations built temples to it. Modern science confirms what ancestral knowledge always knew. Water is not just important. Water is the condition under which life is possible at all.",
+      "t": ""
+    },
+    "615bfa1b": {
+      "src": "What Is Water?",
+      "t": ""
+    },
+    "419e7ebd": {
+      "src": "What Water Does",
+      "t": ""
+    },
+    "79585fca": {
+      "src": "What ancient civilisations",
+      "t": ""
+    },
+    "d9c2c165": {
+      "src": "What dehydration actually",
+      "t": ""
+    },
+    "4226f10a": {
+      "src": "What dehydration actually does",
+      "t": ""
+    },
+    "699a3dda": {
+      "src": "What depletes water faster than expected:",
+      "t": ""
+    },
+    "04a71edb": {
+      "src": "What is water?",
+      "t": ""
+    },
+    "a8e50efb": {
+      "src": "What water actually is",
+      "t": ""
+    },
+    "228b354f": {
+      "src": "What water actually is —",
+      "t": ""
+    },
+    "25330925": {
+      "src": "What water does — the full list",
+      "t": ""
+    },
+    "30e7b62d": {
+      "src": "Without adequate water, blood becomes more viscous (thicker), forcing the heart to work harder to pump it. This directly raises blood pressure, increases the risk of clot formation, and reduces the efficiency of nutrient and oxygen delivery to every cell in the body.",
+      "t": ""
+    },
+    "f0d1b203": {
+      "src": "Without water under normal conditions. Without food, the human body can survive weeks. Water is non-negotiable.",
+      "t": ""
+    },
+    "9466fb4a": {
+      "src": "Without water, no biochemistry is possible",
+      "t": ""
+    },
+    "e7643a75": {
+      "src": "Women: approximately 2.7 litres of total water per day (from all sources, including food). Men: approximately 3.7 litres per day. Approximately 20% of daily water intake comes from food for those eating whole-food diets rich in fruits and vegetables. The remaining 80% from beverages.",
+      "t": ""
+    },
+    "f361685d": {
+      "src": "Years",
+      "t": ""
+    },
+    "1adb0cd3": {
+      "src": "Yes. Without qualification.",
+      "t": ""
+    },
+    "6b1ffa7c": {
+      "src": "and why nothing else compares.",
+      "t": ""
+    },
+    "4ec7e055": {
+      "src": "article.",
+      "t": ""
+    },
+    "213eda0f": {
+      "src": "does to the body — stage by stage.",
+      "t": ""
+    },
+    "dc6c6ded": {
+      "src": "fluid. The one without which life — as biology has produced it on this planet across 3.8 billion years — is not possible.",
+      "t": ""
+    },
+    "206611c5": {
+      "src": "highest specific heat capacity of any common liquid",
+      "t": ""
+    },
+    "73b5dfab": {
+      "src": "in documented studies — affecting memory, attention, reaction time, and decision-making accuracy.",
+      "t": ""
+    },
+    "2901eaf3": {
+      "src": "in the body simultaneously.",
+      "t": ""
+    },
+    "511bd064": {
+      "src": "knew about water.",
+      "t": ""
+    },
+    "962fe6b7": {
+      "src": "most people in developed nations are chronically mildly dehydrated",
+      "t": ""
+    },
+    "842b72a8": {
+      "src": "produces measurable cognitive impairment — reduced concentration, impaired short-term memory, and slower reaction time. You do not need to feel thirsty to already be performing below your best.",
+      "t": ""
+    },
+    "b40eb21c": {
+      "src": "the",
+      "t": ""
+    },
+    "05406df6": {
+      "src": "the body actually needs — documented.",
+      "t": ""
+    },
+    "b0048d86": {
+      "src": "the fluid of life?",
+      "t": ""
+    },
+    "a2db7774": {
+      "src": "the numbers that prove everything.",
+      "t": ""
+    },
+    "dd549699": {
+      "src": "what to drink and why.",
+      "t": ""
+    },
+    "0c20a796": {
+      "src": "wudu",
+      "t": ""
+    },
+    "5f206868": {
+      "src": "— a real-time hydration assessment tool that costs nothing and requires no technology.",
+      "t": ""
+    },
+    "affb311e": {
+      "src": "— consuming significantly less water than optimal for cognitive and physiological function. This chronic mild dehydration is associated with higher rates of kidney stones, urinary tract infections, constipation, and reduced cognitive performance — conditions frequently medicated without addressing the foundational hydration deficit.",
+      "t": ""
+    },
+    "f26ec71e": {
+      "src": "— meaning it absorbs more heat energy before its temperature rises than almost any other substance. This is why large bodies of water regulate earth’s climate, why the human body sweats as a cooling mechanism, and why cells can sustain the metabolic heat of biochemical reactions without being destroyed by it.",
+      "t": ""
+    },
+    "1c5312cb": {
+      "src": "— no energy production, no protein synthesis, no DNA replication.",
+      "t": ""
+    },
+    "7122f6f3": {
+      "src": "— tropical heat, high physical activity, significant perspiration — requirements are higher than temperate climate estimates suggest.",
+      "t": ""
+    },
+    "dc0bf7f3": {
+      "src": "🌡️",
+      "t": ""
+    },
+    "ae7846a9": {
+      "src": "💧 Hydration Science — Deep Research — Foundations of Life",
+      "t": ""
+    },
+    "a72cd30c": {
+      "src": "🔬",
+      "t": ""
+    },
+    "6232b26d": {
+      "src": "🚗",
+      "t": ""
+    },
+    "752d742c": {
+      "src": "🛡️",
+      "t": ""
+    },
+    "dd2c04d3": {
+      "src": "🧠",
+      "t": ""
+    },
+    "f42c2908": {
+      "src": "🧹",
+      "t": ""
+    }
+  }
+}

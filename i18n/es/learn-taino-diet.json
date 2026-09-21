@@ -1,0 +1,743 @@
+{
+  "_note": "Page content for learn-taino-diet.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "f2fcb861": {
+      "src": "(barbecue),",
+      "t": ""
+    },
+    "e4d8723e": {
+      "src": "(canoe),",
+      "t": ""
+    },
+    "f8a514e1": {
+      "src": "(hammock), and",
+      "t": ""
+    },
+    "abf34828": {
+      "src": ") —",
+      "t": ""
+    },
+    "988b8812": {
+      "src": ", and cooking the remaining starch on a flat griddle. The resulting casabe could be stored for months without spoilage — making it the Caribbean’s original long-life food and the provision that sustained Taino communities through seasonal variation.",
+      "t": ""
+    },
+    "4cc75582": {
+      "src": ", without formal chemistry and without written science.",
+      "t": ""
+    },
+    "fba4fca8": {
+      "src": ". Cultivated in conucos alongside beans to form complete plant protein.",
+      "t": ""
+    },
+    "130816e7": {
+      "src": ". Spanish colonial records document their astonishment at the effectiveness of Taino plant medicine — noting that indigenous healers successfully treated conditions that European physicians could not.",
+      "t": ""
+    },
+    "7348188c": {
+      "src": "01 Archive",
+      "t": ""
+    },
+    "654ec49f": {
+      "src": "01 — The Ancient Archive",
+      "t": ""
+    },
+    "d8b70cf2": {
+      "src": "02 Taino",
+      "t": ""
+    },
+    "2b457935": {
+      "src": "02 — The Taino Diet",
+      "t": ""
+    },
+    "ab9c24ab": {
+      "src": "03 West Africa",
+      "t": ""
+    },
+    "e8e82dd6": {
+      "src": "03 — West African Roots",
+      "t": ""
+    },
+    "997ee09f": {
+      "src": "04 Moors",
+      "t": ""
+    },
+    "f9108205": {
+      "src": "04 — The Moorish Table",
+      "t": ""
+    },
+    "ec5de479": {
+      "src": "05 Nation",
+      "t": ""
+    },
+    "a21d0f20": {
+      "src": "05 — A Nation’s Guide",
+      "t": ""
+    },
+    "10d74cc2": {
+      "src": "06 Community",
+      "t": ""
+    },
+    "bad6d953": {
+      "src": "06 — Building the Community",
+      "t": ""
+    },
+    "8885aa93": {
+      "src": "07 Longevity",
+      "t": ""
+    },
+    "295e8bc5": {
+      "src": "07 — Living Longer & Happier",
+      "t": ""
+    },
+    "520abfaa": {
+      "src": "12 min",
+      "t": ""
+    },
+    "6dca2618": {
+      "src": "Aloe vera —",
+      "t": ""
+    },
+    "d87e6aff": {
+      "src": "Applied to burns, skin irritations, and digestive complaints. The Taino used both the gel (topically) and the bitter sap (internally) — distinctions now confirmed by modern phytochemistry as representing different active compound profiles.",
+      "t": ""
+    },
+    "4d704fb6": {
+      "src": "Archaeological & Colonial Records",
+      "t": ""
+    },
+    "e8affd63": {
+      "src": "Before Columbus. Before colonisation. Before the plantation. The Taino people of the Caribbean had developed one of the most complete, sustainable, and nutritionally sophisticated food systems in the pre-Columbian world. This is what they knew.",
+      "t": ""
+    },
+    "bef41fd8": {
+      "src": "Bromelain — anti-inflammatory enzyme.",
+      "t": ""
+    },
+    "ea8f854c": {
+      "src": "By staggering planting dates across different mounds, Taino farmers ensured a continuous year-round food supply rather than seasonal feast and famine.",
+      "t": ""
+    },
+    "da6c2b6b": {
+      "src": "Capsaicin — documented pain relief, metabolism boost, cardiovascular support.",
+      "t": ""
+    },
+    "53ada9d9": {
+      "src": "Cassava (Manioc)",
+      "t": ""
+    },
+    "b3db7bdf": {
+      "src": "Cassava farming still dominates in Jamaica today — a direct living legacy of Taino agricultural intelligence.",
+      "t": ""
+    },
+    "a69a2e93": {
+      "src": "Cassava —",
+      "t": ""
+    },
+    "a048ba39": {
+      "src": "Cassava — the sacred staple",
+      "t": ""
+    },
+    "2e4bab78": {
+      "src": "Chilli Pepper",
+      "t": ""
+    },
+    "afee67fa": {
+      "src": "Companion planting:",
+      "t": ""
+    },
+    "ef0aed7b": {
+      "src": "Complex carbohydrate and plant protein foundation.",
+      "t": ""
+    },
+    "2056341d": {
+      "src": "Complex carbohydrate with low glycaemic index.",
+      "t": ""
+    },
+    "40dd4a09": {
+      "src": "Conch, crab, lobster, and various molluscs provided zinc, iodine, and additional protein. Archaeological midden sites across Jamaica show extensive shellfish consumption — with conch shells the dominant find at most coastal sites.",
+      "t": ""
+    },
+    "ab43d664": {
+      "src": "Continue",
+      "t": ""
+    },
+    "ca44b9ed": {
+      "src": "Copal (Bursera simaruba) —",
+      "t": ""
+    },
+    "541f2dba": {
+      "src": "Documented in Taino oral traditions and Spanish colonial records as a prized food source for major ceremonies and community gatherings. Used sustainably, with detailed knowledge of nesting seasons and sustainable harvest levels that maintained populations.",
+      "t": ""
+    },
+    "2a036fb6": {
+      "src": "Drainage:",
+      "t": ""
+    },
+    "7bf99a68": {
+      "src": "Extraordinarily high vitamin C — 4x more than an orange.",
+      "t": ""
+    },
+    "75b1c6ad": {
+      "src": "Food as Medicine",
+      "t": ""
+    },
+    "c21fd5cd": {
+      "src": "Food as medicine",
+      "t": ""
+    },
+    "6d9316f5": {
+      "src": "From the Sea",
+      "t": ""
+    },
+    "d01dae95": {
+      "src": "From the sea",
+      "t": ""
+    },
+    "baaeb601": {
+      "src": "Guanábana (Soursop) —",
+      "t": ""
+    },
+    "ae972951": {
+      "src": "Guava",
+      "t": ""
+    },
+    "b7c7ca22": {
+      "src": "Harvest continuity:",
+      "t": ""
+    },
+    "f04bae05": {
+      "src": "High in beta-carotene, vitamin C, and B vitamins.",
+      "t": ""
+    },
+    "2b45306e": {
+      "src": "Jamaica’s coastline was as much a food source as its interior. The Taino were skilled canoe builders and fishermen, navigating inter-island routes across the Caribbean in dugout canoes they called",
+      "t": ""
+    },
+    "b543bcef": {
+      "src": "Jamaica’s first",
+      "t": ""
+    },
+    "9dc37988": {
+      "src": "Kwik Fat Cut — Return to Real Food Series — Education First",
+      "t": ""
+    },
+    "55c9c882": {
+      "src": "Lycopene, folate, potassium. The Taino guayaba grew wild across Jamaica and was cultivated for both food and medicine.",
+      "t": ""
+    },
+    "833ea670": {
+      "src": "Maize (Corn)",
+      "t": ""
+    },
+    "63394544": {
+      "src": "Manganese for bone health. Vitamin C. The Taino anana — from which the word “pineapple” derives — was cultivated across the Caribbean and used medicinally for arthritis and digestive issues.",
+      "t": ""
+    },
+    "adc44201": {
+      "src": "Movements are medicines. We row. You steer. 🇯🇲",
+      "t": ""
+    },
+    "d39ba75e": {
+      "src": "Multiple species grown together in a single mound create natural pest deterrence, nitrogen fixation (through legumes), and canopy shading that retains soil moisture.",
+      "t": ""
+    },
+    "201a1a81": {
+      "src": "Next in the series",
+      "t": ""
+    },
+    "89c40bcb": {
+      "src": "No single food defined Taino civilisation more than cassava. It was their primary calorie source, their preserved food, their trade good, and their ceremonial offering.",
+      "t": ""
+    },
+    "629f9c10": {
+      "src": "Nutritionally, processed cassava provides complex carbohydrates, resistant starch (a prebiotic that feeds beneficial gut bacteria), and when paired with the Taino’s legume cultivation, delivered a nutritionally complete foundation.",
+      "t": ""
+    },
+    "58043fad": {
+      "src": "Papain enzyme — one of the most powerful digestive enzymes from a plant source.",
+      "t": ""
+    },
+    "35e88cb7": {
+      "src": "Papaya",
+      "t": ""
+    },
+    "e3a89e56": {
+      "src": "Parrotfish, snapper, grouper, and grunt were the primary protein sources from the sea. All rich in omega-3 fatty acids, lean protein, and selenium. The Taino fished using woven nets, bone hooks, and the extraordinary technique of",
+      "t": ""
+    },
+    "dab7b8fd": {
+      "src": "Part 3 — West African Food Traditions. The roots of Caribbean cuisine.",
+      "t": ""
+    },
+    "9954bb75": {
+      "src": "Part 3 — West African Food Traditions: the roots of Caribbean cuisine",
+      "t": ""
+    },
+    "1af62fcf": {
+      "src": "Part 3 →",
+      "t": ""
+    },
+    "36c7c751": {
+      "src": "Pineapple",
+      "t": ""
+    },
+    "fc3ac268": {
+      "src": "Potassium, vitamin C, manganese. Cultivated across the Caribbean for centuries. Still a cornerstone of Jamaican ground provisions.",
+      "t": ""
+    },
+    "33950213": {
+      "src": "Primary calorie source across the Caribbean. Rich in resistant starch. Gluten-free. Processed into flatbread (casabe) that could be stored for months without refrigeration.",
+      "t": ""
+    },
+    "d42ef68d": {
+      "src": "Read Part 3 →",
+      "t": ""
+    },
+    "92503ab3": {
+      "src": "Reef fish —",
+      "t": ""
+    },
+    "02949b44": {
+      "src": "Return to Real Food",
+      "t": ""
+    },
+    "c2d82492": {
+      "src": "Return to Real Food — 2 of 7",
+      "t": ""
+    },
+    "224291c7": {
+      "src": "Returning to real food in Jamaica means, in part, returning to Taino food. The conuco is still the most sustainable agricultural system for tropical Caribbean conditions. The cassava is still a nutritional foundation. The guava still contains more vitamin C than any imported citrus.",
+      "t": ""
+    },
+    "6578f473": {
+      "src": "Sea turtles —",
+      "t": ""
+    },
+    "2167e21c": {
+      "src": "Sea vegetables and coastal plants —",
+      "t": ""
+    },
+    "477c3758": {
+      "src": "Shellfish and crustaceans —",
+      "t": ""
+    },
+    "2dbb4615": {
+      "src": "Smile for me, Jamaica. We row. You steer. 🇯🇲❤️💚",
+      "t": ""
+    },
+    "89c4335b": {
+      "src": "Soil quality:",
+      "t": ""
+    },
+    "a2c773d1": {
+      "src": "Sources",
+      "t": ""
+    },
+    "4374d506": {
+      "src": "Spanish colonial observers documented conuco fields stretching for miles across Jamaica’s interior.",
+      "t": ""
+    },
+    "622b416a": {
+      "src": "Sweet Potato",
+      "t": ""
+    },
+    "74426d77": {
+      "src": "Taino: agi",
+      "t": ""
+    },
+    "8c284fc2": {
+      "src": "Taino: aje",
+      "t": ""
+    },
+    "adab55c7": {
+      "src": "Taino: anana",
+      "t": ""
+    },
+    "ec31b45d": {
+      "src": "Taino: batata",
+      "t": ""
+    },
+    "63921f2c": {
+      "src": "Taino: guayaba",
+      "t": ""
+    },
+    "4f5277d5": {
+      "src": "Taino: mahiz",
+      "t": ""
+    },
+    "707071ee": {
+      "src": "Taino: papaya",
+      "t": ""
+    },
+    "39b897d6": {
+      "src": "Taino: yuca",
+      "t": ""
+    },
+    "2f6e8888": {
+      "src": "The Agricultural System",
+      "t": ""
+    },
+    "f0f252ea": {
+      "src": "The Core Foods",
+      "t": ""
+    },
+    "d2d734a5": {
+      "src": "The Sacred Staple",
+      "t": ""
+    },
+    "2f8b92b1": {
+      "src": "The Series",
+      "t": ""
+    },
+    "e21ee544": {
+      "src": "The Taino agi is the ancestor of the Scotch bonnet. Used in food, medicine, and as a natural insect repellent.",
+      "t": ""
+    },
+    "4dffe989": {
+      "src": "The Taino batata is the direct ancestor of the Caribbean sweet potato. Over 102% of daily vitamin A in a single medium-sized root.",
+      "t": ""
+    },
+    "365ee3e0": {
+      "src": "The Taino developed the processing of bitter cassava — which contains toxic hydrogen cyanide in its raw state — into a safe, storable flatbread called",
+      "t": ""
+    },
+    "b098df1e": {
+      "src": "The Taino did not need to be told that food was medicine. They lived it, built it into their agricultural system, transmitted it through their healers, and demonstrated it in the extraordinary physical health documented by European observers who arrived to destroy the very civilisation they were studying.",
+      "t": ""
+    },
+    "26e57985": {
+      "src": "The Taino diet was overwhelmingly plant-based, supplemented by seafood, freshwater fish, and small game. Archaeological analysis of Taino middens (refuse mounds) across the Caribbean has identified the following as the core of their nutritional system — many of which form the foundation of Jamaican cuisine to this day.",
+      "t": ""
+    },
+    "8043635d": {
+      "src": "The Taino diet.",
+      "t": ""
+    },
+    "cdf389a0": {
+      "src": "The Taino legacy",
+      "t": ""
+    },
+    "a6cbe339": {
+      "src": "The Taino maintained extensive knowledge of medicinal plants, transmitted through specialist healers called",
+      "t": ""
+    },
+    "9969a363": {
+      "src": "The Taino people were largely destroyed within fifty years of European contact. But their food knowledge was not. It survived in the plants themselves — in the cassava, sweet potato, yam, guava, papaya, pineapple, and chilli that became the foundation of Caribbean cuisine. It survived in the conuco system, adopted and adapted by enslaved West Africans who recognised its ecological logic. It survived in the words:",
+      "t": ""
+    },
+    "99d4efc6": {
+      "src": "The Taino pharmacopoeia —",
+      "t": ""
+    },
+    "152b17ca": {
+      "src": "The Taino were the Arawakan-speaking indigenous people who inhabited the Greater Antilles — including Jamaica, Cuba, Hispaniola, and Puerto Rico — for at least 2,000 years before European contact. Archaeological evidence from sites in Jamaica, including the White Marl village site near Spanish Town, places Taino settlement on the island as early as 600 CE, with Arawakan ancestors present from as early as 300 BCE.",
+      "t": ""
+    },
+    "f23fc8eb": {
+      "src": "The Taino word",
+      "t": ""
+    },
+    "84e744b5": {
+      "src": "The colonisers depended on indigenous food knowledge for survival while simultaneously destroying the culture that produced it.",
+      "t": ""
+    },
+    "893bfb78": {
+      "src": "The conuco mound was not arbitrary. It was a solution to multiple agricultural problems simultaneously:",
+      "t": ""
+    },
+    "84fa208a": {
+      "src": "The conuco system",
+      "t": ""
+    },
+    "ffd19181": {
+      "src": "The conuco system — documented by Spanish colonial observers",
+      "t": ""
+    },
+    "8a908435": {
+      "src": "The conuco —",
+      "t": ""
+    },
+    "56d3636a": {
+      "src": "The core foods",
+      "t": ""
+    },
+    "7dae9f56": {
+      "src": "The first kitchen",
+      "t": ""
+    },
+    "0744c24d": {
+      "src": "The first people",
+      "t": ""
+    },
+    "98202d9a": {
+      "src": "The foundation of Taino food production was the",
+      "t": ""
+    },
+    "6ea6e6ae": {
+      "src": "The land still provides. The knowledge is still here.",
+      "t": ""
+    },
+    "d210c6af": {
+      "src": "The mass recreational use of tobacco was imposed by colonial trade, not indigenous practice.",
+      "t": ""
+    },
+    "b47bd421": {
+      "src": "The mounding process incorporates organic material from the surrounding area, concentrating nutrients around the root zone of the plant.",
+      "t": ""
+    },
+    "492d9772": {
+      "src": "The ocean as",
+      "t": ""
+    },
+    "53ed57fb": {
+      "src": "The process they developed: grating the cassava root, squeezing out the toxic juice through a woven press called a",
+      "t": ""
+    },
+    "422d936f": {
+      "src": "The raised height protected root crops from waterlogging during Jamaica’s heavy rainfall periods, preventing root rot and crop failure.",
+      "t": ""
+    },
+    "7d26efd1": {
+      "src": "The sacred staple.",
+      "t": ""
+    },
+    "cda3580f": {
+      "src": "Their food knowledge, however, survived — embedded in the plants they cultivated, the words they gave to Caribbean produce, and the agricultural systems they left behind.",
+      "t": ""
+    },
+    "c2e9e488": {
+      "src": "Their knowledge is in the plants. Their plants are in the ground. The ground is still here.",
+      "t": ""
+    },
+    "0e062e24": {
+      "src": "They cultivated it, systematised it, and transmitted it across generations",
+      "t": ""
+    },
+    "a6233dd4": {
+      "src": "They fed tens of thousands of people with zero chemical inputs, zero irrigation infrastructure, and zero soil depletion",
+      "t": ""
+    },
+    "dddfb160": {
+      "src": "Tobacco (",
+      "t": ""
+    },
+    "b8bbffde": {
+      "src": "Used ceremonially and medicinally, not recreationally — a critical distinction. The bohique used tobacco in specific healing ceremonies.",
+      "t": ""
+    },
+    "a330e9ac": {
+      "src": "Used for fever reduction, sleep, and nervous system complaints. The leaves, roots, and fruit all used for different conditions — a specificity of plant knowledge that modern phytochemistry is now mapping through the identification of distinct active compounds in each part of the plant.",
+      "t": ""
+    },
+    "75310d23": {
+      "src": "Used for fevers, skin conditions, and respiratory complaints. The resin applied topically to wounds as a natural antiseptic. Modern analysis confirms significant antimicrobial properties.",
+      "t": ""
+    },
+    "347a4bce": {
+      "src": "Various coastal plants, including sea grapes and mangrove fruits, supplemented the diet at certain seasons. The Taino’s detailed knowledge of coastal ecology gave them access to nutritional resources that European colonisers — unfamiliar with the environment — completely missed.",
+      "t": ""
+    },
+    "cd744d08": {
+      "src": "Vitamins A, C, and E. Folate. The Taino used unripe papaya medicinally for wounds and digestive complaints — uses now confirmed by clinical research.",
+      "t": ""
+    },
+    "4ee01bdb": {
+      "src": "What Survived",
+      "t": ""
+    },
+    "effac9fb": {
+      "src": "What survived",
+      "t": ""
+    },
+    "95c3db85": {
+      "src": "What the Taino",
+      "t": ""
+    },
+    "c4e73e16": {
+      "src": "When Christopher Columbus arrived in 1492 and his crew was facing starvation,",
+      "t": ""
+    },
+    "d996bc2c": {
+      "src": "When Christopher Columbus arrived in Jamaica in 1494, he encountered a population estimated at 60,000–100,000 people — organised into chiefdoms, living in large villages, and maintaining a food system of remarkable sophistication.",
+      "t": ""
+    },
+    "18ad4732": {
+      "src": "When you eat Jamaican food — when you eat ground provisions, tropical fruit, fresh fish, or spiced peppers — you are eating Taino knowledge.",
+      "t": ""
+    },
+    "ffdf295c": {
+      "src": "Who They Were",
+      "t": ""
+    },
+    "ad21421e": {
+      "src": "Who the Taino were",
+      "t": ""
+    },
+    "2d9f3be5": {
+      "src": "Why the mound worked — then and now",
+      "t": ""
+    },
+    "db451880": {
+      "src": "Within fifty years, the Taino population of Jamaica had been effectively destroyed by disease, enslavement, and colonial violence.",
+      "t": ""
+    },
+    "b1aec066": {
+      "src": "Yam",
+      "t": ""
+    },
+    "377070d0": {
+      "src": "You are eating the nutritional intelligence of a people who understood this land, its soil, its seasons, and its medicinal plants with a precision that four centuries of industrial agriculture have not surpassed.",
+      "t": ""
+    },
+    "4cba68c5": {
+      "src": "a second garden.",
+      "t": ""
+    },
+    "5a52803a": {
+      "src": "all entered English through contact with Taino culture. Their food words — including the names of cassava, guava, papaya, and maize — are embedded in every language that describes Caribbean produce.",
+      "t": ""
+    },
+    "dcd535d1": {
+      "src": "and the English",
+      "t": ""
+    },
+    "d8104f59": {
+      "src": "barbecue, hurricane, canoe, hammock, guava, papaya, maize, savanna.",
+      "t": ""
+    },
+    "3de7bf11": {
+      "src": "became the Spanish",
+      "t": ""
+    },
+    "005e1dde": {
+      "src": "bohique",
+      "t": ""
+    },
+    "11ee5d0d": {
+      "src": "canoa",
+      "t": ""
+    },
+    "f85c3af8": {
+      "src": "casabe",
+      "t": ""
+    },
+    "0b5d0481": {
+      "src": "cohiba",
+      "t": ""
+    },
+    "587971fc": {
+      "src": "conuco",
+      "t": ""
+    },
+    "8ffecf3b": {
+      "src": "cultivated and ate.",
+      "t": ""
+    },
+    "2080a401": {
+      "src": "food tradition.",
+      "t": ""
+    },
+    "b997680b": {
+      "src": "in every Jamaican kitchen.",
+      "t": ""
+    },
+    "eaafae37": {
+      "src": "it was Taino cassava bread that kept the Spanish alive.",
+      "t": ""
+    },
+    "20403aee": {
+      "src": "mahiz",
+      "t": ""
+    },
+    "9ef64353": {
+      "src": "maize",
+      "t": ""
+    },
+    "8e67a75f": {
+      "src": "matapi",
+      "t": ""
+    },
+    "d7d88468": {
+      "src": "maíz",
+      "t": ""
+    },
+    "6f12bf57": {
+      "src": "of Jamaica’s land.",
+      "t": ""
+    },
+    "7ffc285f": {
+      "src": "plants that healed.",
+      "t": ""
+    },
+    "49cb5553": {
+      "src": "remora fishing",
+      "t": ""
+    },
+    "f021435b": {
+      "src": "the most important food in pre-Columbian Caribbean history.",
+      "t": ""
+    },
+    "faed9482": {
+      "src": "the most sophisticated farm in the pre-Columbian Caribbean.",
+      "t": ""
+    },
+    "8796858d": {
+      "src": "the series.",
+      "t": ""
+    },
+    "2d993cb3": {
+      "src": "was this island.",
+      "t": ""
+    },
+    "aa976cc8": {
+      "src": "with a precision that European colonisers simultaneously destroyed and depended upon for survival.”",
+      "t": ""
+    },
+    "9bc2a4a2": {
+      "src": "— a raised mound cultivation system of extraordinary ecological intelligence. Conucos were constructed by heaping soil into mounds one to three feet high and several feet wide, then planting multiple crops together in the same mound.",
+      "t": ""
+    },
+    "7956f590": {
+      "src": "— attaching a line to a remora fish and guiding it to larger fish.",
+      "t": ""
+    },
+    "a3d868b6": {
+      "src": "— because the system was designed to work with the island’s ecology rather than against it.",
+      "t": ""
+    },
+    "950b440f": {
+      "src": "— the origin of the English word “canoe.”",
+      "t": ""
+    },
+    "13b88989": {
+      "src": "“The Taino did not discover the nutritional value of Caribbean plants.",
+      "t": ""
+    },
+    "95835151": {
+      "src": "“barbacoa”",
+      "t": ""
+    },
+    "079aae1a": {
+      "src": "“canoa”",
+      "t": ""
+    },
+    "09f41459": {
+      "src": "“hamaca”",
+      "t": ""
+    },
+    "9e9e1579": {
+      "src": "“hutia”",
+      "t": ""
+    },
+    "cff1920f": {
+      "src": "← Part 1",
+      "t": ""
+    },
+    "e4a7db66": {
+      "src": "🌴 Return to Real Food Series — Part 2 — The Taino Diet",
+      "t": ""
+    }
+  }
+}

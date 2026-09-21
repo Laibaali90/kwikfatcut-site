@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Dr. Sebi taught that the blood must be clean for the body to heal. Burdock root, sarsaparilla, dandelion, cerasee — ancestral blood-cleansing herbs backed by centuries of indigenous knowledge and modern research.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Clean the Blood — Ancestral Herbs & the Elders' Teaching — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  .nav-btn:hover{background:var(--cream)!important;}
+  /* CINEMATIC HEADER */
+  .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(ellipse 60% 65% at 75% 35%,rgba(46,107,62,0.09) 0%,transparent 62%),
+    radial-gradient(ellipse 45% 45% at 10% 80%,rgba(218,165,32,0.05) 0%,transparent 55%),
+    radial-gradient(ellipse 35% 40% at 85% 80%,rgba(193,68,14,0.05) 0%,transparent 55%);}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb a:hover{color:var(--c60);}
+  .breadcrumb span{margin:0 0.6rem;}
+  .article-tag{display:inline-block;font-size:0.64rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--green);border:1px solid rgba(46,107,62,0.4);padding:0.25rem 0.7rem;border-radius:2px;margin-bottom:1.5rem;opacity:0;animation:up 0.9s 0.15s ease forwards;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(3rem,8vw,7.5rem);font-weight:300;line-height:1.03;color:var(--cream);max-width:860px;opacity:0;animation:up 0.9s 0.22s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .header-teaching{max-width:560px;margin-top:2.2rem;opacity:0;animation:up 0.9s 0.38s ease forwards;}
+  .header-teaching p{font-family:'Cormorant Garamond',serif;font-size:1.15rem;font-weight:300;font-style:italic;line-height:1.6;color:var(--c60);}
+  .header-teaching p em{font-style:normal;color:var(--gold);}
+  .article-meta{margin-top:2rem;display:flex;gap:2rem;flex-wrap:wrap;opacity:0;animation:up 0.9s 0.48s ease forwards;}
+  .meta-item{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);}
+  .meta-item strong{color:var(--c60);font-weight:400;}
+
+  /* COLOUR BAND */
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:5px;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+
+  /* ARTICLE LAYOUT */
+  .article-wrap{padding:6rem 6vw;display:grid;grid-template-columns:1fr 2.5fr;gap:6rem;align-items:start;}
+  .sidebar{position:sticky;top:110px;}
+  .sidebar-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:1.2rem;font-weight:500;}
+  .toc a{font-size:0.82rem;color:var(--c60);text-decoration:none;padding:0.65rem 0;border-bottom:1px solid var(--c10);display:block;transition:color 0.2s;line-height:1.4;}
+  .toc a:first-child{border-top:1px solid var(--c10);}
+  .toc a:hover{color:var(--gold);}
+  .sidebar-elder{margin-top:2.5rem;border-left:2px solid var(--green);padding:1.2rem;background:rgba(46,107,62,0.07);}
+  .sidebar-elder p{font-size:0.8rem;line-height:1.75;color:var(--c60);font-style:italic;}
+  .sidebar-elder strong{font-style:normal;color:var(--cream);font-weight:400;}
+  .sidebar-elder .attr{font-size:0.68rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--green);margin-top:0.6rem;font-style:normal;}
+  .sidebar-logo{margin-top:2rem;text-align:center;}
+  .sidebar-logo img{width:120px;height:auto;filter:drop-shadow(0 4px 20px rgba(218,165,32,0.15));opacity:0.85;}
+
+  .article-body{display:flex;flex-direction:column;gap:0;}
+  .article-section{padding:3.5rem 0;border-bottom:1px solid var(--c10);}
+  .article-section:first-child{padding-top:0;}
+  .article-section:last-child{border-bottom:none;}
+  .section-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.8rem;}
+  .section-label.green{color:var(--green);}
+  .section-label.gold{color:var(--gold);}
+  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.7rem,3vw,2.6rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.5rem;}
+  .article-section h2 em{font-style:italic;color:var(--gold);}
+  .article-section p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1.2rem;}
+  .article-section p:last-child{margin-bottom:0;}
+  .article-section p strong{color:var(--cream);font-weight:400;}
+
+  /* PULL QUOTE */
+  .pull-quote{margin:2.5rem 0;padding:2rem 2.5rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .pull-quote p{font-family:'Cormorant Garamond',serif;font-size:1.35rem;font-weight:300;font-style:italic;line-height:1.6;color:var(--cream);}
+  .pull-quote p em{font-style:normal;color:var(--gold);}
+  .pull-quote .attr{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.8rem;}
+
+  /* ELDER BLOCK */
+  .elder-block{margin:2.5rem 0;padding:2.2rem 2.4rem;border:1px solid rgba(46,107,62,0.3);background:rgba(46,107,62,0.06);position:relative;}
+  .elder-block::before{content:'';position:absolute;top:0;left:0;width:3px;height:100%;background:var(--green);}
+  .eb-label{font-size:0.62rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--green);font-weight:500;margin-bottom:0.8rem;}
+  .elder-block blockquote{font-family:'Cormorant Garamond',serif;font-size:1.15rem;font-weight:300;font-style:italic;line-height:1.65;color:var(--cream);}
+  .elder-block .eb-attr{font-size:0.72rem;letter-spacing:0.16em;text-transform:uppercase;color:var(--green);margin-top:0.8rem;font-style:normal;font-family:'DM Sans',sans-serif;font-weight:400;}
+  .elder-block p.eb-body{font-size:0.9rem;line-height:1.85;color:var(--c60);margin-top:1rem;font-style:normal;font-family:'DM Sans',sans-serif;}
+  .elder-block p.eb-body strong{color:var(--cream);font-weight:400;}
+
+  /* HERB PROFILE */
+  .herb-profile{margin:2.5rem 0;border:1px solid var(--c10);overflow:hidden;}
+  .hp-header{padding:1.8rem 2rem;background:rgba(46,107,62,0.08);border-bottom:1px solid rgba(46,107,62,0.15);display:flex;align-items:center;gap:1.2rem;}
+  .hp-icon{font-size:2rem;flex-shrink:0;line-height:1;}
+  .hp-name{font-family:'Cormorant Garamond',serif;font-size:1.5rem;font-weight:400;color:var(--cream);}
+  .hp-latin{font-size:0.76rem;font-style:italic;color:var(--c30);margin-top:0.15rem;}
+  .hp-body{padding:2rem;}
+  .hp-body p{font-size:0.9rem;line-height:1.85;color:var(--c60);margin-bottom:1rem;}
+  .hp-body p:last-child{margin-bottom:0;}
+  .hp-body p strong{color:var(--cream);font-weight:400;}
+  .hp-properties{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:2px;margin-top:1.5rem;}
+  .hp-prop{padding:0.9rem 1rem;border:1px solid var(--c10);}
+  .hp-prop-label{font-size:0.62rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--green);font-weight:500;margin-bottom:0.25rem;}
+  .hp-prop-value{font-size:0.82rem;color:var(--c60);}
+
+  /* BLOOD ANATOMY */
+  .blood-anatomy{margin:2rem 0;display:flex;flex-direction:column;gap:0;}
+  .ba-item{display:flex;gap:1.6rem;align-items:flex-start;padding:1.4rem 0;border-bottom:1px solid var(--c10);}
+  .ba-item:first-child{border-top:1px solid var(--c10);}
+  .ba-icon{font-size:1.3rem;flex-shrink:0;width:2rem;text-align:center;line-height:1.3;}
+  .ba-content h3{font-size:0.9rem;font-weight:500;color:var(--cream);margin-bottom:0.3rem;}
+  .ba-content p{font-size:0.86rem;line-height:1.8;color:var(--c60);}
+  .ba-content p strong{color:var(--cream);font-weight:400;}
+
+  /* SYMPTOMS GRID */
+  .symptoms-grid{display:grid;grid-template-columns:1fr 1fr;gap:2px;margin:2rem 0;}
+  .sym-card{padding:1.5rem 1.4rem;border:1px solid var(--c10);transition:border-color 0.3s,background 0.3s;}
+  .sym-card:hover{border-color:rgba(46,107,62,0.3);background:rgba(46,107,62,0.05);}
+  .sym-icon{font-size:1.2rem;margin-bottom:0.5rem;line-height:1;}
+  .sym-name{font-size:0.86rem;font-weight:500;color:var(--cream);margin-bottom:0.25rem;}
+  .sym-desc{font-size:0.78rem;line-height:1.65;color:var(--c60);}
+
+  /* CLOSING */
+  .article-close{padding:4rem 0 2rem;}
+  .article-close h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3.2rem);font-weight:300;line-height:1.12;color:var(--cream);margin-bottom:1.2rem;}
+  .article-close h2 em{font-style:italic;color:var(--gold);}
+  .article-close p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1rem;}
+  .article-close p strong{color:var(--cream);font-weight:400;}
+  .close-lines{display:flex;flex-direction:column;gap:0.4rem;margin:1.8rem 0;}
+  .close-line{font-family:'Cormorant Garamond',serif;font-size:clamp(1.2rem,2.2vw,1.9rem);font-weight:300;font-style:italic;color:var(--cream);line-height:1.3;}
+  .close-line em{font-style:normal;color:var(--gold);}
+  .article-close .sign{font-size:0.72rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);margin-top:1.5rem;}
+
+  /* SOCIAL STRIP */
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-btn.follow:hover{background:var(--g08);}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,transform 0.2s;}
+  .btn-primary:hover{background:var(--cream);transform:translateY(-2px);}
+  .btn-outline{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .btn-outline:hover{border-color:var(--c60);color:var(--cream);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){.article-wrap{grid-template-columns:1fr;gap:3rem;}.sidebar{position:static;}.symptoms-grid{grid-template-columns:1fr;}.cta-strip{flex-direction:column;align-items:flex-start;}}
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/learn-blood-cleansing-herbs.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span><a href="foods-hub.html">Foods Hub</a><span>&middot;</span>Blood &amp; Herbs</p>
+  <span class="article-tag">Plants as Medicine &mdash; Deep Read</span>
+  <h1>Clean the blood.<br>The symptoms<br><em>follow.</em></h1>
+  <div class="header-teaching">
+    <p>&ldquo;The blood must be clean for the body to heal. When waste stays in the blood, it shows up as pain, swelling, joint issues, and skin problems. <em>Clean the blood. The symptoms follow.</em>&rdquo;</p>
+    <p style="font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.8rem;font-style:normal;">The teaching of Dr. Sebi &mdash; as understood in ancestral tradition</p>
+  </div>
+  <div class="article-meta">
+    <div class="meta-item">Category <strong>Plants as Medicine</strong></div>
+    <div class="meta-item">Reading time <strong>12 min</strong></div>
+    <div class="meta-item">Level <strong>Deep Read</strong></div>
+  </div>
+</header>
+
+<div class="colour-band"><div class="cb-black"></div><div class="cb-red"></div><div class="cb-gold"></div><div class="cb-green"></div></div>
+
+<div class="article-wrap">
+  <aside class="sidebar reveal">
+    <p class="sidebar-label">In this article</p>
+    <nav class="toc">
+      <a href="#teaching">The teaching</a>
+      <a href="#blood">What blood actually does</a>
+      <a href="#waste">When waste builds up</a>
+      <a href="#burdock">Burdock root</a>
+      <a href="#elders">The elders speak</a>
+      <a href="#herbs">Other blood herbs</a>
+      <a href="#practice">Daily practice</a>
+    </nav>
+    <div class="sidebar-elder">
+      <p>&ldquo;Nature has provided a cure for every disease. The human body, if given the right tools, will heal itself.&rdquo;</p>
+      <p class="attr">Dr. Sebi (Alfredo Darrington Bowman)<br>1933 &mdash; 2016</p>
+    </div>
+    <div class="sidebar-logo">
+      <img src="kwik-logo.jpeg" alt="Kwik Fat Cut" loading="eager" fetchpriority="high" decoding="async">
+    </div>
+  </aside>
+
+  <article class="article-body">
+
+    <!-- THE TEACHING -->
+    <div class="article-section reveal" id="teaching">
+      <p class="section-label">The Foundation</p>
+      <h2>A teaching that goes<br>back <em>further than we think.</em></h2>
+      <p>Dr. Sebi &mdash; born Alfredo Darrington Bowman in Honduras in 1933, raised in the traditions of African and Caribbean herbalism &mdash; spent his life teaching one foundational truth: <strong>the blood is the river of life, and when that river is polluted, the whole body suffers.</strong></p>
+      <p>This was not a new idea when Dr. Sebi taught it. It was a restoration. Ancient Egyptian medical papyri described the blood as the carrier of vitality. West African healers spoke of the blood as the seat of health for generations before colonial medicine arrived. Ayurvedic texts written over 3,000 years ago described blood purification &mdash; <em>Raktashodhana</em> &mdash; as one of the most important acts of preventive medicine.</p>
+      <p>Dr. Sebi understood this lineage. He did not invent it. <strong>He remembered it, lived it, and taught it to anyone who would listen.</strong></p>
+
+      <div class="pull-quote">
+        <p>&ldquo;You didn&rsquo;t get sick overnight. You were being prepared for sickness for years. <em>Clean the blood and watch the body remember how to heal.</em>&rdquo;</p>
+        <p class="attr">Dr. Sebi &mdash; as taught in his lectures on cellular nutrition</p>
+      </div>
+    </div>
+
+    <!-- WHAT BLOOD ACTUALLY DOES -->
+    <div class="article-section reveal" id="blood">
+      <p class="section-label">The Biology</p>
+      <h2>What blood<br><em>actually does.</em></h2>
+      <p>Before we understand what it means to clean the blood, we need to understand what blood is actually doing &mdash; because most people have never been taught this in plain language.</p>
+
+      <div class="blood-anatomy">
+        <div class="ba-item reveal">
+          <div class="ba-icon">🔴</div>
+          <div class="ba-content">
+            <h3>Oxygen delivery</h3>
+            <p>Red blood cells carry oxygen from the lungs to every cell in the body. <strong>Without clean, oxygenated blood, cells begin to deteriorate.</strong> Every organ, every tissue, every thought depends on this function.</p>
+          </div>
+        </div>
+        <div class="ba-item reveal">
+          <div class="ba-icon">🛡️</div>
+          <div class="ba-content">
+            <h3>Immune surveillance</h3>
+            <p>White blood cells patrol the bloodstream constantly, identifying and neutralising pathogens, damaged cells, and foreign material. <strong>When the blood is burdened with toxins, this surveillance is compromised.</strong></p>
+          </div>
+        </div>
+        <div class="ba-item reveal">
+          <div class="ba-icon">🌊</div>
+          <div class="ba-content">
+            <h3>Waste removal</h3>
+            <p>Blood carries metabolic waste products &mdash; urea, carbon dioxide, cellular debris &mdash; to the kidneys, liver, and lungs for elimination. <strong>When elimination is impaired, waste recirculates.</strong> This is what the elders called &ldquo;dirty blood.&rdquo;</p>
+          </div>
+        </div>
+        <div class="ba-item reveal">
+          <div class="ba-icon">🌿</div>
+          <div class="ba-content">
+            <h3>Nutrient transport</h3>
+            <p>Vitamins, minerals, amino acids, and glucose all travel through the blood to the organs and tissues that need them. <strong>A compromised bloodstream means compromised nutrition</strong> &mdash; regardless of how well you eat.</p>
+          </div>
+        </div>
+        <div class="ba-item reveal">
+          <div class="ba-icon">⚖️</div>
+          <div class="ba-content">
+            <h3>pH regulation</h3>
+            <p>Dr. Sebi placed enormous emphasis on alkalinity. The blood maintains a very narrow pH range (7.35&ndash;7.45). <strong>Acidic foods, processed sugars, and stress all push the body toward acidity</strong> &mdash; forcing the blood to work harder to maintain balance, drawing minerals from bones and tissues in the process.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- WHEN WASTE BUILDS -->
+    <div class="article-section reveal" id="waste">
+      <p class="section-label">The Accumulation</p>
+      <h2>When waste stays<br>in the blood &mdash;<br><em>it speaks loudly.</em></h2>
+      <p>The elders across traditions described the same phenomenon &mdash; what happens when the body&rsquo;s elimination systems cannot keep pace with what is being put in. Dr. Sebi called it <strong>mucus</strong>. Ayurvedic medicine calls it <strong>ama</strong>. Traditional Chinese medicine calls it <strong>dampness and stagnation</strong>. The language differs. The observation is the same.</p>
+      <p>When metabolic waste and dietary toxins accumulate in the blood faster than they can be eliminated, the body deposits them in tissues &mdash; joints, skin, organs. <strong>What shows up as symptoms is the body trying to protect its vital systems from that accumulation.</strong></p>
+
+      <div class="symptoms-grid">
+        <div class="sym-card reveal">
+          <div class="sym-icon">🔥</div>
+          <div class="sym-name">Joint pain &amp; swelling</div>
+          <div class="sym-desc">Uric acid and inflammatory compounds deposited in joint tissue. The body inflames the area in an attempt to flush it. Gout is the most extreme expression of this.</div>
+        </div>
+        <div class="sym-card reveal">
+          <div class="sym-icon">🌡️</div>
+          <div class="sym-name">Skin conditions</div>
+          <div class="sym-desc">The skin is the body's third kidney. Eczema, psoriasis, acne, and rashes often indicate the liver and kidneys are overloaded — the body pushes toxins out through the skin instead.</div>
+        </div>
+        <div class="sym-card reveal">
+          <div class="sym-icon">😴</div>
+          <div class="sym-name">Chronic fatigue</div>
+          <div class="sym-desc">Blood burdened with waste delivers less oxygen to cells. Less oxygen means less energy at the cellular level — no supplement can compensate for a compromised delivery system.</div>
+        </div>
+        <div class="sym-card reveal">
+          <div class="sym-icon">🧠</div>
+          <div class="sym-name">Brain fog</div>
+          <div class="sym-desc">The brain is one of the most blood-hungry organs in the body. When blood quality declines, cognitive function follows — concentration, memory, and clarity all suffer.</div>
+        </div>
+        <div class="sym-card reveal">
+          <div class="sym-icon">💨</div>
+          <div class="sym-name">High blood pressure</div>
+          <div class="sym-desc">The heart pumps harder when blood is thickened by excess waste, cholesterol deposits, or inflammatory compounds. The pressure is the body working overtime to maintain circulation.</div>
+        </div>
+        <div class="sym-card reveal">
+          <div class="sym-icon">🫁</div>
+          <div class="sym-name">Respiratory congestion</div>
+          <div class="sym-desc">Dr. Sebi's teaching on mucus centred here — excess mucous membrane production as the body's attempt to protect itself from acidic, irritating compounds in the bloodstream.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- BURDOCK ROOT -->
+    <div class="article-section reveal" id="burdock">
+      <p class="section-label green">The Root</p>
+      <h2>Burdock root &mdash;<br><em>the blood&rsquo;s oldest ally.</em></h2>
+      <p>Burdock root (<em>Arctium lappa</em>) was one of the herbs most consistently referenced in Dr. Sebi&rsquo;s nutritional guide. It is not a trendy wellness ingredient. <strong>It is one of the most documented blood-supporting herbs in human history</strong> &mdash; appearing in European, Asian, and indigenous American herbal traditions independently, across centuries.</p>
+
+      <div class="herb-profile reveal">
+        <div class="hp-header">
+          <div class="hp-icon">🌿</div>
+          <div>
+            <div class="hp-name">Burdock Root</div>
+            <div class="hp-latin">Arctium lappa — used across Europe, Asia, and the Americas for centuries</div>
+          </div>
+        </div>
+        <div class="hp-body">
+          <p>Burdock root works primarily through the <strong>kidneys and liver</strong> &mdash; the body&rsquo;s two primary filtration organs. It acts as a diuretic, increasing urine output and helping the kidneys flush water-soluble waste from the bloodstream more efficiently. Simultaneously, its bitter compounds stimulate bile production in the liver, supporting fat-soluble toxin processing.</p>
+          <p>The root is rich in <strong>inulin</strong> &mdash; a prebiotic fibre that feeds beneficial gut bacteria, supporting the gut-liver axis that determines how efficiently the body processes and eliminates waste. It also contains <strong>arctigenin</strong>, a lignan compound with documented anti-inflammatory and antioxidant activity.</p>
+          <p>Perhaps most importantly for Dr. Sebi&rsquo;s teaching: burdock root is one of the few herbs documented to help reduce uric acid levels in the blood &mdash; directly addressing the compound most associated with joint pain and gout.</p>
+          <div class="hp-properties">
+            <div class="hp-prop">
+              <div class="hp-prop-label">Primary action</div>
+              <div class="hp-prop-value">Blood purification via kidney &amp; liver support</div>
+            </div>
+            <div class="hp-prop">
+              <div class="hp-prop-label">Key compounds</div>
+              <div class="hp-prop-value">Inulin, arctigenin, quercetin, mucilage</div>
+            </div>
+            <div class="hp-prop">
+              <div class="hp-prop-label">Traditional use</div>
+              <div class="hp-prop-value">Skin conditions, joint pain, liver support, inflammation</div>
+            </div>
+            <div class="hp-prop">
+              <div class="hp-prop-label">Forms used</div>
+              <div class="hp-prop-value">Root tea, tincture, capsule, food (root cooked whole)</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- THE ELDERS SPEAK -->
+    <div class="article-section reveal" id="elders">
+      <p class="section-label gold">The Elders Speak</p>
+      <h2>What the traditions<br><em>have always known.</em></h2>
+      <p>Dr. Sebi stood in a long line of teachers. What he taught about blood and herbs had roots that stretched back centuries across multiple continents. The elders &mdash; in their different languages, their different lands &mdash; were observing the same truth.</p>
+
+      <div class="elder-block reveal">
+        <p class="eb-label">Dr. Sebi — Honduras / USA, 1933–2016</p>
+        <blockquote>&ldquo;Disease only exists in an acid environment. When you remove the acid and clean the blood, disease has nowhere to live. The body was designed to heal &mdash; we just have to stop poisoning it and give it what it needs from the earth.&rdquo;</blockquote>
+        <p class="eb-attr">Alfredo Darrington Bowman &mdash; Herbalist, healer, teacher</p>
+        <p class="eb-body">Dr. Sebi&rsquo;s entire methodology was built around alkalising the body and cleaning the blood through specific African and indigenous herbs. <strong>Burdock, sarsaparilla, elderberry, dandelion, and yellow dock</strong> formed the backbone of his cell food approach &mdash; all chosen for their ability to support kidney and liver function.</p>
+      </div>
+
+      <div class="elder-block reveal">
+        <p class="eb-label">Hippocrates — Greece, 460–370 BC</p>
+        <blockquote>&ldquo;Let food be thy medicine, and medicine be thy food. The natural healing force within each one of us is the greatest force in getting well.&rdquo;</blockquote>
+        <p class="eb-attr">Hippocrates &mdash; Father of Western medicine</p>
+        <p class="eb-body">Two and a half thousand years before modern pharmacology, Hippocrates documented the use of bitter herbs &mdash; including burdock &mdash; for &ldquo;purifying the humours.&rdquo; In the humoral tradition, disease was understood as an imbalance in the body&rsquo;s fluids. <strong>Cleansing those fluids was the treatment.</strong> The language has changed. The observation has not.</p>
+      </div>
+
+      <div class="elder-block reveal">
+        <p class="eb-label">Charaka — India, approximately 300 BC</p>
+        <blockquote>&ldquo;A physician who knows only medicine does not even know medicine. He must know the patient, the season, the land, and the constitution. Then he can heal.&rdquo;</blockquote>
+        <p class="eb-attr">Charaka &mdash; Author of the Charaka Samhita, foundational Ayurvedic text</p>
+        <p class="eb-body">The Charaka Samhita &mdash; one of Ayurveda&rsquo;s oldest foundational texts &mdash; dedicates entire chapters to <em>Raktashodhana</em> (blood purification) and the use of bitter, diuretic herbs to support what it called <em>Rakta dhatu</em> (blood tissue). <strong>Neem, turmeric, manjistha, and guduchi were prescribed</strong> in ancient India for the same purposes that Dr. Sebi prescribed burdock and sarsaparilla millennia later.</p>
+      </div>
+
+      <div class="elder-block reveal">
+        <p class="eb-label">West African Healing Tradition</p>
+        <blockquote>&ldquo;The tree does not choose who sits in its shade. The herbs of the earth do not ask your status. They give to all who understand them.&rdquo;</blockquote>
+        <p class="eb-attr">West African proverb — traditional herbalist tradition</p>
+        <p class="eb-body">Across West Africa &mdash; from which the Caribbean diaspora draws its deepest roots &mdash; blood cleansing was understood as a seasonal practice. <strong>Bitter leaf (<em>Vernonia amygdalina</em>), moringa, and African basil</strong> were used in decoctions to cleanse the blood after periods of heavy eating, before planting seasons, and as part of spiritual preparation. The body and the earth were seen as one system.</p>
+      </div>
+
+      <div class="elder-block reveal">
+        <p class="eb-label">Jamaican Bush Medicine</p>
+        <blockquote>&ldquo;Every yard have its bush. Every bush have its purpose. The land provides what the body needs — you just have to know how to look.&rdquo;</blockquote>
+        <p class="eb-attr">Jamaican traditional bush medicine — oral tradition, passed through generations</p>
+        <p class="eb-body">Jamaican bush medicine &mdash; a synthesis of West African, Taino indigenous, and Caribbean plant knowledge &mdash; has always included blood-cleansing preparations. <strong>Cerasee (<em>Momordica charantia</em>), soursop leaf, fever grass (lemongrass), and search-mi-heart</strong> were used in teas and baths for exactly the purposes Dr. Sebi described. These were not folk remedies waiting for science to validate them. They were observations refined over generations.</p>
+      </div>
+    </div>
+
+    <!-- OTHER HERBS -->
+    <div class="article-section reveal" id="herbs">
+      <p class="section-label green">The Full Toolkit</p>
+      <h2>Other herbs the<br>elders <em>trusted.</em></h2>
+      <p>Burdock root was central to Dr. Sebi&rsquo;s teaching &mdash; but it was never alone. The elders across traditions understood that the blood benefits from a range of plant allies, each working through different pathways to support the same outcome.</p>
+
+      <div class="herb-profile reveal">
+        <div class="hp-header"><div class="hp-icon">🌱</div><div><div class="hp-name">Sarsaparilla</div><div class="hp-latin">Smilax ornata — used by Dr. Sebi as a primary blood herb</div></div></div>
+        <div class="hp-body">
+          <p>One of Dr. Sebi&rsquo;s most frequently referenced herbs. Sarsaparilla was used by indigenous peoples of Central and South America for centuries before it was studied by Western science. <strong>It binds to endotoxins in the gut and bloodstream</strong> &mdash; preventing their reabsorption and facilitating their elimination through the kidneys. It also contains saponins that support hormonal balance.</p>
+        </div>
+      </div>
+
+      <div class="herb-profile reveal">
+        <div class="hp-header"><div class="hp-icon">🌼</div><div><div class="hp-name">Dandelion Root</div><div class="hp-latin">Taraxacum officinale — the humble blood tonic</div></div></div>
+        <div class="hp-body">
+          <p>Dismissed as a garden weed in the modern world. Revered as a blood and liver tonic across Europe, China, and the Americas for centuries. <strong>Dandelion root is one of the most gentle yet effective liver stimulants known</strong> &mdash; increasing bile flow, supporting detoxification, and providing a significant dose of potassium, often depleted when the body is working to eliminate toxins.</p>
+        </div>
+      </div>
+
+      <div class="herb-profile reveal">
+        <div class="hp-header"><div class="hp-icon">🌿</div><div><div class="hp-name">Cerasee (Bitter Melon)</div><div class="hp-latin">Momordica charantia — Jamaica's most beloved blood herb</div></div></div>
+        <div class="hp-body">
+          <p>In Jamaica, cerasee tea is one of the most trusted traditional remedies. <strong>It is drunk for blood cleansing, fever reduction, skin conditions, and digestive complaints.</strong> Modern research has documented its hypoglycaemic (blood sugar lowering) effects and its charantin compound&rsquo;s role in improving insulin sensitivity &mdash; validating what generations of Jamaican grandmothers already knew.</p>
+        </div>
+      </div>
+
+      <div class="herb-profile reveal">
+        <div class="hp-header"><div class="hp-icon">💛</div><div><div class="hp-name">Turmeric</div><div class="hp-latin">Curcuma longa — 4,000 years of anti-inflammatory use</div></div></div>
+        <div class="hp-body">
+          <p>Used in Ayurvedic medicine for over 4,000 years as a blood purifier, turmeric&rsquo;s active compound curcumin is now one of the most studied natural anti-inflammatory compounds in the world. <strong>It reduces inflammatory cytokines in the blood, supports liver detoxification, and crosses the blood-brain barrier</strong> &mdash; protecting brain tissue from inflammatory damage. The elders were right. The science confirmed it.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- DAILY PRACTICE -->
+    <div class="article-section reveal" id="practice">
+      <p class="section-label">Living the Teaching</p>
+      <h2>Daily practice &mdash;<br><em>what the elders did.</em></h2>
+      <p>Blood cleansing in ancestral traditions was never a once-a-year detox. It was woven into daily life &mdash; through food choices, seasonal herbs, and consistent habits. <strong>Here is how to carry that tradition forward.</strong></p>
+
+      <div class="blood-anatomy">
+        <div class="ba-item reveal">
+          <div class="ba-icon">🫖</div>
+          <div class="ba-content">
+            <h3>Morning herbal tea</h3>
+            <p>Begin the day with burdock root, dandelion, or cerasee tea before eating. This stimulates the liver and kidneys before the digestive system is activated &mdash; <strong>a practice documented across Jamaican, West African, and Ayurvedic morning routines.</strong></p>
+          </div>
+        </div>
+        <div class="ba-item reveal">
+          <div class="ba-icon">💧</div>
+          <div class="ba-content">
+            <h3>Hydration as blood support</h3>
+            <p>The kidneys cannot filter what the blood cannot deliver to them. <strong>Adequate water intake &mdash; ideally spring or mineral water as Dr. Sebi recommended &mdash; is the most basic form of blood cleansing.</strong> Most people are chronically under-hydrated, slowing elimination significantly.</p>
+          </div>
+        </div>
+        <div class="ba-item reveal">
+          <div class="ba-icon">🥬</div>
+          <div class="ba-content">
+            <h3>Bitter greens daily</h3>
+            <p>Callaloo, dandelion greens, arugula, bitter melon &mdash; bitter foods stimulate bile production and liver function. <strong>The Jamaican tradition of callaloo is not just cultural &mdash; it is medicinal.</strong> The bitterness is the medicine.</p>
+          </div>
+        </div>
+        <div class="ba-item reveal">
+          <div class="ba-icon">🚶</div>
+          <div class="ba-content">
+            <h3>Movement as circulation</h3>
+            <p>The lymphatic system &mdash; which supports blood filtration &mdash; has no pump of its own. <strong>It moves only through body movement.</strong> Walking, stretching, and physical work were not separate from health for the elders. They were the same thing.</p>
+          </div>
+        </div>
+        <div class="ba-item reveal">
+          <div class="ba-icon">🚫</div>
+          <div class="ba-content">
+            <h3>Reduce what burdens the blood</h3>
+            <p>Refined sugar, alcohol, processed seed oils, artificial additives &mdash; <strong>every processed food is additional work for the kidneys and liver.</strong> Dr. Sebi&rsquo;s nutritional guide was not about restriction for its own sake. It was about reducing the burden so the body could do what it was designed to do.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-close reveal">
+      <h2>The body was designed<br>to <em>heal itself.</em></h2>
+      <p>Dr. Sebi said it. Hippocrates said it before him. The elders of West Africa, India, Jamaica, and the Americas said it in their own languages, in their own time, independently of one another. <strong>The convergence of that wisdom is not coincidence. It is confirmation.</strong></p>
+      <div class="close-lines">
+        <div class="close-line">Clean the <em>blood.</em></div>
+        <div class="close-line">Support the <em>kidneys.</em></div>
+        <div class="close-line">Reduce the <em>burden.</em></div>
+        <div class="close-line" style="color:var(--gold);font-style:normal;">The symptoms follow.</div>
+      </div>
+      <p>The herbs are not magic. The body is. The herbs simply give it the tools it was always meant to have. <strong>That knowledge belongs to everyone. It always has.</strong></p>
+      <p class="sign">Kwik Fat Cut &mdash; Foods Hub &mdash; Plants as Medicine &mdash; Education First</p>
+    </div>
+
+  </article>
+</div>
+
+<div class="rule"></div>
+
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>Keep <em>learning.</em></h3>
+    <p>All articles free. No subscription. The knowledge tree keeps growing. 🌿</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="foods-hub.html" class="btn-primary">Foods Hub</a>
+    <a href="learn.html" class="btn-outline">Learn Hub</a>
+  </div>
+</div>
+
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <p class="ss-body">We take feedback like yours seriously. If Kwik Fat Cut opened your eyes or gave someone you love a new perspective &mdash; pass it on. Tell a friend to tell a friend.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">Share this article</button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link">Twitter / X</a>
+      <a href="#" class="ss-social-link">Instagram</a>
+      <a href="#" class="ss-social-link">TikTok</a>
+      <a href="#" class="ss-social-link">Facebook</a>
+    </div>
+    <p class="ss-note">Follow, like, share, comment. Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+
+<script>
+function shareKFC(){const url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 Clean the Blood. The Symptoms Follow.',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ss-btn.share');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
+</script>
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Blood — the body's living river. If water is the fluid of life, blood is life in motion. Deep, factual research into what blood is, what it carries, and how food and hydration determine its quality. Kwik Fat Cut Education First.">
+<title>Blood — The Body's Living River — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse 60% 70% at 70% 28%,rgba(193,68,14,0.09) 0%,transparent 62%),radial-gradient(ellipse 40% 45% at 8% 82%,rgba(218,165,32,0.05) 0%,transparent 55%);}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}.breadcrumb span{margin:0 0.6rem;}
+  .article-tag{display:inline-block;font-size:0.64rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--red);border:1px solid rgba(193,68,14,0.4);padding:0.25rem 0.7rem;border-radius:2px;margin-bottom:1.5rem;opacity:0;animation:up 0.9s 0.15s ease forwards;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(3rem,8.5vw,8rem);font-weight:300;line-height:1.03;color:var(--cream);max-width:880px;opacity:0;animation:up 0.9s 0.22s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:580px;margin-top:2rem;font-size:1.05rem;line-height:1.9;color:var(--c60);font-style:italic;opacity:0;animation:up 0.9s 0.38s ease forwards;}
+  .article-meta{margin-top:2rem;display:flex;gap:2rem;flex-wrap:wrap;opacity:0;animation:up 0.9s 0.48s ease forwards;}
+  .meta-item{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);}
+  .meta-item strong{color:var(--c60);font-weight:400;}
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:4px;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+  .article-wrap{padding:6rem 6vw;display:grid;grid-template-columns:1fr 2.5fr;gap:6rem;align-items:start;}
+  .sidebar{position:sticky;top:110px;}
+  .sidebar-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:1.2rem;font-weight:500;}
+  .toc a{font-size:0.82rem;color:var(--c60);text-decoration:none;padding:0.65rem 0;border-bottom:1px solid var(--c10);display:block;transition:color 0.2s;line-height:1.4;}
+  .toc a:first-child{border-top:1px solid var(--c10);}
+  .toc a:hover{color:var(--gold);}
+  .sidebar-fact{margin-top:2.5rem;border-left:2px solid var(--red);padding:1.2rem;background:rgba(193,68,14,0.06);}
+  .sf-label{font-size:0.62rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.6rem;}
+  .sidebar-fact p{font-size:0.8rem;line-height:1.78;color:var(--c60);}
+  .sidebar-fact strong{color:var(--cream);font-weight:400;}
+  .related-link{margin-top:2rem;padding:1.2rem;border:1px solid rgba(46,107,62,0.3);background:rgba(46,107,62,0.05);text-decoration:none;display:block;transition:background 0.2s;}
+  .related-link:hover{background:rgba(46,107,62,0.1);}
+  .rl-label{font-size:0.62rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--green);font-weight:500;margin-bottom:0.3rem;}
+  .rl-title{font-size:0.88rem;color:var(--cream);}
+  .sidebar-logo{margin-top:2rem;text-align:center;}
+  .sidebar-logo img{width:120px;height:auto;opacity:0.85;}
+  .article-body{display:flex;flex-direction:column;gap:0;}
+  .article-section{padding:3.5rem 0;border-bottom:1px solid var(--c10);}
+  .article-section:first-child{padding-top:0;}
+  .article-section:last-child{border-bottom:none;}
+  .sl{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.9rem;}
+  .sl.g{color:var(--green);}
+  .sl.gold{color:var(--gold);}
+  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.6rem,2.8vw,2.5rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.4rem;}
+  .article-section h2 em{font-style:italic;color:var(--gold);}
+  .article-section p{font-size:0.97rem;line-height:1.97;color:var(--c60);margin-bottom:1.1rem;}
+  .article-section p:last-child{margin-bottom:0;}
+  .article-section p strong{color:var(--cream);font-weight:400;}
+  .pq{margin:2.5rem 0;padding:2rem 2.5rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .pq p{font-family:'Cormorant Garamond',serif;font-size:1.28rem;font-weight:300;font-style:italic;line-height:1.65;color:var(--cream);}
+  .pq p em{font-style:normal;color:var(--gold);}
+  .fact-band{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:2px;margin:1.8rem 0;}
+  .fb{padding:1.6rem 1.2rem;border:1px solid var(--c10);text-align:center;}
+  .fb-n{font-family:'Cormorant Garamond',serif;font-size:2.4rem;font-weight:300;color:var(--gold);line-height:1;}
+  .fb-u{font-size:0.64rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--gold);opacity:0.6;margin-bottom:0.4rem;}
+  .fb-d{font-size:0.76rem;line-height:1.6;color:var(--c60);}
+  .il{display:flex;flex-direction:column;gap:0;margin:1.8rem 0;}
+  .il-row{display:flex;gap:1.5rem;align-items:flex-start;padding:1.3rem 0;border-bottom:1px solid var(--c10);}
+  .il-row:first-child{border-top:1px solid var(--c10);}
+  .dot{width:7px;height:7px;border-radius:50%;background:var(--red);flex-shrink:0;margin-top:0.65rem;}
+  .dot.g{background:var(--green);}
+  .dot.gold{background:var(--gold);}
+  .il-row p{font-size:0.9rem;line-height:1.85;color:var(--c60);}
+  .il-row p strong{color:var(--cream);font-weight:400;}
+  .blood-components{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:2px;margin:1.8rem 0;}
+  .bc-card{padding:1.8rem 1.5rem;border:1px solid var(--c10);transition:border-color 0.3s,background 0.3s;}
+  .bc-card:hover{border-color:rgba(193,68,14,0.25);background:rgba(193,68,14,0.04);}
+  .bc-pct{font-family:'Cormorant Garamond',serif;font-size:2rem;font-weight:300;color:var(--red);opacity:0.5;line-height:1;margin-bottom:0.5rem;}
+  .bc-name{font-family:'Cormorant Garamond',serif;font-size:1.05rem;font-weight:400;color:var(--cream);margin-bottom:0.3rem;}
+  .bc-desc{font-size:0.8rem;line-height:1.65;color:var(--c60);}
+  .bc-desc strong{color:var(--green);font-weight:400;}
+  .food-blood{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:2px;margin:1.8rem 0;}
+  .fb-card{padding:1.6rem 1.4rem;border:1px solid var(--c10);transition:border-color 0.3s,background 0.3s;}
+  .fb-card:hover{border-color:rgba(46,107,62,0.3);background:rgba(46,107,62,0.05);}
+  .fbc-name{font-family:'Cormorant Garamond',serif;font-size:1.05rem;font-weight:400;color:var(--cream);margin-bottom:0.3rem;}
+  .fbc-fact{font-size:0.8rem;line-height:1.65;color:var(--c60);}
+  .fbc-fact strong{color:var(--green);font-weight:400;}
+  .gb{margin:2rem 0;padding:1.8rem 2.2rem;border-left:2px solid var(--green);background:rgba(46,107,62,0.06);}
+  .gb p{font-size:0.9rem;line-height:1.88;color:var(--c60);}
+  .gb p strong{color:var(--cream);font-weight:400;}
+  .gb p:not(:last-child){margin-bottom:0.8rem;}
+  .rb{margin:2rem 0;padding:1.8rem 2.2rem;border-left:2px solid var(--red);background:rgba(193,68,14,0.05);}
+  .rb p{font-size:0.9rem;line-height:1.88;color:var(--c60);}
+  .rb p strong{color:var(--cream);font-weight:400;}
+  .rb p:not(:last-child){margin-bottom:0.8rem;}
+  .article-close{padding:4rem 0 2rem;}
+  .article-close h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.12;color:var(--cream);margin-bottom:1.2rem;}
+  .article-close h2 em{font-style:italic;color:var(--gold);}
+  .article-close p{font-size:0.97rem;line-height:1.97;color:var(--c60);margin-bottom:1rem;}
+  .article-close p strong{color:var(--cream);font-weight:400;}
+  .sign{font-size:0.7rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);margin-top:2rem;}
+  .sstrip{padding:4rem 6vw;border-top:1px solid var(--c10);}
+  .sstrip-i{max-width:680px;margin:0 auto;text-align:center;}
+  .sstrip-l{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1rem;}
+  .sstrip-h{font-family:'Cormorant Garamond',serif;font-size:clamp(1.4rem,2.5vw,2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .sstrip-h em{font-style:italic;color:var(--gold);}
+  .sstrip-a{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:1.8rem;}
+  .ssb{display:inline-flex;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ssb.sh{background:var(--gold);color:var(--bg);}
+  .ssb.sh:hover{background:var(--cream);}
+  .ssb.fo{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .soc{display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap;margin-top:0.8rem;}
+  .soc a{font-size:0.68rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.28rem 0.7rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s;}
+  .soc a:hover{color:var(--gold);}
+  .sstrip-n{margin-top:1rem;font-size:0.72rem;font-style:italic;color:var(--c30);}
+  .cta{padding:4.5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-l h3{font-family:'Cormorant Garamond',serif;font-size:1.7rem;font-weight:300;color:var(--cream);}
+  .cta-l h3 em{font-style:italic;color:var(--gold);}
+  .cta-l p{font-size:0.86rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-r{display:flex;gap:1rem;flex-wrap:wrap;}
+  .bp{display:inline-block;background:var(--gold);color:var(--bg);padding:0.82rem 1.8rem;border-radius:1px;font-size:0.76rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s;}
+  .bp:hover{background:var(--cream);}
+  .bo{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.82rem 1.8rem;border-radius:1px;font-size:0.76rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .bo:hover{border-color:var(--c60);color:var(--cream);}
+  .fl{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}.fl em{font-style:italic;color:var(--gold);}
+  .ft{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+  .fn{display:flex;gap:1.8rem;flex-wrap:wrap;}
+  .fn a{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;transition:color 0.2s;}
+  .fn a:hover{color:var(--c60);}
+  .fc{font-size:0.68rem;color:rgba(253,245,230,0.16);letter-spacing:0.06em;}
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){.article-wrap{grid-template-columns:1fr;gap:3rem;}.sidebar{position:static;}.blood-components,.food-blood{grid-template-columns:1fr 1fr;}.cta{flex-direction:column;align-items:flex-start;}}
+  @media(max-width:540px){.blood-components,.food-blood{grid-template-columns:1fr;}}
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/learn-blood.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span><a href="learn.html">Learn</a><span>&middot;</span>Blood — The Living River</p>
+  <span class="article-tag">🩸 Blood Science &mdash; Deep Research &mdash; The Body&rsquo;s Living River</span>
+  <h1>Blood.<br><em>The body&rsquo;s<br>living river.</em></h1>
+  <p class="lede">If water is the fluid of life, blood is life in motion. It carries oxygen to every cell. It delivers nutrients from every meal. It fights every infection. It repairs every wound. It is the most complex fluid the human body produces &mdash; and everything you eat and drink either nourishes it or burdens it.</p>
+  <div class="article-meta">
+    <div class="meta-item">Category <strong>Blood &amp; Circulatory Health</strong></div>
+    <div class="meta-item">Reading time <strong>12 min</strong></div>
+    <div class="meta-item">Level <strong>Deep Research</strong></div>
+  </div>
+</header>
+
+<div class="colour-band"><div class="cb-black"></div><div class="cb-red"></div><div class="cb-gold"></div><div class="cb-green"></div></div>
+
+<div class="article-wrap">
+  <aside class="sidebar reveal">
+    <p class="sidebar-label">In this article</p>
+    <nav class="toc">
+      <a href="#what-blood">What blood actually is</a>
+      <a href="#components">The four components</a>
+      <a href="#what-it-does">What blood does every second</a>
+      <a href="#food-blood">How food builds or breaks blood</a>
+      <a href="#iron">Iron — blood&rsquo;s most critical mineral</a>
+      <a href="#jamaican-blood">Jamaican foods that build blood</a>
+      <a href="#ancient">Ancient knowledge of blood</a>
+      <a href="#water-blood">Water and blood — inseparable</a>
+    </nav>
+    <div class="sidebar-fact">
+      <p class="sf-label">The extraordinary number</p>
+      <p>The human body contains approximately <strong>5 litres of blood</strong>. This blood travels through <strong>100,000 kilometres of blood vessels</strong> &mdash; enough to circle the earth two and a half times. The heart pumps it all the way around the body in <strong>60 seconds.</strong> Every minute. Every hour. Every day of your life. Without rest. Without pause. Without error.</p>
+    </div>
+    <a href="learn-water.html" class="related-link">
+      <p class="rl-label">&larr; Companion article</p>
+      <p class="rl-title">Water — The Fluid of Life</p>
+    </a>
+    <div class="sidebar-logo"><img src="kwik-logo.jpeg" alt="Kwik Fat Cut" loading="eager" fetchpriority="high" decoding="async"></div>
+  </aside>
+
+  <article class="article-body">
+
+    <div class="article-section reveal" id="what-blood">
+      <p class="sl gold">The Living Fluid</p>
+      <h2>What blood actually is &mdash;<br><em>and why it is unlike any other substance.</em></h2>
+      <p>Blood is a living tissue. Not a liquid in the simple sense &mdash; but a complex, dynamic biological tissue that circulates through the body in liquid form, performing more simultaneous functions than any pharmaceutical ever developed. <strong>Every drop of blood is a complete biological system</strong>, containing billions of cells, hundreds of proteins, dissolved gases, hormones, nutrients, waste products, and immune agents &mdash; all working in coordinated precision.</p>
+      <p>An average adult human body contains approximately 4.5&ndash;5.5 litres of blood, representing about 7&ndash;8% of total body weight. This blood circulates continuously through a vascular network of arteries, veins, and capillaries with a combined length of approximately 100,000 kilometres. <strong>The heart pumps this entire volume around the body once every 60 seconds &mdash; 100,000 times per day, without stopping, for an entire human lifetime.</strong></p>
+      <p>The ancient Egyptians called blood the &ldquo;river of life.&rdquo; The Yoruba called it the carrier of <em>emi</em> (the life force). Ibn Sina devoted entire volumes of the Canon of Medicine to blood&rsquo;s properties and how food either improved or degraded its quality. <strong>Every major ancient medical tradition understood that blood was not simply a fluid &mdash; it was the medium through which health was maintained or lost.</strong> Modern haematology has confirmed every significant observation they made.</p>
+
+      <div class="fact-band">
+        <div class="fb reveal">
+          <div class="fb-n">5L</div>
+          <div class="fb-u">In the adult body</div>
+          <div class="fb-d">Average blood volume. Circulates completely once per minute. 100,000 complete circuits every day.</div>
+        </div>
+        <div class="fb reveal">
+          <div class="fb-n">25tn</div>
+          <div class="fb-u">Red blood cells</div>
+          <div class="fb-d">In the human body at any moment. Each lives approximately 120 days before being replaced. The bone marrow produces 2 million new ones every second.</div>
+        </div>
+        <div class="fb reveal">
+          <div class="fb-n">100k km</div>
+          <div class="fb-u">Blood vessels</div>
+          <div class="fb-d">Total length of the human circulatory system. Enough to circle the Earth two and a half times.</div>
+        </div>
+        <div class="fb reveal">
+          <div class="fb-n">8%</div>
+          <div class="fb-u">Of body weight</div>
+          <div class="fb-d">Blood as proportion of total body weight. A 70kg person carries approximately 5.6 litres of blood.</div>
+        </div>
+      </div>
+
+      <div class="pq">
+        <p>&ldquo;If water is the foundation of life, blood is life itself &mdash; in motion, in purpose, in service to every cell of the body simultaneously. <em>What you eat today becomes the blood that serves you tomorrow.</em>&rdquo;</p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="components">
+      <p class="sl">The Architecture</p>
+      <h2>Four components.<br><em>Each indispensable.</em></h2>
+      <p>Blood is composed of four distinct components, each produced in different locations, performing different functions, and requiring different nutritional inputs to maintain at optimal levels. <strong>A deficiency in any one of them produces measurable health consequences.</strong> A deficiency in more than one compounds those consequences exponentially.</p>
+
+      <div class="blood-components">
+        <div class="bc-card reveal">
+          <div class="bc-pct">55%</div>
+          <div class="bc-name">Plasma</div>
+          <div class="bc-desc">The liquid component &mdash; <strong>90% water</strong>, carrying proteins (albumin, clotting factors, immunoglobulins), nutrients (glucose, amino acids, fatty acids), hormones, electrolytes, and waste products. Plasma is the river; the cells are what flows in it. Without adequate hydration, plasma volume falls and blood becomes more viscous &mdash; forcing the heart to work harder for every beat.</div>
+        </div>
+        <div class="bc-card reveal">
+          <div class="bc-pct">44%</div>
+          <div class="bc-name">Red Blood Cells (Erythrocytes)</div>
+          <div class="bc-desc"><strong>Oxygen delivery specialists.</strong> Each red blood cell contains approximately 270 million haemoglobin molecules, each capable of carrying four oxygen molecules. RBCs live ~120 days, requiring constant replacement. Iron is the central atom of haemoglobin &mdash; without it, oxygen delivery fails. <strong>Iron-deficiency anaemia affects 1.6 billion people globally.</strong></div>
+        </div>
+        <div class="bc-card reveal">
+          <div class="bc-pct">&lt;1%</div>
+          <div class="bc-name">White Blood Cells (Leukocytes)</div>
+          <div class="bc-desc"><strong>The immune army.</strong> Five distinct types: neutrophils (attack bacteria), lymphocytes (produce antibodies and destroy cancer cells), monocytes (consume pathogens), eosinophils (target parasites), basophils (mediate inflammation). Nutritional deficiencies &mdash; particularly zinc, vitamin C, and vitamin A &mdash; measurably impair white blood cell production and function.</div>
+        </div>
+        <div class="bc-card reveal">
+          <div class="bc-pct">&lt;1%</div>
+          <div class="bc-name">Platelets (Thrombocytes)</div>
+          <div class="bc-desc"><strong>The emergency repair crew.</strong> Platelets aggregate at wound sites within seconds, forming the initial plug that stops bleeding. They then trigger the clotting cascade involving 13 clotting factors, all requiring specific nutrients (vitamin K, calcium, vitamin C) to function. <strong>Vitamin K from leafy greens is essential for blood clotting.</strong> Callaloo provides it daily.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="what-it-does">
+      <p class="sl g">Every Second</p>
+      <h2>What blood does<br><em>while you sleep, work, breathe, and live.</em></h2>
+      <p>Blood performs its functions continuously &mdash; not in scheduled episodes, not when prompted, not when conditions are convenient. <strong>Every second of every day from the moment of first heartbeat to the moment of last, blood is performing all of the following simultaneously.</strong></p>
+
+      <div class="il">
+        <div class="il-row reveal">
+          <div class="dot"></div>
+          <p><strong>Oxygen delivery:</strong> Haemoglobin in red blood cells binds oxygen in the lungs (where oxygen concentration is high) and releases it in the tissues (where oxygen concentration is low). The precision of this binding-release mechanism &mdash; governed by pH, temperature, and CO₂ concentration &mdash; is among the most elegant biochemical systems in nature. <strong>Every breath you take is translated into cellular energy through blood.</strong></p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot"></div>
+          <p><strong>Carbon dioxide removal:</strong> The same red blood cells that deliver oxygen carry CO₂ &mdash; the waste product of cellular respiration &mdash; back to the lungs for exhalation. Approximately 70% is transported as bicarbonate dissolved in plasma; 23% bound to haemoglobin; 7% dissolved directly in plasma. This is a precisely calibrated system that maintains blood pH within the narrow range of 7.35&ndash;7.45. A deviation of 0.2 units in either direction is life-threatening.</p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot"></div>
+          <p><strong>Nutrient distribution:</strong> Every nutrient absorbed from food enters the bloodstream and is distributed to cells throughout the body. Glucose to the brain (which requires a constant supply). Amino acids to muscle cells for repair. Fatty acids to cells requiring energy. Vitamins and minerals to the enzymatic systems that depend on them. <strong>Food becomes blood becomes function. The chain is unbroken.</strong></p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot"></div>
+          <p><strong>Immune surveillance:</strong> White blood cells patrol the bloodstream continuously, identifying and destroying pathogens, cancerous cells, and damaged tissue. Natural killer cells &mdash; a type of lymphocyte &mdash; detect and eliminate cells displaying abnormal surface proteins (a characteristic of both virus-infected and cancer cells) within hours of their first appearance. <strong>This immune surveillance system is active every moment you are alive.</strong></p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot"></div>
+          <p><strong>Hormone distribution:</strong> Every hormone produced by the endocrine system &mdash; insulin, cortisol, oestrogen, testosterone, thyroid hormones, adrenaline &mdash; travels through the blood to reach its target tissues. The blood is the communication network of the entire body. <strong>No hormone reaches its receptor without blood as the medium.</strong></p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot"></div>
+          <p><strong>Heat distribution and temperature regulation:</strong> Blood absorbs heat from metabolically active tissues (muscles during exercise, the liver during digestion) and distributes it, preventing localised overheating while maintaining core temperature. The blood vessels in the skin dilate during heat exposure to release excess heat &mdash; and constrict during cold to conserve it. <strong>Blood is the body&rsquo;s central heating and cooling system.</strong></p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot"></div>
+          <p><strong>Wound repair:</strong> The moment a blood vessel is breached, platelets aggregate at the site within 3&ndash;5 seconds, forming the initial haemostatic plug. The coagulation cascade then deploys 13 clotting factors in a precise sequence, producing fibrin &mdash; the fibrous protein that creates the structural scaffold of a blood clot. The entire process, from injury to stable clot, takes less than 10 minutes in healthy individuals.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="food-blood">
+      <p class="sl gold">The Food Connection</p>
+      <h2>Everything you eat<br><em>becomes blood or burdens it.</em></h2>
+      <p>The quality of blood is directly and measurably determined by the quality of what is eaten and drunk. This is not a metaphor. <strong>The specific nutrients required to produce red blood cells, maintain plasma volume, support white blood cell function, and enable clotting are all obtained exclusively from food.</strong> When food quality is poor, blood quality follows.</p>
+      <p>Conversely, when food quality is high &mdash; when the diet provides the full spectrum of iron, folate, vitamin B12, vitamin C, vitamin K, zinc, copper, and adequate water that blood production requires &mdash; the blood performs at its highest functional capacity. Energy is higher. Immunity is stronger. Cognitive function is sharper. Recovery from illness and exercise is faster.</p>
+
+      <div class="rb reveal">
+        <p><strong>What degrades blood quality (documented):</strong></p>
+        <p><strong>Excess refined sugar</strong> &mdash; elevates blood glucose, triggers glycation (the binding of glucose to proteins including haemoglobin), and produces advanced glycation end-products (AGEs) that stiffen blood vessel walls and impair red blood cell flexibility. HbA1c &mdash; the diagnostic marker for diabetes &mdash; is literally a measure of how much glucose has attached to haemoglobin.</p>
+        <p><strong>Excess sodium</strong> &mdash; draws water from cells into the bloodstream, increasing plasma volume and raising blood pressure. Sustained high blood pressure damages arterial walls, creating the inflammation that initiates atherosclerotic plaque formation &mdash; the leading cause of heart attack and stroke.</p>
+        <p><strong>Trans fats and oxidised oils</strong> &mdash; increase LDL cholesterol, promote oxidative damage to blood vessel walls, and impair the flexibility of red blood cell membranes &mdash; reducing their ability to deform through narrow capillaries and deliver oxygen efficiently to peripheral tissues.</p>
+        <p><strong>Alcohol</strong> &mdash; suppresses red blood cell and platelet production in the bone marrow, impairs folate absorption (critical for new blood cell production), and directly damages the liver enzymes responsible for producing clotting factors.</p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="iron">
+      <p class="sl">The Most Critical Mineral</p>
+      <h2>Iron &mdash;<br><em>the element at the centre of every breath you take.</em></h2>
+      <p>Iron is the central atom of haemoglobin &mdash; the protein in red blood cells that binds, carries, and releases oxygen. <strong>Without iron, haemoglobin cannot be formed. Without haemoglobin, red blood cells cannot carry oxygen. Without oxygen delivery, every cell in the body begins to fail.</strong></p>
+      <p>Iron-deficiency anaemia is the most common nutritional deficiency on earth, affecting an estimated 1.6 billion people globally according to the World Health Organization &mdash; approximately 20% of the world&rsquo;s population. It disproportionately affects women of reproductive age, children under five, and populations with limited access to animal products or iron-rich plant foods.</p>
+      <p>The symptoms of iron deficiency are not dramatic at first. <strong>Fatigue that will not resolve with rest. Difficulty concentrating. Breathlessness on mild exertion. Pale skin and pale mucous membranes. Cold hands and feet.</strong> These are the body&rsquo;s early signals that oxygen delivery is compromised &mdash; and they are frequently attributed to stress, overwork, or ageing rather than their actual nutritional cause.</p>
+
+      <div class="gb reveal">
+        <p><strong>Haem vs non-haem iron &mdash; the critical distinction:</strong></p>
+        <p><strong>Haem iron</strong> (from animal sources &mdash; meat, fish, poultry) is absorbed at approximately 15&ndash;35% efficiency regardless of other dietary factors. <strong>Non-haem iron</strong> (from plant sources &mdash; leafy greens, legumes, seeds, fortified foods) is absorbed at 2&ndash;20% efficiency, significantly influenced by other dietary factors. <strong>The key enhancer: vitamin C.</strong> Consuming non-haem iron with vitamin C-rich foods increases absorption by up to 67% (Journal of Nutrition, 1998).</p>
+        <p>This is why the ancestral Jamaican tradition of eating callaloo (iron-rich) with scotch bonnet pepper or lime juice (vitamin C-rich) is nutritionally precise. <strong>Jamaican grandmothers were optimising iron absorption through food combination long before nutritional science had a name for the mechanism.</strong></p>
+        <p><strong>The blockers of iron absorption:</strong> Tannins in tea and coffee (drink them between meals, not with iron-rich foods). Calcium in dairy (consumes the same absorption pathway). Phytates in unsoaked legumes (reduced by soaking and cooking). <strong>Knowing these interactions transforms how you eat.</strong></p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="jamaican-blood">
+      <p class="sl g">Jamaica&rsquo;s Blood-Building Foods</p>
+      <h2>What grows here<br><em>builds the blood that serves you.</em></h2>
+      <p>Jamaica grows some of the most blood-supportive foods on earth. The nutrients required for haemoglobin production, plasma maintenance, white blood cell function, and clotting factor synthesis are abundantly available in the island&rsquo;s indigenous food tradition. <strong>Not as supplements. As food.</strong></p>
+
+      <div class="food-blood">
+        <div class="fb-card reveal">
+          <div class="fbc-name">🌿 Callaloo</div>
+          <div class="fbc-fact"><strong>Iron: 3mg/100g. Vitamin C: enhances its own iron absorption.</strong> Folate: 47% daily value &mdash; essential for red blood cell production. Vitamin K: critical for clotting factor synthesis. <strong>The single most complete blood-building plant food available in Jamaica.</strong></div>
+        </div>
+        <div class="fb-card reveal">
+          <div class="fbc-name">🫘 Red Peas</div>
+          <div class="fbc-fact"><strong>Iron: 5mg per cup cooked.</strong> Folate: 64% daily value. Copper: required for iron metabolism and red blood cell formation. Plant protein providing all essential amino acids for haemoglobin protein synthesis. <strong>Eaten with brown rice: complete blood-building nutrition.</strong></div>
+        </div>
+        <div class="fb-card reveal">
+          <div class="fbc-name">🍊 Citrus &amp; Guinep</div>
+          <div class="fbc-fact"><strong>Vitamin C: dramatically increases non-haem iron absorption.</strong> Guinep contains vitamin C, iron, and phosphorus. Eating citrus with iron-rich plant foods is among the most evidence-backed dietary practices for preventing iron-deficiency anaemia. <strong>The combination is the medicine.</strong></div>
+        </div>
+        <div class="fb-card reveal">
+          <div class="fbc-name">🌿 Moringa</div>
+          <div class="fbc-fact"><strong>Iron: 4mg/100g fresh leaves.</strong> Vitamin C: 51mg/100g (enhancing its own iron absorption). Vitamin A: supports white blood cell production. Copper: essential for red blood cell maturation. <strong>The most complete blood-supporting plant documented in West African tradition. Grown in Jamaica. Use it.</strong></div>
+        </div>
+        <div class="fb-card reveal">
+          <div class="fbc-name">🥜 Pumpkin Seeds</div>
+          <div class="fbc-fact"><strong>Iron: 8mg/100g &mdash; among the highest plant sources.</strong> Zinc: 7.8mg/100g, critical for white blood cell production and immune function. Copper: 1.4mg/100g, essential for haemoglobin synthesis. <strong>A handful daily provides the mineral foundation for healthy blood production.</strong></div>
+        </div>
+        <div class="fb-card reveal">
+          <div class="fbc-name">🍌 Banana &amp; Plantain</div>
+          <div class="fbc-fact"><strong>Vitamin B6: 33% daily value.</strong> B6 is required for haemoglobin synthesis &mdash; it activates the enzyme that builds the haem component of haemoglobin. Potassium maintains plasma electrolyte balance. Folate supports new red blood cell production. <strong>Eaten across Jamaica daily. Their blood-building role is rarely recognised.</strong></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="ancient">
+      <p class="sl gold">The Ancient Record</p>
+      <h2>What ancient medicine<br><em>understood about blood.</em></h2>
+      <p>Every major ancient medical tradition devoted significant attention to blood &mdash; because every observant healer understood that the quality of blood determined the quality of health. The specific mechanisms were not yet named, but the observations were accurate.</p>
+
+      <div class="il">
+        <div class="il-row reveal">
+          <div class="dot g"></div>
+          <p><strong>Ancient Egypt (Ebers Papyrus, c.1550 BCE):</strong> Egyptian physicians prescribed iron-rich foods &mdash; including lentils and dark leafy vegetables &mdash; for conditions we would now classify as anaemia. The Ebers Papyrus documents the use of ferrous compounds (iron-bearing substances) for &ldquo;weakness of the body.&rdquo; The connection between pale skin, fatigue, and the need for specific foods was documented 3,500 years before haemoglobin was named.</p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot g"></div>
+          <p><strong>Ibn Sina (Canon of Medicine, 1025 CE):</strong> Ibn Sina classified blood as one of the four humours &mdash; not in the metaphorical sense that is often misunderstood today, but as a recognition that blood composition varied and that its quality could be improved or degraded through diet. He prescribed specific foods for &ldquo;thin blood&rdquo; (anaemia), &ldquo;thick blood&rdquo; (high viscosity states), and &ldquo;hot blood&rdquo; (inflammatory conditions) &mdash; all corresponding to conditions modern haematology recognises and treats.</p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot g"></div>
+          <p><strong>West African healing traditions:</strong> The blood-cleansing function of bitter herbs &mdash; bitter leaf, moringa, soursop leaf &mdash; was documented across Yoruba, Igbo, and Akan healing traditions. These plants were prescribed for &ldquo;impure blood&rdquo; conditions (fevers, skin conditions, fatigue) now understood to represent inflammatory states, elevated oxidative stress, or immune activation. <strong>The bitter plant compounds that &ldquo;clean the blood&rdquo; in traditional medicine are antioxidants and anti-inflammatories in the language of modern biochemistry.</strong></p>
+        </div>
+        <div class="il-row reveal">
+          <div class="dot g"></div>
+          <p><strong>Jamaican bush medicine:</strong> The tradition of &ldquo;blood teas&rdquo; &mdash; cerasee, moringa, search-mi-heart, and other preparations &mdash; for conditions described as &ldquo;bad blood&rdquo; directly corresponds to the West African tradition brought across the Atlantic. These preparations are not superstition. They are phytochemistry applied before phytochemistry had a name, by people who observed outcomes carefully and transmitted their findings with precision.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="water-blood">
+      <p class="sl">The Inseparable Partnership</p>
+      <h2>Water and blood &mdash;<br><em>two fluids. One system.</em></h2>
+      <p>Water and blood are not two separate health concerns. They are a single integrated system. Blood plasma is 90% water. Blood volume &mdash; the total amount of blood in circulation &mdash; is directly determined by hydration status. <strong>Every health consequence of dehydration is, at the mechanistic level, a consequence of reduced blood volume and increased blood viscosity.</strong></p>
+      <p>When you are dehydrated, plasma volume falls. Blood becomes thicker. The heart must generate more pressure to move it through the vessels. Blood pressure rises. Capillary blood flow slows. Oxygen and nutrient delivery to cells falls. Waste product removal slows. Cognitive function declines. <strong>Dehydration is not a hydration problem. It is a blood quality problem.</strong></p>
+      <p>Conversely, drinking adequate water &mdash; particularly mineral-rich water, coconut water, or the water from whole plant foods &mdash; directly supports plasma volume, blood pressure regulation, kidney function, and the efficiency of every function blood performs. <strong>The two articles &mdash; water and blood &mdash; are one subject.</strong></p>
+
+      <div class="gb reveal">
+        <p><strong>The practical conclusion:</strong></p>
+        <p>Drink adequate water daily. Eat callaloo, red peas, moringa, and pumpkin seeds for iron and blood-building minerals. Combine iron-rich plant foods with vitamin C-rich foods at the same meal. Drink cerasee and moringa teas. Avoid excess refined sugar, excess sodium, and processed oils that degrade blood vessel walls.</p>
+        <p>These are not complex instructions. They are not expensive. They do not require a prescription or a specialist. <strong>They require knowledge &mdash; the kind that Kwik Fat Cut exists to provide, freely, to everyone, without exception.</strong></p>
+        <p>Your blood is the river that carries your life forward. <strong>Feed it well.</strong></p>
+      </div>
+    </div>
+
+    <div class="article-close reveal">
+      <h2>Blood is life<br><em>in motion.</em></h2>
+      <p>If water is the fluid of life, blood is life itself &mdash; in motion, in purpose, in tireless service to every cell of the body it sustains. <strong>5 litres. 25 trillion red blood cells. 100,000 kilometres of vessels. 100,000 heartbeats every day. Without rest. Without pause.</strong></p>
+      <p>What you eat today becomes the blood that serves you tomorrow. Every meal is a decision about the quality of the river that runs through you. <strong>Choose whole foods. Eat iron-rich plants. Combine them with vitamin C. Drink clean water. Respect the system.</strong></p>
+      <p>Smile for me, Jamaica. The knowledge of how to care for your blood has always been here &mdash; in the callaloo, the red peas, the cerasee, the moringa, the Jamaican foods that ancient West African and Caribbean tradition understood as blood-building long before modern haematology gave the mechanism its name. <strong>We row. You steer.</strong> 🇯🇲❤️💚</p>
+      <p class="sign">Kwik Fat Cut &mdash; Education First &mdash; A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+    </div>
+
+  </article>
+</div>
+<div class="rule"></div>
+<div class="cta reveal">
+  <div class="cta-l"><h3>Read the companion<br><em>article.</em></h3><p>Water &mdash; Is it truly the fluid of life?</p></div>
+  <div class="cta-r">
+    <a href="learn-water.html" class="bp">Water &rarr;</a>
+    <a href="learn.html" class="bo">Learn Hub</a>
+  </div>
+</div>
+<section class="sstrip reveal">
+  <div class="sstrip-i">
+    <p class="sstrip-l">Tell a friend to tell a friend</p>
+    <h3 class="sstrip-h">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <div class="sstrip-a">
+      <button class="ssb sh" onclick="shareKFC()">Share this article</button>
+      <a href="https://kwikfatcut.com" class="ssb fo" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="soc"><a href="#">Twitter / X</a><a href="#">Instagram</a><a href="#">TikTok</a><a href="#">Facebook</a></div>
+    <p class="sstrip-n">Movements are medicines. We row. You steer. 🇯🇲</p>
+  </div>
+</section>
+</main>
+<footer>
+  <div><a href="kwik-fat-cut-homepage.html" class="fl">Kwik <em>Fat Cut</em></a><p class="ft">A knowledge tree for health, wellness, awareness &amp; opportunity.</p></div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="fc">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+<script>
+function shareKFC(){const url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 Blood: The Body\u2019s Living River',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ssb.sh');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
+</script>
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

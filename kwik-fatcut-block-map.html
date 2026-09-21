@@ -1,0 +1,923 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Kwik Fat Cut — Kadence Block Map. Developer reference document for building the Kwik Fat Cut website in WordPress using the Kadence theme.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kwik Fat Cut — Kadence Block Map (Developer Reference)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{--block-a:#1e3a2f;--block-b:#2a1f0e;--block-c:#1f1a2e;--block-d:#2a1010;}
+
+  /* HEADER */
+  .doc-header{padding:3.5rem 5vw 3rem;border-bottom:3px solid var(--gold);background:rgba(218,165,32,0.04);}
+  .doc-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,4vw,3.5rem);font-weight:300;color:var(--cream);}
+  .doc-header h1 em{font-style:italic;color:var(--gold);}
+  .doc-meta{display:flex;gap:2rem;flex-wrap:wrap;margin-top:1.2rem;}
+  .doc-meta-item{font-size:0.72rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);}
+  .doc-meta-item strong{color:var(--c60);font-weight:400;}
+  .doc-warning{margin-top:1.5rem;padding:1rem 1.4rem;background:rgba(193,68,14,0.1);border-left:3px solid var(--red);max-width:700px;}
+  .doc-warning p{font-size:0.86rem;line-height:1.7;color:var(--c60);}
+  .doc-warning p strong{color:var(--cream);font-weight:400;}
+
+  /* LEGEND */
+  .legend{padding:2rem 5vw;border-bottom:1px solid var(--c10);display:flex;gap:1rem;flex-wrap:wrap;align-items:center;}
+  .legend-label{font-size:0.65rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-right:0.5rem;}
+  .legend-item{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--c60);}
+  .legend-dot{width:10px;height:10px;border-radius:2px;flex-shrink:0;}
+  .ld-section{background:rgba(46,107,62,0.5);}
+  .ld-row{background:rgba(218,165,32,0.4);}
+  .ld-block{background:rgba(193,68,14,0.4);}
+  .ld-note{background:rgba(253,245,230,0.15);}
+
+  /* PAGE NAV */
+  .page-nav{padding:1.5rem 5vw;border-bottom:1px solid var(--c10);display:flex;gap:0.5rem;flex-wrap:wrap;}
+  .page-nav a{font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.8rem;border:1px solid var(--c10);border-radius:2px;transition:all 0.2s;}
+  .page-nav a:hover{color:var(--gold);border-color:var(--g20);}
+
+  /* PAGE SECTION */
+  .page-section{padding:3.5rem 5vw;border-bottom:2px solid rgba(218,165,32,0.15);}
+  .page-title{display:flex;align-items:baseline;gap:1.2rem;margin-bottom:0.6rem;}
+  .page-number{font-family:'JetBrains Mono',monospace;font-size:0.75rem;color:var(--gold);opacity:0.5;}
+  .page-name{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:400;color:var(--cream);}
+  .page-file{font-family:'JetBrains Mono',monospace;font-size:0.72rem;color:var(--c30);margin-bottom:0.5rem;}
+  .page-desc{font-size:0.86rem;line-height:1.7;color:var(--c60);max-width:680px;margin-bottom:2.5rem;padding-bottom:1.5rem;border-bottom:1px solid var(--c10);}
+
+  /* BLOCK TABLE */
+  .block-table{width:100%;border-collapse:collapse;}
+  .block-table th{font-size:0.62rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--c30);font-weight:500;text-align:left;padding:0.6rem 1rem;border-bottom:1px solid var(--c10);background:rgba(253,245,230,0.02);}
+  .block-table td{padding:0.9rem 1rem;border-bottom:1px solid rgba(253,245,230,0.04);vertical-align:top;font-size:0.84rem;line-height:1.6;}
+  .block-table tr:last-child td{border-bottom:none;}
+  .block-table tr:hover td{background:rgba(253,245,230,0.02);}
+
+  /* ROW TYPES */
+  .row-section td:first-child{border-left:3px solid var(--green);}
+  .row-row td:first-child{border-left:3px solid var(--gold);}
+  .row-block td:first-child{border-left:3px solid var(--red);}
+  .row-note td:first-child{border-left:3px solid rgba(253,245,230,0.2);}
+  .row-section td:first-child{background:rgba(46,107,62,0.06);}
+  .row-row td:first-child{background:rgba(218,165,32,0.05);}
+
+  /* CELL STYLES */
+  .cell-order{font-family:'JetBrains Mono',monospace;font-size:0.7rem;color:var(--c30);width:3rem;}
+  .cell-element{color:var(--cream);font-weight:400;}
+  .cell-element small{display:block;font-size:0.75rem;color:var(--c60);font-weight:300;margin-top:0.1rem;}
+  .cell-block{font-family:'JetBrains Mono',monospace;font-size:0.76rem;color:var(--gold);}
+  .cell-block small{display:block;font-size:0.7rem;color:var(--c30);font-family:'DM Sans',sans-serif;margin-top:0.2rem;}
+  .cell-cols{font-size:0.78rem;color:var(--c60);text-align:center;}
+  .cell-notes{font-size:0.8rem;color:var(--c60);line-height:1.6;}
+  .cell-notes strong{color:var(--cream);font-weight:400;}
+  .cell-notes code{font-family:'JetBrains Mono',monospace;font-size:0.72rem;background:rgba(253,245,230,0.05);padding:0.1rem 0.3rem;border-radius:2px;color:var(--gold);}
+
+  /* TAGS */
+  .tag{display:inline-block;font-size:0.6rem;letter-spacing:0.14em;text-transform:uppercase;padding:0.15rem 0.5rem;border-radius:2px;font-weight:500;margin-right:0.3rem;}
+  .tag-sticky{background:rgba(46,107,62,0.2);color:#5a9a6e;border:1px solid rgba(46,107,62,0.3);}
+  .tag-full{background:rgba(218,165,32,0.15);color:var(--gold);border:1px solid rgba(218,165,32,0.25);}
+  .tag-custom{background:rgba(193,68,14,0.15);color:#d4663a;border:1px solid rgba(193,68,14,0.25);}
+  .tag-reveal{background:rgba(253,245,230,0.06);color:var(--c60);border:1px solid var(--c10);}
+  .tag-logo{background:rgba(218,165,32,0.1);color:var(--gold);border:1px solid rgba(218,165,32,0.2);}
+
+  /* COLOUR REFERENCE BOX */
+  .colour-ref{margin:2rem 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:2px;}
+  .colour-swatch-row{padding:1rem 1.2rem;border:1px solid var(--c10);display:flex;align-items:center;gap:0.8rem;}
+  .cs-dot{width:20px;height:20px;border-radius:50%;flex-shrink:0;}
+  .cs-info{display:flex;flex-direction:column;}
+  .cs-name{font-size:0.72rem;font-weight:500;color:var(--cream);}
+  .cs-hex{font-family:'JetBrains Mono',monospace;font-size:0.7rem;color:var(--c60);}
+
+  /* FONT REFERENCE */
+  .font-ref{margin:1.5rem 0;display:grid;grid-template-columns:1fr 1fr;gap:2px;}
+  .font-row{padding:1.2rem 1.4rem;border:1px solid var(--c10);}
+  .font-label{font-size:0.62rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);margin-bottom:0.5rem;}
+  .font-sample-serif{font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:300;color:var(--cream);}
+  .font-sample-sans{font-family:'DM Sans',sans-serif;font-size:0.95rem;font-weight:300;color:var(--cream);}
+  .font-detail{font-family:'JetBrains Mono',monospace;font-size:0.68rem;color:var(--c30);margin-top:0.4rem;}
+
+  /* GLOBAL NOTES */
+  .global-notes{padding:3rem 5vw;border-top:2px solid rgba(218,165,32,0.15);}
+  .gn-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin-top:2rem;}
+  .gn-card{padding:1.6rem;border:1px solid var(--c10);}
+  .gn-card h3{font-size:0.78rem;font-weight:500;color:var(--cream);margin-bottom:0.8rem;letter-spacing:0.05em;}
+  .gn-card ul{list-style:none;display:flex;flex-direction:column;gap:0.5rem;}
+  .gn-card ul li{font-size:0.8rem;line-height:1.6;color:var(--c60);display:flex;gap:0.5rem;}
+  .gn-card ul li::before{content:'→';color:var(--gold);opacity:0.4;flex-shrink:0;}
+  .gn-card code{font-family:'JetBrains Mono',monospace;font-size:0.7rem;background:rgba(253,245,230,0.05);padding:0.1rem 0.3rem;border-radius:2px;color:var(--gold);}
+
+  @media(max-width:900px){
+    .font-ref{grid-template-columns:1fr;}
+    .block-table .cell-block,.block-table .cell-cols{display:none;}
+  }
+  @media(max-width:640px){
+    .doc-meta{flex-direction:column;gap:0.5rem;}
+    .page-title{flex-direction:column;gap:0.3rem;}
+  }
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/kwik-fatcut-block-map.html">
+<meta name="robots" content="noindex,nofollow">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<!-- DOCUMENT HEADER -->
+<header class="doc-header">
+  <h1>Kwik Fat Cut<br><em>Kadence Block Map</em></h1>
+  <div class="doc-meta">
+    <div class="doc-meta-item">Document <strong>Developer Reference v1.0</strong></div>
+    <div class="doc-meta-item">Prepared for <strong>Oluwanifemi Akinwumi</strong></div>
+    <div class="doc-meta-item">Platform <strong>WordPress — Kadence Theme</strong></div>
+    <div class="doc-meta-item">Pages <strong>14 HTML files</strong></div>
+    <div class="doc-meta-item">Status <strong>Locked — No design changes</strong></div>
+  </div>
+  <div class="doc-warning">
+    <p><strong>Important:</strong> This document maps every page section to its Kadence block type. Use the HTML reference files as your visual target. Use this document as your build structure guide. Do not deviate from either. If you encounter an ambiguity, ask before proceeding — do not interpret or improvise.</p>
+  </div>
+</header>
+
+<!-- LEGEND -->
+<div class="legend">
+  <span class="legend-label">Row type:</span>
+  <span class="legend-item"><span class="legend-dot ld-section"></span> Kadence Section</span>
+  <span class="legend-item"><span class="legend-dot ld-row"></span> Kadence Row / Columns</span>
+  <span class="legend-item"><span class="legend-dot ld-block"></span> Kadence Block / Element</span>
+  <span class="legend-item"><span class="legend-dot ld-note"></span> Developer note</span>
+</div>
+
+<!-- PAGE NAV -->
+<nav class="page-nav">
+  <a href="#homepage">Homepage</a>
+  <a href="#about">About</a>
+  <a href="#why-free">Why Free</a>
+  <a href="#why-we-exist">Why We Exist</a>
+  <a href="#our-roots">Our Roots</a>
+  <a href="#founder">Founder</a>
+  <a href="#learn">Learn Hub</a>
+  <a href="#learn-family-tree">Family Tree</a>
+  <a href="#learn-mindful">Mindful Eating</a>
+  <a href="#learn-oral">Oral Health</a>
+  <a href="#learn-ancient">Ancient Wisdom</a>
+  <a href="#support">Support</a>
+  <a href="#global">Global Rules</a>
+</nav>
+<main id="main">
+
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- PAGE 01 — HOMEPAGE -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="page-section" id="homepage">
+  <div class="page-title">
+    <span class="page-number">01</span>
+    <span class="page-name">Homepage</span>
+  </div>
+  <p class="page-file">kwik-fat-cut-homepage.html → WordPress page slug: / (front page)</p>
+  <p class="page-desc">The primary entry point. Establishes brand identity, the core declaration, mission, the problem, why free, app features, and the download CTA. Navigation links to all inner pages.</p>
+
+  <table class="block-table">
+    <thead>
+      <tr>
+        <th style="width:3rem;">#</th>
+        <th style="width:22%;">Element / Section</th>
+        <th style="width:22%;">Kadence Block</th>
+        <th style="width:6%;">Cols</th>
+        <th>Build Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="row-block">
+        <td class="cell-order">00</td>
+        <td class="cell-element">Fixed Navigation<small>Logo left, links right</small></td>
+        <td class="cell-block">Kadence Header<small>Sticky header</small></td>
+        <td class="cell-cols">—</td>
+        <td class="cell-notes">Logo: <code>kwik-logo.jpeg</code> 40px height. Nav links: About, Why Free, Our Roots, Founder, Learn. CTA button: <strong>Start Free</strong> → background <code>#DAA520</code>, text <code>#1A0E08</code>. Hide all nav links on mobile, keep CTA button.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">01</td>
+        <td class="cell-element">Hero Section<small>Full viewport height</small></td>
+        <td class="cell-block">Kadence Section<small>100vh, flex column, justify end</small></td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">Background: <code>#1A0E08</code>. Ambient radial gradient overlays (CSS, not image). Content aligned bottom-left. Eyebrow label, H1, body text, two CTA buttons, hero note. <span class="tag tag-reveal">Scroll reveal</span> on all child elements — staggered 0.1s delays.</td>
+      </tr>
+      <tr class="row-block">
+        <td class="cell-order">01a</td>
+        <td class="cell-element">Hero Eyebrow<small>"Start Free. Learn First."</small></td>
+        <td class="cell-block">Kadence Advanced Text</td>
+        <td class="cell-cols">—</td>
+        <td class="cell-notes">Font: DM Sans 0.7rem, letter-spacing 0.32em, uppercase. Colour: <code>#DAA520</code>. Margin bottom 2rem.</td>
+      </tr>
+      <tr class="row-block">
+        <td class="cell-order">01b</td>
+        <td class="cell-element">Hero H1<small>3-line headline</small></td>
+        <td class="cell-block">Kadence Advanced Text<small>Heading H1</small></td>
+        <td class="cell-cols">—</td>
+        <td class="cell-notes">Font: Cormorant Garamond 300, clamp(3.2rem, 7.5vw, 7rem). Colour: <code>#FDF5E6</code>. Italic <code>&lt;em&gt;</code> in gold <code>#DAA520</code>. Max-width 780px.</td>
+      </tr>
+      <tr class="row-block">
+        <td class="cell-order">01c</td>
+        <td class="cell-element">Hero Body Text</td>
+        <td class="cell-block">Kadence Advanced Text</td>
+        <td class="cell-cols">—</td>
+        <td class="cell-notes">DM Sans 1rem, weight 300, colour <code>rgba(253,245,230,0.6)</code>. Bold spans use <code>#FDF5E6</code> weight 400. Max-width 520px.</td>
+      </tr>
+      <tr class="row-block">
+        <td class="cell-order">01d</td>
+        <td class="cell-element">Hero CTA Buttons<small>Primary + Ghost</small></td>
+        <td class="cell-block">Kadence Buttons<small>Advanced Buttons block</small></td>
+        <td class="cell-cols">—</td>
+        <td class="cell-notes">Button 1 — Download Free: bg <code>#DAA520</code>, text <code>#1A0E08</code>, no radius (1px). Button 2 — Our Approach: transparent, border <code>rgba(253,245,230,0.3)</code>, text <code>rgba(253,245,230,0.6)</code>.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">02</td>
+        <td class="cell-element">Core Declaration<small>"Not designed to sell products"</small></td>
+        <td class="cell-block">Kadence Section<small>Centred, max-width 900px</small></td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">Background: subtle gold gradient <code>rgba(218,165,32,0.03)</code>. Section tag (red), H2 (serif, gold italic), body paragraph, then 4-column pillar row: Health · Wellness · Awareness · Opportunity. Each pillar: serif word + uppercase label. Vertical dividers between pillars.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">03</td>
+        <td class="cell-element">Mission Section<small>"We row. You steer."</small></td>
+        <td class="cell-block">Kadence Section + Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Left column sticky: section tag, H2, paragraph, "Read our full story" link with arrow. Right column: 3 bordered blocks stacked — each has a serif H3 and body text. Left border <code>rgba(218,165,32,0.2)</code> on each block. <span class="tag tag-sticky">Sticky left</span> at top:110px on desktop.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">04</td>
+        <td class="cell-element">Problem Section<small>"Where did modern diets go wrong?"</small></td>
+        <td class="cell-block">Kadence Section + Row</td>
+        <td class="cell-cols">4</td>
+        <td class="cell-notes">Intro text above (max-width 640px). Then 4-column grid of question cards. Each card: large serif quote mark (gold, opacity 0.2), serif H3, body text. Border <code>rgba(253,245,230,0.07)</code>. Hover: gold border + gold tint bg. Below grid: wide note block with red left border.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">05</td>
+        <td class="cell-element">Pull Quote<small>"Many people today…"</small></td>
+        <td class="cell-block">Kadence Section<small>Centred, radial bg</small></td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">Centred blockquote — Cormorant Garamond, italic, clamp(1.7rem, 3.5vw, 2.8rem). Gold <code>em</code> spans. Tagline below in small caps. Radial gradient bg overlay.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">06</td>
+        <td class="cell-element">Why Free Section</td>
+        <td class="cell-block">Kadence Section + Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Left: section tag, serif H2, body, ghost CTA button linking to why-free.html. Right: 4 stacked line items — each has a serif number, bold label, body text. Top and bottom borders on each item.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">07</td>
+        <td class="cell-element">App Features<small>6-card grid</small></td>
+        <td class="cell-block">Kadence Section + Row</td>
+        <td class="cell-cols">3</td>
+        <td class="cell-notes">Intro above (tag + H2 + paragraph). Then 3-col grid (2 rows = 6 cards). Each card: icon in a 38px circle (red tint bg), H3, body text. Border <code>rgba(253,245,230,0.07)</code>. Hover: gold border, gold bg tint.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">08</td>
+        <td class="cell-element">Download Section</td>
+        <td class="cell-block">Kadence Section + Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Left: section tag, serif H2, body, 2 store buttons stacked (App Store, Google Play) — each with SVG icon, sub-label, name. Right: 3 stacked note blocks. Note 1: gold left border. Note 2: green left border <code>#2E6B3E</code>. Note 3: red left border <code>#C1440E</code>.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">09</td>
+        <td class="cell-element">Social Strip<small>"If this helped you"</small></td>
+        <td class="cell-block">Kadence Section<small>Centred, max-width 720px</small></td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">Subtle gold gradient bg. Label, serif headline, body, Share button (gold), Follow button (ghost gold), 4 social platform links. See Global Rules for share button JS.</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- PAGE 02 — ABOUT -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="page-section" id="about">
+  <div class="page-title">
+    <span class="page-number">02</span>
+    <span class="page-name">About</span>
+  </div>
+  <p class="page-file">about.html → WordPress page slug: /about</p>
+  <p class="page-desc">Community manifesto. Opens with "Take a seat." Mission pillars, where diets went wrong, and a teaser linking to Our Roots with the 4-colour swatch grid.</p>
+
+  <table class="block-table">
+    <thead>
+      <tr><th>#</th><th>Element</th><th>Kadence Block</th><th>Cols</th><th>Notes</th></tr>
+    </thead>
+    <tbody>
+      <tr class="row-section">
+        <td class="cell-order">01</td>
+        <td class="cell-element">Page Header<small>Full hero height</small></td>
+        <td class="cell-block">Kadence Section<small>min-height 80vh</small></td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">Breadcrumb, H1 "Take a seat. We're here to listen.", lede paragraph. Radial gold ambient glow right side.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">02</td>
+        <td class="cell-element">Community Welcome<small>2-col, sticky left</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Left sticky: section tag "Who We Are", H2 "Listeners. Not lecturers.", paragraph. Right: 4 paragraphs stacked, each separated by a bottom border <code>rgba(253,245,230,0.07)</code>.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">03</td>
+        <td class="cell-element">Health Statement<small>"Health is personal."</small></td>
+        <td class="cell-block">Kadence Section<small>Centred</small></td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">3 large serif lines stacked — each with a small uppercase sub-caption below. Gold italic highlights on key words. Subtle gold ambient bg.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">04</td>
+        <td class="cell-element">Mission Pillars<small>4-card grid</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">4</td>
+        <td class="cell-notes">Intro above (tag + H2 + paragraph). Then 4 cards: large serif number (gold opacity 0.2), serif H3, body text. Border <code>rgba(253,245,230,0.07)</code>.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">05</td>
+        <td class="cell-element">Where It Went Wrong<small>2×2 grid</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Intro above. 4 blocks arranged in a 2-column grid. Each block: gold left border, padding left 2rem, serif H3, body text.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">06</td>
+        <td class="cell-element">Our Roots Teaser<small>Logo colours</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Left: section tag, serif H2, paragraph, arrow link to our-roots.html. Right: 2×2 colour swatch grid — Black, Red, Gold, Green blocks. Each block: coloured bg tint, colour name, meaning. Min height 120px per swatch.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">07</td>
+        <td class="cell-element">Closing Quote</td>
+        <td class="cell-block">Kadence Section<small>Centred</small></td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">Blockquote, brand closing (Kwik Fat Cut / culinary peace / We row. You steer.) in stacked small caps.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">08</td>
+        <td class="cell-element">CTA Strip</td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Left: serif H3, sub paragraph. Right: Primary button (Download Free) + Ghost button (Why It's Free → why-free.html).</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">09</td>
+        <td class="cell-element">Social Strip</td>
+        <td class="cell-block">Kadence Section</td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">Standard social strip — same on every page. See Global Rules.</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- PAGE 03 — WHY FREE -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="page-section" id="why-free">
+  <div class="page-title">
+    <span class="page-number">03</span>
+    <span class="page-name">Why Free</span>
+  </div>
+  <p class="page-file">why-free.html → WordPress page slug: /why-free</p>
+  <p class="page-desc">The brand's position on free education. Position statement, what comes free (6-item list), the journey (4 steps), manifesto closing. No shortcuts — this page earns the click from the homepage.</p>
+
+  <table class="block-table">
+    <thead>
+      <tr><th>#</th><th>Element</th><th>Kadence Block</th><th>Cols</th><th>Notes</th></tr>
+    </thead>
+    <tbody>
+      <tr class="row-section">
+        <td class="cell-order">01</td>
+        <td class="cell-element">Page Header<small>min-height 75vh</small></td>
+        <td class="cell-block">Kadence Section</td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">H1: "You should never have to pay to understand your own body." — largest headline on the site. Lede below. Bottom-aligned content, radial gold glow right.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">02</td>
+        <td class="cell-element">Position Statement<small>2-col sticky left</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Left sticky: tag, H2 "Pay first. Understand later? We reject that.", paragraph. Right: 4 bordered paragraphs — italic quote styling on 4th paragraph.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">03</td>
+        <td class="cell-element">What's Free<small>6-item numbered list</small></td>
+        <td class="cell-block">Kadence Section + stacked rows</td>
+        <td class="cell-cols">1</td>
+        <td class="cell-notes">Intro above (max-width 580px). Then 6 stacked items — each: serif number (gold opacity 0.5), H3, body text. Top + bottom borders. Max-width 760px. Green ambient bg behind section.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">04</td>
+        <td class="cell-element">The Journey<small>4-card grid</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">4</td>
+        <td class="cell-notes">Intro above. Cards: large serif number (gold 0.2 opacity), H3, body text. Border cards. Steps: Clarity → Confidence → Progress → Deeper (if you choose).</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">05</td>
+        <td class="cell-element">Manifesto Close<small>Centred</small></td>
+        <td class="cell-block">Kadence Section</td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">Blockquote centred. Then 4 stacked lines: "No body shaming." / "No gatekeeping." / "No pressure." / "Just truth." — each in its own text block. Brand sign-off below.</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- PAGE 04 — WHY WE EXIST -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="page-section" id="why-we-exist">
+  <div class="page-title">
+    <span class="page-number">04</span>
+    <span class="page-name">Why We Exist</span>
+  </div>
+  <p class="page-file">why-we-exist.html → WordPress page slug: /why-we-exist</p>
+  <p class="page-desc">The philosophical foundation. The cycle, education before intervention, the comparison table, the knowledge tree (3 levels), and the closing quote.</p>
+
+  <table class="block-table">
+    <thead>
+      <tr><th>#</th><th>Element</th><th>Kadence Block</th><th>Cols</th><th>Notes</th></tr>
+    </thead>
+    <tbody>
+      <tr class="row-section">
+        <td class="cell-order">01</td>
+        <td class="cell-element">Page Header<small>min-height 88vh</small></td>
+        <td class="cell-block">Kadence Section</td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">H1: "Too many people try to improve their health without understanding it." Large, 3-line, bottom-aligned. Lede below.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">02</td>
+        <td class="cell-element">The Reason<small>2-col, sticky left</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Left sticky: H2 "Not a failure of discipline — a failure of education." Right: paragraphs + the Cycle block. Cycle: 7 stacked items with red arrow → prefix. Below cycle: green left-border note block breaking the cycle.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">03</td>
+        <td class="cell-element">Education — 6-item grid<small>+ Confidence chain</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Intro above (max-width 640px). 6 items in 2-col grid — each: gold left border, padding left, body text with bold lead. Below the grid: 4-node confidence chain — Understanding → Confidence → Consistency → Change. Last node: gold text, green tint bg.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">04</td>
+        <td class="cell-element">Comparison Table<small>Most advice vs KFC</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Left column: red tint border, ✗ prefix items, header "Most Health Advice Online". Right column: green tint bg, ✓ prefix items, header "Kwik Fat Cut". Each item: 0.88rem body text with coloured prefix.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">05</td>
+        <td class="cell-element">Knowledge Tree<small>3-level accordion</small></td>
+        <td class="cell-block">Kadence Section + stacked rows</td>
+        <td class="cell-cols">1</td>
+        <td class="cell-notes">Intro above. 3 stacked bordered panels: (1) Roots — green left border, icon 🌱, tags. (2) Trunk — gold left border, icon 🌳, tags. (3) Branches — green border, icon 🍃, coloured tags. Below: summary paragraph max-width 640px.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">06</td>
+        <td class="cell-element">Closing 2-col</td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Left: large blockquote serif italic. Right: 3 stacked note blocks — gold, green, red left borders respectively.</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- PAGE 05 — OUR ROOTS -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="page-section" id="our-roots">
+  <div class="page-title">
+    <span class="page-number">05</span>
+    <span class="page-name">Our Roots</span>
+  </div>
+  <p class="page-file">our-roots.html → WordPress page slug: /our-roots</p>
+  <p class="page-desc">The cultural and logo origin page. Logo displayed large in the hero. 4-colour band. Logo story, roots grid, colours section, tradition, no-judgment close. The most visually significant page after the homepage.</p>
+
+  <table class="block-table">
+    <thead>
+      <tr><th>#</th><th>Element</th><th>Kadence Block</th><th>Cols</th><th>Notes</th></tr>
+    </thead>
+    <tbody>
+      <tr class="row-section">
+        <td class="cell-order">01</td>
+        <td class="cell-element">Hero — Logo centred<small>min-height 100vh</small></td>
+        <td class="cell-block">Kadence Section<small>Flex centre</small></td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes"><span class="tag tag-logo">Logo large</span> — <code>kwik-logo.jpeg</code> clamp(180px,26vw,300px) wide. Drop shadow gold glow. Animate: scale from 0.88 to 1. H1 below logo. Lede paragraph. Three radial gradient overlays (gold, green, red at corners).</td>
+      </tr>
+      <tr class="row-block">
+        <td class="cell-order">02</td>
+        <td class="cell-element">4-Colour Band<small>Decorative stripe</small></td>
+        <td class="cell-block">Kadence Row<small>height 5px, no padding</small></td>
+        <td class="cell-cols">4</td>
+        <td class="cell-notes">4 equal columns, 5px height: Col1 bg <code>#222</code>, Col2 bg <code>#C1440E</code>, Col3 bg <code>#DAA520</code>, Col4 bg <code>#2E6B3E</code>. No content — purely decorative.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">03</td>
+        <td class="cell-element">Logo Story<small>2-col, sticky left</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Left sticky: tag, H2, paragraph, small logo image below (160px). Right: 4 bordered paragraphs. Logo image in left sidebar uses <code>kwik-logo.jpeg</code>.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">04</td>
+        <td class="cell-element">Roots Grid<small>6 root cards</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">3</td>
+        <td class="cell-notes">Intro above. 6 cards (2 rows × 3 cols): emoji icon, serif H3, body text. Border <code>rgba(253,245,230,0.07)</code>. Hover: gold border + gold tint.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">05</td>
+        <td class="cell-element">4 Colours Section</td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">4</td>
+        <td class="cell-notes">Intro above. 4 colour cards: each has 3px top border in its colour, 40px circle swatch, large serif colour name, explanation text. <span class="tag tag-custom">Custom top border</span> per card colour.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">06</td>
+        <td class="cell-element">Tradition<small>2×2 blocks</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Intro above. 4 tradition blocks in 2-col grid — each: gold left border, serif H3, body text.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">07</td>
+        <td class="cell-element">No Judgment Close<small>Centred, strikethrough</small></td>
+        <td class="cell-block">Kadence Section</td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">3 strikethrough lines (opacity 0.3, smaller size): "Judgment." / "Body shaming." / "Pressure." Then 1 large gold line: "Just truth." <span class="tag tag-custom">text-decoration: line-through</span> on first 3.</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- PAGE 06 — FOUNDER -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="page-section" id="founder">
+  <div class="page-title">
+    <span class="page-number">06</span>
+    <span class="page-name">Founder</span>
+  </div>
+  <p class="page-file">founder.html → WordPress page slug: /founder</p>
+  <p class="page-desc">Wilbert Blackwood — Honey Ras. Split hero with logo right panel. Identity card. Full story in sections. Timeline. Values grid. Closing letter.</p>
+
+  <table class="block-table">
+    <thead>
+      <tr><th>#</th><th>Element</th><th>Kadence Block</th><th>Cols</th><th>Notes</th></tr>
+    </thead>
+    <tbody>
+      <tr class="row-section">
+        <td class="cell-order">01</td>
+        <td class="cell-element">Hero — Split layout<small>2-col, full height</small></td>
+        <td class="cell-block">Kadence Row<small>min-height 100vh</small></td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Left col: breadcrumb, eyebrow, H1 "Wilbert Blackwood." (gold italic), aka line, lede, 3 tags (Kingston, Rastafarian Vegetarian, Founder since 2014). Right col: large logo image centred (65% width, opacity 0.6, gold glow). Right col: radial ambient bg only — no text.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">02</td>
+        <td class="cell-element">Story — 2-col<small>sticky left with identity card</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Left sticky: tag, H2, identity card (table of 8 rows: Name, Known As, Origin, Heritage, Identity, Diet, Mission Since, Role). Each row: label small caps + value. Right: 5 story sections — each with serif H3 and paragraphs. Jamaican Patois block: green left border, larger italic serif quote, green attribution.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">03</td>
+        <td class="cell-element">Timeline<small>5 milestones</small></td>
+        <td class="cell-block">Kadence Section + stacked rows</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Intro above. 5 timeline items stacked — each: 2-col row (year col 120px, content col). Year: Cormorant Garamond 2rem, gold opacity 0.5. Content: H3 + paragraph. Top/bottom borders.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">04</td>
+        <td class="cell-element">Values<small>6-card grid</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">3</td>
+        <td class="cell-notes">Intro above. 6 cards (2 rows × 3 cols): large serif number (gold 0.18 opacity), serif H3, body text. Border cards.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">05</td>
+        <td class="cell-element">Closing Letter<small>"To the Family"</small></td>
+        <td class="cell-block">Kadence Section</td>
+        <td class="cell-cols">1</td>
+        <td class="cell-notes">Max-width 740px. Tag "To the Family". 5 paragraphs. Signature block: italic serif opener, gold name "Honey Ras (Wilbert Blackwood)", small caps title + location. Top border on signature block.</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- LEARN PAGES — SHARED STRUCTURE -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="page-section" id="learn">
+  <div class="page-title">
+    <span class="page-number">07</span>
+    <span class="page-name">Learn Hub</span>
+  </div>
+  <p class="page-file">learn.html → WordPress page slug: /learn</p>
+  <p class="page-desc">Article index. Declaration strip, 6-card article grid (4 live, 2 coming soon), non-profit banner, CTA strip.</p>
+
+  <table class="block-table">
+    <thead>
+      <tr><th>#</th><th>Element</th><th>Kadence Block</th><th>Cols</th><th>Notes</th></tr>
+    </thead>
+    <tbody>
+      <tr class="row-section">
+        <td class="cell-order">01</td>
+        <td class="cell-element">Page Header</td>
+        <td class="cell-block">Kadence Section</td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">H1 "The knowledge tree grows here." Lede. Gold ambient glow right.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">02</td>
+        <td class="cell-element">Declaration Strip<small>Centred quote</small></td>
+        <td class="cell-block">Kadence Section</td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">Serif italic quote, max-width 700px, centred. Gold italic highlight on key phrase.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">03</td>
+        <td class="cell-element">Article Grid<small>6 cards</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">3</td>
+        <td class="cell-notes">Header above (tag + H2). 6 cards: category tag (coloured by category), serif article title, excerpt, footer row (meta left, → arrow right). Cards 5–6: opacity 0.45, pointer-events none, "Article in preparation" sub-label. Cards link to article pages.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">04</td>
+        <td class="cell-element">Non-Profit Banner</td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Green border + green tint bg. Left: H3 + paragraph. Right: "Non-Profit Platform" badge — small green bordered tag, right-aligned. Flex wrap on mobile.</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Article pages share the same 2-col layout — consolidated note -->
+<section class="page-section" id="learn-family-tree">
+  <div class="page-title">
+    <span class="page-number">08–11</span>
+    <span class="page-name">Learn Articles (all 4)</span>
+  </div>
+  <p class="page-file">learn-family-tree.html / learn-mindful-eating.html / learn-oral-health.html / learn-ancient-oral-wisdom.html</p>
+  <p class="page-desc">All four articles share an identical layout structure. Only the content and accent colours per category differ. Build article 1 (Family Tree) first — then clone the template for the remaining three.</p>
+
+  <table class="block-table">
+    <thead>
+      <tr><th>#</th><th>Element</th><th>Kadence Block</th><th>Cols</th><th>Notes</th></tr>
+    </thead>
+    <tbody>
+      <tr class="row-section">
+        <td class="cell-order">01</td>
+        <td class="cell-element">Article Header<small>Cinematic — full page on Ancient Wisdom</small></td>
+        <td class="cell-block">Kadence Section</td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">Breadcrumb, article category tag (coloured), H1, italic lede, meta row (Category, Reading time, Level). Ancient Wisdom article: min-height 85vh, bottom-aligned, 4-colour band below header.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">02</td>
+        <td class="cell-element">Article Layout<small>2-col — sidebar + body</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Left col (1fr): <span class="tag tag-sticky">sticky sidebar</span> — "In this article" label, TOC links (bordered list), pull quote block, small logo image (120px). Right col (2.5fr): article body — stacked sections with bottom borders.</td>
+      </tr>
+      <tr class="row-block">
+        <td class="cell-order">02a</td>
+        <td class="cell-element">Article Sections<small>Each has label + H2 + body</small></td>
+        <td class="cell-block">Kadence Advanced Text blocks<small>stacked in right col</small></td>
+        <td class="cell-cols">—</td>
+        <td class="cell-notes">Each section: small red/gold/green label, serif H2, body paragraphs. Section-specific components (pull quotes, grids, care lists, taste cards, civilisation blocks) — see HTML reference for each article's unique components.</td>
+      </tr>
+      <tr class="row-block">
+        <td class="cell-order">02b</td>
+        <td class="cell-element">Unique components per article</td>
+        <td class="cell-block"><span class="tag tag-custom">Custom HTML block</span><small>or Kadence Row</small></td>
+        <td class="cell-cols">—</td>
+        <td class="cell-notes">Family Tree: tree comparison 2-col table, root principles list. Mindful Eating: 4-step numbered list, 3-pillar grid, non-profit block. Oral Health: 5-taste-bud card grid, care list, nutrients grid. Ancient Wisdom: 2 civilisation blocks (each with 2-col food/outcomes table), 2×2 pattern grid, root question panel.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">03</td>
+        <td class="cell-element">Article Close</td>
+        <td class="cell-block">Kadence Advanced Text</td>
+        <td class="cell-cols">—</td>
+        <td class="cell-notes">Serif H2, body, brand sign-off in small caps.</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- PAGE 12 — SUPPORT -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="page-section" id="support">
+  <div class="page-title">
+    <span class="page-number">12</span>
+    <span class="page-name">Support / Donation</span>
+  </div>
+  <p class="page-file">support.html → WordPress page slug: /support</p>
+  <p class="page-desc">The donation page. WordPress donation form to be embedded. Social strip appears AFTER the donation panel — not before. Sequencing is intentional and must not be changed.</p>
+
+  <table class="block-table">
+    <thead>
+      <tr><th>#</th><th>Element</th><th>Kadence Block</th><th>Cols</th><th>Notes</th></tr>
+    </thead>
+    <tbody>
+      <tr class="row-section">
+        <td class="cell-order">01</td>
+        <td class="cell-element">Page Header<small>min-height 75vh</small></td>
+        <td class="cell-block">Kadence Section</td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">H1 "Support this journey with confidence." Lede. Gold ambient glow right.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">02</td>
+        <td class="cell-element">What It Is<small>2-col sticky left</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Left sticky: tag, H2, paragraph. Right: 3 paragraphs bordered.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">03</td>
+        <td class="cell-element">Three No's<small>Centred</small></td>
+        <td class="cell-block">Kadence Section</td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes">3 strikethrough lines (serif, muted) + 1 gold "Just clarity." line — same treatment as Our Roots No-Judgment section.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">04</td>
+        <td class="cell-element">Why It Matters<small>4-card grid</small></td>
+        <td class="cell-block">Kadence Row</td>
+        <td class="cell-cols">4</td>
+        <td class="cell-notes">Intro above. 4 cards: emoji icon, serif H3, body text.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">05</td>
+        <td class="cell-element">What Support Enables<small>6-item list</small></td>
+        <td class="cell-block">Kadence Section + stacked rows</td>
+        <td class="cell-cols">2</td>
+        <td class="cell-notes">Intro above. 6 stacked items: serif number, H3, body. Top/bottom borders. Max-width 760px. Green ambient bg.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">06</td>
+        <td class="cell-element">Donation Panel<small>WordPress form embed</small></td>
+        <td class="cell-block">Kadence Section + WordPress Shortcode block</td>
+        <td class="cell-cols">1</td>
+        <td class="cell-notes">Tag, serif H2, body, invitation quote block (gold border). Then: <strong>WordPress donation plugin shortcode</strong> embedded here. Donation button styled gold. Note paragraph below. Max-width 720px section.</td>
+      </tr>
+      <tr class="row-block">
+        <td class="cell-order">07</td>
+        <td class="cell-element">Closing quote</td>
+        <td class="cell-block">Kadence Advanced Text</td>
+        <td class="cell-cols">—</td>
+        <td class="cell-notes">Serif italic blockquote + brand sign-off. Max-width 600px.</td>
+      </tr>
+      <tr class="row-section">
+        <td class="cell-order">08</td>
+        <td class="cell-element">Social Strip<small>After donation — intentional</small></td>
+        <td class="cell-block">Kadence Section</td>
+        <td class="cell-cols"><span class="tag tag-full">Full</span></td>
+        <td class="cell-notes"><strong>Do not move this above the donation panel.</strong> Sequencing: contribute first → share second. This order is a brand decision.</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- GLOBAL RULES -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="global-notes" id="global">
+  <p style="font-size:0.66rem;letter-spacing:0.32em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.8rem;">Global Rules</p>
+  <h2 style="font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3vw,2.8rem);font-weight:300;color:var(--cream);">Rules that apply to <em style="font-style:italic;color:var(--gold);">every page.</em></h2>
+  <p style="margin-top:1rem;font-size:0.9rem;color:var(--c60);max-width:640px;line-height:1.85;">These settings are non-negotiable across the entire site. Set them globally in Kadence settings and do not override per-page unless specifically noted.</p>
+
+  <!-- COLOUR REFERENCE -->
+  <p style="font-size:0.68rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--c30);font-weight:500;margin:2.5rem 0 1rem;">Exact Brand Colours</p>
+  <div class="colour-ref">
+    <div class="colour-swatch-row"><div class="cs-dot" style="background:#1A0E08;border:1px solid rgba(255,255,255,0.1);"></div><div class="cs-info"><span class="cs-name">Background</span><span class="cs-hex">#1A0E08 — dark earth</span></div></div>
+    <div class="colour-swatch-row"><div class="cs-dot" style="background:#DAA520;"></div><div class="cs-info"><span class="cs-name">Gold</span><span class="cs-hex">#DAA520 — gold leaf</span></div></div>
+    <div class="colour-swatch-row"><div class="cs-dot" style="background:#2E6B3E;"></div><div class="cs-info"><span class="cs-name">Green</span><span class="cs-hex">#2E6B3E — rainforest</span></div></div>
+    <div class="colour-swatch-row"><div class="cs-dot" style="background:#C1440E;"></div><div class="cs-info"><span class="cs-name">Red</span><span class="cs-hex">#C1440E — terracotta</span></div></div>
+    <div class="colour-swatch-row"><div class="cs-dot" style="background:#FDF5E6;border:1px solid rgba(0,0,0,0.1);"></div><div class="cs-info"><span class="cs-name">Cream</span><span class="cs-hex">#FDF5E6 — old lace</span></div></div>
+  </div>
+
+  <!-- FONT REFERENCE -->
+  <p style="font-size:0.68rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--c30);font-weight:500;margin:2.5rem 0 1rem;">Typography</p>
+  <div class="font-ref">
+    <div class="font-row">
+      <p class="font-label">Display / Headings</p>
+      <p class="font-sample-serif">Cormorant Garamond — Heading <em>Italic</em></p>
+      <p class="font-detail">Google Fonts — weights: 300 (primary), 400, 600 | Always load italic variants</p>
+    </div>
+    <div class="font-row">
+      <p class="font-label">Body / UI</p>
+      <p class="font-sample-sans">DM Sans — body text and all UI elements</p>
+      <p class="font-detail">Google Fonts — weights: 300, 400, 500 | Default weight: 300</p>
+    </div>
+  </div>
+
+  <!-- RULES GRID -->
+  <div class="gn-grid">
+    <div class="gn-card">
+      <h3>Navigation (Every Page)</h3>
+      <ul>
+        <li>Fixed, transparent-to-opaque gradient</li>
+        <li>Logo left: Cormorant Garamond, gold italic on "Fat Cut"</li>
+        <li>Links: DM Sans 0.74rem, uppercase, letter-spacing 0.13em</li>
+        <li>Active link: colour <code>#DAA520</code></li>
+        <li>CTA button: bg <code>#DAA520</code>, text <code>#1A0E08</code>, no radius</li>
+        <li>Mobile: hide all links except CTA button</li>
+      </ul>
+    </div>
+    <div class="gn-card">
+      <h3>Footer (Every Page)</h3>
+      <ul>
+        <li>3-column flex: logo+tagline | nav links | copyright</li>
+        <li>Border top: <code>rgba(253,245,230,0.07)</code></li>
+        <li>Tagline: "A knowledge tree for health, wellness, awareness & opportunity."</li>
+        <li>Nav links: 5 pages max, small caps, muted colour</li>
+        <li>Mobile: stack vertically, align left</li>
+      </ul>
+    </div>
+    <div class="gn-card">
+      <h3>Social Strip (Every Page)</h3>
+      <ul>
+        <li>Position: above footer, below CTA strip</li>
+        <li>Exception: support.html — after donation panel</li>
+        <li>Share button uses Web Share API with clipboard fallback</li>
+        <li>Follow link → kwikfatcut.com (update when live URLs confirmed)</li>
+        <li>Social links → update with real platform URLs before launch</li>
+      </ul>
+    </div>
+    <div class="gn-card">
+      <h3>Scroll Reveal Animations</h3>
+      <ul>
+        <li>All <code>.reveal</code> elements: opacity 0 → 1, translateY 24px → 0</li>
+        <li>Trigger: IntersectionObserver, threshold 0.07</li>
+        <li>Stagger: 65ms delay between sibling elements</li>
+        <li>If Kadence scroll reveal is insufficient, use the JS from HTML reference</li>
+        <li>Hero elements: CSS animation, not IntersectionObserver</li>
+      </ul>
+    </div>
+    <div class="gn-card">
+      <h3>Dividers / Rules</h3>
+      <ul>
+        <li>Horizontal rules between sections: 1px height</li>
+        <li>Colour: linear gradient — transparent → <code>rgba(218,165,32,0.15)</code> → transparent</li>
+        <li>Margin: 0 6vw (inset from page edges)</li>
+        <li>Use Kadence divider block with custom colour</li>
+      </ul>
+    </div>
+    <div class="gn-card">
+      <h3>Grain Texture Overlay</h3>
+      <ul>
+        <li>Fixed position, covers entire viewport, z-index 998</li>
+        <li>SVG fractalNoise filter, opacity 0.45</li>
+        <li>Pointer-events: none (non-interactive)</li>
+        <li>Implement via Kadence Custom CSS or child theme — applies to body::after globally</li>
+      </ul>
+    </div>
+    <div class="gn-card">
+      <h3>What NOT to Do</h3>
+      <ul>
+        <li>Do not change any hex colour</li>
+        <li>Do not substitute fonts</li>
+        <li>Do not add sections, cards, or blocks not in the reference</li>
+        <li>Do not reorder sections</li>
+        <li>Do not add hover effects beyond what the HTML shows</li>
+        <li>Do not suggest design improvements — ask first</li>
+      </ul>
+    </div>
+    <div class="gn-card">
+      <h3>Logo Usage</h3>
+      <ul>
+        <li>File: <code>kwik-logo.jpeg</code> — upload to Media Library</li>
+        <li>Hero (Our Roots): clamp(180px,26vw,300px) wide, drop-shadow gold glow</li>
+        <li>Founder page right panel: 65% width, opacity 0.6</li>
+        <li>Article sidebars: 120px wide</li>
+        <li>Nav: text-based logo only — no image in nav</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+</main>
+<footer style="border-top:1px solid rgba(253,245,230,0.07);padding:2.5rem 5vw;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1.5rem;">
+  <div>
+    <a href="kwik-fat-cut-homepage.html" style="font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;">Kwik <em style="font-style:italic;color:var(--gold);">Fat Cut</em></a>
+    <p style="font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.2rem;">Developer Reference Document — Confidential</p>
+  </div>
+  <p style="font-size:0.68rem;color:rgba(253,245,230,0.16);">&copy; 2026 Kwik Fat Cut &mdash; For Oluwanifemi Akinwumi only</p>
+</footer>
+
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

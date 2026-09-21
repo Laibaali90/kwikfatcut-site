@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Before modern dentistry, oral health was not outsourced — it was lived. The Moors used the miswak daily. The Aztecs ate fibrous whole foods. Two civilisations, one pattern. Restore memory.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ancient Oral Wisdom — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  .nav-btn:hover{background:var(--cream)!important;}
+  /* CINEMATIC HEADER */
+  .page-header::before{
+    content:'';position:absolute;inset:0;pointer-events:none;
+    background:
+      radial-gradient(ellipse 55% 65% at 80% 30%,rgba(218,165,32,0.06) 0%,transparent 60%),
+      radial-gradient(ellipse 45% 55% at 15% 75%,rgba(46,107,62,0.05) 0%,transparent 55%),
+      radial-gradient(ellipse 35% 40% at 50% 50%,rgba(193,68,14,0.03) 0%,transparent 60%);
+  }
+
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;position:relative;z-index:1;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb a:hover{color:var(--c60);}
+  .breadcrumb span{margin:0 0.6rem;}
+
+  .article-tag{display:inline-block;font-size:0.64rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--gold);border:1px solid rgba(218,165,32,0.35);padding:0.25rem 0.7rem;border-radius:2px;margin-bottom:1.5rem;position:relative;z-index:1;opacity:0;animation:up 0.9s 0.15s ease forwards;}
+
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(2.8rem,7vw,6.5rem);font-weight:300;line-height:1.05;color:var(--cream);max-width:820px;position:relative;z-index:1;opacity:0;animation:up 0.9s 0.2s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+
+  .header-invitation{position:relative;z-index:1;margin-top:2rem;max-width:480px;opacity:0;animation:up 0.9s 0.35s ease forwards;}
+  .header-invitation p{font-family:'Cormorant Garamond',serif;font-size:1.15rem;font-weight:300;font-style:italic;line-height:1.6;color:var(--c60);}
+  .header-invitation p em{font-style:normal;color:var(--gold);}
+
+  .article-meta{margin-top:2rem;display:flex;gap:2rem;flex-wrap:wrap;position:relative;z-index:1;opacity:0;animation:up 0.9s 0.45s ease forwards;}
+  .meta-item{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);}
+  .meta-item strong{color:var(--c60);font-weight:400;}
+
+  /* COLOUR BAND */
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:4px;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+
+  /* ARTICLE LAYOUT */
+  .article-wrap{padding:6rem 6vw;display:grid;grid-template-columns:1fr 2.5fr;gap:6rem;align-items:start;max-width:1300px;}
+
+  .sidebar{position:sticky;top:110px;}
+  .sidebar-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:1.2rem;font-weight:500;}
+  .toc a{font-size:0.82rem;color:var(--c60);text-decoration:none;padding:0.65rem 0;border-bottom:1px solid var(--c10);display:block;transition:color 0.2s;line-height:1.4;}
+  .toc a:first-child{border-top:1px solid var(--c10);}
+  .toc a:hover{color:var(--gold);}
+
+  .sidebar-quote{margin-top:2.5rem;border-left:2px solid var(--gold);padding:1.2rem;background:var(--g08);}
+  .sidebar-quote p{font-size:0.82rem;line-height:1.75;color:var(--c60);font-style:italic;}
+  .sidebar-quote strong{font-style:normal;color:var(--cream);font-weight:400;}
+
+  .sidebar-logo{margin-top:2rem;text-align:center;}
+  .sidebar-logo img{width:120px;height:auto;filter:drop-shadow(0 4px 20px rgba(218,165,32,0.15));opacity:0.85;}
+
+  /* ARTICLE BODY */
+  .article-body{display:flex;flex-direction:column;gap:0;}
+  .article-section{padding:3.2rem 0;border-bottom:1px solid var(--c10);}
+  .article-section:first-child{padding-top:0;}
+  .article-section:last-child{border-bottom:none;}
+
+  .section-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.8rem;}
+  .section-label.gold{color:var(--gold);}
+  .section-label.green{color:var(--green);}
+
+  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.6rem,2.8vw,2.5rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.5rem;}
+  .article-section h2 em{font-style:italic;color:var(--gold);}
+
+  .article-section p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1.2rem;}
+  .article-section p:last-child{margin-bottom:0;}
+  .article-section p strong{color:var(--cream);font-weight:400;}
+
+  /* PULL QUOTE */
+  .pull-quote{margin:2.5rem 0;padding:2rem 2.5rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .pull-quote p{font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:300;font-style:italic;line-height:1.6;color:var(--cream);}
+  .pull-quote p em{font-style:normal;color:var(--gold);}
+
+  /* CIVILIZATION BLOCKS */
+  .civ-block{margin:2.5rem 0;padding:2.5rem 2.4rem;border:1px solid var(--c10);position:relative;transition:border-color 0.3s;}
+  .civ-block:hover{border-color:var(--g20);}
+  .civ-block::before{content:'';position:absolute;top:0;left:0;width:3px;height:100%;}
+  .civ-block.moor::before{background:var(--gold);}
+  .civ-block.aztec::before{background:var(--green);}
+  .civ-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;font-weight:500;margin-bottom:1rem;}
+  .civ-block.moor .civ-label{color:var(--gold);}
+  .civ-block.aztec .civ-label{color:var(--green);}
+  .civ-block h3{font-family:'Cormorant Garamond',serif;font-size:1.35rem;font-weight:400;color:var(--cream);margin-bottom:1rem;}
+  .civ-block p{font-size:0.93rem;line-height:1.9;color:var(--c60);margin-bottom:1rem;}
+  .civ-block p:last-child{margin-bottom:0;}
+  .civ-block p strong{color:var(--cream);font-weight:400;}
+
+  /* FOODS TABLE */
+  .foods-row{display:grid;grid-template-columns:1fr 1fr;gap:2px;margin:2rem 0;}
+  .foods-side{padding:2rem 1.8rem;border:1px solid var(--c10);}
+  .foods-side h4{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:400;color:var(--cream);margin-bottom:1rem;display:flex;align-items:center;gap:0.5rem;}
+  .foods-side ul{list-style:none;display:flex;flex-direction:column;gap:0.5rem;}
+  .foods-side ul li{font-size:0.84rem;line-height:1.65;color:var(--c60);display:flex;gap:0.6rem;align-items:flex-start;}
+  .foods-side ul li::before{content:'—';color:var(--gold);opacity:0.4;flex-shrink:0;}
+
+  /* PATTERN — four points */
+  .pattern-grid{margin:2.5rem 0;display:grid;grid-template-columns:1fr 1fr;gap:2px;}
+  .pattern-point{padding:1.8rem 1.6rem;border:1px solid var(--c10);transition:background 0.3s,border-color 0.3s;}
+  .pattern-point:hover{background:var(--g08);border-color:var(--g20);}
+  .pp-num{font-family:'Cormorant Garamond',serif;font-size:2.5rem;font-weight:300;color:var(--gold);opacity:0.18;line-height:1;margin-bottom:0.8rem;}
+  .pp-text{font-size:0.88rem;line-height:1.8;color:var(--c60);}
+  .pp-text strong{color:var(--cream);font-weight:400;}
+
+  /* THE ROOT QUESTION */
+  .root-question{margin:2.5rem 0;padding:2.5rem;background:linear-gradient(135deg,rgba(218,165,32,0.04),rgba(193,68,14,0.04));border:1px solid rgba(218,165,32,0.15);}
+  .rq-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--gold);font-weight:500;margin-bottom:1.2rem;}
+  .rq-lines{display:flex;flex-direction:column;gap:0.8rem;}
+  .rq-line{font-family:'Cormorant Garamond',serif;font-size:1.2rem;font-weight:300;color:var(--cream);line-height:1.3;}
+  .rq-line em{font-style:italic;color:var(--gold);}
+
+  /* CLOSING */
+  .article-close{padding:4rem 0 2rem;}
+  .article-close h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.5rem;}
+  .article-close h2 em{font-style:italic;color:var(--gold);}
+  .article-close p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1rem;}
+  .article-close p strong{color:var(--cream);font-weight:400;}
+  .close-sign{margin-top:2.5rem;display:flex;flex-direction:column;gap:0.3rem;}
+  .close-sign p{font-size:0.7rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--c30);}
+  .close-sign em{font-style:italic;color:var(--c60);font-size:0.85rem;letter-spacing:0;}
+
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,transform 0.2s;}
+  .btn-primary:hover{background:var(--cream);transform:translateY(-2px);}
+  .btn-outline{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .btn-outline:hover{border-color:var(--c60);color:var(--cream);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+
+  @media(max-width:960px){
+    .article-wrap{grid-template-columns:1fr;gap:3rem;}
+    .sidebar{position:static;}
+    .foods-row,.pattern-grid{grid-template-columns:1fr;}
+    .cta-strip{flex-direction:column;align-items:flex-start;}
+  }
+
+  /* SOCIAL STRIP */
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn svg{width:15px;height:15px;fill:currentColor;flex-shrink:0;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-btn.follow:hover{background:var(--g08);border-color:var(--gold);}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/learn-ancient-oral-wisdom.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <p class="breadcrumb">
+    <a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span>
+    <a href="learn.html">Learn</a><span>&middot;</span>
+    Ancient Oral Wisdom
+  </p>
+  <span class="article-tag">Explore &mdash; Kwik Fat Cut Foods Hub</span>
+  <h1>Before modern<br>dentistry &mdash;<br><em>oral health was lived.</em></h1>
+  <div class="header-invitation">
+    <p>Stay seated. We go further back.<br>
+    <em>Restore memory &mdash; trace the roots.</em><br>
+    We row. You steer.</p>
+  </div>
+  <div class="article-meta">
+    <div class="meta-item">Category <strong>Ancient Wisdom &amp; Oral Health</strong></div>
+    <div class="meta-item">Reading time <strong>9 min</strong></div>
+    <div class="meta-item">Level <strong>Deep Read</strong></div>
+  </div>
+</header>
+
+<div class="colour-band">
+  <div class="cb-black"></div><div class="cb-red"></div>
+  <div class="cb-gold"></div><div class="cb-green"></div>
+</div>
+
+<div class="article-wrap">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar reveal">
+    <p class="sidebar-label">In this article</p>
+    <nav class="toc">
+      <a href="#before">Before modern dentistry</a>
+      <a href="#moors">The Moors &amp; the miswak</a>
+      <a href="#aztecs">The Aztecs &amp; whole foods</a>
+      <a href="#pattern">The pattern that holds</a>
+      <a href="#root">Why this is the root</a>
+      <a href="#power">The power within us</a>
+    </nav>
+    <div class="sidebar-quote">
+      <p>&ldquo;The Family Tree does not begin in the clinic.<br><strong>It begins in behaviour.</strong>&rdquo;</p>
+    </div>
+    <div class="sidebar-logo">
+      <img src="kwik-logo.jpeg" alt="Kwik Fat Cut" loading="eager" fetchpriority="high" decoding="async">
+    </div>
+  </aside>
+
+  <!-- ARTICLE BODY -->
+  <article class="article-body">
+
+    <div class="article-section reveal" id="before">
+      <p class="section-label">Education First</p>
+      <h2>Oral health was not<br>outsourced &mdash; <em>it was lived.</em></h2>
+      <p>Before modern dentistry, across early societies worldwide, daily habits &mdash; not products &mdash; protected the mouth. There were no clinics on every corner, no fluoride treatments, no electric toothbrushes. And yet, the archaeological and historical record shows communities with strong oral structures, low decay rates, and sophisticated daily hygiene practices rooted entirely in what grew from the earth.</p>
+      <p>This is not nostalgia. <strong>This is evidence.</strong> The root of modern oral health crisis is not a lack of products &mdash; it is a departure from the behaviours and foods that kept the mouth in balance for millennia.</p>
+
+      <div class="pull-quote">
+        <p>&ldquo;Before modern dentistry, oral health was not outsourced &mdash; <em>it was lived.</em> Across early societies, daily habits &mdash; not products &mdash; protected the mouth.&rdquo;</p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="moors">
+      <p class="section-label gold">The Moors</p>
+      <h2>Islamic medical tradition<br>&amp; <em>the miswak.</em></h2>
+      <p>Among the Moors, historic Islamic medical texts describe the use of the <strong>miswak</strong> &mdash; a natural toothbrush made from the <em>Salvadora persica</em> tree, also known as the toothbrush tree or arak. Its fibres mechanically cleaned teeth while its natural compounds demonstrated antimicrobial activity against the bacteria associated with decay and gum disease.</p>
+      <p>To clarify: this was not occasional. <strong>It was routine &mdash; often practised multiple times daily.</strong> The miswak was not a remedy for a problem. It was a prevention woven into the rhythm of the day, as natural and as consistent as prayer or meals.</p>
+
+      <div class="civ-block moor reveal">
+        <p class="civ-label">Moorish Diet &amp; Oral Health</p>
+        <h3>What sustained the teeth</h3>
+        <p>Their diet leaned toward <strong>whole grains, olives, dates, legumes, herbs, and moderate amounts of animal foods</strong> &mdash; low in refined sugar and high in fibre. Less sugar meant fewer acids. Fewer acids meant stronger enamel. The connection between diet and dental outcome was not theoretical. It was lived, daily, across generations.</p>
+        <div class="foods-row" style="margin-top:1.5rem;">
+          <div class="foods-side">
+            <h4>🌾 Core Foods</h4>
+            <ul>
+              <li>Whole grains (wheat, barley, millet)</li>
+              <li>Olives &amp; olive oil</li>
+              <li>Dates &amp; dried fruits</li>
+              <li>Legumes (lentils, chickpeas, fava beans)</li>
+              <li>Fresh herbs &amp; spices</li>
+              <li>Moderate animal foods</li>
+            </ul>
+          </div>
+          <div class="foods-side" style="background:var(--g08);border-color:var(--g20);">
+            <h4>🦷 Oral Outcomes</h4>
+            <ul>
+              <li>Low refined sugar &rarr; fewer acids</li>
+              <li>High fibre &rarr; mechanical cleaning</li>
+              <li>Whole foods &rarr; chewing stimulates saliva</li>
+              <li>Miswak routine &rarr; antimicrobial balance</li>
+              <li>Herbal preparations &rarr; gum support</li>
+              <li>Strong enamel outcomes recorded</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="aztecs">
+      <p class="section-label green">The Aztecs</p>
+      <h2>Across the Atlantic &mdash;<br><em>the same alignment.</em></h2>
+      <p>Across the Atlantic, the Aztecs demonstrated a similar alignment with nature. Archaeological and colonial records show diets built on <strong>maize, beans, squash, amaranth, cacao, and chili</strong> &mdash; coarse, fibrous foods that require chewing, naturally stimulate saliva, strengthen gums, and support oral cleansing with every meal.</p>
+      <p>For hygiene, they used <strong>plant-based abrasives, salt rinses, and herbal preparations.</strong> Not luxury &mdash; function. Not products designed for profit &mdash; practices designed for results. The mouth was understood as a site of daily attention, not periodic intervention.</p>
+
+      <div class="civ-block aztec reveal">
+        <p class="civ-label">Aztec Diet &amp; Oral Practice</p>
+        <h3>Food as oral medicine</h3>
+        <p>Coarse, fibrous Aztec staples required sustained chewing &mdash; which naturally stimulated saliva production and acted as mechanical cleaning for the teeth. <strong>The act of eating whole foods was itself a hygiene practice.</strong> Cacao, used in its unprocessed form, contains compounds with antimicrobial properties. Chili and herbs contributed to the microbial environment of the mouth.</p>
+        <div class="foods-row" style="margin-top:1.5rem;">
+          <div class="foods-side">
+            <h4>🌽 Core Foods</h4>
+            <ul>
+              <li>Maize (nixtamalised, whole)</li>
+              <li>Beans (black, pinto, ayocote)</li>
+              <li>Squash &amp; seeds</li>
+              <li>Amaranth (high in calcium &amp; protein)</li>
+              <li>Cacao (unprocessed)</li>
+              <li>Chili &amp; wild herbs</li>
+            </ul>
+          </div>
+          <div class="foods-side" style="background:rgba(46,107,62,0.07);border-color:rgba(46,107,62,0.2);">
+            <h4>🦷 Oral Practice</h4>
+            <ul>
+              <li>Plant-based abrasives for cleaning</li>
+              <li>Salt rinses for antimicrobial balance</li>
+              <li>Herbal preparations for gum health</li>
+              <li>Fibrous food &rarr; natural mechanical clean</li>
+              <li>No refined sugar in traditional diet</li>
+              <li>Chewing as daily oral exercise</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="pattern">
+      <p class="section-label">The Evidence</p>
+      <h2>Across both civilisations,<br><em>a pattern holds.</em></h2>
+      <p>Two civilisations. Two continents. No contact with one another. And yet the same pattern emerges &mdash; independently, consistently, across generations. This is not coincidence. <strong>This is what happens when human communities live in alignment with the body&rsquo;s actual needs.</strong></p>
+
+      <div class="pattern-grid">
+        <div class="pattern-point reveal">
+          <div class="pp-num">01</div>
+          <p class="pp-text"><strong>Whole foods required effort to chew.</strong> That effort was the point &mdash; activating saliva, strengthening jaw muscles, mechanically cleaning tooth surfaces with every bite.</p>
+        </div>
+        <div class="pattern-point reveal">
+          <div class="pp-num">02</div>
+          <p class="pp-text"><strong>Natural fibres supported mechanical cleaning.</strong> Fibrous plant foods acted as a daily scrub &mdash; no toothbrush required. The food itself contributed to its own cleanup.</p>
+        </div>
+        <div class="pattern-point reveal">
+          <div class="pp-num">03</div>
+          <p class="pp-text"><strong>Minimal refined sugar reduced decay.</strong> With no industrial sugar supply, the acid attacks on enamel that now drive the global dental caries epidemic simply did not occur at scale.</p>
+        </div>
+        <div class="pattern-point reveal">
+          <div class="pp-num">04</div>
+          <p class="pp-text"><strong>Daily habits &mdash; not products &mdash; maintained balance.</strong> Hygiene was woven into the rhythm of daily life. It was behaviour, not product, that preserved the oral environment.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="root">
+      <p class="section-label">The Root Question</p>
+      <h2>Why is this<br><em>the root?</em></h2>
+      <p>Because the family tree does not begin in the clinic. It does not begin with the dentist, the mouthwash, or the whitening strip. It begins in behaviour &mdash; in the daily, repeated choices that either support or undermine the oral environment, and through it, the whole body.</p>
+
+      <div class="root-question reveal">
+        <p class="rq-label">The Family Tree Begins Here</p>
+        <div class="rq-lines">
+          <div class="rq-line">What you <em>eat.</em></div>
+          <div class="rq-line">How you <em>chew.</em></div>
+          <div class="rq-line">What you <em>repeat daily.</em></div>
+        </div>
+      </div>
+
+      <p style="margin-top:2rem;">These are not medical interventions. They are <strong>behaviours</strong> &mdash; and behaviours are within reach of every person, regardless of income, geography, or access to healthcare. This is precisely why Kwik Fat Cut begins with education. Not products. Not programmes. <strong>Understanding, so that behaviour can change from the inside out.</strong></p>
+    </div>
+
+    <div class="article-section reveal" id="power">
+      <p class="section-label">The Closing Truth</p>
+      <h2>The mouth<br><em>remembers.</em></h2>
+      <p>The mouth remembers. It carries the memory of every civilisation that understood nourishment before the industry arrived to complicate it. It reminds us that our power to create change begins with recognising the strength already within us.</p>
+      <p>Not in a product. Not in a subscription. <strong>In what we eat. In how we chew. In what we choose to repeat.</strong></p>
+      <p>That power is already within us. ❤️💚</p>
+    </div>
+
+    <div class="article-close reveal">
+      <h2>Restore memory.<br><em>Trace the roots.</em></h2>
+      <p>The Moors knew it. The Aztecs lived it. And the body still carries that wisdom, waiting to be remembered. <strong>Education before intervention.</strong> Always. Kwik Fat Cut exists to help you find your way back to what the body already knows.</p>
+      <p style="margin-top:1rem;">We row. You steer.</p>
+      <div class="close-sign">
+        <p>Kwik Fat Cut &mdash; Foods Hub</p>
+        <em>Education First. Start Free. Learn First.</em>
+      </div>
+    </div>
+
+  </article>
+</div>
+
+<div class="rule"></div>
+
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>Continue<br><em>learning.</em></h3>
+    <p>All articles free. No subscription. No pressure. The knowledge tree keeps growing.</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="learn.html" class="btn-primary">Back to Learn</a>
+    <a href="learn-oral-health.html" class="btn-outline">Oral Health Article</a>
+  </div>
+</div>
+
+
+<!-- SOCIAL ENGAGEMENT STRIP -->
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <p class="ss-body">We take feedback like yours seriously. If Kwik Fat Cut opened your eyes, helped you understand your body better, or gave someone you love a new perspective &mdash; pass it on. Tell a friend to tell a friend. No pressure. Just a gentle invitation.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">
+        <svg viewBox="0 0 24 24" style="width:15px;height:15px;fill:currentColor;flex-shrink:0;"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg>
+        Share this page
+      </button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">Twitter / X</a>
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">Instagram</a>
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">TikTok</a>
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">Facebook</a>
+    </div>
+    <p class="ss-note">Follow, like, share, comment. Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+
+
+
+
+
+<script>
+function shareKFC() {
+  const url = window.location.href;
+  const title = 'Kwik Fat Cut — Free Health Education';
+  if (navigator.share) {
+    navigator.share({title, url}).catch(()=>copyURL(url));
+  } else { copyURL(url); }
+}
+function copyURL(url) {
+  navigator.clipboard?.writeText(url).then(()=>{
+    const b = document.querySelector('.ss-btn.share');
+    if(b){const orig=b.innerHTML;b.textContent='✓ Link copied!';setTimeout(()=>b.innerHTML=orig,2500);}
+  });
+}
+</script>
+
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

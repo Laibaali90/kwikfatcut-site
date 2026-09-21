@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Health begins in the mouth. Your taste buds, saliva, digestion, and daily oral care habits all connect to your overall well-being. Education before intervention — learn what your mouth is telling your body.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Health Begins in the Mouth — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  .nav-btn:hover{background:var(--cream)!important;}
+  /* PAGE HEADER */
+  .page-header::before{content:'';position:absolute;top:0;right:0;width:55vw;height:100%;background:radial-gradient(ellipse at 80% 50%,rgba(46,107,62,0.06) 0%,transparent 65%);pointer-events:none;}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb a:hover{color:var(--c60);}
+  .breadcrumb span{margin:0 0.6rem;}
+  .article-tag{display:inline-block;font-size:0.64rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--green);border:1px solid rgba(46,107,62,0.4);padding:0.25rem 0.7rem;border-radius:2px;margin-bottom:1.5rem;opacity:0;animation:up 0.9s 0.15s ease forwards;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(2.8rem,6.5vw,6rem);font-weight:300;line-height:1.08;color:var(--cream);max-width:780px;opacity:0;animation:up 0.9s 0.2s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:560px;margin-top:2rem;font-size:1.05rem;line-height:1.9;color:var(--c60);font-style:italic;opacity:0;animation:up 0.9s 0.35s ease forwards;}
+  .article-meta{margin-top:2rem;display:flex;gap:2rem;flex-wrap:wrap;opacity:0;animation:up 0.9s 0.45s ease forwards;}
+  .meta-item{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);}
+  .meta-item strong{color:var(--c60);font-weight:400;}
+
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+  .rule-full{height:1px;background:linear-gradient(to right,transparent,rgba(218,165,32,0.12),transparent);}
+
+  /* ARTICLE LAYOUT */
+  .article-wrap{padding:6rem 6vw;display:grid;grid-template-columns:1fr 2.5fr;gap:6rem;align-items:start;max-width:1300px;}
+
+  /* STICKY SIDEBAR */
+  .sidebar{position:sticky;top:110px;}
+  .sidebar-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:1.2rem;font-weight:500;}
+  .toc{display:flex;flex-direction:column;gap:0;}
+  .toc a{font-size:0.82rem;color:var(--c60);text-decoration:none;padding:0.65rem 0;border-bottom:1px solid var(--c10);transition:color 0.2s;line-height:1.4;}
+  .toc a:first-child{border-top:1px solid var(--c10);}
+  .toc a:hover{color:var(--gold);}
+  .sidebar-share{margin-top:2.5rem;}
+  .sidebar-quote{margin-top:2.5rem;border-left:2px solid var(--gold);padding:1.2rem 1.2rem;background:var(--g08);}
+  .sidebar-quote p{font-size:0.82rem;line-height:1.75;color:var(--c60);font-style:italic;}
+  .sidebar-quote strong{font-style:normal;color:var(--cream);font-weight:400;}
+
+  /* ARTICLE BODY */
+  .article-body{display:flex;flex-direction:column;gap:0;}
+
+  .article-section{padding:3rem 0;border-bottom:1px solid var(--c10);}
+  .article-section:first-child{padding-top:0;}
+  .article-section:last-child{border-bottom:none;}
+
+  .section-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.8rem;}
+
+  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.6rem,2.8vw,2.4rem);font-weight:300;line-height:1.2;color:var(--cream);margin-bottom:1.5rem;}
+  .article-section h2 em{font-style:italic;color:var(--gold);}
+
+  .article-section p{font-size:0.96rem;line-height:1.95;color:var(--c60);margin-bottom:1.2rem;}
+  .article-section p:last-child{margin-bottom:0;}
+  .article-section p strong{color:var(--cream);font-weight:400;}
+
+  /* TASTE BUDS GRID */
+  .taste-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:1px;margin:2rem 0;}
+  .taste-card{padding:1.6rem 1.2rem;border:1px solid var(--c10);text-align:center;transition:border-color 0.3s,background 0.3s;}
+  .taste-card:hover{border-color:var(--g20);background:var(--g08);}
+  .taste-icon{font-size:1.6rem;margin-bottom:0.8rem;line-height:1;}
+  .taste-name{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:400;color:var(--cream);margin-bottom:0.3rem;}
+  .taste-role{font-size:0.76rem;line-height:1.6;color:var(--c60);font-style:italic;}
+
+  /* PULL QUOTE */
+  .pull-quote{margin:2.5rem 0;padding:2rem 2.5rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .pull-quote p{font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:300;font-style:italic;line-height:1.6;color:var(--cream);}
+  .pull-quote p em{font-style:normal;color:var(--gold);}
+
+  /* CARE LIST */
+  .care-list{margin:1.5rem 0;display:flex;flex-direction:column;gap:0;}
+  .care-item{display:flex;gap:1.2rem;align-items:flex-start;padding:1rem 0;border-bottom:1px solid var(--c10);}
+  .care-item:first-child{border-top:1px solid var(--c10);}
+  .care-dot{width:6px;height:6px;border-radius:50%;background:var(--green);flex-shrink:0;margin-top:0.55rem;}
+  .care-item p{font-size:0.9rem;line-height:1.8;color:var(--c60);}
+  .care-item p strong{color:var(--cream);font-weight:400;}
+
+  /* NUTRIENTS */
+  .nutrients{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1px;margin:2rem 0;}
+  .nutrient{padding:1.4rem 1.2rem;border:1px solid var(--c10);transition:background 0.3s;}
+  .nutrient:hover{background:var(--g08);}
+  .nutrient-name{font-size:0.82rem;font-weight:500;color:var(--cream);margin-bottom:0.25rem;}
+  .nutrient-role{font-size:0.76rem;line-height:1.6;color:var(--c60);}
+
+  /* CLOSING STATEMENT */
+  .article-close{padding:4rem 0 2rem;text-align:left;}
+  .article-close h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.2;color:var(--cream);margin-bottom:1.2rem;}
+  .article-close h2 em{font-style:italic;color:var(--gold);}
+  .article-close p{font-size:0.96rem;line-height:1.95;color:var(--c60);}
+  .article-close .sign{margin-top:2rem;font-size:0.72rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);}
+
+  /* CTA STRIP */
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,transform 0.2s;}
+  .btn-primary:hover{background:var(--cream);transform:translateY(-2px);}
+  .btn-outline{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .btn-outline:hover{border-color:var(--c60);color:var(--cream);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+
+  @media(max-width:960px){
+    .article-wrap{grid-template-columns:1fr;gap:3rem;}
+    .sidebar{position:static;}
+    .cta-strip{flex-direction:column;align-items:flex-start;}
+  }
+
+  /* SOCIAL STRIP */
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn svg{width:15px;height:15px;fill:currentColor;flex-shrink:0;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-btn.follow:hover{background:var(--g08);border-color:var(--gold);}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/learn-oral-health.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span><a href="learn.html">Learn</a><span>&middot;</span>Oral Health</p>
+  <span class="article-tag">Health Education</span>
+  <h1>Health begins<br>in the <em>mouth.</em></h1>
+  <p class="lede">We look forward to your arrival. Please proceed and take a seat. Our ability to create change starts with recognising the power of the mouth &mdash; the one we already hold.</p>
+  <div class="article-meta">
+    <div class="meta-item">Category <strong>Oral Health &amp; Nutrition</strong></div>
+    <div class="meta-item">Reading time <strong>8 min</strong></div>
+    <div class="meta-item">Level <strong>Foundation</strong></div>
+  </div>
+</header>
+
+<div class="rule"></div>
+
+<div class="article-wrap">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar reveal">
+    <p class="sidebar-label">In this article</p>
+    <nav class="toc">
+      <a href="#gateway">The gateway</a>
+      <a href="#taste">The five signals</a>
+      <a href="#saliva">Saliva & protection</a>
+      <a href="#care">Daily care</a>
+      <a href="#connection">Human connection</a>
+      <a href="#nutrition">Nutrition & repair</a>
+    </nav>
+    <div class="sidebar-quote">
+      <p>&ldquo;<strong>What enters the mouth does not stay there</strong> &mdash; it sets direction for everything that follows.&rdquo;</p>
+    </div>
+  </aside>
+
+  <!-- ARTICLE BODY -->
+  <article class="article-body">
+
+    <div class="article-section reveal" id="gateway">
+      <p class="section-label">The Gateway</p>
+      <h2>The mouth is where<br>health <em>begins.</em></h2>
+      <p>You&rsquo;re here. Please, have a seat. Let&rsquo;s go through this together. No rush, no pressure. Just clarity.</p>
+      <p>The mouth plays a vital role in overall health. The quality of a person&rsquo;s diet and oral hygiene directly impacts both physical and mental well-being. It is important to remember that health often starts with a simple gesture of affection &mdash; a loving kiss from birth &mdash; and a carefully chosen, nutritious meal that nourishes both the body and the spirit.</p>
+      <p><strong>Kwik Fat Cut reminds us that our ability to create change starts with recognising the power of the mouth &mdash; the power we already hold.</strong> ❤️💚</p>
+
+      <div class="pull-quote">
+        <p>&ldquo;Before modern wellness language, early clinicians were already clear: <em>the mouth is the first checkpoint of the body.</em>&rdquo;</p>
+      </div>
+
+      <p>Records from the British Medical Journal and the Journal of the American Dental Association described how oral conditions influenced digestion, infection spread, and whole-body resilience. What enters the mouth does not stay there &mdash; <strong>it sets direction.</strong></p>
+    </div>
+
+    <div class="article-section reveal" id="taste">
+      <p class="section-label">The Five Signals</p>
+      <h2>Taste buds are<br><em>guides, not passengers.</em></h2>
+      <p>The mouth houses taste buds &mdash; specialised sensory cells that read five distinct signals. These are not merely flavours. Early physiology texts noted their role as protective guides: the body learns before the stomach ever receives.</p>
+
+      <div class="taste-grid">
+        <div class="taste-card">
+          <div class="taste-icon">🍯</div>
+          <div class="taste-name">Sweet</div>
+          <div class="taste-role">Signals carbohydrates &amp; quick energy. Guides the body toward calorie-dense foods.</div>
+        </div>
+        <div class="taste-card">
+          <div class="taste-icon">🍋</div>
+          <div class="taste-name">Sour</div>
+          <div class="taste-role">Warns against fermented or spoiled substances. Also signals vitamin C-rich foods.</div>
+        </div>
+        <div class="taste-card">
+          <div class="taste-icon">🧂</div>
+          <div class="taste-name">Salty</div>
+          <div class="taste-role">Points toward mineral nourishment &mdash; sodium and electrolytes essential to cell function.</div>
+        </div>
+        <div class="taste-card">
+          <div class="taste-icon">🌿</div>
+          <div class="taste-name">Bitter</div>
+          <div class="taste-role">A natural warning against potentially toxic substances. Protective by design.</div>
+        </div>
+        <div class="taste-card">
+          <div class="taste-icon">🍖</div>
+          <div class="taste-name">Umami</div>
+          <div class="taste-role">Points toward protein and amino acid richness &mdash; the building blocks of tissue and repair.</div>
+        </div>
+      </div>
+
+      <p>Bitter and sour warned against harmful substances; salt and umami pointed toward mineral and protein nourishment. <strong>The body learns before the stomach ever receives.</strong> This is not instinct alone &mdash; it is a sophisticated biological reading system, refined over millennia.</p>
+    </div>
+
+    <div class="article-section reveal" id="saliva">
+      <p class="section-label">The Protective Fluid</p>
+      <h2>Saliva: the<br><em>overlooked guardian.</em></h2>
+      <p>Saliva, often overlooked, was documented by early clinicians as a protective fluid &mdash; one that begins digestion and regulates microbial balance through natural enzymes. It is not simply moisture. It is the body&rsquo;s first line of digestive defence.</p>
+      <p>When oral hygiene declines, this balance shifts. <strong>Bacteria accumulate, gums weaken, and pathways open beyond the mouth.</strong> The mouth does not exist in isolation from the rest of the body. It is connected &mdash; through the bloodstream, the digestive tract, the immune system &mdash; to everything that follows.</p>
+      <p>Restore memory &mdash; see real results inside. <strong>We row. You steer.</strong></p>
+    </div>
+
+    <div class="article-section reveal" id="care">
+      <p class="section-label">Daily Protection</p>
+      <h2>Consistent care<br><em>is the practice.</em></h2>
+      <p>Consistent oral care remains simple and powerful. Not as routine &mdash; but as <strong>daily protection of your internal environment.</strong> The mouth is where nourishment enters. Protecting it is not vanity. It is stewardship.</p>
+      <div class="care-list">
+        <div class="care-item">
+          <div class="care-dot"></div>
+          <p><strong>Brush thoroughly, twice daily.</strong> Remove the plaque that accumulates on teeth and at the gum line &mdash; the primary source of bacterial overgrowth.</p>
+        </div>
+        <div class="care-item">
+          <div class="care-dot"></div>
+          <p><strong>Floss daily.</strong> Reaches where brushing cannot. Disrupts bacterial colonies between teeth before they establish.</p>
+        </div>
+        <div class="care-item">
+          <div class="care-dot"></div>
+          <p><strong>Remove plaque consistently.</strong> Plaque hardens into tartar within 24&ndash;48 hours. Regular removal keeps the cycle broken.</p>
+        </div>
+        <div class="care-item">
+          <div class="care-dot"></div>
+          <p><strong>Maintain professional cleaning.</strong> A dental professional reaches what home care cannot, and monitors changes over time that the untrained eye will miss.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="connection">
+      <p class="section-label">Human Connection</p>
+      <h2>The mouth and<br><em>human contact.</em></h2>
+      <p>Human connection also plays a role in oral and systemic health. Close contact &mdash; including the loving gestures that begin from birth &mdash; can exchange microbes between individuals. <strong>When the body is well nourished and stable, this microbial exchange supports diversity</strong> in the oral and gut microbiome.</p>
+      <p>This is not cause for alarm. It is a reminder that health is not purely individual &mdash; it is relational, communal, and woven into how we live alongside one another. The mouth is where that connection, literally, begins.</p>
+    </div>
+
+    <div class="article-section reveal" id="nutrition">
+      <p class="section-label">Nutrition &amp; Repair</p>
+      <h2>Feed the mouth<br><em>what it needs to protect you.</em></h2>
+      <p>Pair good oral care with whole, nutrient-dense foods &mdash; and the body responds with repair and strength. The nutrients that support oral health are the same ones that support systemic health. <strong>The mouth is not separate. It is the starting point.</strong></p>
+      <div class="nutrients">
+        <div class="nutrient">
+          <div class="nutrient-name">Vitamin C</div>
+          <div class="nutrient-role">Supports gum integrity and collagen production. Deficiency is historically linked to gum disease.</div>
+        </div>
+        <div class="nutrient">
+          <div class="nutrient-name">Vitamin D</div>
+          <div class="nutrient-role">Regulates calcium absorption. Essential for strong teeth and bone density in the jaw.</div>
+        </div>
+        <div class="nutrient">
+          <div class="nutrient-name">Calcium</div>
+          <div class="nutrient-role">The primary mineral of tooth structure. Found in whole dairy, leafy greens, legumes, and seeds.</div>
+        </div>
+        <div class="nutrient">
+          <div class="nutrient-name">Antioxidants</div>
+          <div class="nutrient-role">Reduce oxidative stress in oral tissues. Found abundantly in whole fruits, vegetables, and herbs.</div>
+        </div>
+        <div class="nutrient">
+          <div class="nutrient-name">Probiotics</div>
+          <div class="nutrient-role">Support a balanced oral microbiome. Found in fermented foods &mdash; a staple of many ancestral diets.</div>
+        </div>
+        <div class="nutrient">
+          <div class="nutrient-name">Fibre</div>
+          <div class="nutrient-role">Stimulates saliva production through chewing. Natural whole foods are the most effective source.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- TASTE BUDS DECLARATION -->
+    <div class="article-section reveal">
+      <p class="section-label">A Fundamental Truth</p>
+      <h2>Your taste buds are<br>the most <em>influential</em><br>part of your body.</h2>
+      <p>This is not an opinion. It is a fundamental fact. Your taste buds are the gateway through which every food decision passes <div class="article-close reveal">mdash; <strong>ultimately, what you consume is what your stomach digests and processes.</strong></p>
+      <p>Garbage in, garbage out. Clearly. There is no way around this biological truth. The quality of what enters the mouth determines the quality of what the body has to work with. No supplement, no programme, and no intervention can fully compensate for a consistently poor-quality diet.</p>
+      <p>This is exactly why Kwik Fat Cut emphasises learning before acting. <strong>Educate yourself first. Start free. Understand first.</strong> Health begins with a kiss and a carefully chosen dinner. Welcome. Please, take a seat.</p>
+      <div style="margin:2rem 0;padding:1.8rem 2rem;border:1px solid rgba(46,107,62,0.3);background:rgba(46,107,62,0.05);">
+        <p style="font-family:Cormorant Garamond,serif;font-size:1.2rem;font-weight:300;font-style:italic;line-height:1.6;color:var(--cream);margin:0;">Kwik Fat Cut is a non-profit platform committed to indigenous whole-foods health education <div class="article-close reveal">mdash; dedicated to promoting healthy living practices, methods, and tools that enhance <strong style="font-style:normal;font-weight:400;color:var(--gold);">mental balance, resilience, and mental clarity.</strong></p>
+      </div>
+    </div>
+
+    <div class="article-close reveal">
+      <h2>It starts<br>in the <em>mouth.</em></h2>
+      <p>The mouth is the gateway to your overall well-being. Health often begins with an act of affection &mdash; and continues with every informed choice you make about what you allow to enter it. Understanding that is not complicated. It is clarifying.</p>
+      <p style="margin-top:1rem;"><strong>We row. You steer.</strong></p>
+      <p class="sign">Kwik Fat Cut &mdash; Education Before Intervention</p>
+    </div>
+    </div>
+    </div>
+
+  </article>
+</div>
+
+<div class="rule"></div>
+
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>Ready to <em>understand</em> more?</h3>
+    <p>Start free. Explore the full Learn library &mdash; no subscription required.</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="learn.html" class="btn-primary">Start Learning</a>
+    <a href="learn.html" class="btn-outline">Back to Learn</a>
+  </div>
+</div>
+
+
+<!-- SOCIAL ENGAGEMENT STRIP -->
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <p class="ss-body">We take feedback like yours seriously. If Kwik Fat Cut opened your eyes, helped you understand your body better, or gave someone you love a new perspective &mdash; pass it on. Tell a friend to tell a friend. No pressure. Just a gentle invitation.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">
+        <svg viewBox="0 0 24 24" style="width:15px;height:15px;fill:currentColor;flex-shrink:0;"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg>
+        Share this page
+      </button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">Twitter / X</a>
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">Instagram</a>
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">TikTok</a>
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">Facebook</a>
+    </div>
+    <p class="ss-note">Follow, like, share, comment. Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+
+
+
+
+
+<script>
+function shareKFC() {
+  const url = window.location.href;
+  const title = 'Kwik Fat Cut — Free Health Education';
+  if (navigator.share) {
+    navigator.share({title, url}).catch(()=>copyURL(url));
+  } else { copyURL(url); }
+}
+function copyURL(url) {
+  navigator.clipboard?.writeText(url).then(()=>{
+    const b = document.querySelector('.ss-btn.share');
+    if(b){const orig=b.innerHTML;b.textContent='✓ Link copied!';setTimeout(()=>b.innerHTML=orig,2500);}
+  });
+}
+</script>
+
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

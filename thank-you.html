@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Thank you from Kwik Fat Cut. Your generosity keeps health knowledge free for everyone. We row. You steer.">
+<title>Thank You — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+
+  /* HERO */
+  .hero{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:160px 6vw 8vh;position:relative;overflow:hidden;border-bottom:1px solid var(--c10);}
+  .hero::before{content:'';position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(ellipse 60% 70% at 50% 40%,rgba(46,107,62,0.1) 0%,transparent 62%),
+    radial-gradient(ellipse 40% 40% at 10% 80%,rgba(218,165,32,0.06) 0%,transparent 55%),
+    radial-gradient(ellipse 35% 40% at 90% 80%,rgba(193,68,14,0.05) 0%,transparent 55%);}
+
+  .thank-icon{font-size:3rem;margin-bottom:2rem;opacity:0;animation:drop 1s 0.2s cubic-bezier(0.34,1.56,0.64,1) forwards;}
+  .hero-eyebrow{font-size:0.66rem;letter-spacing:0.36em;text-transform:uppercase;color:var(--green);font-weight:500;margin-bottom:1.5rem;opacity:0;animation:up 0.9s 0.5s ease forwards;}
+  .hero h1{font-family:'Cormorant Garamond',serif;font-size:clamp(4rem,11vw,10rem);font-weight:300;line-height:1.0;color:var(--cream);opacity:0;animation:up 0.9s 0.6s ease forwards;}
+  .hero h1 em{font-style:italic;color:var(--gold);}
+  .hero-sub{font-family:'Cormorant Garamond',serif;font-size:clamp(1.1rem,2.2vw,1.7rem);font-weight:300;font-style:italic;line-height:1.5;color:var(--c60);max-width:560px;margin-top:1.8rem;opacity:0;animation:up 0.9s 0.75s ease forwards;}
+  .hero-sub em{font-style:normal;color:var(--gold);}
+  .hero-divider{width:60px;height:1px;background:linear-gradient(to right,transparent,var(--gold),transparent);margin:2.5rem auto;opacity:0;animation:up 0.9s 0.9s ease forwards;}
+
+  /* COLOUR BAND */
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:4px;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+
+  /* PERSONAL LETTER */
+  .letter{padding:8rem 6vw;max-width:820px;margin:0 auto;}
+  .letter-tag{font-size:0.66rem;letter-spacing:0.32em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:3rem;text-align:center;}
+  .letter-body{display:flex;flex-direction:column;gap:2rem;}
+  .letter-body p{font-size:1.02rem;line-height:2;color:var(--c60);}
+  .letter-body p strong{color:var(--cream);font-weight:400;}
+  .letter-body p em{font-style:italic;color:var(--gold);}
+
+  .letter-quote{margin:1.5rem 0;padding:2.2rem 2.8rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .letter-quote p{font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:300;font-style:italic;line-height:1.65;color:var(--cream);}
+  .letter-quote p em{font-style:normal;color:var(--gold);}
+
+  .letter-sign{margin-top:3rem;padding-top:2.5rem;border-top:1px solid var(--c10);}
+  .letter-sign p{font-size:0.95rem;line-height:1.8;color:var(--c60);margin-bottom:0.3rem;}
+  .letter-sign strong{font-family:'Cormorant Garamond',serif;font-size:1.5rem;font-weight:400;color:var(--cream);display:block;margin-top:0.8rem;}
+  .letter-sign small{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);display:block;margin-top:0.4rem;font-family:'DM Sans',sans-serif;}
+
+  /* MISSION STRIPE */
+  .mission-stripe{border-top:1px solid var(--c10);border-bottom:1px solid var(--c10);padding:6rem 6vw;background:linear-gradient(to bottom,transparent,rgba(46,107,62,0.04),transparent);}
+  .ms-inner{max-width:820px;margin:0 auto;}
+  .ms-tag{font-size:0.66rem;letter-spacing:0.32em;text-transform:uppercase;color:var(--green);font-weight:500;margin-bottom:2rem;text-align:center;}
+  .ms-title{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.2;color:var(--cream);text-align:center;margin-bottom:3rem;}
+  .ms-title em{font-style:italic;color:var(--gold);}
+  .ms-pillars{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:2px;}
+  .ms-pillar{padding:2.2rem 2rem;border:1px solid var(--c10);text-align:center;transition:border-color 0.3s,background 0.3s;}
+  .ms-pillar:hover{border-color:var(--g20);background:var(--g08);}
+  .mp-icon{font-size:1.6rem;margin-bottom:0.8rem;line-height:1;}
+  .mp-label{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:400;color:var(--cream);margin-bottom:0.5rem;}
+  .mp-desc{font-size:0.82rem;line-height:1.72;color:var(--c60);}
+
+  /* WHAT YOUR DONATION DOES */
+  .impact{padding:7rem 6vw;border-bottom:1px solid var(--c10);}
+  .impact-inner{max-width:820px;margin:0 auto;}
+  .imp-tag{font-size:0.66rem;letter-spacing:0.32em;text-transform:uppercase;color:var(--gold);font-weight:500;margin-bottom:1rem;}
+  .imp-title{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.2;color:var(--cream);margin-bottom:3.5rem;}
+  .imp-title em{font-style:italic;color:var(--gold);}
+  .impact-list{display:flex;flex-direction:column;gap:0;}
+  .il-item{display:flex;gap:2rem;align-items:flex-start;padding:1.8rem 0;border-bottom:1px solid var(--c10);}
+  .il-item:first-child{border-top:1px solid var(--c10);}
+  .il-dot{width:8px;height:8px;border-radius:50%;background:var(--green);flex-shrink:0;margin-top:0.6rem;}
+  .il-item p{font-size:0.94rem;line-height:1.88;color:var(--c60);}
+  .il-item p strong{color:var(--cream);font-weight:400;}
+
+  /* MOVEMENT IS MEDICINE STRIP */
+  .movement-strip{padding:6rem 6vw;text-align:center;border-bottom:1px solid var(--c10);}
+  .mv-inner{max-width:680px;margin:0 auto;}
+  .mv-lines{display:flex;flex-direction:column;gap:0.7rem;margin-bottom:2.5rem;}
+  .mv-line{font-family:'Cormorant Garamond',serif;font-size:clamp(1.4rem,3vw,2.5rem);font-weight:300;font-style:italic;color:var(--cream);line-height:1.25;}
+  .mv-line em{font-style:normal;color:var(--gold);}
+  .mv-body{font-size:0.94rem;line-height:1.95;color:var(--c60);}
+  .mv-body strong{color:var(--cream);font-weight:400;}
+
+  /* NEXT STEPS */
+  .next-steps{padding:7rem 6vw;border-bottom:1px solid var(--c10);}
+  .ns-inner{max-width:820px;margin:0 auto;}
+  .ns-tag{font-size:0.66rem;letter-spacing:0.32em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:1rem;}
+  .ns-title{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,2.8rem);font-weight:300;line-height:1.2;color:var(--cream);margin-bottom:3rem;}
+  .ns-title em{font-style:italic;color:var(--gold);}
+  .ns-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:2px;}
+  .ns-card{padding:2rem 1.8rem;border:1px solid var(--c10);text-decoration:none;transition:border-color 0.3s,background 0.3s;display:flex;flex-direction:column;justify-content:space-between;}
+  .ns-card:hover{border-color:var(--g20);background:var(--g08);}
+  .ns-label{font-size:0.62rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--green);font-weight:500;margin-bottom:0.6rem;}
+  .ns-card h3{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:400;color:var(--cream);margin-bottom:0.4rem;line-height:1.3;}
+  .ns-card p{font-size:0.8rem;line-height:1.65;color:var(--c60);}
+  .ns-arrow{font-size:0.85rem;color:var(--gold);margin-top:1.2rem;}
+
+  /* SOCIAL STRIP */
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @keyframes drop{from{opacity:0;transform:scale(0.4) translateY(-20px);}to{opacity:1;transform:scale(1) translateY(0);}}
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/thank-you.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<!-- HERO -->
+<section class="hero">
+  <div class="thank-icon">🌳</div>
+  <p class="hero-eyebrow">From the Kwik Fat Cut family &mdash; with deep gratitude</p>
+  <h1>Thank<br><em>you.</em></h1>
+  <p class="hero-sub">Your generosity keeps the knowledge tree rooted, growing, and free for <em>everyone.</em></p>
+  <div class="hero-divider"></div>
+</section>
+
+<div class="colour-band"><div class="cb-black"></div><div class="cb-red"></div><div class="cb-gold"></div><div class="cb-green"></div></div>
+
+<!-- PERSONAL LETTER -->
+<section class="letter">
+  <p class="letter-tag reveal">A Personal Word</p>
+  <div class="letter-body">
+
+    <p class="reveal">What you have just done is not small. In a world where health information is frequently locked behind paywalls, sold as product, or diluted into marketing &mdash; <strong>you have chosen to keep it free.</strong> For the next person who comes looking. For the family that cannot afford a consultation. For the community that was never told where to start.</p>
+
+    <div class="letter-quote reveal">
+      <p>&ldquo;Movements are medicines. Kwik Fat Cut &mdash; <em>enhances the old and embraces the new.</em> We row. You steer. Thank you.&rdquo;</p>
+    </div>
+
+    <p class="reveal">Our mission is to empower individuals and foster a supportive community throughout their journey to well-being. <strong>That mission has your name on it now.</strong> Not literally &mdash; but in the truest sense. You are part of what makes this possible.</p>
+
+    <p class="reveal">Kwik Fat Cut is committed to delivering innovative health and wellness solutions designed to empower individuals in achieving a healthier lifestyle. We are dedicated to helping individuals, families, and communities reach their goals through <strong>personalised educational programmes and indigenous, whole-foods expert guidance.</strong> We prioritise creativity and excellence in everything we do &mdash; and your support makes that standard possible to keep.</p>
+
+    <p class="reveal">This platform was built on a simple, unbreakable principle: <strong>education before intervention.</strong> Before anyone is asked to change anything, they deserve to understand everything. That is what we offer. That is what you are sustaining. And that is not a small thing.</p>
+
+    <p class="reveal"><strong>We are honoured by your trust. We carry it carefully.</strong></p>
+
+    <div class="letter-sign reveal">
+      <p>With sincere gratitude and deepest respect &mdash;</p>
+      <strong>Honey Ras (Wilbert Blackwood)</strong>
+      <small>Founder &amp; CEO &mdash; Kwik Fat Cut &mdash; Kingston, Jamaica 🇯🇲❤️💚</small>
+    </div>
+
+  </div>
+</section>
+
+<!-- MISSION STRIPE -->
+<section class="mission-stripe">
+  <div class="ms-inner">
+    <p class="ms-tag reveal">What You Are Part Of</p>
+    <h2 class="ms-title reveal">A modern, dynamic community.<br><em>Rooted in something ancient.</em></h2>
+    <div class="ms-pillars">
+      <div class="ms-pillar reveal">
+        <div class="mp-icon">🌿</div>
+        <div class="mp-label">Education First</div>
+        <div class="mp-desc">Knowledge before intervention. Every article, every guide, every food profile &mdash; free and grounded in truth.</div>
+      </div>
+      <div class="ms-pillar reveal">
+        <div class="mp-icon">👨‍👩‍👧‍👦</div>
+        <div class="mp-label">Family &amp; Community</div>
+        <div class="mp-desc">Health is not an individual project. It grows in families, in neighbourhoods, in communities that hold each other with care.</div>
+      </div>
+      <div class="ms-pillar reveal">
+        <div class="mp-icon">🌍</div>
+        <div class="mp-label">Indigenous Wisdom</div>
+        <div class="mp-desc">The ancestral food knowledge of Jamaica, West Africa, and the Caribbean &mdash; documented, respected, and made accessible.</div>
+      </div>
+      <div class="ms-pillar reveal">
+        <div class="mp-icon">🔬</div>
+        <div class="mp-label">Innovation &amp; Excellence</div>
+        <div class="mp-desc">A modern, dynamic platform that prioritises creativity and excellence &mdash; meeting ancient wisdom with contemporary rigour.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- IMPACT -->
+<section class="impact">
+  <div class="impact-inner">
+    <p class="imp-tag reveal">Your Donation At Work</p>
+    <h2 class="imp-title reveal">Here is what<br>your generosity<br><em>makes possible.</em></h2>
+    <div class="impact-list">
+      <div class="il-item reveal">
+        <div class="il-dot"></div>
+        <p><strong>Free health education stays free.</strong> Every article, deep read, and ancestral food guide remains accessible to anyone, anywhere, without a subscription or payment. You have just extended that promise.</p>
+      </div>
+      <div class="il-item reveal">
+        <div class="il-dot"></div>
+        <p><strong>Communities that were underserved get reached.</strong> Local health fairs, neighbourhood education sessions, and one-on-one guidance for individuals who need it most &mdash; your support funds that reach.</p>
+      </div>
+      <div class="il-item reveal">
+        <div class="il-dot"></div>
+        <p><strong>Rare content gets built.</strong> The research into Moorish food traditions, Jamaican bush medicine, Ital nutrition science, and ancestral healing practices takes time and care. You are funding that careful work.</p>
+      </div>
+      <div class="il-item reveal">
+        <div class="il-dot"></div>
+        <p><strong>Young people get introduced to ancestral food knowledge.</strong> Youth food mentoring programmes that show the next generation what grows here, what it does, and why it matters. The roots go deeper with your help.</p>
+      </div>
+      <div class="il-item reveal">
+        <div class="il-dot"></div>
+        <p><strong>The platform stays independent.</strong> No advertising. No product sales. No commercial compromise. Your donation is exactly what keeps Kwik Fat Cut free to speak the truth without obligation to anyone but the reader.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- MOVEMENT STRIP -->
+<section class="movement-strip">
+  <div class="mv-inner">
+    <div class="mv-lines reveal">
+      <div class="mv-line">Movements are <em>medicines.</em></div>
+      <div class="mv-line">Knowledge is <em>medicine.</em></div>
+      <div class="mv-line">Generosity is <em>medicine.</em></div>
+    </div>
+    <p class="mv-body reveal">Every act of giving carries forward what the elders always knew &mdash; that a community which shares its knowledge, its food, and its care is a community that survives and thrives. <strong>You are part of that chain now. We are honoured.</strong></p>
+  </div>
+</section>
+
+<!-- NEXT STEPS -->
+<section class="next-steps">
+  <div class="ns-inner">
+    <p class="ns-tag reveal">Keep Going</p>
+    <h2 class="ns-title reveal">The knowledge tree<br>is waiting for <em>you.</em></h2>
+    <div class="ns-grid">
+      <a href="learn.html" class="ns-card reveal">
+        <div>
+          <p class="ns-label">📚 Learn Hub</p>
+          <h3>Start reading</h3>
+          <p>Digestion, oral health, ancestral foods, mindful eating, blood health &mdash; all free, all deep.</p>
+        </div>
+        <div class="ns-arrow">→</div>
+      </a>
+      <a href="foods-hub.html" class="ns-card reveal">
+        <div>
+          <p class="ns-label">🌿 Foods Hub</p>
+          <h3>Explore the roots</h3>
+          <p>Ackee, garlic, sweet potato, Moorish food traditions, Jamaican A&ndash;Z and more.</p>
+        </div>
+        <div class="ns-arrow">→</div>
+      </a>
+      <a href="learn-movement-is-medicine.html" class="ns-card reveal">
+        <div>
+          <p class="ns-label">🏃 Movements Are Medicines</p>
+          <h3>Physical, mental &amp; spiritual</h3>
+          <p>The three-part series on holistic healthy living. Start with Part 1.</p>
+        </div>
+        <div class="ns-arrow">→</div>
+      </a>
+      <a href="about.html" class="ns-card reveal">
+        <div>
+          <p class="ns-label">🌳 About the Platform</p>
+          <h3>Meet the family</h3>
+          <p>Who we are, why we exist, and the community you have just joined.</p>
+        </div>
+        <div class="ns-arrow">→</div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- SOCIAL STRIP -->
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label">Tell a friend to tell a friend</p>
+    <h3 class="ss-headline">Share this platform<br>with someone who <em>needs it.</em></h3>
+    <p class="ss-body">The greatest gift you can give now is passing the knowledge forward. Share freely. It costs nothing. It changes everything.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">Share Kwik Fat Cut</button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow the platform</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link">Twitter / X</a>
+      <a href="#" class="ss-social-link">Instagram</a>
+      <a href="#" class="ss-social-link">TikTok</a>
+      <a href="#" class="ss-social-link">Facebook</a>
+    </div>
+    <p class="ss-note">We row. You steer. &mdash; Kwik Fat Cut, Education First. 🇯🇲❤️💚</p>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+
+<script>
+function shareKFC(){const url='https://kwikfatcut.com';if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 Free Health Education',text:'Start Free. Learn First. Ancestral foods, whole-body health, and indigenous wisdom. All free.',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ss-btn.share');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
+</script>
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

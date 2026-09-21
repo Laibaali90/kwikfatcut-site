@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /kwik-fatcut-block-map.html
+Disallow: /social-media-templates.html
+
+Sitemap: https://kwikfatcut.com/sitemap.xml

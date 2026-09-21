@@ -1,0 +1,403 @@
+{
+  "_note": "Page content for team.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "321b3810": {
+      "src": ", where he spent most of his formative years, attending basic elementary school and growing up in one of Jamaica’s most vibrant, culturally rich communities.",
+      "t": ""
+    },
+    "f5557045": {
+      "src": ", with over 55 years of proven experience in installing, repairing, and troubleshooting complex electrical systems. That discipline — precision, patience, understanding how systems work before intervening — is the same philosophy I bring to health education.",
+      "t": ""
+    },
+    "aad18b6e": {
+      "src": "55+ Years Experience",
+      "t": ""
+    },
+    "1e087f81": {
+      "src": "55+ years specialising in audio & video equipment. Installation, repair, and complex electrical troubleshooting.",
+      "t": ""
+    },
+    "2573c56d": {
+      "src": "Actively promoting healthy eating habits within the community. Free knowledge — always education first.",
+      "t": ""
+    },
+    "4f4e3d19": {
+      "src": "As CFO of Kwik Fat Cut, Glenn’s role goes well beyond the financial. His deliberate, purposeful involvement in the development of the platform reflects a conviction that",
+      "t": ""
+    },
+    "33fd0107": {
+      "src": "Bailey",
+      "t": ""
+    },
+    "f5e33a59": {
+      "src": "Blackwood",
+      "t": ""
+    },
+    "5f023f46": {
+      "src": "Born UK — Raised Jamaica — Long Island College",
+      "t": ""
+    },
+    "19cc50fd": {
+      "src": "Built with",
+      "t": ""
+    },
+    "8aa00c5c": {
+      "src": "CEO & Creator",
+      "t": ""
+    },
+    "a2da13c0": {
+      "src": "CFO & Co-Developer",
+      "t": ""
+    },
+    "22b0b728": {
+      "src": "CFO — Chief Financial Officer & Co-Developer",
+      "t": ""
+    },
+    "6097698f": {
+      "src": "Community Work",
+      "t": ""
+    },
+    "b18d25df": {
+      "src": "Diet",
+      "t": ""
+    },
+    "090ecba2": {
+      "src": "Dreadlax Rastafarian",
+      "t": ""
+    },
+    "7ffca0db": {
+      "src": "Electronic Technician",
+      "t": ""
+    },
+    "b7df1185": {
+      "src": "Entrepreneur & Designer",
+      "t": ""
+    },
+    "009353cd": {
+      "src": "Founder since 2014",
+      "t": ""
+    },
+    "eaebb0db": {
+      "src": "From St. Andrew, Glenn’s path continued. He migrated to the United States, where he pursued his education at",
+      "t": ""
+    },
+    "d5cd7d9a": {
+      "src": "Full Founder Story",
+      "t": ""
+    },
+    "0fe2b40f": {
+      "src": "Full Name",
+      "t": ""
+    },
+    "f25b4c29": {
+      "src": "Glenn",
+      "t": ""
+    },
+    "7dc23659": {
+      "src": "Glenn Bailey’s story begins in the United Kingdom, where he was born after his family migrated from Jamaica in the early 1950s. In time, Glenn made his own journey — back to the island his family came from.",
+      "t": ""
+    },
+    "63236380": {
+      "src": "Glenn currently designs clothing privately",
+      "t": ""
+    },
+    "e0dcb53d": {
+      "src": "Greetings, distinguished individuals. Kwik Fat Cut was built by people who live what they teach — with a combined commitment to health, resilience, and education that goes back decades.",
+      "t": ""
+    },
+    "d3c8f597": {
+      "src": "Greetings. My name is Honey Ras — also known online as Man Rasta. As a proud native of the Caribbean, I bring a diverse and extensive professional background to everything Kwik Fat Cut represents.",
+      "t": ""
+    },
+    "8c2f83bb": {
+      "src": "He settled in Kingston, in the Parish of St. Andrew",
+      "t": ""
+    },
+    "152d8e4b": {
+      "src": "Health Foods Educator",
+      "t": ""
+    },
+    "62206a13": {
+      "src": "Health.",
+      "t": ""
+    },
+    "6c5882b0": {
+      "src": "Holistic Nutrition",
+      "t": ""
+    },
+    "8e6ae356": {
+      "src": "Honey Ras",
+      "t": ""
+    },
+    "04fc69ec": {
+      "src": "Honey Ras family tree — Kingston, Jamaica 🇯🇲❤️💚",
+      "t": ""
+    },
+    "8ad33dad": {
+      "src": "I am an",
+      "t": ""
+    },
+    "e4bfebd7": {
+      "src": "I freely share knowledge on the Kwik Fat Cut education-first platform",
+      "t": ""
+    },
+    "275765f9": {
+      "src": "I offer personalised guidance on developing comprehensive health routines, daily wellness programmes, and nutritional plans. As a committed Rastafarian, I regularly practice meditation, chanting, and herbal remedies — embodying the spiritual practices of Rastafari in daily life, not just in words.",
+      "t": ""
+    },
+    "dfc1d0bb": {
+      "src": "Identity",
+      "t": ""
+    },
+    "5fae9b19": {
+      "src": "January 1, 2014",
+      "t": ""
+    },
+    "8b3058be": {
+      "src": "Join the",
+      "t": ""
+    },
+    "a91a4638": {
+      "src": "Kingston, Jamaica — Parish of St. Andrew",
+      "t": ""
+    },
+    "b3c32b0d": {
+      "src": "Kingston, Jamaica 🇯🇲",
+      "t": ""
+    },
+    "2d6b0e24": {
+      "src": "Known As",
+      "t": ""
+    },
+    "1a71d1a9": {
+      "src": "Known as Honey Ras — Man Rasta — Online: Man Rasta 🇯🇲",
+      "t": ""
+    },
+    "5ee3e5cf": {
+      "src": "Kwik Fat Cut was created by people who live these values — not as a brand positioning exercise, but as a daily practice. The platform is a direct extension of the lives, beliefs, and decades of experience its founders bring to it.",
+      "t": ""
+    },
+    "68bd6654": {
+      "src": "Kwik Fat Cut was not created by a marketing team or a tech startup looking for a health niche. It was built by a CEO with over 55 years of real-world experience and a deep-rooted commitment to ancestral health wisdom, and a CFO who brought deliberate, strategic development to make it a lasting platform.",
+      "t": ""
+    },
+    "fcb57c46": {
+      "src": "Kwik Fat Cut — Education First — We row. You steer.",
+      "t": ""
+    },
+    "9f21f402": {
+      "src": "Local health fairs, youth food-mentoring programmes. Freely sharing knowledge — because that is the point.",
+      "t": ""
+    },
+    "a82ff661": {
+      "src": "Long Island College",
+      "t": ""
+    },
+    "c2ef4b3b": {
+      "src": "Mission Since",
+      "t": ""
+    },
+    "6875c6a2": {
+      "src": "My dedication to helping others is unwavering.",
+      "t": ""
+    },
+    "1f93146f": {
+      "src": "Origin",
+      "t": ""
+    },
+    "89c4ea92": {
+      "src": "Our Team",
+      "t": ""
+    },
+    "b2765f16": {
+      "src": "Personalised health routines, daily wellness programmes, and nutritional plans tailored to individual needs and goals.",
+      "t": ""
+    },
+    "1b2d48a3": {
+      "src": "Rastafarian Practitioner",
+      "t": ""
+    },
+    "1b6c02e7": {
+      "src": "Rastafarian Vegetarian",
+      "t": ""
+    },
+    "546c19ef": {
+      "src": "Regular meditation, chanting, and herbal remedies. A lived embodiment of Rastafari's spiritual and nutritional principles.",
+      "t": ""
+    },
+    "7c443a12": {
+      "src": "Resilience. Education.",
+      "t": ""
+    },
+    "74d86284": {
+      "src": "Role at KFC",
+      "t": ""
+    },
+    "0d557b8f": {
+      "src": "Share this page",
+      "t": ""
+    },
+    "42dcf8d1": {
+      "src": "Shared Commitment",
+      "t": ""
+    },
+    "14376d02": {
+      "src": "St. Andrew Parish",
+      "t": ""
+    },
+    "e70face8": {
+      "src": "Start free. Learn first. No pressure, no body shaming, no barriers.",
+      "t": ""
+    },
+    "995cfe84": {
+      "src": "That instinct is visible in everything he does.",
+      "t": ""
+    },
+    "5a314735": {
+      "src": "That is not a marketing position. It is the foundation everything else is built on.",
+      "t": ""
+    },
+    "c16a6edf": {
+      "src": "The Leadership",
+      "t": ""
+    },
+    "fe526897": {
+      "src": "The people",
+      "t": ""
+    },
+    "8e23a653": {
+      "src": "The strategic foundation behind Kwik Fat Cut’s development",
+      "t": ""
+    },
+    "fc31f96a": {
+      "src": "Together, the leadership of Kwik Fat Cut is grounded in one principle:",
+      "t": ""
+    },
+    "8b6ff2d8": {
+      "src": "Together, they built something that was never meant to sell products — only to educate people.",
+      "t": ""
+    },
+    "398801e4": {
+      "src": "Vegetarian — indigenous, holistic, plant-based",
+      "t": ""
+    },
+    "f2652c2f": {
+      "src": "Vegetarian, indigenous, plant-based diet emphasising organic and locally sourced foods. Sustainable agriculture driven by passion.",
+      "t": ""
+    },
+    "82bfd573": {
+      "src": "We take feedback like yours seriously. If Kwik Fat Cut opened your eyes or gave someone you love a new perspective — pass it on. Tell a friend to tell a friend.",
+      "t": ""
+    },
+    "964bd2b4": {
+      "src": "Wellness Guidance",
+      "t": ""
+    },
+    "ae4e0bdc": {
+      "src": "Wilbert",
+      "t": ""
+    },
+    "013d1086": {
+      "src": "Wilbert Blackwood",
+      "t": ""
+    },
+    "161592cb": {
+      "src": "Wilbert Blackwood — CEO & Founder, Kwik Fat Cut",
+      "t": ""
+    },
+    "2ebfc045": {
+      "src": "and actively support community initiatives including local health fairs and youth food-mentoring programmes. We cannot do this alone. We row together. You steer.",
+      "t": ""
+    },
+    "9a598cce": {
+      "src": "behind the",
+      "t": ""
+    },
+    "7d5aca42": {
+      "src": "education before intervention, and people before products.",
+      "t": ""
+    },
+    "b75eda8b": {
+      "src": "electronic technician specialising in audio and video equipment",
+      "t": ""
+    },
+    "4aad5705": {
+      "src": "family.",
+      "t": ""
+    },
+    "7d52040a": {
+      "src": "health education built with integrity requires the same rigour as any serious enterprise",
+      "t": ""
+    },
+    "9b15dd25": {
+      "src": "knowledge tree.",
+      "t": ""
+    },
+    "6c679afd": {
+      "src": "purpose.",
+      "t": ""
+    },
+    "0ec63aab": {
+      "src": "understand",
+      "t": ""
+    },
+    "27389300": {
+      "src": "what is happening.”",
+      "t": ""
+    },
+    "9e4dee6a": {
+      "src": "— Man Rasta",
+      "t": ""
+    },
+    "92d1fcf3": {
+      "src": "— T-shirts, hoodies, sweat suits, shorts, and more — a creative dimension that runs parallel to his strategic work and reflects the same discipline: attention to quality, commitment to craft, and the refusal to do anything halfway.",
+      "t": ""
+    },
+    "9aec6e5a": {
+      "src": "— bringing with him a mind that had always leaned toward enterprise. Glenn was born with an entrepreneur’s instinct: the drive to build, to create, and to see opportunity where others see obstacles.",
+      "t": ""
+    },
+    "e88593e2": {
+      "src": "— planned carefully, built sustainably, and guided by values rather than short-term gains. He co-developed this platform alongside Wilbert Blackwood with a shared commitment to health education and long-term resilience.",
+      "t": ""
+    },
+    "cd2921c1": {
+      "src": "“Healthy communities begin at home.”",
+      "t": ""
+    },
+    "c6bb7da9": {
+      "src": "“I am honoured to be a partner with Glenn Bailey — a man whose journey from Kingston’s Parish of St. Andrew to Long Island College, and back to this mission, speaks for itself.”",
+      "t": ""
+    },
+    "2e56f6a4": {
+      "src": "“We are not here to tell you what to do. We are here to help you",
+      "t": ""
+    },
+    "c02f38fe": {
+      "src": "🌱",
+      "t": ""
+    },
+    "be2f35d8": {
+      "src": "🌳",
+      "t": ""
+    },
+    "062efb99": {
+      "src": "📋",
+      "t": ""
+    },
+    "b22ce45d": {
+      "src": "🔧",
+      "t": ""
+    },
+    "582b3374": {
+      "src": "🤝",
+      "t": ""
+    },
+    "152c5cfb": {
+      "src": "🧘",
+      "t": ""
+    }
+  }
+}

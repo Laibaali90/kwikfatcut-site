@@ -1,0 +1,487 @@
+{
+  "_note": "Page content for learn-ackee.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "e27cfdf5": {
+      "src": "(and sometimes a fourth, hidden inside) surrounded by soft, spongy, edible arils — the fruit’s pulp — with a creamy texture and mild, savoury flavour. These arils are used in various culinary styles across the Caribbean.",
+      "t": ""
+    },
+    "3fce8043": {
+      "src": ") is celebrated for its unique, lively flavour and is a staple in exotic culinary traditions.",
+      "t": ""
+    },
+    "62536662": {
+      "src": ", ackee helps relax blood vessel walls and improve circulation — reducing the risk of hypertension. Potassium is one of nature’s most effective natural vasodilators.",
+      "t": ""
+    },
+    "82e13bde": {
+      "src": ", directly supporting heart health through the digestive pathway.",
+      "t": ""
+    },
+    "14befa4a": {
+      "src": ", found at nearly every market stall, breakfast table, and family gathering across Jamaica, ackee represents the synthesis of West African heritage, Caribbean environment, and the resilience of a people who created something extraordinary from what they were given.",
+      "t": ""
+    },
+    "e9275419": {
+      "src": ", it continues to delight worldwide. Introduced to Jamaica during the 18th-century transatlantic slave trade, ackee quickly became a Caribbean culinary symbol.",
+      "t": ""
+    },
+    "02c85a7a": {
+      "src": ", not the spike-and-crash of refined carbohydrates.",
+      "t": ""
+    },
+    "1ced6a6e": {
+      "src": "05",
+      "t": ""
+    },
+    "a708b0aa": {
+      "src": "300–500mg of potassium per 100 grams",
+      "t": ""
+    },
+    "8bcef550": {
+      "src": "9 min",
+      "t": ""
+    },
+    "faedb98f": {
+      "src": "A superfruit",
+      "t": ""
+    },
+    "c0da1209": {
+      "src": "A symbol of identity.",
+      "t": ""
+    },
+    "171dc660": {
+      "src": "Ackee",
+      "t": ""
+    },
+    "ebdc5e80": {
+      "src": "Ackee and saltfish is not just a meal. It is a cultural declaration.",
+      "t": ""
+    },
+    "bf66c5b1": {
+      "src": "Ackee contains alkaloids — particularly",
+      "t": ""
+    },
+    "90b5bcff": {
+      "src": "Ackee is highly nutritious, rich in vitamins, minerals, and bioactive compounds that contribute to a nutritious diet. Its nutritional range is exceptional for a tropical fruit.",
+      "t": ""
+    },
+    "c7d1817d": {
+      "src": "Ackee strengthens the body’s defences",
+      "t": ""
+    },
+    "b1df2cca": {
+      "src": "Ackee.",
+      "t": ""
+    },
+    "38ffd2e2": {
+      "src": "Ackee. Rooted in",
+      "t": ""
+    },
+    "6b941acd": {
+      "src": "Africa. Grown in Jamaica.",
+      "t": ""
+    },
+    "bdbcf7c6": {
+      "src": "Aid in energy metabolism. B1 supports nerve function, B2 assists cell growth, B3 regulates cholesterol.",
+      "t": ""
+    },
+    "f92f7685": {
+      "src": "Always follow these rules",
+      "t": ""
+    },
+    "e3fc0d87": {
+      "src": "Antioxidant phytochemicals that protect against oxidative stress and cellular damage.",
+      "t": ""
+    },
+    "6f9934e5": {
+      "src": "B-Complex (B1, B2, B3)",
+      "t": ""
+    },
+    "b13f4d1c": {
+      "src": "Beginning to ripen. Pod starts to open naturally.",
+      "t": ""
+    },
+    "8dc1e269": {
+      "src": "Blighia sapida",
+      "t": ""
+    },
+    "e2a0abf6": {
+      "src": "Blood pressure regulation",
+      "t": ""
+    },
+    "04884f97": {
+      "src": "Bone health",
+      "t": ""
+    },
+    "47625360": {
+      "src": "Containing approximately",
+      "t": ""
+    },
+    "7395015c": {
+      "src": "Crucial for tissue repair and antioxidant defence. Supports collagen production and immune resilience.",
+      "t": ""
+    },
+    "de827d4f": {
+      "src": "Cultural Heart",
+      "t": ""
+    },
+    "753a9bcc": {
+      "src": "Cultural significance",
+      "t": ""
+    },
+    "2b839c67": {
+      "src": "Dietary Fibre",
+      "t": ""
+    },
+    "95a2889e": {
+      "src": "Eat it ripe. Prepare it correctly. Understand what it gives the body. That is the Kwik Fat Cut way. 🇯🇲",
+      "t": ""
+    },
+    "6b57dbd3": {
+      "src": "Energy & vitality",
+      "t": ""
+    },
+    "9c7b9a15": {
+      "src": "Enhanced digestion",
+      "t": ""
+    },
+    "5cacd8d1": {
+      "src": "Essential Fatty Acids",
+      "t": ""
+    },
+    "74489d10": {
+      "src": "Essential for long-term skeletal health",
+      "t": ""
+    },
+    "7fbfb128": {
+      "src": "Flavonoids",
+      "t": ""
+    },
+    "8cb692c6": {
+      "src": "From West Africa",
+      "t": ""
+    },
+    "891b4402": {
+      "src": "From lowering blood pressure to boosting energy — ackee’s benefits are wide-ranging and well-documented. This is not marketing language. This is what the nutritional science confirms about a fruit Jamaicans have eaten for generations.",
+      "t": ""
+    },
+    "f87525d0": {
+      "src": "From lowering blood pressure to boosting energy, supporting growth and tissue repair, aiding digestion, reducing cholesterol, strengthening bones, enhancing immune response, and improving circulation —",
+      "t": ""
+    },
+    "ba2a147c": {
+      "src": "Fully ripe. Pod open. Three black seeds visible. Safe to pick and prepare.",
+      "t": ""
+    },
+    "a953c75c": {
+      "src": "Green",
+      "t": ""
+    },
+    "42e389cd": {
+      "src": "Health Benefits",
+      "t": ""
+    },
+    "c4fbbcad": {
+      "src": "Health benefits",
+      "t": ""
+    },
+    "89ccbc7d": {
+      "src": "Immune strength",
+      "t": ""
+    },
+    "c96cb86d": {
+      "src": "Important:",
+      "t": ""
+    },
+    "bf41e67a": {
+      "src": "In Rastafarian Ital tradition, the freshness and natural preparation of ackee — cooked simply, combined with natural seasonings — embodies the principle that",
+      "t": ""
+    },
+    "63f4269b": {
+      "src": "It also lowers cholesterol",
+      "t": ""
+    },
+    "67e784df": {
+      "src": "Its fragrant aroma, smooth creamy flesh, and sweet nutty flavour — reminiscent of tropical almonds — made it instantly beloved. But beyond flavour,",
+      "t": ""
+    },
+    "83064f8c": {
+      "src": "Jamaican Foods",
+      "t": ""
+    },
+    "fb09b5a3": {
+      "src": "Jamaica’s national dish.",
+      "t": ""
+    },
+    "62669b5e": {
+      "src": "Kwik Fat Cut — Foods Hub — Education First",
+      "t": ""
+    },
+    "435c76c1": {
+      "src": "Magnesium & Zinc",
+      "t": ""
+    },
+    "8c4bd794": {
+      "src": "Magnesium, phosphorus, and calcium work together to support bone density and tooth strength.",
+      "t": ""
+    },
+    "92917c64": {
+      "src": "More Jamaican",
+      "t": ""
+    },
+    "1d8c7550": {
+      "src": "Named after Captain William Bligh, who transported the fruit from West Africa to England in 1793. It reached Jamaica through the transatlantic slave trade.",
+      "t": ""
+    },
+    "2e515bc4": {
+      "src": "Never pick or consume ackee before the pod opens naturally.",
+      "t": ""
+    },
+    "2db33143": {
+      "src": "Nutritional Profile",
+      "t": ""
+    },
+    "16570aa3": {
+      "src": "Nutritional profile",
+      "t": ""
+    },
+    "1a73204a": {
+      "src": "Omega-3 and omega-6 fatty acids. Brain health, inflammation regulation, cardiovascular support.",
+      "t": ""
+    },
+    "ed1b1636": {
+      "src": "Only harvest when the fruit has turned red and split open fully, revealing the three black seeds. Never force the pod open. Never eat the seeds, the pink membrane, or the inner lining — only the cream/yellow arils are edible. Properly prepared, fully ripe ackee is safe and nutritious for all ages.",
+      "t": ""
+    },
+    "727b390b": {
+      "src": "Orange",
+      "t": ""
+    },
+    "1f93146f": {
+      "src": "Origin",
+      "t": ""
+    },
+    "747b9ae8": {
+      "src": "Originating from West Africa and cultivated for centuries",
+      "t": ""
+    },
+    "84a51afc": {
+      "src": "Originating from West Africa and introduced to Jamaica in the 18th century, ackee quickly became a Caribbean culinary symbol. Today it is Jamaica’s national fruit — and one of the most nutritionally remarkable foods on the island.",
+      "t": ""
+    },
+    "d088a814": {
+      "src": "Origins",
+      "t": ""
+    },
+    "fa7e305a": {
+      "src": "Origins & history",
+      "t": ""
+    },
+    "de8eaf52": {
+      "src": "Potassium",
+      "t": ""
+    },
+    "6cb22645": {
+      "src": "Red ✓",
+      "t": ""
+    },
+    "f4683497": {
+      "src": "Rich in dietary fibre, ackee promotes healthy gastrointestinal function. Its high fibre content helps ease constipation and reduces bloating, cramps, and colon inflammation.",
+      "t": ""
+    },
+    "ec177bab": {
+      "src": "Ripening. Pod opens wider. Arils becoming visible.",
+      "t": ""
+    },
+    "05208e84": {
+      "src": "Safety & preparation",
+      "t": ""
+    },
+    "71543421": {
+      "src": "Safety First",
+      "t": ""
+    },
+    "4c6dbff3": {
+      "src": "Scientific name:",
+      "t": ""
+    },
+    "fe8d481f": {
+      "src": "Support bone density, immune function, wound healing, and over 300 enzymatic processes.",
+      "t": ""
+    },
+    "a2554e57": {
+      "src": "Supports healthy gastrointestinal function, eases constipation, and helps regulate cholesterol.",
+      "t": ""
+    },
+    "ab20d34e": {
+      "src": "Supports vision, immune health, and organ function. Critical for cellular repair and skin integrity.",
+      "t": ""
+    },
+    "b0f1fff2": {
+      "src": "The B-complex vitamins in ackee drive energy metabolism at the cellular level — converting food into usable fuel.",
+      "t": ""
+    },
+    "736d663d": {
+      "src": "The Foods Hub keeps growing. All articles free.",
+      "t": ""
+    },
+    "28aa91e0": {
+      "src": "The Ripening Journey",
+      "t": ""
+    },
+    "be692b41": {
+      "src": "The ackee fruit (",
+      "t": ""
+    },
+    "eb6fa3e0": {
+      "src": "The ripening journey",
+      "t": ""
+    },
+    "22a59e9e": {
+      "src": "The ripening of ackee is one of nature’s most deliberate processes. The fruit moves through a visible colour transformation that signals when it is ready — and when it is not.",
+      "t": ""
+    },
+    "6fb320e1": {
+      "src": "This is sustained energy",
+      "t": ""
+    },
+    "29e1c17b": {
+      "src": "Today, as a key ingredient in Jamaica’s national dish — ackee and saltfish — it is a staple throughout the Caribbean, found in nearly every market stall and street vendor’s stand, especially across Jamaica.",
+      "t": ""
+    },
+    "d23ac98d": {
+      "src": "Understanding this journey is essential.",
+      "t": ""
+    },
+    "46d0d132": {
+      "src": "Unripe ackee is toxic. Fully ripe ackee is a nutritional powerhouse.",
+      "t": ""
+    },
+    "8f0a4786": {
+      "src": "Unripe. Closed. Toxic at this stage. Never consume.",
+      "t": ""
+    },
+    "c8b1c7d6": {
+      "src": "Vitamin A",
+      "t": ""
+    },
+    "c6b1c4b0": {
+      "src": "Vitamin C",
+      "t": ""
+    },
+    "fa342a6b": {
+      "src": "Vitamins A and C, combined with zinc and flavonoids, provide a comprehensive immune support profile.",
+      "t": ""
+    },
+    "45d6d60c": {
+      "src": "Watch the ackee",
+      "t": ""
+    },
+    "e5981cfc": {
+      "src": "West Africa → Jamaica",
+      "t": ""
+    },
+    "6b04dcd8": {
+      "src": "What ackee",
+      "t": ""
+    },
+    "7c457c49": {
+      "src": "When fully ripe, the fruit displays",
+      "t": ""
+    },
+    "07910c1c": {
+      "src": "Widely enjoyed across the Caribbean",
+      "t": ""
+    },
+    "d9cdec69": {
+      "src": "Yellow",
+      "t": ""
+    },
+    "38850996": {
+      "src": "ackee carries a rich nutritional profile",
+      "t": ""
+    },
+    "397c8c81": {
+      "src": "ackee is a notable superfruit",
+      "t": ""
+    },
+    "7884f706": {
+      "src": "across all age groups.",
+      "t": ""
+    },
+    "af71dd6b": {
+      "src": "at multiple levels simultaneously.",
+      "t": ""
+    },
+    "b3475169": {
+      "src": "delivers to the body.",
+      "t": ""
+    },
+    "a717ff58": {
+      "src": "food is medicine, and medicine should come from the earth.",
+      "t": ""
+    },
+    "6b78418e": {
+      "src": "for the whole body.",
+      "t": ""
+    },
+    "ea4f3e57": {
+      "src": "hypoglycin A and B",
+      "t": ""
+    },
+    "5fa20292": {
+      "src": "including essential fatty acids (omega-3 and omega-6), vitamins A, C, and B-complex, and numerous phytochemicals with antioxidant properties.",
+      "t": ""
+    },
+    "62ba3c26": {
+      "src": "preparation matters.",
+      "t": ""
+    },
+    "a759e363": {
+      "src": "reveal itself.",
+      "t": ""
+    },
+    "f7b7067d": {
+      "src": "superfoods.",
+      "t": ""
+    },
+    "94ff912a": {
+      "src": "that has been nourishing communities for centuries.",
+      "t": ""
+    },
+    "e7434f26": {
+      "src": "three large, shiny black seeds",
+      "t": ""
+    },
+    "4b5071ec": {
+      "src": "to Jamaica’s table.",
+      "t": ""
+    },
+    "75dacc5e": {
+      "src": "to the Caribbean table.",
+      "t": ""
+    },
+    "8820984d": {
+      "src": "what grows here was placed here for a reason.",
+      "t": ""
+    },
+    "41356169": {
+      "src": "~300–500mg per 100g. Natural vasodilator — relaxes blood vessel walls, improves circulation.",
+      "t": ""
+    },
+    "dcb84c4b": {
+      "src": "— that are toxic in unripe fruit but decrease significantly as the fruit ripens. These compounds are responsible for Jamaican Vomiting Sickness if unripe ackee is consumed.",
+      "t": ""
+    },
+    "ee73b995": {
+      "src": "“Ackee is not just Jamaica’s national fruit. It is a living connection to West Africa, to the land, and to the generations who understood that",
+      "t": ""
+    },
+    "729dc768": {
+      "src": "🇯🇲 Jamaica’s National Fruit",
+      "t": ""
+    }
+  }
+}

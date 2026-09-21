@@ -1,0 +1,495 @@
+{
+  "_note": "Page content for index.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "270c92a5": {
+      "src": "\"",
+      "t": ""
+    },
+    "714c332f": {
+      "src": "\"Many people today are eating more food",
+      "t": ""
+    },
+    "2b0c98f1": {
+      "src": ".",
+      "t": ""
+    },
+    "273db946": {
+      "src": "A family in Jamaica preparing and sharing a meal together.",
+      "t": ""
+    },
+    "cb6b5a08": {
+      "src": "And at Kwik Fat Cut, it costs nothing.",
+      "t": ""
+    },
+    "96957bf3": {
+      "src": "Are environmental factors quietly changing the quality of our food?",
+      "t": ""
+    },
+    "c7c4ebae": {
+      "src": "Awareness",
+      "t": ""
+    },
+    "43efd5be": {
+      "src": "Confidence, not confusion",
+      "t": ""
+    },
+    "48abfa7e": {
+      "src": "Context transforms data into something you can actually act on.",
+      "t": ""
+    },
+    "4091b620": {
+      "src": "Download it instead",
+      "t": ""
+    },
+    "993b2829": {
+      "src": "Every feature in Kwik Fat Cut is designed to give you clarity — not dependency. The goal is for you to need us less over time, not more.",
+      "t": ""
+    },
+    "7f1f1583": {
+      "src": "Everything else follows from clarity — not pressure.",
+      "t": ""
+    },
+    "73266766": {
+      "src": "Explore the full picture",
+      "t": ""
+    },
+    "07355356": {
+      "src": "Food Library — 8M+ entries",
+      "t": ""
+    },
+    "05f7d5f3": {
+      "src": "Food is information for the body.",
+      "t": ""
+    },
+    "54bcee11": {
+      "src": "Food is more than fuel",
+      "t": ""
+    },
+    "986145af": {
+      "src": "Health",
+      "t": ""
+    },
+    "34fec5cc": {
+      "src": "How your body responds.",
+      "t": ""
+    },
+    "60616cd2": {
+      "src": "Hydration Tracking",
+      "t": ""
+    },
+    "ce8060ca": {
+      "src": "Identity is limitless and adaptable",
+      "t": ""
+    },
+    "f782fcba": {
+      "src": "In-Context Learning",
+      "t": ""
+    },
+    "6ec7517d": {
+      "src": "Inside the App",
+      "t": ""
+    },
+    "aa8ffdcc": {
+      "src": "Is economic pressure shaping what ends up on our shelves?",
+      "t": ""
+    },
+    "732fc9e5": {
+      "src": "It's a principle. Education comes first — and it's free. Always.",
+      "t": ""
+    },
+    "14e2dd4e": {
+      "src": "It's not forgetfulness.",
+      "t": ""
+    },
+    "d71e9597": {
+      "src": "Judgment-Free Logging",
+      "t": ""
+    },
+    "b03553e0": {
+      "src": "Kwik Fat Cut is a food and diet tracking app grounded in one belief:",
+      "t": ""
+    },
+    "c4ccf859": {
+      "src": "Kwik Fat Cut is not designed to",
+      "t": ""
+    },
+    "88b8a84c": {
+      "src": "Many traditional and indigenous diets were built around whole foods, healthy fats, fibre-rich vegetables, and legumes — with no refined sugar, no heavily processed ingredients.",
+      "t": ""
+    },
+    "17e42898": {
+      "src": "Miss a day? That's life. Every log is neutral data — yours to understand, not to be judged by.",
+      "t": ""
+    },
+    "33aabdb0": {
+      "src": "Modern diets have shifted heavily toward processed, refined, and convenience foods. High in calories, often low in the vitamins, minerals, and fibre our bodies depend on.",
+      "t": ""
+    },
+    "1416eced": {
+      "src": "Never instruct.",
+      "t": ""
+    },
+    "7187b873": {
+      "src": "No subscription. No pressure. No body shaming.",
+      "t": ""
+    },
+    "4ed1faf4": {
+      "src": "Nobody shamed. Nobody pressured.",
+      "t": ""
+    },
+    "5d7b6ea6": {
+      "src": "Nutrient Insight Dashboard",
+      "t": ""
+    },
+    "c54502ba": {
+      "src": "Opportunity",
+      "t": ""
+    },
+    "0246e793": {
+      "src": "Our Approach",
+      "t": ""
+    },
+    "d9391a5c": {
+      "src": "Our Community",
+      "t": ""
+    },
+    "7041628c": {
+      "src": "Our goal is to create a",
+      "t": ""
+    },
+    "21fc22af": {
+      "src": "Our mission is to provide education that helps people make informed decisions about their health, nutrition, and lifestyle.",
+      "t": ""
+    },
+    "791143ab": {
+      "src": "Our platform functions as a family health community dedicated to helping individuals understand their unique body identity — specifically its relationship with food, nutrition, and overall health.",
+      "t": ""
+    },
+    "bfb5e924": {
+      "src": "Pollution, soil erosion, and climate change are affecting what nutrients make it onto our plates — often before anyone notices at the table.",
+      "t": ""
+    },
+    "efa3758d": {
+      "src": "Progress Over Perfection",
+      "t": ""
+    },
+    "796ecef7": {
+      "src": "Read our full position",
+      "t": ""
+    },
+    "b18c04b1": {
+      "src": "Read our full story",
+      "t": ""
+    },
+    "5c5980e9": {
+      "src": "Search or scan any food. Full macro and micronutrient breakdowns, in plain language.",
+      "t": ""
+    },
+    "b21e2eef": {
+      "src": "See what you're getting enough of and where quiet gaps might exist. No alarm. Just information.",
+      "t": ""
+    },
+    "ce95867f": {
+      "src": "Short explanations appear when relevant — not lectures, just timely knowledge as you track.",
+      "t": ""
+    },
+    "6eda38a3": {
+      "src": "So, where did",
+      "t": ""
+    },
+    "c124b04f": {
+      "src": "Start Free. Learn First.",
+      "t": ""
+    },
+    "1a44c74c": {
+      "src": "Start wherever you are",
+      "t": ""
+    },
+    "6e02097d": {
+      "src": "Systems that favour cheap, processed foods spread additives, preservatives, and artificial ingredients at scale — often prioritising profit over nourishment.",
+      "t": ""
+    },
+    "b90938ee": {
+      "src": "The Bigger Picture",
+      "t": ""
+    },
+    "3c148ae3": {
+      "src": "The answer is likely a mix of both environment and economy.",
+      "t": ""
+    },
+    "2b2248d6": {
+      "src": "The foods we consume should strengthen our health — providing essential nutrients, supporting our immune system, helping us maintain a healthy weight, and aiding our bodies in repairing themselves.",
+      "t": ""
+    },
+    "0ecf7005": {
+      "src": "The foundation",
+      "t": ""
+    },
+    "c41cd1ff": {
+      "src": "The goal",
+      "t": ""
+    },
+    "6f96ea40": {
+      "src": "The outcome",
+      "t": ""
+    },
+    "eccad61d": {
+      "src": "The practice",
+      "t": ""
+    },
+    "ecb9155f": {
+      "src": "There's a reason you won't see a \"Subscription\" button on Kwik Fat Cut.",
+      "t": ""
+    },
+    "8070be70": {
+      "src": "These are the questions Kwik Fat Cut was built to help answer. Not to alarm — but to invite understanding. The more you know about the world your food comes from, the better equipped you are to make decisions that serve you.",
+      "t": ""
+    },
+    "8e782ece": {
+      "src": "This drives",
+      "t": ""
+    },
+    "6d3b770e": {
+      "src": "This foundation isn't optional — it's essential.",
+      "t": ""
+    },
+    "4e436353": {
+      "src": "This is exactly why education matters first.",
+      "t": ""
+    },
+    "ae44d3f2": {
+      "src": "This is why understanding comes first.",
+      "t": ""
+    },
+    "bbe6a08f": {
+      "src": "This is why understanding food matters. This is the reason Kwik Fat Cut exists.",
+      "t": ""
+    },
+    "e0b2604c": {
+      "src": "Tools that inform.",
+      "t": ""
+    },
+    "a500faa7": {
+      "src": "Track patterns, spot gaps, and begin to read the signals your body sends.",
+      "t": ""
+    },
+    "4f3d2ccb": {
+      "src": "Understand",
+      "t": ""
+    },
+    "15008edd": {
+      "src": "Understand your food — not just its calorie count, but what it's doing inside you.",
+      "t": ""
+    },
+    "5ef49c18": {
+      "src": "Understanding comes first.",
+      "t": ""
+    },
+    "1bd777a1": {
+      "src": "Unlike traditional programmes with fixed plans or subscriptions, Kwik Fat Cut fosters a personalised, self-aware approach — encouraging you to tailor your health journey to your unique needs and goals.",
+      "t": ""
+    },
+    "b4b7e178": {
+      "src": "Water underpins nearly every bodily function. Track intake gently, alongside your meals.",
+      "t": ""
+    },
+    "719b7de6": {
+      "src": "We are listeners, not lecturers. At Kwik Fat Cut, understanding always comes before instruction — because lasting change is built on clarity, not compliance.",
+      "t": ""
+    },
+    "17be5773": {
+      "src": "We are what",
+      "t": ""
+    },
+    "112ed8bd": {
+      "src": "We don't tell you what to do. We help you understand enough to choose for yourself.",
+      "t": ""
+    },
+    "c642ee56": {
+      "src": "We focus on understanding first",
+      "t": ""
+    },
+    "21bb5791": {
+      "src": "We help people understand before they commit to programmes, strict diets, or major lifestyle changes.",
+      "t": ""
+    },
+    "3b287744": {
+      "src": "We meet you where you are. No body shaming. No gatekeeping. No alarm bells.",
+      "t": ""
+    },
+    "ff211e08": {
+      "src": "We prioritise education and a calm, supportive environment —",
+      "t": ""
+    },
+    "17e18f2d": {
+      "src": "We row.",
+      "t": ""
+    },
+    "2385dbbf": {
+      "src": "Weekly patterns tell a richer story than a single number. Kwik helps you read yours.",
+      "t": ""
+    },
+    "72e2afee": {
+      "src": "Wellness",
+      "t": ""
+    },
+    "5392df52": {
+      "src": "What Sets Us Apart",
+      "t": ""
+    },
+    "e5c487eb": {
+      "src": "What We Are",
+      "t": ""
+    },
+    "2904ddf0": {
+      "src": "What happened to the traditional wisdom of how we used to eat?",
+      "t": ""
+    },
+    "9fac1bb0": {
+      "src": "What you eat.",
+      "t": ""
+    },
+    "5f3b8155": {
+      "src": "Why are so many people eating more — and getting less nutrition?",
+      "t": ""
+    },
+    "57f794ba": {
+      "src": "Why some habits help or hinder.",
+      "t": ""
+    },
+    "25317c21": {
+      "src": "You should never",
+      "t": ""
+    },
+    "5edcca11": {
+      "src": "You steer.",
+      "t": ""
+    },
+    "e2442c72": {
+      "src": "Your body",
+      "t": ""
+    },
+    "2a819d7e": {
+      "src": "Your browser cannot play this video.",
+      "t": ""
+    },
+    "0f29c2a6": {
+      "src": "and",
+      "t": ""
+    },
+    "56ed399c": {
+      "src": "but getting",
+      "t": ""
+    },
+    "eaf32ff2": {
+      "src": "education before instruction.",
+      "t": ""
+    },
+    "c938a5af": {
+      "src": "go wrong?",
+      "t": ""
+    },
+    "75023ecf": {
+      "src": "have to pay to",
+      "t": ""
+    },
+    "c14b27f1": {
+      "src": "identity is",
+      "t": ""
+    },
+    "2086b949": {
+      "src": "knowledge tree",
+      "t": ""
+    },
+    "3c0281ea": {
+      "src": "less nutrition.",
+      "t": ""
+    },
+    "7b7d1659": {
+      "src": "limitless.",
+      "t": ""
+    },
+    "0adbcb3d": {
+      "src": "modern diets",
+      "t": ""
+    },
+    "2b099a91": {
+      "src": "no body shaming.",
+      "t": ""
+    },
+    "7c095609": {
+      "src": "own body.",
+      "t": ""
+    },
+    "f41124ab": {
+      "src": "sell products.",
+      "t": ""
+    },
+    "296f76df": {
+      "src": "sustainable, meaningful progress",
+      "t": ""
+    },
+    "6b610b25": {
+      "src": "that fosters health, wellness, awareness, and opportunity. We aim to empower people with genuine strength and confidence — through education alone.",
+      "t": ""
+    },
+    "0ec63aab": {
+      "src": "understand",
+      "t": ""
+    },
+    "86f74a23": {
+      "src": "we eat.",
+      "t": ""
+    },
+    "009acb0a": {
+      "src": "what you eat —",
+      "t": ""
+    },
+    "486a5e62": {
+      "src": "why it matters.",
+      "t": ""
+    },
+    "00f0e6aa": {
+      "src": "your",
+      "t": ""
+    },
+    "1ab34574": {
+      "src": "— not quick fixes, not short-term results, not shame-based motivation. Real change, built on real understanding.",
+      "t": ""
+    },
+    "284af0d5": {
+      "src": "— reflecting the evolving nature of personal health. Your body is not a fixed problem to be solved. It is a living system to be understood, supported, and respected at every stage of the journey.",
+      "t": ""
+    },
+    "398c3cf6": {
+      "src": "— so that every change you make is driven by knowledge, not guesswork.",
+      "t": ""
+    },
+    "3d6ffbd8": {
+      "src": "— the only requirement is curiosity.",
+      "t": ""
+    },
+    "322f40dd": {
+      "src": "💧",
+      "t": ""
+    },
+    "032ef6e0": {
+      "src": "📈",
+      "t": ""
+    },
+    "052efa06": {
+      "src": "📊",
+      "t": ""
+    },
+    "212f261a": {
+      "src": "📖",
+      "t": ""
+    },
+    "c82d06ff": {
+      "src": "🔍",
+      "t": ""
+    }
+  }
+}

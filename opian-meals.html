@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="K.F.C. Kwik Fat Cut Opian Meals — fat reduction and natural beauty rooted in indigenous Jamaican ingredients. Hydroxycitric acid, EGCG from chainyroot tea, apple cider vinegar, and whole plant foods.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Opian Meals — K.F.C. Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  .nav-btn:hover{background:var(--cream)!important;}
+  .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(ellipse 60% 65% at 72% 38%,rgba(218,165,32,0.08) 0%,transparent 62%),
+    radial-gradient(ellipse 40% 50% at 10% 78%,rgba(46,107,62,0.06) 0%,transparent 55%);}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb a:hover{color:var(--c60);}
+  .breadcrumb span{margin:0 0.6rem;}
+  .article-tag{display:inline-block;font-size:0.64rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--gold);border:1px solid rgba(218,165,32,0.35);padding:0.25rem 0.7rem;border-radius:2px;margin-bottom:1.5rem;opacity:0;animation:up 0.9s 0.15s ease forwards;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(2.8rem,7.5vw,7rem);font-weight:300;line-height:1.05;color:var(--cream);max-width:860px;opacity:0;animation:up 0.9s 0.22s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:580px;margin-top:2rem;font-size:1.05rem;line-height:1.9;color:var(--c60);font-style:italic;opacity:0;animation:up 0.9s 0.38s ease forwards;}
+  .article-meta{margin-top:2rem;display:flex;gap:2rem;flex-wrap:wrap;opacity:0;animation:up 0.9s 0.48s ease forwards;}
+  .meta-item{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);}
+  .meta-item strong{color:var(--c60);font-weight:400;}
+
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:4px;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+
+  /* ARTICLE LAYOUT */
+  .article-wrap{padding:6rem 6vw;display:grid;grid-template-columns:1fr 2.5fr;gap:6rem;align-items:start;}
+  .sidebar{position:sticky;top:110px;}
+  .sidebar-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:1.2rem;font-weight:500;}
+  .toc a{font-size:0.82rem;color:var(--c60);text-decoration:none;padding:0.65rem 0;border-bottom:1px solid var(--c10);display:block;transition:color 0.2s;line-height:1.4;}
+  .toc a:first-child{border-top:1px solid var(--c10);}
+  .toc a:hover{color:var(--gold);}
+  .sidebar-quote{margin-top:2.5rem;border-left:2px solid var(--gold);padding:1.2rem;background:var(--g08);}
+  .sidebar-quote p{font-size:0.82rem;line-height:1.75;color:var(--c60);font-style:italic;}
+  .sidebar-quote strong{font-style:normal;color:var(--cream);font-weight:400;}
+  .sidebar-logo{margin-top:2rem;text-align:center;}
+  .sidebar-logo img{width:120px;height:auto;filter:drop-shadow(0 4px 20px rgba(218,165,32,0.15));opacity:0.85;}
+
+  .article-body{display:flex;flex-direction:column;gap:0;}
+  .article-section{padding:3.2rem 0;border-bottom:1px solid var(--c10);}
+  .article-section:first-child{padding-top:0;}
+  .article-section:last-child{border-bottom:none;}
+  .section-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.8rem;}
+  .section-label.green{color:var(--green);}
+  .section-label.gold{color:var(--gold);}
+  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.6rem,2.8vw,2.5rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.5rem;}
+  .article-section h2 em{font-style:italic;color:var(--gold);}
+  .article-section p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1.2rem;}
+  .article-section p:last-child{margin-bottom:0;}
+  .article-section p strong{color:var(--cream);font-weight:400;}
+
+  .pull-quote{margin:2.5rem 0;padding:2rem 2.5rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .pull-quote p{font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:300;font-style:italic;line-height:1.6;color:var(--cream);}
+  .pull-quote p em{font-style:normal;color:var(--gold);}
+
+  /* INGREDIENT CARDS */
+  .ingredient-grid{display:flex;flex-direction:column;gap:2px;margin:2rem 0;}
+  .ing-card{border:1px solid var(--c10);overflow:hidden;transition:border-color 0.3s;}
+  .ing-card:hover{border-color:var(--g20);}
+  .ing-header{padding:1.4rem 1.8rem;background:var(--g08);border-bottom:1px solid var(--c10);display:flex;align-items:center;gap:1rem;}
+  .ing-icon{font-size:1.5rem;flex-shrink:0;line-height:1;}
+  .ing-name{font-family:'Cormorant Garamond',serif;font-size:1.25rem;font-weight:400;color:var(--cream);}
+  .ing-source{font-size:0.72rem;font-style:italic;color:var(--c30);margin-top:0.1rem;}
+  .ing-body{padding:1.5rem 1.8rem;}
+  .ing-body p{font-size:0.9rem;line-height:1.85;color:var(--c60);}
+  .ing-body p strong{color:var(--cream);font-weight:400;}
+  .ing-science{margin-top:1rem;padding:0.8rem 1rem;background:rgba(46,107,62,0.06);border-left:2px solid var(--green);}
+  .ing-science p{font-size:0.82rem;line-height:1.7;color:var(--c60);margin:0;}
+  .ing-science p strong{color:var(--green);font-weight:500;}
+
+  /* BENEFITS LIST */
+  .benefits-list{display:flex;flex-direction:column;gap:0;margin:2rem 0;}
+  .ben-item{display:flex;gap:1.5rem;align-items:flex-start;padding:1.2rem 0;border-bottom:1px solid var(--c10);}
+  .ben-item:first-child{border-top:1px solid var(--c10);}
+  .ben-dot{width:8px;height:8px;border-radius:50%;background:var(--gold);flex-shrink:0;margin-top:0.55rem;}
+  .ben-item p{font-size:0.9rem;line-height:1.8;color:var(--c60);}
+  .ben-item p strong{color:var(--cream);font-weight:400;}
+
+  /* FOODS GRID */
+  .foods-showcase{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:2px;margin:2rem 0;}
+  .food-tile{padding:1.4rem;border:1px solid var(--c10);transition:background 0.3s,border-color 0.3s;}
+  .food-tile:hover{background:var(--g08);border-color:var(--g20);}
+  .food-tile h4{font-family:'Cormorant Garamond',serif;font-size:1rem;font-weight:400;color:var(--cream);margin-bottom:0.3rem;}
+  .food-tile p{font-size:0.78rem;line-height:1.65;color:var(--c60);}
+
+  /* ARTICLE CLOSE */
+  .article-close{padding:4rem 0 2rem;}
+  .article-close h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.2rem;}
+  .article-close h2 em{font-style:italic;color:var(--gold);}
+  .article-close p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1rem;}
+  .article-close p strong{color:var(--cream);font-weight:400;}
+  .article-close .sign{font-size:0.72rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);margin-top:1.5rem;}
+
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-btn.follow:hover{background:var(--g08);}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,transform 0.2s;}
+  .btn-primary:hover{background:var(--cream);transform:translateY(-2px);}
+  .btn-outline{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .btn-outline:hover{border-color:var(--c60);color:var(--cream);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){.article-wrap{grid-template-columns:1fr;gap:3rem;}.sidebar{position:static;}.cta-strip{flex-direction:column;align-items:flex-start;}}
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/opian-meals.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span><a href="foods-hub.html">Foods Hub</a><span>&middot;</span>Opian Meals</p>
+  <span class="article-tag">K.F.C. &mdash; Kwik Fat Cut &mdash; The Fat Antidote</span>
+  <h1>K.F.C. Opian Meals.<br>The rest is<br><em>bewildered.</em></h1>
+  <p class="lede">With the new you, Kwik Fat Cut Opian Meals is your ultimate partner in transforming your body and boosting confidence &mdash; rooted in natural, indigenous ingredients. Not a quick fix. A complete education in what your body was always designed to receive.</p>
+  <div class="article-meta">
+    <div class="meta-item">Category <strong>Opian Meals &amp; Nutrition</strong></div>
+    <div class="meta-item">Reading time <strong>10 min</strong></div>
+    <div class="meta-item">Approach <strong>Indigenous &amp; Plant-Based</strong></div>
+  </div>
+</header>
+
+<div class="colour-band"><div class="cb-black"></div><div class="cb-red"></div><div class="cb-gold"></div><div class="cb-green"></div></div>
+
+<div class="article-wrap">
+  <aside class="sidebar reveal">
+    <p class="sidebar-label">In this article</p>
+    <nav class="toc">
+      <a href="#what">What Opian Meals is</a>
+      <a href="#ingredients">The key ingredients</a>
+      <a href="#approach">The K.F.C. approach</a>
+      <a href="#jamaican">Jamaican foods</a>
+      <a href="#oils">Cooking oils</a>
+      <a href="#confidence">True confidence</a>
+    </nav>
+    <div class="sidebar-quote">
+      <p>&ldquo;True confidence stems from a holistic sense of well-being that includes <strong>physical health, mental resilience, and emotional stability.</strong>&rdquo;</p>
+    </div>
+    <div class="sidebar-logo">
+      <img src="kwik-logo.jpeg" alt="Kwik Fat Cut" loading="eager" fetchpriority="high" decoding="async">
+    </div>
+  </aside>
+
+  <article class="article-body">
+
+    <div class="article-section reveal" id="what">
+      <p class="section-label">What It Is</p>
+      <h2>The Fat Antidote.<br><em>Natural. Indigenous. Complete.</em></h2>
+      <p>K.F.C. Kwik Fat Cut Opian Meals is a <strong>complete solution for fat reduction and beauty enhancement</strong>, rooted in natural, indigenous ingredients. It helps burn stubborn fat and reveals radiant, glowing skin &mdash; not through chemicals or synthetic shortcuts, but through the kind of plant intelligence that ancestral traditions have relied on for generations.</p>
+      <p>It encourages a break from old habits and the adoption of healthier routines that <strong>accelerate fat loss while enhancing skin vitality</strong> &mdash; leaving you feeling refreshed, confident, and fully yourself.</p>
+
+      <div class="pull-quote">
+        <p>&ldquo;You&rsquo;re the best version of yourself &mdash; constantly evolving, improving, and striving toward your full potential. <em>K.F.C. is here to help you get there.</em>&rdquo;</p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="ingredients">
+      <p class="section-label green">The Science Behind the Roots</p>
+      <h2>Scientifically supported.<br><em>Ancestrally grounded.</em></h2>
+      <p>The product includes scientifically supported natural ingredients, each chosen for its documented role in supporting metabolism, fat reduction, and skin health. Every component has been analysed in the lab and validated through peer-reviewed research &mdash; and every component has roots in indigenous food traditions.</p>
+
+      <div class="ingredient-grid">
+        <div class="ing-card reveal">
+          <div class="ing-header">
+            <div class="ing-icon">🍊</div>
+            <div>
+              <div class="ing-name">Jamaican Bitter Orange</div>
+              <div class="ing-source">Also known as Swible Orange in Jamaica — source of hydroxycitric acid (HCA)</div>
+            </div>
+          </div>
+          <div class="ing-body">
+            <p>Hydroxycitric acid (HCA) derived from Jamaican bitter orange <strong>inhibits citrate lyase</strong> &mdash; the enzyme responsible for converting excess carbohydrates into stored fat. By blocking this conversion pathway, HCA helps reduce fat accumulation at the metabolic level, not just through calorie restriction.</p>
+            <div class="ing-science"><p><strong>Clinical significance:</strong> HCA has been studied across multiple trials for its role in weight management. Its mechanism is distinct from stimulant-based fat burners — it works at the enzymatic level without elevating heart rate or creating dependency.</p></div>
+          </div>
+        </div>
+
+        <div class="ing-card reveal">
+          <div class="ing-header">
+            <div class="ing-icon">🍵</div>
+            <div>
+              <div class="ing-name">Chainyroot Tea Extract</div>
+              <div class="ing-source">Rich in catechins including EGCG — epigallocatechin gallate</div>
+            </div>
+          </div>
+          <div class="ing-body">
+            <p>Chainyroot tea extract is rich in catechins, particularly <strong>epigallocatechin gallate (EGCG)</strong> &mdash; one of the most studied natural thermogenic compounds known to science. It boosts thermogenesis: the process by which the body generates heat, leading to a sustained increase in metabolism and calorie burn even at rest.</p>
+            <div class="ing-science"><p><strong>Clinical significance:</strong> EGCG has been shown in multiple peer-reviewed studies to increase fat oxidation, support metabolic rate, and provide antioxidant protection against cellular damage. It works synergistically with the body's natural fat-burning processes.</p></div>
+          </div>
+        </div>
+
+        <div class="ing-card reveal">
+          <div class="ing-header">
+            <div class="ing-icon">🍎</div>
+            <div>
+              <div class="ing-name">Apple Cider Vinegar</div>
+              <div class="ing-source">High in acetic acid — appetite regulation and digestive support</div>
+            </div>
+          </div>
+          <div class="ing-body">
+            <p>Apple cider vinegar, high in <strong>acetic acid</strong>, works on two fronts: appetite suppression and digestive enhancement. It regulates hunger hormones including ghrelin, reducing caloric intake naturally. Simultaneously, it improves digestion by stimulating gastric motility and enzyme activity &mdash; ensuring nutrients are absorbed and waste eliminated efficiently.</p>
+            <div class="ing-science"><p><strong>Clinical significance:</strong> Studies have demonstrated acetic acid's role in improving insulin sensitivity, reducing post-meal blood glucose spikes, and supporting healthy gut pH — all of which contribute to more effective weight management.</p></div>
+          </div>
+        </div>
+      </div>
+
+      <p style="margin-top:1rem;">These ingredients have undergone clinical testing to confirm their safety and effectiveness across all age groups, including children, adults, and seniors. Each component supports skin health by addressing <strong>hydration, elasticity, and barrier function</strong> tailored to each demographic.</p>
+    </div>
+
+    <div class="article-section reveal" id="approach">
+      <p class="section-label gold">The K.F.C. Method</p>
+      <h2>Evidence-based.<br><em>Indigenous at its core.</em></h2>
+      <p>K.F.C. employs a scientific, evidence-based method focused on <strong>indigenous, whole, plant-based foods</strong> to promote fat reduction and improve nutrition naturally. This is not a supplement that replaces food. It works with food &mdash; specifically the ancestral foods that have always supported the body best.</p>
+      <p>Organic ingredients that form the backbone of the K.F.C. approach include:</p>
+
+      <div class="foods-showcase">
+        <div class="food-tile reveal">
+          <h3>🌱 Chia Seeds</h3>
+          <p>Rich in omega-3 fatty acids and fibre. Supports satiety, gut health, and sustained energy.</p>
+        </div>
+        <div class="food-tile reveal">
+          <h3>🌾 Flaxseeds</h3>
+          <p>High in lignans and healthy fats. Hormonal balance, inflammation reduction, cardiovascular support.</p>
+        </div>
+        <div class="food-tile reveal">
+          <h3>🌿 Parsley</h3>
+          <p>Rich in antioxidants, vitamins C and K, and compounds that support kidney function and metabolism.</p>
+        </div>
+        <div class="food-tile reveal">
+          <h3>🌿 Basil</h3>
+          <p>Anti-inflammatory, adaptogenic. Supports blood sugar regulation and digestive comfort.</p>
+        </div>
+        <div class="food-tile reveal">
+          <h3>🌿 Oregano</h3>
+          <p>Contains rosmarinic acid and thymol — powerful antimicrobial and antioxidant compounds.</p>
+        </div>
+        <div class="food-tile reveal">
+          <h3>🥑 Avocado Oil</h3>
+          <p>High in monounsaturated fats, vitamin E, and lutein. Skin, eye, and heart health.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="jamaican">
+      <p class="section-label green">Jamaica&rsquo;s Culinary Heritage</p>
+      <h2>Bold flavours.<br><em>Nourishing roots.</em></h2>
+      <p>Jamaica&rsquo;s cuisine is lively and authentic, featuring dishes that celebrate the island&rsquo;s rich culinary Rasta traditions. These traditions align with the K.F.C. approach &mdash; supporting weight management, encouraging natural skin beauty, and fostering long-term healthy eating habits.</p>
+      <p>The K.F.C. diet emphasises <strong>whole grains such as wild oats and brown rice</strong>, reduces refined carbs, and includes iron-rich plant proteins like callaloo and yams, as well as other greens like parsley and lentils. Nuts such as peanuts and pumpkin seeds fit well. Seafood choices include <strong>parrotfish, Red Snapper, goatfish, and Welshman</strong> &mdash; all rich in omega-3 fatty acids that support heart and brain health.</p>
+      <p>Experience Jamaica&rsquo;s spicy, bold flavours &mdash; allspice, pimento, Scotch bonnet peppers, and ginger &mdash; that energise and promote overall well-being. <strong>Your health is your most valuable asset.</strong></p>
+    </div>
+
+    <div class="article-section reveal" id="oils">
+      <p class="section-label">Cooking Oils</p>
+      <h2>What you cook<br><em>with matters.</em></h2>
+      <p>Switching to healthier cooking oils provides nutritional benefits that extend well beyond the cooking process itself.</p>
+      <div class="benefits-list">
+        <div class="ben-item reveal">
+          <div class="ben-dot"></div>
+          <p><strong>Cold-pressed coconut oil</strong> contains medium-chain triglycerides (MCTs), which boost metabolism, support weight management, and promote healthier skin and hair due to antioxidants.</p>
+        </div>
+        <div class="ben-item reveal">
+          <div class="ben-dot"></div>
+          <p><strong>Extra-virgin olive oil</strong>, rich in monounsaturated fats and polyphenols, helps reduce inflammation and lower cardiovascular risk.</p>
+        </div>
+        <div class="ben-item reveal">
+          <div class="ben-dot"></div>
+          <p><strong>Avocado oil</strong>, high in monounsaturated fats, vitamin E, and lutein, supports skin, eye, and heart health simultaneously.</p>
+        </div>
+        <div class="ben-item reveal">
+          <div class="ben-dot"></div>
+          <p><strong>Coconut water</strong> supports heart health, helps regulate blood sugar, and maintains proper hydration &mdash; rich in vitamin C, potassium, and electrolytes essential for water balance and muscle function.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="confidence">
+      <p class="section-label gold">The Whole Picture</p>
+      <h2>True confidence<br>is <em>holistic.</em></h2>
+      <p>True confidence stems from a holistic sense of well-being that includes <strong>physical health, mental resilience, and emotional stability</strong>. A balanced diet combined with regular exercise can boost self-esteem, improve appearance, and enhance mental health by reducing stress and anxiety.</p>
+      <p>In medicine, health, fitness, natural beauty, and weight loss, it is more than just a number on the scale. It involves a complex process of losing excess fluids, fat, or even muscle mass &mdash; <strong>changing overall body composition</strong>. A balanced diet, physical activity, and proper hydration support these changes safely and effectively.</p>
+      <p>This journey can greatly enhance well-being by improving metabolic health, increasing energy, and <strong>boosting self-esteem</strong>. Start shaping a healthier you today &mdash; with confidence and pride.</p>
+    </div>
+
+    <div class="article-close reveal">
+      <h2>Join Jamaica&rsquo;s journey<br>toward <em>progress.</em> 🇯🇲</h2>
+      <p>With the Enhanced Kwik Fat Cut (K.F.C.) &mdash; the ultimate Fat Antidote &mdash; burn fat, release the old, and welcome the new you. <strong>Rooted in indigenous wisdom. Validated by science. Built for everyone.</strong></p>
+      <p>K.F.C. Kwik Fat Cut &mdash; Opian Meals.</p>
+      <p class="sign">Kwik Fat Cut &mdash; Education First &mdash; Start Free. Understand First.</p>
+    </div>
+
+  </article>
+</div>
+
+<div class="rule"></div>
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>Explore the<br><em>Foods Hub.</em></h3>
+    <p>More deep reads on ancestral ingredients, Jamaican foods, and natural health.</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="foods-hub.html" class="btn-primary">Foods Hub</a>
+    <a href="learn.html" class="btn-outline">Learn Hub</a>
+  </div>
+</div>
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <p class="ss-body">Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">Share this page</button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link">Twitter / X</a>
+      <a href="#" class="ss-social-link">Instagram</a>
+      <a href="#" class="ss-social-link">TikTok</a>
+      <a href="#" class="ss-social-link">Facebook</a>
+    </div>
+    <p class="ss-note">Follow, like, share, comment. Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+  </div>
+</section>
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+<script>
+function shareKFC(){const url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 K.F.C. Opian Meals',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ss-btn.share');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
+</script>
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

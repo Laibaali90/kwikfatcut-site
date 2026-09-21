@@ -1,0 +1,423 @@
+{
+  "_note": "Page content for about.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "c0669d6c": {
+      "src": "& resilience.",
+      "t": ""
+    },
+    "6211e0b4": {
+      "src": "A Core Belief",
+      "t": ""
+    },
+    "1674f76c": {
+      "src": "A family",
+      "t": ""
+    },
+    "72f3976f": {
+      "src": "At Kwik Fat Cut,",
+      "t": ""
+    },
+    "2b043744": {
+      "src": "Black",
+      "t": ""
+    },
+    "0a17cf65": {
+      "src": "Diet can increase or reduce inflammation.",
+      "t": ""
+    },
+    "1697d235": {
+      "src": "Education",
+      "t": ""
+    },
+    "77cb6e71": {
+      "src": "Education Before Intervention. We row. You steer.",
+      "t": ""
+    },
+    "b8061ee6": {
+      "src": "Engineered to overconsume",
+      "t": ""
+    },
+    "558c1bed": {
+      "src": "Environmental & economic pressure",
+      "t": ""
+    },
+    "e7573c4f": {
+      "src": "Essential Nutrients",
+      "t": ""
+    },
+    "ee4df1aa": {
+      "src": "Food is more than just fuel. It is information for the body.",
+      "t": ""
+    },
+    "57465bcb": {
+      "src": "Get Directions",
+      "t": ""
+    },
+    "6c94b6b3": {
+      "src": "Gold",
+      "t": ""
+    },
+    "a953c75c": {
+      "src": "Green",
+      "t": ""
+    },
+    "06747a3d": {
+      "src": "Health is",
+      "t": ""
+    },
+    "1abb5903": {
+      "src": "Health is a journey of",
+      "t": ""
+    },
+    "b16e0dcb": {
+      "src": "Heritage, identity, strength",
+      "t": ""
+    },
+    "e3edc399": {
+      "src": "Hidden sugars & metabolic damage",
+      "t": ""
+    },
+    "4772adbb": {
+      "src": "Highly processed foods combine sugar, salt, and fat to",
+      "t": ""
+    },
+    "04fc69ec": {
+      "src": "Honey Ras family tree — Kingston, Jamaica 🇯🇲❤️💚",
+      "t": ""
+    },
+    "aa5fdace": {
+      "src": "Inflammation & Disease",
+      "t": ""
+    },
+    "2b9a93f9": {
+      "src": "It shifts with life. It responds to understanding.",
+      "t": ""
+    },
+    "bc2efba9": {
+      "src": "Jamaica",
+      "t": ""
+    },
+    "15bfd8f0": {
+      "src": "Kingston,",
+      "t": ""
+    },
+    "25910312": {
+      "src": "Kingston, Jamaica",
+      "t": ""
+    },
+    "42807990": {
+      "src": "Kwik Fat Cut",
+      "t": ""
+    },
+    "ef74c3f4": {
+      "src": "Kwik Fat Cut functions as a",
+      "t": ""
+    },
+    "46cbde6a": {
+      "src": "Let’s go through this together. No rush. No pressure. No lectures. Just clarity — at your pace, in your own time.",
+      "t": ""
+    },
+    "91d74820": {
+      "src": "Life, growth, renewal",
+      "t": ""
+    },
+    "19d3b54e": {
+      "src": "Many modern foods contain hidden sugars and refined carbs causing rapid blood sugar spikes. Over time this can",
+      "t": ""
+    },
+    "eb6e6d58": {
+      "src": "Modern diets have moved heavily toward processed, packaged, refined, and convenience foods. Frequent consumption has been linked to lower intake of",
+      "t": ""
+    },
+    "411e7a6c": {
+      "src": "No two bodies are the same. No single plan fits all.",
+      "t": ""
+    },
+    "2d45965e": {
+      "src": "Not a platform that tells you what to do. A community that helps you understand what is happening — so you can lead your own health journey with confidence.",
+      "t": ""
+    },
+    "f84dff70": {
+      "src": "Not designed to sell products. Built to grow a knowledge tree that fosters health, wellness, awareness, and opportunity",
+      "t": ""
+    },
+    "f85c78cb": {
+      "src": "Our Mission",
+      "t": ""
+    },
+    "32d5dcc1": {
+      "src": "Our mission is to provide education that helps people make informed, accurate decisions about their health, nutrition, and lifestyle. We focus on understanding first — so individuals can make changes with",
+      "t": ""
+    },
+    "b7124e8a": {
+      "src": "Pollution, soil erosion, and climate change affect food at the source. Systems that favour cheap, processed foods spread additives at scale —",
+      "t": ""
+    },
+    "c284c848": {
+      "src": "Poor diet fuels chronic inflammation, which underpins heart disease, diabetes, obesity, arthritis, and some cancers.",
+      "t": ""
+    },
+    "5e688abe": {
+      "src": "Prevention Over Intervention",
+      "t": ""
+    },
+    "ad645395": {
+      "src": "Prosperity, dignity, wisdom",
+      "t": ""
+    },
+    "803e55a2": {
+      "src": "Read the full story",
+      "t": ""
+    },
+    "e1e740b5": {
+      "src": "Ready to",
+      "t": ""
+    },
+    "a37f187c": {
+      "src": "Red",
+      "t": ""
+    },
+    "3156612d": {
+      "src": "Resistance, courage, sacrifice",
+      "t": ""
+    },
+    "9d9d497b": {
+      "src": "Rooted In",
+      "t": ""
+    },
+    "9d4d979b": {
+      "src": "Rooted in",
+      "t": ""
+    },
+    "6eda38a3": {
+      "src": "So, where did",
+      "t": ""
+    },
+    "a98b6ca3": {
+      "src": "Start free. No subscription. No pressure. No body shaming.",
+      "t": ""
+    },
+    "eadbb994": {
+      "src": "Take a seat.",
+      "t": ""
+    },
+    "b90938ee": {
+      "src": "The Bigger Picture",
+      "t": ""
+    },
+    "2ef81fc8": {
+      "src": "The Gut Microbiome",
+      "t": ""
+    },
+    "3eebfb79": {
+      "src": "The Kwik Fat Cut family tree logo is more than a symbol. It carries heritage, ancestral food wisdom, and a profound respect for the cultures — Jamaican, West Indian, African — whose traditions understood nourishment long before modern misconceptions about diet.",
+      "t": ""
+    },
+    "e2c62fbd": {
+      "src": "The body needs more than 20 essential vitamins and minerals regularly. When diets are high in calories but low in nutrients, people can be overweight yet",
+      "t": ""
+    },
+    "7f332b01": {
+      "src": "The choice is yours.",
+      "t": ""
+    },
+    "38ab9cba": {
+      "src": "The microbiome is shaped by diet",
+      "t": ""
+    },
+    "1587b5fb": {
+      "src": "The shift to processed food",
+      "t": ""
+    },
+    "b2fc0619": {
+      "src": "This is why education comes first.”",
+      "t": ""
+    },
+    "7cc93d69": {
+      "src": "Traditional and indigenous diets — Jamaican, West Indian, African — were built around natural, whole foods: healthy fats, fibre-rich vegetables, legumes, fruits, and ground provisions. No refined sugar. No heavily processed ingredients. Recipes passed through generations, grounded in what the body actually needs. Then something shifted.",
+      "t": ""
+    },
+    "9403e13f": {
+      "src": "Trillions of bacteria aid digestion, immune function, vitamin production, and mental health.",
+      "t": ""
+    },
+    "ba871eee": {
+      "src": "Understanding your body before a problem arises",
+      "t": ""
+    },
+    "6d04f533": {
+      "src": "We are",
+      "t": ""
+    },
+    "4630d257": {
+      "src": "We are here to help you understand what is happening. There is a difference — and it matters enormously.",
+      "t": ""
+    },
+    "2303e6b8": {
+      "src": "We believe people should understand their bodies, food, and health",
+      "t": ""
+    },
+    "4f790567": {
+      "src": "We listen rather than lecture. We take action — you guide. We prioritise prevention before intervention. We row. You steer.",
+      "t": ""
+    },
+    "6ac14ee5": {
+      "src": "We’re here",
+      "t": ""
+    },
+    "fb2a8d5b": {
+      "src": "Where Kwik Fat Cut was planted, and where it still grows from.",
+      "t": ""
+    },
+    "abe3404b": {
+      "src": "Who We Are",
+      "t": ""
+    },
+    "c35b592c": {
+      "src": "Why It’s Free",
+      "t": ""
+    },
+    "9f41e75f": {
+      "src": "adaptable.",
+      "t": ""
+    },
+    "79de2181": {
+      "src": "and is linked to obesity, type 2 diabetes, and fatty liver disease.",
+      "t": ""
+    },
+    "3845ff3e": {
+      "src": "before",
+      "t": ""
+    },
+    "2ab02cdd": {
+      "src": "being asked to follow weight-loss programmes, buy weight-loss products, or make major lifestyle changes. Understanding first. Everything else after.",
+      "t": ""
+    },
+    "bad92ac0": {
+      "src": "community.",
+      "t": ""
+    },
+    "45933710": {
+      "src": "confidence, not confusion.",
+      "t": ""
+    },
+    "f968f006": {
+      "src": "culinary peace.",
+      "t": ""
+    },
+    "63ae2182": {
+      "src": "damage the metabolic system",
+      "t": ""
+    },
+    "aa1cbcc9": {
+      "src": "education always comes first.",
+      "t": ""
+    },
+    "d4da6d90": {
+      "src": "essential vitamins, minerals, and fibre.",
+      "t": ""
+    },
+    "626d6130": {
+      "src": "family health community",
+      "t": ""
+    },
+    "7ce4aade": {
+      "src": "focused on learning, understanding, and building sustainable health habits — without pressure, body shaming, or quick-fix thinking. This is a space to grow, not a race to finish.",
+      "t": ""
+    },
+    "c938a5af": {
+      "src": "go wrong?",
+      "t": ""
+    },
+    "6b98ed8f": {
+      "src": "health",
+      "t": ""
+    },
+    "f5e2b236": {
+      "src": "intervention.",
+      "t": ""
+    },
+    "e2ef93ff": {
+      "src": "is more powerful than treating one after. Education is the most effective form of intervention we know.",
+      "t": ""
+    },
+    "3c0281ea": {
+      "src": "less nutrition.",
+      "t": ""
+    },
+    "c69b9818": {
+      "src": "listen.",
+      "t": ""
+    },
+    "8095fda4": {
+      "src": "mdash; empowering people with genuine strength and confidence through education alone.",
+      "t": ""
+    },
+    "0adbcb3d": {
+      "src": "modern diets",
+      "t": ""
+    },
+    "7ac523c5": {
+      "src": "not here to tell you what to do.",
+      "t": ""
+    },
+    "e217e799": {
+      "src": "personal.",
+      "t": ""
+    },
+    "c7029f5c": {
+      "src": "prioritising profit over nourishment.",
+      "t": ""
+    },
+    "722824dc": {
+      "src": "stimulate the brain’s reward system",
+      "t": ""
+    },
+    "42454824": {
+      "src": "to",
+      "t": ""
+    },
+    "a2b21edf": {
+      "src": "tradition",
+      "t": ""
+    },
+    "e61ba1aa": {
+      "src": "undernourished at the cellular level.",
+      "t": ""
+    },
+    "0ec63aab": {
+      "src": "understand",
+      "t": ""
+    },
+    "278c8c6d": {
+      "src": "understanding",
+      "t": ""
+    },
+    "2abf8973": {
+      "src": "what you eat?",
+      "t": ""
+    },
+    "02061e14": {
+      "src": "— especially fibre, plant foods, and natural whole foods.",
+      "t": ""
+    },
+    "b4f4fd05": {
+      "src": "— making it natural to eat more than the body needs. This is design, not weakness.",
+      "t": ""
+    },
+    "079d1738": {
+      "src": "— not a subscription.",
+      "t": ""
+    },
+    "cd2921c1": {
+      "src": "“Healthy communities begin at home.”",
+      "t": ""
+    },
+    "40213d42": {
+      "src": "“Many people today are eating more food — but getting",
+      "t": ""
+    }
+  }
+}

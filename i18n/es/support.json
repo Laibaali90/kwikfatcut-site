@@ -1,0 +1,459 @@
+{
+  "_note": "Page content for support.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "210c8933": {
+      "src": "$",
+      "t": ""
+    },
+    "d5730ca2": {
+      "src": "$10",
+      "t": ""
+    },
+    "961cc9d6": {
+      "src": "$100",
+      "t": ""
+    },
+    "d270c952": {
+      "src": "$25",
+      "t": ""
+    },
+    "0cbbb472": {
+      "src": "$5",
+      "t": ""
+    },
+    "4d7cc3e6": {
+      "src": "$50",
+      "t": ""
+    },
+    "182d8232": {
+      "src": "(optional)",
+      "t": ""
+    },
+    "1ced6a6e": {
+      "src": "05",
+      "t": ""
+    },
+    "1bed68db": {
+      "src": "06",
+      "t": ""
+    },
+    "8433f1f0": {
+      "src": "A person who understands their body makes better decisions than a person who is simply told what to do. Kwik Fat Cut always leads with understanding. The knowledge comes first. Always.",
+      "t": ""
+    },
+    "e089be09": {
+      "src": "Choose an amount",
+      "t": ""
+    },
+    "e4daca4f": {
+      "src": "Community health outreach",
+      "t": ""
+    },
+    "bf3e51e9": {
+      "src": "Community over everything",
+      "t": ""
+    },
+    "6b92da1a": {
+      "src": "Core health education is and will remain free on this platform. No time limit. No tier. No tricks. Donations sustain that promise. They do not purchase access to anything withheld from others.",
+      "t": ""
+    },
+    "07e87519": {
+      "src": "Deeper research and content",
+      "t": ""
+    },
+    "929e0933": {
+      "src": "Donate $25",
+      "t": ""
+    },
+    "99d0413e": {
+      "src": "Donations will be processed securely by WiPay, a trusted Caribbean payment provider, or PayPal for international giving. Kwik Fat Cut never sees or stores your card details.",
+      "t": ""
+    },
+    "ad3406e1": {
+      "src": "Education before intervention",
+      "t": ""
+    },
+    "9aaef19f": {
+      "src": "Education first.",
+      "t": ""
+    },
+    "ae595053": {
+      "src": "Email address",
+      "t": ""
+    },
+    "87522d54": {
+      "src": "Enter amount (USD)",
+      "t": ""
+    },
+    "e5534c25": {
+      "src": "Every article, every deep read, every ancestral food guide remains free to access. No subscription. No tier system. No barrier between a person and the knowledge they need.",
+      "t": ""
+    },
+    "73648a36": {
+      "src": "Every contribution",
+      "t": ""
+    },
+    "98e75218": {
+      "src": "First name",
+      "t": ""
+    },
+    "f9320476": {
+      "src": "Follow the platform",
+      "t": ""
+    },
+    "76b16946": {
+      "src": "Founder & CEO — Kwik Fat Cut — Kingston, Jamaica 🇯🇲❤️💚",
+      "t": ""
+    },
+    "d6b85d23": {
+      "src": "Free education for everyone",
+      "t": ""
+    },
+    "99644c19": {
+      "src": "Free means free",
+      "t": ""
+    },
+    "8d9206a1": {
+      "src": "Frequency",
+      "t": ""
+    },
+    "27aa4094": {
+      "src": "Generational continuity",
+      "t": ""
+    },
+    "55ac9edc": {
+      "src": "Health is a relationship with your own body — built over time, through understanding, at your own pace. This platform does not rush that. It does not judge where you are when you arrive. It simply meets you there.",
+      "t": ""
+    },
+    "8dd965a2": {
+      "src": "Honey Ras (Wilbert Blackwood)",
+      "t": ""
+    },
+    "cc0c0364": {
+      "src": "I",
+      "t": ""
+    },
+    "63e8ffd7": {
+      "src": "II",
+      "t": ""
+    },
+    "e5ca65ba": {
+      "src": "III",
+      "t": ""
+    },
+    "68e907b6": {
+      "src": "IV",
+      "t": ""
+    },
+    "1348ef56": {
+      "src": "If Kwik Fat Cut has brought clarity to your life, your family, or your community —",
+      "t": ""
+    },
+    "36fc7105": {
+      "src": "If this platform",
+      "t": ""
+    },
+    "00392c05": {
+      "src": "If this platform provides clarity — support is available here.",
+      "t": ""
+    },
+    "11ef9561": {
+      "src": "Independent.",
+      "t": ""
+    },
+    "8ff0b52b": {
+      "src": "Indigenous knowledge deserves documentation",
+      "t": ""
+    },
+    "30f5f862": {
+      "src": "Instead of chasing fast results, the Kwik Fat Cut platform encourages",
+      "t": ""
+    },
+    "cdfb28d8": {
+      "src": "Keeping the platform independent",
+      "t": ""
+    },
+    "07cce7e6": {
+      "src": "Kwik Fat Cut accepts no advertising, sells no products to the reader, and recommends nothing for commercial gain. Donations preserve that independence. Completely.",
+      "t": ""
+    },
+    "32a7572a": {
+      "src": "Kwik Fat Cut does not participate in that.",
+      "t": ""
+    },
+    "27494a75": {
+      "src": "Kwik Fat Cut does not sell memberships, charge for articles, or put knowledge behind a paywall. Donations are how the platform sustains that commitment — and reaches further.",
+      "t": ""
+    },
+    "29cf3ff4": {
+      "src": "Kwik Fat Cut does not store payment information. All transactions are processed securely. Your contribution goes directly toward keeping health knowledge free for everyone.",
+      "t": ""
+    },
+    "9d275064": {
+      "src": "Kwik Fat Cut is an independent and peaceful, education-first focused organisation dedicated to promoting nutrition rather than quick fixes. It functions as a community health platform with a clear mission:",
+      "t": ""
+    },
+    "51cdc760": {
+      "src": "Kwik Fat Cut was founded on a clear set of commitments. These are not aspirations. They are the operating rules of everything this platform does.",
+      "t": ""
+    },
+    "6a2c8c72": {
+      "src": "Kwik Fat Cut — Donation",
+      "t": ""
+    },
+    "3302c4c0": {
+      "src": "Last name",
+      "t": ""
+    },
+    "4c18cae4": {
+      "src": "Lasting health does not happen in isolation. It grows in families, in neighbourhoods, in communities that share knowledge and hold each other accountable with care. Kwik Fat Cut is built for that kind of change.",
+      "t": ""
+    },
+    "d30b7879": {
+      "src": "Learn First — Education Before Intervention",
+      "t": ""
+    },
+    "a95b27a0": {
+      "src": "Leave a message",
+      "t": ""
+    },
+    "1640a356": {
+      "src": "Monthly",
+      "t": ""
+    },
+    "25605aad": {
+      "src": "No amount is too small. No contribution goes unnoticed. Every donation goes directly toward keeping knowledge free and reaching communities that need it.",
+      "t": ""
+    },
+    "5b338404": {
+      "src": "No pressure. No body shaming. No quick fixes.",
+      "t": ""
+    },
+    "37fdfb66": {
+      "src": "Not a product. Not a quick fix. A community health platform with one clear mission — to help people understand their bodies, their food, and how both contribute to long-term health.",
+      "t": ""
+    },
+    "29d99d75": {
+      "src": "Not because we ask for it. Because you understand why it matters.",
+      "t": ""
+    },
+    "b91fd55f": {
+      "src": "One-time",
+      "t": ""
+    },
+    "6e38ff95": {
+      "src": "Other",
+      "t": ""
+    },
+    "b17b215a": {
+      "src": "Peaceful.",
+      "t": ""
+    },
+    "12080a9b": {
+      "src": "Programmes that introduce young people to ancestral food knowledge — what grows here, what it does, and why it matters — building a foundation of understanding early.",
+      "t": ""
+    },
+    "8ad3e329": {
+      "src": "Share Kwik Fat Cut",
+      "t": ""
+    },
+    "652eca87": {
+      "src": "Share this platform",
+      "t": ""
+    },
+    "d29225e1": {
+      "src": "Start Free. Understand First.",
+      "t": ""
+    },
+    "a2a6205e": {
+      "src": "Support free health education",
+      "t": ""
+    },
+    "e68a9845": {
+      "src": "Support helps extend the platform into local communities — health fairs, neighbourhood sessions, and direct one-on-one guidance for individuals who need it most.",
+      "t": ""
+    },
+    "072ff81e": {
+      "src": "Support the Platform",
+      "t": ""
+    },
+    "bc3b4e9b": {
+      "src": "Tell a friend to tell a friend. Support if you can. Read freely if you cannot.",
+      "t": ""
+    },
+    "736ae1ce": {
+      "src": "The Foods Hub, the Learn library, the ancestral food archives — building and maintaining rare, genuinely useful content takes time and care. Your support makes that possible.",
+      "t": ""
+    },
+    "6e59f4a2": {
+      "src": "The ancestral food wisdom of Jamaica, West Africa, and the Caribbean was not preserved by mainstream wellness. Kwik Fat Cut documents it carefully, respectfully, and makes it available to the people it belongs to.",
+      "t": ""
+    },
+    "b349a13a": {
+      "src": "The donation form is being connected now.",
+      "t": ""
+    },
+    "4b1042fc": {
+      "src": "The greatest support you can give is passing this knowledge forward. Share freely. Education first.",
+      "t": ""
+    },
+    "e62dad24": {
+      "src": "The knowledge belongs to everyone.",
+      "t": ""
+    },
+    "056f66e1": {
+      "src": "The principles",
+      "t": ""
+    },
+    "1096a12a": {
+      "src": "There is no need to buy diet plans, follow strict dieting rules, or make major lifestyle changes — as such steps rarely lead to lasting success. The pressure to transform overnight is not health advice. It is marketing.",
+      "t": ""
+    },
+    "5beec0e9": {
+      "src": "This platform exists to give knowledge freely — and to keep it that way.",
+      "t": ""
+    },
+    "da1c004a": {
+      "src": "This platform is not built for this season. It is built for the next generation. Support helps ensure the knowledge tree keeps growing — long after today’s news cycle has moved on.",
+      "t": ""
+    },
+    "32c6d35c": {
+      "src": "This platform was not built to tell you what to do. It was built to give you what you need to decide for yourself — with full understanding, full dignity, and without pressure.",
+      "t": ""
+    },
+    "a16373d1": {
+      "src": "To the family",
+      "t": ""
+    },
+    "9f3a3aca": {
+      "src": "Until it is live, email",
+      "t": ""
+    },
+    "d30c0e69": {
+      "src": "V",
+      "t": ""
+    },
+    "f96c2144": {
+      "src": "We help you progress.",
+      "t": ""
+    },
+    "429a2829": {
+      "src": "We help you progress. We row. You steer and lead.",
+      "t": ""
+    },
+    "78d675c2": {
+      "src": "We row. You steer and lead.",
+      "t": ""
+    },
+    "ac21e28a": {
+      "src": "Welcome. Please have a seat. 🪑",
+      "t": ""
+    },
+    "67ba5fa0": {
+      "src": "What Kwik Fat Cut Is",
+      "t": ""
+    },
+    "a0cc473a": {
+      "src": "What Your Support Does",
+      "t": ""
+    },
+    "6cf796fc": {
+      "src": "Why We Do It This Way",
+      "t": ""
+    },
+    "ffa71421": {
+      "src": "With respect and gratitude —",
+      "t": ""
+    },
+    "035d839e": {
+      "src": "Your contribution helps keep every article, guide, and ancestral food resource free for everyone — now and for the generations that follow.",
+      "t": ""
+    },
+    "0180a6a4": {
+      "src": "Your details",
+      "t": ""
+    },
+    "0736fbf3": {
+      "src": "Youth food mentoring",
+      "t": ""
+    },
+    "aa168c67": {
+      "src": "and we will arrange your gift personally. Your generosity is received with gratitude and used with care.",
+      "t": ""
+    },
+    "96832c9b": {
+      "src": "consider passing that forward.",
+      "t": ""
+    },
+    "d9ada1de": {
+      "src": "donations.",
+      "t": ""
+    },
+    "eb412baf": {
+      "src": "free.",
+      "t": ""
+    },
+    "7d9f9658": {
+      "src": "has helped you —",
+      "t": ""
+    },
+    "f7f3a7b6": {
+      "src": "keeps the knowledge",
+      "t": ""
+    },
+    "87245d25": {
+      "src": "kwik@kwikfatcut.com",
+      "t": ""
+    },
+    "ca555d54": {
+      "src": "long-term community awareness, family health, personalised care, and meaningful generational change",
+      "t": ""
+    },
+    "7c24a7b7": {
+      "src": "needs it.",
+      "t": ""
+    },
+    "33379314": {
+      "src": "never move.",
+      "t": ""
+    },
+    "6ac400c6": {
+      "src": "pass it forward.",
+      "t": ""
+    },
+    "cb18332c": {
+      "src": "that",
+      "t": ""
+    },
+    "fd8fc87a": {
+      "src": "through",
+      "t": ""
+    },
+    "90da3775": {
+      "src": "through education, practical knowledge, and fostering a neighbourhood committed to learning and health.",
+      "t": ""
+    },
+    "b99e0032": {
+      "src": "to help people understand their bodies, food, and how both contribute to health.",
+      "t": ""
+    },
+    "feb7d4ad": {
+      "src": "with someone who",
+      "t": ""
+    },
+    "a14c3fd7": {
+      "src": "🇯🇲 Kingston, Jamaica",
+      "t": ""
+    },
+    "cfdc9924": {
+      "src": "🌿 Education first",
+      "t": ""
+    },
+    "463612dc": {
+      "src": "🔒 Donation form coming soon",
+      "t": ""
+    }
+  }
+}

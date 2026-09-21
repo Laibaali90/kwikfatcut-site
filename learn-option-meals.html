@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Option Meals — where Rastafarian Ital tradition meets the science of strict plant-based eating. Not a diet. Not a programme. A way of understanding what the body was always designed to receive.">
+<title>Option Meals — Ital Roots & Plant Science — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  /* HERO */
+  .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(ellipse 60% 65% at 70% 35%,rgba(46,107,62,0.09) 0%,transparent 62%),
+    radial-gradient(ellipse 40% 45% at 10% 80%,rgba(218,165,32,0.05) 0%,transparent 55%),
+    radial-gradient(ellipse 30% 35% at 90% 85%,rgba(193,68,14,0.04) 0%,transparent 55%);}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb a:hover{color:var(--c60);}
+  .breadcrumb span{margin:0 0.6rem;}
+  .article-tag{display:inline-block;font-size:0.64rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--green);border:1px solid rgba(46,107,62,0.4);padding:0.25rem 0.7rem;border-radius:2px;margin-bottom:1.5rem;opacity:0;animation:up 0.9s 0.15s ease forwards;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(3.2rem,8.5vw,8rem);font-weight:300;line-height:1.03;color:var(--cream);max-width:860px;opacity:0;animation:up 0.9s 0.22s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:580px;margin-top:2rem;font-size:1.05rem;line-height:1.9;color:var(--c60);font-style:italic;opacity:0;animation:up 0.9s 0.38s ease forwards;}
+  .article-meta{margin-top:2rem;display:flex;gap:2rem;flex-wrap:wrap;opacity:0;animation:up 0.9s 0.48s ease forwards;}
+  .meta-item{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);}
+  .meta-item strong{color:var(--c60);font-weight:400;}
+
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:4px;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+
+  /* ARTICLE LAYOUT */
+  .article-wrap{padding:6rem 6vw;display:grid;grid-template-columns:1fr 2.5fr;gap:6rem;align-items:start;}
+  .sidebar{position:sticky;top:110px;}
+  .sidebar-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:1.2rem;font-weight:500;}
+  .toc a{font-size:0.82rem;color:var(--c60);text-decoration:none;padding:0.65rem 0;border-bottom:1px solid var(--c10);display:block;transition:color 0.2s;line-height:1.4;}
+  .toc a:first-child{border-top:1px solid var(--c10);}
+  .toc a:hover{color:var(--gold);}
+  .sidebar-quote{margin-top:2.5rem;border-left:2px solid var(--green);padding:1.2rem;background:rgba(46,107,62,0.07);}
+  .sidebar-quote p{font-size:0.82rem;line-height:1.75;color:var(--c60);font-style:italic;}
+  .sidebar-quote strong{font-style:normal;color:var(--cream);font-weight:400;}
+  .sidebar-logo{margin-top:2rem;text-align:center;}
+  .sidebar-logo img{width:120px;height:auto;opacity:0.85;}
+
+  /* BODY */
+  .article-body{display:flex;flex-direction:column;gap:0;}
+  .article-section{padding:3.5rem 0;border-bottom:1px solid var(--c10);}
+  .article-section:first-child{padding-top:0;}
+  .article-section:last-child{border-bottom:none;}
+  .section-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.8rem;}
+  .section-label.green{color:var(--green);}
+  .section-label.gold{color:var(--gold);}
+  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.7rem,3vw,2.6rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.5rem;}
+  .article-section h2 em{font-style:italic;color:var(--gold);}
+  .article-section p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1.2rem;}
+  .article-section p:last-child{margin-bottom:0;}
+  .article-section p strong{color:var(--cream);font-weight:400;}
+
+  /* PULL QUOTE */
+  .pull-quote{margin:2.5rem 0;padding:2rem 2.5rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .pull-quote p{font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:300;font-style:italic;line-height:1.6;color:var(--cream);}
+  .pull-quote p em{font-style:normal;color:var(--gold);}
+
+  /* ITAL PRINCIPLES */
+  .ital-principles{margin:2rem 0;display:flex;flex-direction:column;gap:0;}
+  .ip-item{display:flex;gap:1.5rem;align-items:flex-start;padding:1.4rem 0;border-bottom:1px solid var(--c10);}
+  .ip-item:first-child{border-top:1px solid var(--c10);}
+  .ip-icon{font-size:1.3rem;flex-shrink:0;line-height:1.3;}
+  .ip-content h3{font-size:0.9rem;font-weight:500;color:var(--cream);margin-bottom:0.3rem;}
+  .ip-content p{font-size:0.87rem;line-height:1.8;color:var(--c60);}
+  .ip-content p strong{color:var(--cream);font-weight:400;}
+
+  /* OPTION MEAL EXAMPLES */
+  .meal-cards{display:grid;grid-template-columns:1fr 1fr;gap:2px;margin:2rem 0;}
+  .meal-card{padding:2rem 1.8rem;border:1px solid var(--c10);transition:border-color 0.3s,background 0.3s;}
+  .meal-card:hover{border-color:var(--g20);background:var(--g08);}
+  .meal-card.featured{border-color:rgba(46,107,62,0.3);background:rgba(46,107,62,0.06);}
+  .mc-label{font-size:0.62rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--green);font-weight:500;margin-bottom:0.7rem;}
+  .mc-name{font-family:'Cormorant Garamond',serif;font-size:1.15rem;font-weight:400;color:var(--cream);margin-bottom:0.8rem;line-height:1.25;}
+  .mc-items{list-style:none;display:flex;flex-direction:column;gap:0.4rem;}
+  .mc-items li{font-size:0.82rem;line-height:1.65;color:var(--c60);display:flex;gap:0.5rem;}
+  .mc-items li::before{content:'—';color:var(--gold);opacity:0.4;flex-shrink:0;}
+  .mc-benefit{margin-top:1rem;font-size:0.78rem;line-height:1.6;color:var(--green);font-style:italic;border-top:1px solid var(--c10);padding-top:0.8rem;}
+
+  /* NUTRIENTS TABLE */
+  .nutrients-table{margin:2rem 0;display:flex;flex-direction:column;gap:0;}
+  .nt-row{display:grid;grid-template-columns:1.2fr 1fr 1fr;gap:0;border-bottom:1px solid var(--c10);}
+  .nt-row.header{border-bottom:2px solid rgba(46,107,62,0.3);}
+  .nt-row:first-child{border-top:1px solid var(--c10);}
+  .nt-cell{padding:0.85rem 1rem;font-size:0.83rem;line-height:1.5;color:var(--c60);}
+  .nt-cell.head{font-size:0.62rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);font-weight:500;}
+  .nt-cell.name{color:var(--cream);}
+  .nt-cell.benefit{color:var(--green);font-size:0.78rem;}
+
+  /* CLOSING LINES */
+  .close-lines{margin:2rem 0;display:flex;flex-direction:column;gap:0.5rem;}
+  .cl-line{font-family:'Cormorant Garamond',serif;font-size:clamp(1.2rem,2.2vw,1.9rem);font-weight:300;font-style:italic;color:var(--cream);line-height:1.3;}
+  .cl-line em{font-style:normal;color:var(--gold);}
+
+  .article-close{padding:4rem 0 2rem;}
+  .article-close h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.12;color:var(--cream);margin-bottom:1.2rem;}
+  .article-close h2 em{font-style:italic;color:var(--gold);}
+  .article-close p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1rem;}
+  .article-close p strong{color:var(--cream);font-weight:400;}
+  .article-close .sign{font-size:0.72rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);margin-top:1.5rem;}
+
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,transform 0.2s;}
+  .btn-primary:hover{background:var(--cream);transform:translateY(-2px);}
+  .btn-outline{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .btn-outline:hover{border-color:var(--c60);color:var(--cream);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){.article-wrap{grid-template-columns:1fr;gap:3rem;}.sidebar{position:static;}.meal-cards{grid-template-columns:1fr;}.nt-row{grid-template-columns:1fr;}.cta-strip{flex-direction:column;align-items:flex-start;}}
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/learn-option-meals.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span><a href="learn.html">Learn</a><span>&middot;</span>Option Meals</p>
+  <span class="article-tag">Ital Roots &amp; Plant Science</span>
+  <h1>Option<br><em>meals.</em></h1>
+  <p class="lede">Where Rastafarian Ital tradition meets the science of strict plant-based eating. Not a diet. Not a programme. A way of understanding what the body was always designed to receive &mdash; and choosing, with full awareness, what goes in.</p>
+  <div class="article-meta">
+    <div class="meta-item">Category <strong>Ital &amp; Plant-Based Living</strong></div>
+    <div class="meta-item">Reading time <strong>10 min</strong></div>
+    <div class="meta-item">Approach <strong>Ancestral &amp; Evidence-Based</strong></div>
+  </div>
+</header>
+
+<div class="colour-band"><div class="cb-black"></div><div class="cb-red"></div><div class="cb-gold"></div><div class="cb-green"></div></div>
+
+<div class="article-wrap">
+  <aside class="sidebar reveal">
+    <p class="sidebar-label">In this article</p>
+    <nav class="toc">
+      <a href="#what">What an Option Meal is</a>
+      <a href="#ital">Ital — the foundation</a>
+      <a href="#strict-veg">Strict vegetarian science</a>
+      <a href="#convergence">Where they meet</a>
+      <a href="#meals">Option meal examples</a>
+      <a href="#nutrients">What the body gains</a>
+      <a href="#practice">Daily practice</a>
+    </nav>
+    <div class="sidebar-quote">
+      <p>&ldquo;Ital is vital. <strong>What you put in the body is what the body has to work with.</strong> There is no separating the food from the life.&rdquo;</p>
+    </div>
+    <div class="sidebar-logo">
+      <img src="kwik-logo.jpeg" alt="Kwik Fat Cut" loading="eager" fetchpriority="high" decoding="async">
+    </div>
+  </aside>
+
+  <article class="article-body">
+
+    <div class="article-section reveal" id="what">
+      <p class="section-label">The Concept</p>
+      <h2>What is an<br><em>Option Meal?</em></h2>
+      <p>An Option Meal is not a fixed recipe. It is not a meal plan you subscribe to or a product you purchase. It is a <strong>conscious choice</strong> &mdash; one made with full understanding of what food does to the body, rooted in two of the most nutritionally coherent traditions ever documented: Rastafarian Ital eating and strict plant-based nutrition science.</p>
+      <p>The word &ldquo;option&rdquo; is deliberate. <strong>You have options.</strong> Not restrictions. Not guilt. Not pressure. When you understand what each food does, every meal becomes a choice you make knowingly &mdash; for your body, your energy, your clarity, and your longevity.</p>
+
+      <div class="pull-quote">
+        <p>&ldquo;An Option Meal begins where understanding begins. <em>When you know what food does, choosing becomes natural.</em> That is the Kwik Fat Cut way.&rdquo;</p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="ital">
+      <p class="section-label green">The Rastafarian Foundation</p>
+      <h2>Ital &mdash;<br><em>vital by nature.</em></h2>
+      <p>The word <strong>Ital</strong> derives from &ldquo;vital&rdquo; &mdash; life force, energy, the animating principle of living things. In Rastafarian tradition, Ital eating is not a diet trend. It is a spiritual and physical commitment to consuming food that carries life force rather than diminishing it.</p>
+      <p>The core Ital principles have been practised in Jamaica and the Caribbean for generations. Long before nutritional science had language for what they were doing, Ital practitioners were eating in ways that modern research now confirms as among the most health-protective patterns on earth.</p>
+
+      <div class="ital-principles">
+        <div class="ip-item reveal">
+          <div class="ip-icon">🌱</div>
+          <div class="ip-content">
+            <h3>Natural and unprocessed</h3>
+            <p>Food should come from the earth in its closest-to-original form. <strong>No artificial additives, no chemical preservatives, no synthetic flavourings.</strong> If it was not grown, it is not Ital.</p>
+          </div>
+        </div>
+        <div class="ip-item reveal">
+          <div class="ip-icon">🧂</div>
+          <div class="ip-content">
+            <h3>Minimal or no salt</h3>
+            <p>Traditional Ital uses sea salt sparingly or natural herbs for flavour. <strong>Excess sodium is understood as a burden on the kidneys and blood pressure</strong> &mdash; a position now supported by extensive cardiovascular research.</p>
+          </div>
+        </div>
+        <div class="ip-item reveal">
+          <div class="ip-icon">🍖</div>
+          <div class="ip-content">
+            <h3>No flesh foods for strict practitioners</h3>
+            <p>Many Ital practitioners avoid all meat. Others include fish. The underlying principle: <strong>the body is a temple, and what enters it should honour that.</strong> This is not judgement of those who eat differently. It is a personal covenant.</p>
+          </div>
+        </div>
+        <div class="ip-item reveal">
+          <div class="ip-icon">🏺</div>
+          <div class="ip-content">
+            <h3>No synthetic containers</h3>
+            <p>Traditional Ital avoids cooking in aluminium or synthetic materials. Clay pots, cast iron, and natural vessels are preferred. <strong>The vessel matters as much as the contents</strong> &mdash; a principle now echoed in growing research on microplastic contamination.</p>
+          </div>
+        </div>
+        <div class="ip-item reveal">
+          <div class="ip-icon">🌍</div>
+          <div class="ip-content">
+            <h3>Connection to the land</h3>
+            <p>Ital eating is inherently local and seasonal. <strong>What grows here, grows for us.</strong> The Jamaican earth provides callaloo, ackee, breadfruit, yam, sweet potato, guinep, soursop &mdash; each adapted to the bodies that live alongside them.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="strict-veg">
+      <p class="section-label">The Science</p>
+      <h2>What strict plant-based<br>eating <em>confirms.</em></h2>
+      <p>Across the largest and longest nutritional studies ever conducted &mdash; including the Adventist Health Studies, the EPIC-Oxford study, and the China Study &mdash; strict plant-based diets consistently show lower rates of heart disease, type 2 diabetes, certain cancers, hypertension, and obesity.</p>
+      <p>This is not ideology. This is data from hundreds of thousands of people tracked over decades. <strong>The body responds to plant-based whole foods in ways that animal products and processed foods cannot replicate.</strong> Here is why:</p>
+
+      <div class="nutrients-table reveal">
+        <div class="nt-row header">
+          <div class="nt-cell head">What plants provide</div>
+          <div class="nt-cell head">How it works</div>
+          <div class="nt-cell head">Body benefit</div>
+        </div>
+        <div class="nt-row">
+          <div class="nt-cell name">Dietary fibre</div>
+          <div class="nt-cell">Feeds gut bacteria, slows sugar absorption, binds cholesterol</div>
+          <div class="nt-cell benefit">Gut health, stable energy, lower cholesterol</div>
+        </div>
+        <div class="nt-row">
+          <div class="nt-cell name">Phytochemicals</div>
+          <div class="nt-cell">Anti-inflammatory, antioxidant, anti-cancer compounds only in plants</div>
+          <div class="nt-cell benefit">Cellular protection, reduced disease risk</div>
+        </div>
+        <div class="nt-row">
+          <div class="nt-cell name">Plant protein</div>
+          <div class="nt-cell">Complete amino acid profiles when varied legumes and grains are combined</div>
+          <div class="nt-cell benefit">Muscle, repair, enzyme function without saturated fat</div>
+        </div>
+        <div class="nt-row">
+          <div class="nt-cell name">Potassium</div>
+          <div class="nt-cell">Abundant in vegetables, legumes, fruits — counteracts sodium</div>
+          <div class="nt-cell benefit">Blood pressure regulation, heart rhythm</div>
+        </div>
+        <div class="nt-row">
+          <div class="nt-cell name">Magnesium</div>
+          <div class="nt-cell">Found in dark leafy greens, seeds, legumes — involved in 300+ body processes</div>
+          <div class="nt-cell benefit">Energy, sleep, nerve function, blood sugar</div>
+        </div>
+        <div class="nt-row">
+          <div class="nt-cell name">Antioxidants</div>
+          <div class="nt-cell">Vitamins C, E, beta-carotene, polyphenols — neutralise free radicals</div>
+          <div class="nt-cell benefit">Reduced oxidative stress, slower ageing, cancer protection</div>
+        </div>
+      </div>
+
+      <p>One important note for strict plant-based eaters: <strong>Vitamin B12 is not reliably found in plant foods.</strong> Those avoiding all animal products should supplement B12 or include B12-fortified foods. This is not a weakness of the diet — it is simply biology, and the honest thing to say.</p>
+    </div>
+
+    <div class="article-section reveal" id="convergence">
+      <p class="section-label gold">Where They Meet</p>
+      <h2>Ital tradition &amp;<br>plant science &mdash;<br><em>one convergence.</em></h2>
+      <p>What is extraordinary about Ital eating is that its intuitions &mdash; developed through spiritual practice and generational observation in Jamaica &mdash; map almost perfectly onto what decades of nutritional science have now confirmed. <strong>Two paths. One destination.</strong></p>
+      <p>The Ital practitioner avoids processed food because the spirit does not thrive on dead things. The nutritional scientist avoids processed food because it carries no phytochemicals, depletes gut bacteria, and drives inflammation. <strong>Different language. Identical conclusion.</strong></p>
+      <p>The Option Meal is where these two traditions are gathered together. It draws from Ital&rsquo;s spiritual clarity and its deep connection to Jamaican and West African food heritage. And it draws from the science of strict plant-based eating &mdash; the clinical evidence for what whole plant foods do inside the body at the cellular level. <strong>Together, they form something more powerful than either alone.</strong></p>
+    </div>
+
+    <div class="article-section reveal" id="meals">
+      <p class="section-label green">Practical Examples</p>
+      <h2>Option meals<br><em>in practice.</em></h2>
+      <p>These are not prescriptions. They are illustrations &mdash; showing how Ital tradition and plant science combine naturally in a single meal. Each one is built around whole, indigenous, largely Jamaican ingredients.</p>
+
+      <div class="meal-cards">
+        <div class="meal-card featured reveal">
+          <div class="mc-label">Morning — Ital Roots</div>
+          <div class="mc-name">Callaloo &amp; Provision Breakfast</div>
+          <ul class="mc-items">
+            <li>Steamed callaloo with onion, thyme &amp; scotch bonnet</li>
+            <li>Roasted breadfruit or boiled yam</li>
+            <li>Sliced avocado (pear)</li>
+            <li>Fresh lime &amp; sea salt (minimal)</li>
+            <li>Fever grass (lemongrass) tea</li>
+          </ul>
+          <p class="mc-benefit">Iron, vitamins A &amp; C, complex carbohydrates, healthy fats, digestive support. Sustained energy without blood sugar spike.</p>
+        </div>
+
+        <div class="meal-card reveal">
+          <div class="mc-label">Midday — Plant Science</div>
+          <div class="mc-name">Legume &amp; Grain Power Bowl</div>
+          <ul class="mc-items">
+            <li>Slow-cooked red peas or gungo peas</li>
+            <li>Brown rice or wild rice</li>
+            <li>Steamed kale or pak choi</li>
+            <li>Pumpkin seeds &amp; fresh herbs</li>
+            <li>Turmeric and ginger dressing</li>
+          </ul>
+          <p class="mc-benefit">Complete plant protein, prebiotic fibre, anti-inflammatory compounds, magnesium, zinc. Full amino acid profile from peas and rice together.</p>
+        </div>
+
+        <div class="meal-card reveal">
+          <div class="mc-label">Evening — Ital Stew</div>
+          <div class="mc-name">Jamaican Vegetable Rundown</div>
+          <ul class="mc-items">
+            <li>Coconut milk base (natural, unsweetened)</li>
+            <li>Sweet potato, dasheen &amp; cho cho</li>
+            <li>Green banana &amp; plantain</li>
+            <li>Fresh thyme, allspice &amp; scotch bonnet</li>
+            <li>Cerasee tea after the meal</li>
+          </ul>
+          <p class="mc-benefit">MCTs from coconut, complex carbohydrates, potassium, fibre, digestive enzymes. Cerasee supports blood sugar regulation post-meal.</p>
+        </div>
+
+        <div class="meal-card reveal">
+          <div class="mc-label">Light Meal — Raw Option</div>
+          <div class="mc-name">Living Fruit &amp; Seed Plate</div>
+          <ul class="mc-items">
+            <li>Mango, papaya &amp; soursop</li>
+            <li>Guinep or star apple (seasonal)</li>
+            <li>Pumpkin seeds &amp; shelled peanuts</li>
+            <li>Fresh coconut water to drink</li>
+            <li>Lime &amp; a pinch of cayenne</li>
+          </ul>
+          <p class="mc-benefit">Digestive enzymes from papaya &amp; mango, vitamin C, natural electrolytes from coconut water, healthy fats and protein from seeds. Maximum living nutrition.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="nutrients">
+      <p class="section-label">What the Body Gains</p>
+      <h2>Not what you&rsquo;re<br><em>giving up.</em></h2>
+      <p>The conversation around plant-based eating is too often framed around what is removed &mdash; no meat, no dairy, no this, no that. <strong>That is the wrong frame entirely.</strong> The Option Meal conversation is about what you are adding. What you are giving the body that it has been waiting for.</p>
+      <p>When the body consistently receives whole plant foods it gains: <strong>more fibre than it can get from any other eating pattern. More phytochemicals. More antioxidants. More potassium. More magnesium. More folate.</strong> And it receives these compounds in the form they are most bioavailable &mdash; inside the whole food matrix, with all the co-factors nature designed to help absorb them.</p>
+      <p>This is why communities that have eaten this way for generations &mdash; Ital Rastafarians, Seventh-day Adventists, traditional Mediterranean communities, Okinawan elders &mdash; consistently show lower chronic disease rates and longer healthy lifespans. <strong>It is not the absence of meat that protects them. It is the presence of plant abundance.</strong></p>
+    </div>
+
+    <div class="article-section reveal" id="practice">
+      <p class="section-label gold">Living It</p>
+      <h2>Option Meals<br><em>as a daily practice.</em></h2>
+      <p>An Option Meal does not require perfection. It does not require a complete dietary overhaul overnight. It requires <strong>one conscious choice at a time</strong> &mdash; guided by understanding rather than willpower, by knowledge rather than restriction.</p>
+      <p>Start with one Ital-inspired meal a day. Learn what it contains. Learn what it does. <strong>Let understanding do the work that discipline alone cannot.</strong> Over time, the choices become natural. The body responds. Energy changes. Clarity changes. The relationship with food changes from one of habit to one of intention.</p>
+
+      <div class="close-lines reveal">
+        <div class="cl-line">Not a diet. An <em>understanding.</em></div>
+        <div class="cl-line">Not a restriction. An <em>option.</em></div>
+        <div class="cl-line">Not a programme. A <em>practice.</em></div>
+      </div>
+
+      <p style="margin-top:2rem;"><strong>Ital is vital. The land provides. The choice is yours.</strong> Kwik Fat Cut is here to make sure that choice is always an informed one. 🌿🇯🇲❤️💚</p>
+    </div>
+
+    <div class="article-close reveal">
+      <h2>The seed is<br><em>already planted.</em></h2>
+      <p>Every time you choose a whole food over a processed one, you are practising Ital. Every time you reach for callaloo instead of a chemical-laden convenience food, you are honouring ancestral wisdom and doing what the science confirms. <strong>These two things have always been the same thing.</strong> We just needed the language to say it clearly.</p>
+      <p>Option Meals. Gathered together. Rooted in the earth. Built for the body. Free to understand. 🌳</p>
+      <p class="sign">Kwik Fat Cut &mdash; Education First &mdash; We row. You steer.</p>
+    </div>
+
+  </article>
+</div>
+
+<div class="rule"></div>
+
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>Start free.<br><em>Eat with understanding.</em></h3>
+    <p>All articles free. No subscription. The knowledge tree keeps growing.</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="learn.html" class="btn-primary">Learn Hub</a>
+    <a href="foods-hub.html" class="btn-outline">Foods Hub</a>
+  </div>
+</div>
+
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <p class="ss-body">Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">Share this article</button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link">Twitter / X</a>
+      <a href="#" class="ss-social-link">Instagram</a>
+      <a href="#" class="ss-social-link">TikTok</a>
+      <a href="#" class="ss-social-link">Facebook</a>
+    </div>
+    <p class="ss-note">Follow, like, share, comment. Tell a friend to tell a friend.</p>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+
+<script>
+function shareKFC(){const url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 Option Meals: Ital Roots & Plant Science',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ss-btn.share');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
+</script>
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

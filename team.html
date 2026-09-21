@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="The Kwik Fat Cut team — Wilbert Blackwood (Honey Ras), CEO and Creator, and Glenn Bailey, CFO. Built with purpose, rooted in ancestral health wisdom, and committed to education before intervention.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Our Team — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  .nav-btn:hover{background:var(--cream)!important;}
+  /* HERO */
+  .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(ellipse 55% 55% at 70% 40%,rgba(218,165,32,0.06) 0%,transparent 62%),
+    radial-gradient(ellipse 40% 40% at 15% 75%,rgba(46,107,62,0.05) 0%,transparent 55%);}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb a:hover{color:var(--c60);}
+  .breadcrumb span{margin:0 0.6rem;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(3rem,8vw,7rem);font-weight:300;line-height:1.05;color:var(--cream);max-width:780px;opacity:0;animation:up 0.9s 0.2s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:540px;margin-top:2rem;font-size:1rem;line-height:1.9;color:var(--c60);opacity:0;animation:up 0.9s 0.35s ease forwards;}
+
+  /* COLOUR BAND */
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:4px;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+  .section-tag{font-size:0.66rem;letter-spacing:0.32em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:1rem;}
+  .section-title{font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,3.5vw,3rem);font-weight:300;line-height:1.15;color:var(--cream);}
+  .section-title em{font-style:italic;color:var(--gold);}
+
+  /* TEAM INTRO */
+  .team-intro{padding:6rem 6vw 4rem;max-width:680px;}
+  .team-intro p{margin-top:1.2rem;font-size:0.97rem;line-height:1.9;color:var(--c60);}
+  .team-intro p strong{color:var(--cream);font-weight:400;}
+
+  /* FOUNDER CARDS */
+  .founders{padding:0 6vw 7rem;display:flex;flex-direction:column;gap:2px;}
+
+  .founder-card{border:1px solid var(--c10);overflow:hidden;transition:border-color 0.3s;}
+  .founder-card:hover{border-color:var(--g20);}
+
+  .fc-header{padding:3.5rem 3.5rem 0;display:grid;grid-template-columns:auto 1fr;gap:3rem;align-items:start;}
+  .fc-badge{width:80px;height:80px;border-radius:50%;display:grid;place-items:center;flex-shrink:0;font-size:1.8rem;border:1px solid var(--c10);}
+  .fc-badge.ceo{background:linear-gradient(135deg,rgba(218,165,32,0.15),rgba(218,165,32,0.05));border-color:rgba(218,165,32,0.25);}
+  .fc-badge.cfo{background:linear-gradient(135deg,rgba(46,107,62,0.15),rgba(46,107,62,0.05));border-color:rgba(46,107,62,0.25);}
+  .fc-title-block{}
+  .fc-role{font-size:0.66rem;letter-spacing:0.28em;text-transform:uppercase;font-weight:500;margin-bottom:0.6rem;}
+  .fc-role.ceo{color:var(--gold);}
+  .fc-role.cfo{color:var(--green);}
+  .fc-name{font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,4vw,3.5rem);font-weight:300;line-height:1.1;color:var(--cream);}
+  .fc-name em{font-style:italic;color:var(--gold);}
+  .fc-aka{font-size:0.78rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.5rem;}
+
+  .fc-tags{display:flex;gap:0.5rem;flex-wrap:wrap;margin-top:1.2rem;}
+  .fc-tag{font-size:0.64rem;letter-spacing:0.16em;text-transform:uppercase;padding:0.28rem 0.75rem;border-radius:2px;font-weight:500;border:1px solid;}
+  .fc-tag.gold{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .fc-tag.green{color:#5a9a6e;border-color:rgba(46,107,62,0.3);}
+  .fc-tag.muted{color:var(--c30);border-color:var(--c10);}
+
+  .fc-body{padding:2.5rem 3.5rem 3.5rem;}
+  .fc-body p{font-size:0.95rem;line-height:1.95;color:var(--c60);margin-bottom:1.2rem;}
+  .fc-body p:last-child{margin-bottom:0;}
+  .fc-body p strong{color:var(--cream);font-weight:400;}
+
+  /* IDENTITY ROWS */
+  .fc-identity{margin:1.5rem 0;display:flex;flex-direction:column;gap:0;border-top:1px solid var(--c10);border-bottom:1px solid var(--c10);}
+  .fc-id-row{display:flex;justify-content:space-between;align-items:baseline;padding:0.75rem 0;border-bottom:1px solid var(--c10);}
+  .fc-id-row:last-child{border-bottom:none;}
+  .fc-id-label{font-size:0.65rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);font-weight:500;flex-shrink:0;}
+  .fc-id-value{font-size:0.86rem;color:var(--c60);text-align:right;max-width:65%;}
+  .fc-id-value strong{color:var(--cream);font-weight:400;}
+
+  /* EXPERTISE GRID */
+  .expertise-grid{display:grid;grid-template-columns:1fr 1fr;gap:2px;margin:2rem 0;}
+  .exp-card{padding:1.4rem 1.4rem;border:1px solid var(--c10);transition:background 0.3s,border-color 0.3s;}
+  .exp-card:hover{background:var(--g08);border-color:var(--g20);}
+  .exp-icon{font-size:1.2rem;margin-bottom:0.6rem;line-height:1;}
+  .exp-label{font-size:0.82rem;font-weight:500;color:var(--cream);margin-bottom:0.25rem;}
+  .exp-desc{font-size:0.78rem;line-height:1.65;color:var(--c60);}
+
+  /* COMMITMENT SECTION */
+  .commitment{padding:6rem 6vw;background:linear-gradient(to bottom,transparent,rgba(46,107,62,0.04),transparent);border-top:1px solid var(--c10);}
+  .cm-inner{max-width:800px;margin:0 auto;text-align:center;}
+  .cm-inner p{margin-top:1.2rem;font-size:0.95rem;line-height:1.9;color:var(--c60);}
+  .cm-inner p strong{color:var(--cream);font-weight:400;}
+  .cm-quote{font-family:'Cormorant Garamond',serif;font-size:clamp(1.4rem,2.8vw,2.2rem);font-weight:300;font-style:italic;line-height:1.45;color:var(--cream);margin-top:2.5rem;}
+  .cm-quote em{font-style:normal;color:var(--gold);}
+
+  /* SOCIAL STRIP */
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-btn.follow:hover{background:var(--g08);}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,transform 0.2s;}
+  .btn-primary:hover{background:var(--cream);transform:translateY(-2px);}
+  .btn-outline{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .btn-outline:hover{border-color:var(--c60);color:var(--cream);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){
+    .fc-header{grid-template-columns:1fr;gap:1.5rem;}
+    .fc-body{padding:2rem 2rem 2.5rem;}
+    .fc-header{padding:2.5rem 2rem 0;}
+    .expertise-grid{grid-template-columns:1fr;}
+    .cta-strip{flex-direction:column;align-items:flex-start;}
+  }
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/team.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span>Our Team</p>
+  <h1>The people<br>behind the<br><em>knowledge tree.</em></h1>
+  <p class="lede">Greetings, distinguished individuals. Kwik Fat Cut was built by people who live what they teach &mdash; with a combined commitment to health, resilience, and education that goes back decades.</p>
+</header>
+
+<div class="colour-band"><div class="cb-black"></div><div class="cb-red"></div><div class="cb-gold"></div><div class="cb-green"></div></div>
+
+<div class="team-intro reveal">
+  <p class="section-tag">The Leadership</p>
+  <h2 class="section-title">Built with<br><em>purpose.</em></h2>
+  <p>Kwik Fat Cut was not created by a marketing team or a tech startup looking for a health niche. It was built by a CEO with over 55 years of real-world experience and a deep-rooted commitment to ancestral health wisdom, and a CFO who brought deliberate, strategic development to make it a lasting platform.</p>
+  <p><strong>Together, they built something that was never meant to sell products &mdash; only to educate people.</strong></p>
+</div>
+
+<div class="founders">
+
+  <!-- WILBERT BLACKWOOD — CEO -->
+  <div class="founder-card reveal">
+    <div class="fc-header">
+      <div class="fc-badge ceo">🌳</div>
+      <div class="fc-title-block">
+        <p class="fc-role ceo">CEO &amp; Creator</p>
+        <h2 class="fc-name">Wilbert <em>Blackwood</em></h2>
+        <p class="fc-aka">Known as Honey Ras &mdash; Man Rasta &mdash; Online: Man Rasta 🇯🇲</p>
+        <div class="fc-tags">
+          <span class="fc-tag gold">Kingston, Jamaica 🇯🇲</span>
+          <span class="fc-tag gold">St. Andrew Parish</span>
+          <span class="fc-tag green">Rastafarian Vegetarian</span>
+          <span class="fc-tag green">55+ Years Experience</span>
+          <span class="fc-tag muted">Founder since 2014</span>
+        </div>
+      </div>
+    </div>
+    <div class="fc-body">
+
+      <p>Greetings. My name is Honey Ras &mdash; also known online as Man Rasta. As a proud native of the Caribbean, I bring a diverse and extensive professional background to everything Kwik Fat Cut represents.</p>
+
+      <div class="fc-identity">
+        <div class="fc-id-row"><span class="fc-id-label">Full Name</span><span class="fc-id-value"><strong>Wilbert Blackwood</strong></span></div>
+        <div class="fc-id-row"><span class="fc-id-label">Known As</span><span class="fc-id-value"><strong>Honey Ras</strong> &mdash; Man Rasta</span></div>
+        <div class="fc-id-row"><span class="fc-id-label">Origin</span><span class="fc-id-value"><strong>Kingston, Jamaica &mdash; Parish of St. Andrew</strong></span></div>
+        <div class="fc-id-row"><span class="fc-id-label">Identity</span><span class="fc-id-value">Dreadlax Rastafarian</span></div>
+        <div class="fc-id-row"><span class="fc-id-label">Diet</span><span class="fc-id-value">Vegetarian &mdash; indigenous, holistic, plant-based</span></div>
+        <div class="fc-id-row"><span class="fc-id-label">Role at KFC</span><span class="fc-id-value"><strong>CEO &amp; Creator</strong></span></div>
+        <div class="fc-id-row"><span class="fc-id-label">Mission Since</span><span class="fc-id-value"><strong>January 1, 2014</strong></span></div>
+      </div>
+
+      <p>I am an <strong>electronic technician specialising in audio and video equipment</strong>, with over 55 years of proven experience in installing, repairing, and troubleshooting complex electrical systems. That discipline &mdash; precision, patience, understanding how systems work before intervening &mdash; is the same philosophy I bring to health education.</p>
+
+      <div class="expertise-grid">
+        <div class="exp-card reveal">
+          <div class="exp-icon">🔧</div>
+          <div class="exp-label">Electronic Technician</div>
+          <div class="exp-desc">55+ years specialising in audio &amp; video equipment. Installation, repair, and complex electrical troubleshooting.</div>
+        </div>
+        <div class="exp-card reveal">
+          <div class="exp-icon">🌿</div>
+          <div class="exp-label">Health Foods Educator</div>
+          <div class="exp-desc">Actively promoting healthy eating habits within the community. Free knowledge &mdash; always education first.</div>
+        </div>
+        <div class="exp-card reveal">
+          <div class="exp-icon">🧘</div>
+          <div class="exp-label">Rastafarian Practitioner</div>
+          <div class="exp-desc">Regular meditation, chanting, and herbal remedies. A lived embodiment of Rastafari's spiritual and nutritional principles.</div>
+        </div>
+        <div class="exp-card reveal">
+          <div class="exp-icon">🌱</div>
+          <div class="exp-label">Holistic Nutrition</div>
+          <div class="exp-desc">Vegetarian, indigenous, plant-based diet emphasising organic and locally sourced foods. Sustainable agriculture driven by passion.</div>
+        </div>
+        <div class="exp-card reveal">
+          <div class="exp-icon">🤝</div>
+          <div class="exp-label">Community Work</div>
+          <div class="exp-desc">Local health fairs, youth food-mentoring programmes. Freely sharing knowledge &mdash; because that is the point.</div>
+        </div>
+        <div class="exp-card reveal">
+          <div class="exp-icon">📋</div>
+          <div class="exp-label">Wellness Guidance</div>
+          <div class="exp-desc">Personalised health routines, daily wellness programmes, and nutritional plans tailored to individual needs and goals.</div>
+        </div>
+      </div>
+
+      <p style="margin-top:0.5rem;">I offer personalised guidance on developing comprehensive health routines, daily wellness programmes, and nutritional plans. As a committed Rastafarian, I regularly practice meditation, chanting, and herbal remedies &mdash; embodying the spiritual practices of Rastafari in daily life, not just in words.</p>
+
+      <p>My dedication to helping others is unwavering. <strong>I freely share knowledge on the Kwik Fat Cut education-first platform</strong> and actively support community initiatives including local health fairs and youth food-mentoring programmes. We cannot do this alone. We row together. You steer.</p>
+    </div>
+  </div>
+
+  <!-- GLENN BAILEY — CFO -->
+  <div class="founder-card reveal">
+    <div class="fc-header">
+      <div class="fc-badge cfo">🌿</div>
+      <div class="fc-title-block">
+        <p class="fc-role cfo">CFO &mdash; Chief Financial Officer &amp; Co-Developer</p>
+        <h2 class="fc-name">Glenn <em>Bailey</em></h2>
+        <p class="fc-aka">The strategic foundation behind Kwik Fat Cut&rsquo;s development</p>
+        <div class="fc-tags">
+          <span class="fc-tag green">CFO &amp; Co-Developer</span>
+          <span class="fc-tag muted">Born UK &mdash; Raised Jamaica &mdash; Long Island College</span>
+          <span class="fc-tag muted">Entrepreneur &amp; Designer</span>
+        </div>
+      </div>
+    </div>
+    <div class="fc-body">
+
+      <p>Glenn Bailey&rsquo;s story begins in the United Kingdom, where he was born after his family migrated from Jamaica in the early 1950s. In time, Glenn made his own journey &mdash; back to the island his family came from. <strong>He settled in Kingston, in the Parish of St. Andrew</strong>, where he spent most of his formative years, attending basic elementary school and growing up in one of Jamaica&rsquo;s most vibrant, culturally rich communities.</p>
+
+      <p>From St. Andrew, Glenn&rsquo;s path continued. He migrated to the United States, where he pursued his education at <strong>Long Island College</strong> &mdash; bringing with him a mind that had always leaned toward enterprise. Glenn was born with an entrepreneur&rsquo;s instinct: the drive to build, to create, and to see opportunity where others see obstacles.</p>
+
+      <p>That instinct is visible in everything he does. <strong>Glenn currently designs clothing privately</strong> &mdash; T-shirts, hoodies, sweat suits, shorts, and more &mdash; a creative dimension that runs parallel to his strategic work and reflects the same discipline: attention to quality, commitment to craft, and the refusal to do anything halfway.</p>
+
+      <p>As CFO of Kwik Fat Cut, Glenn&rsquo;s role goes well beyond the financial. His deliberate, purposeful involvement in the development of the platform reflects a conviction that <strong>health education built with integrity requires the same rigour as any serious enterprise</strong> &mdash; planned carefully, built sustainably, and guided by values rather than short-term gains. He co-developed this platform alongside Wilbert Blackwood with a shared commitment to health education and long-term resilience.</p>
+
+      <p>Together, the leadership of Kwik Fat Cut is grounded in one principle: <strong>education before intervention, and people before products.</strong> That is not a marketing position. It is the foundation everything else is built on.</p>
+
+      <div style="margin-top:1.5rem;padding:1.5rem 1.8rem;border-left:2px solid var(--green);background:rgba(46,107,62,0.06);">
+        <p style="font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:300;font-style:italic;line-height:1.65;color:var(--cream);margin:0;">&ldquo;I am honoured to be a partner with Glenn Bailey &mdash; a man whose journey from Kingston&rsquo;s Parish of St. Andrew to Long Island College, and back to this mission, speaks for itself.&rdquo;</p>
+        <p style="font-size:0.68rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--green);margin-top:0.7rem;">Wilbert Blackwood &mdash; CEO &amp; Founder, Kwik Fat Cut</p>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<!-- COMMITMENT SECTION -->
+<section class="commitment">
+  <div class="cm-inner reveal">
+    <p class="section-tag">Shared Commitment</p>
+    <h2 class="section-title">Health.<br><em>Resilience. Education.</em></h2>
+    <p>Kwik Fat Cut was created by people who live these values &mdash; not as a brand positioning exercise, but as a daily practice. The platform is a direct extension of the lives, beliefs, and decades of experience its founders bring to it.</p>
+    <div class="cm-quote">&ldquo;We are not here to tell you what to do. We are here to help you <em>understand</em> what is happening.&rdquo;</div>
+
+    <!-- FAMILY PHOTO -->
+    <div class="reveal" style="margin-top:3.5rem;display:flex;flex-direction:column;align-items:center;">
+      <img src="honey-ras-family.jpeg"
+           alt="Honey Ras family tree — Kingston, Jamaica"
+           style="width:100%;max-width:480px;height:auto;display:block;filter:drop-shadow(0 8px 40px rgba(0,0,0,0.5));border-radius:2px;" loading="eager" fetchpriority="high" decoding="async">
+      <p style="margin-top:1.2rem;font-family:'Cormorant Garamond',serif;font-size:1.15rem;font-weight:300;font-style:italic;color:var(--c60);">
+        &ldquo;Healthy communities begin at home.&rdquo;
+      </p>
+      <p style="margin-top:0.4rem;font-size:0.68rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);">
+        Honey Ras family tree &mdash; Kingston, Jamaica 🇯🇲❤️💚
+      </p>
+    </div>
+
+    <p style="margin-top:2rem;font-size:0.72rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);">Kwik Fat Cut &mdash; Education First &mdash; We row. You steer.</p>
+  </div>
+</section>
+
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>Join the <em>family.</em></h3>
+    <p>Start free. Learn first. No pressure, no body shaming, no barriers.</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="learn.html" class="btn-primary">Start Learning</a>
+    <a href="founder.html" class="btn-outline">Full Founder Story</a>
+  </div>
+</div>
+
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <p class="ss-body">We take feedback like yours seriously. If Kwik Fat Cut opened your eyes or gave someone you love a new perspective &mdash; pass it on. Tell a friend to tell a friend.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">Share this page</button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link">Twitter / X</a>
+      <a href="#" class="ss-social-link">Instagram</a>
+      <a href="#" class="ss-social-link">TikTok</a>
+      <a href="#" class="ss-social-link">Facebook</a>
+    </div>
+    <p class="ss-note">Follow, like, share, comment. Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+
+<script>
+function shareKFC(){const url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 Our Team',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ss-btn.share');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
+</script>
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

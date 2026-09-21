@@ -1,0 +1,90 @@
+KwikFatCut Package — 2026-08-07 — v3
+=====================================
+
+SOURCE FILES
+------------
+Included from: kwikfatcut-complete-package.zip (site content)
+Included from: kwik-fat-cut-dev-kit.zip (logo assets + templates)
+Excluded: kwik-fat-cut-cloudflare-bundle.zip (infrastructure/deployment — internal use only, not sent to contractor)
+
+PAGE COUNT (VERIFIED)
+----------------------
+Total files in site_content/: 57
+  - HTML pages:      51
+  - Images (jpeg):    2
+  - Video (mp4):      1
+  - Text files:       2  (SITE-INDEX.txt, robots.txt)
+  - XML:              1  (sitemap.xml)
+
+HTML PAGE BREAKDOWN
+--------------------
+Total HTML files:            51
+Listed in sitemap.xml:       39
+Missing from sitemap:        12  <-- needs correction before resubmission
+Internal/non-public files:    2  (ali-project-brief.html, kwik-fatcut-block-map.html)
+                                  -> these are reference docs, not live site pages
+Likely duplicate homepage:    1  (index.html vs kwik-fat-cut-homepage.html — confirm which is live)
+
+Net distinct PUBLIC content pages: approximately 48
+
+DEV KIT CONTENTS
+-----------------
+- favicon.png, shield.png, shield-master.png (logo assets)
+- kfc-chrome.html (template)
+- kfc-ackee.html (sample page template)
+- README.md
+
+ACTION NEEDED FROM DEVELOPER
+------------------------------
+1. Confirm which homepage file is authoritative (index.html or kwik-fat-cut-homepage.html)
+2. Add the 12 missing pages to sitemap.xml
+3. Confirm ali-project-brief.html and kwik-fatcut-block-map.html are excluded from indexing (noindex or removed from live site)
+4. Resubmit corrected sitemap.xml to Google Search Console
+5. Verify indexed status by URL — not by submission count
+
+INTERNAL LINKING ISSUES (Milestone 1 — required, not optional)
+-----------------------------------------------------------------
+A. Broken/placeholder links found:
+   - foods-hub.html contains 4 instances of href="#" (dead links, go nowhere)
+   - learn.html contains 4 instances of href="#" (dead links, go nowhere)
+   These need to be replaced with working links to the correct destination pages.
+
+B. Orphaned pages — 22 of 33 "learn-" articles have ZERO inbound links from
+   either foods-hub.html or learn.html. This directly hurts discoverability
+   and is a likely contributing factor to incomplete indexing, since Google
+   relies heavily on internal links to find and crawl pages.
+
+   Pages currently with no inbound hub link:
+   - learn-ancient-archive.html
+   - learn-blood.html
+   - learn-coconut-water.html
+   - learn-family-tree-origin.html
+   - learn-food-community.html
+   - learn-fruits-nuts-guide.html
+   - learn-ground-provisions.html
+   - learn-jamaican-cuisine.html
+   - learn-jamaican-seafood.html
+   - learn-living-longer.html
+   - learn-moorish-table.html
+   - learn-movement-is-medicine.html
+   - learn-nations-guide-health.html
+   - learn-option-meals.html
+   - learn-plant-based-meals.html
+   - learn-rastafarian-diet.html
+   - learn-spirit-is-the-root.html
+   - learn-stillness-is-medicine.html
+   - learn-straight-mixes.html
+   - learn-taino-diet.html
+   - learn-water-vs-blood.html
+   - learn-water.html
+   - learn-west-african-food-traditions.html
+
+C. Required fix: every summary/preview card on foods-hub.html, learn.html,
+   and any homepage section that teases a topic (e.g. "The Problem" section)
+   must include a "→ Read More" link/arrow styled to match the existing
+   gold-arrow pattern already used elsewhere on the homepage, linking directly
+   to that topic's full page — not just to the parent hub.
+
+This linking work is part of Milestone 1, required before sign-off — not
+deferred to Milestone 2.
+

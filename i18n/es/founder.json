@@ -1,0 +1,663 @@
+{
+  "_note": "Page content for founder.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "230c8c59": {
+      "src": "&",
+      "t": ""
+    },
+    "a842a7bd": {
+      "src": "(founded 1534, largely destroyed by fire in 1703) as the island’s capital and largest city. Today, Kingston is the vital",
+      "t": ""
+    },
+    "b08f3fee": {
+      "src": ", I dedicated myself fully to this mission. What began as 4Fat Loss Diet in Jamaica has grown into Kwik Fat Cut — a family health community focused on education, understanding, and sustainable health built without pressure, body shaming, or quick-fix thinking.",
+      "t": ""
+    },
+    "facf5fa1": {
+      "src": ", and a warm, sunny climate ideal for outdoor activities.",
+      "t": ""
+    },
+    "06c4bccc": {
+      "src": ", with over 55 years of proven experience in installing, repairing, and troubleshooting complex electrical systems.",
+      "t": ""
+    },
+    "280c9438": {
+      "src": "-",
+      "t": ""
+    },
+    "e4b054f7": {
+      "src": "/ Man Rasta",
+      "t": ""
+    },
+    "1ced6a6e": {
+      "src": "05",
+      "t": ""
+    },
+    "1bed68db": {
+      "src": "06",
+      "t": ""
+    },
+    "bc698ef5": {
+      "src": "1692",
+      "t": ""
+    },
+    "a8846df6": {
+      "src": "1960s",
+      "t": ""
+    },
+    "d02c5eda": {
+      "src": "2014",
+      "t": ""
+    },
+    "46294705": {
+      "src": "2020",
+      "t": ""
+    },
+    "40293d93": {
+      "src": "2026",
+      "t": ""
+    },
+    "cb67f57a": {
+      "src": "55 years as an",
+      "t": ""
+    },
+    "52b6d21b": {
+      "src": "55 yrs",
+      "t": ""
+    },
+    "aad18b6e": {
+      "src": "55+ Years Experience",
+      "t": ""
+    },
+    "cb1099a0": {
+      "src": "55+ years in audio & video equipment. Installation, repair, and complex electrical troubleshooting.",
+      "t": ""
+    },
+    "78d3f8e7": {
+      "src": "A lifetime",
+      "t": ""
+    },
+    "4a732aa8": {
+      "src": "A living archive of ancestral knowledge, cultural dignity, and practical health wisdom. Growing. Reaching further. Staying rooted. We row together. You steer.",
+      "t": ""
+    },
+    "3e7654bd": {
+      "src": "A suh wi stay 😎 Patios Jamaican 🇯🇲",
+      "t": ""
+    },
+    "2dec53c8": {
+      "src": "Actively promoting healthy eating in the community. Free knowledge — always education first.",
+      "t": ""
+    },
+    "9ca35bac": {
+      "src": "African Caribbean",
+      "t": ""
+    },
+    "10254206": {
+      "src": "African heritage.",
+      "t": ""
+    },
+    "b6fc78bf": {
+      "src": "After the earthquake that submerged Port Royal, survivors built Kingston — a city of resilience that would shape everything that followed.",
+      "t": ""
+    },
+    "f83ac91e": {
+      "src": "Always.",
+      "t": ""
+    },
+    "af6c7151": {
+      "src": "Ancestral Wisdom Matters",
+      "t": ""
+    },
+    "df047c19": {
+      "src": "And every person deserves to understand the food they eat — where it comes from, what it does, why it matters.",
+      "t": ""
+    },
+    "1fe5e77c": {
+      "src": "As a proud African descendant and a Dreadlax Rastafarian, my identity is inseparable from my approach to health. I follow a",
+      "t": ""
+    },
+    "8bb50955": {
+      "src": "Blackwood.",
+      "t": ""
+    },
+    "400080bc": {
+      "src": "Born and raised in the parish of St. Andrew on the southeastern coast of Jamaica. A place of culture, beaches, sunshine, and a deep connection to land and community.",
+      "t": ""
+    },
+    "a7f1eca5": {
+      "src": "Born in",
+      "t": ""
+    },
+    "25792756": {
+      "src": "Born in St. Andrew, Kingston",
+      "t": ""
+    },
+    "f39feef1": {
+      "src": "CEO & Creator — Kwik Fat Cut",
+      "t": ""
+    },
+    "75c0b99f": {
+      "src": "CEO & Creator — Kwik Fat Cut — St. Andrew, Kingston, Jamaica 🇯🇲",
+      "t": ""
+    },
+    "9e3f6681": {
+      "src": "CEO & Creator, Kwik Fat Cut",
+      "t": ""
+    },
+    "906b3662": {
+      "src": "City",
+      "t": ""
+    },
+    "0298cea4": {
+      "src": "Community &",
+      "t": ""
+    },
+    "a81b9be9": {
+      "src": "Community Over Everything",
+      "t": ""
+    },
+    "6097698f": {
+      "src": "Community Work",
+      "t": ""
+    },
+    "7b7ad9b6": {
+      "src": "Dedicated fully to health education. Founded 4Fat Loss Diet in Jamaica — helping people reach wellness goals through understanding. Education before everything.",
+      "t": ""
+    },
+    "b18d25df": {
+      "src": "Diet",
+      "t": ""
+    },
+    "090ecba2": {
+      "src": "Dreadlax Rastafarian",
+      "t": ""
+    },
+    "cfa94ca1": {
+      "src": "Education Before Intervention",
+      "t": ""
+    },
+    "77e6b7dd": {
+      "src": "Education before intervention.",
+      "t": ""
+    },
+    "7ffca0db": {
+      "src": "Electronic Technician",
+      "t": ""
+    },
+    "495448a6": {
+      "src": "Electronic Technician, 55+ yrs",
+      "t": ""
+    },
+    "101303bb": {
+      "src": "Electronic technician",
+      "t": ""
+    },
+    "1eb56be9": {
+      "src": "Every body is a person. Every person deserves dignity. Health is a journey of understanding — not a judgement of where you are when you arrive.",
+      "t": ""
+    },
+    "76f07c15": {
+      "src": "Focusing on indigenous health education first. Because",
+      "t": ""
+    },
+    "e07c8654": {
+      "src": "Founder",
+      "t": ""
+    },
+    "009353cd": {
+      "src": "Founder since 2014",
+      "t": ""
+    },
+    "533c186d": {
+      "src": "Free for Everyone",
+      "t": ""
+    },
+    "bf48114b": {
+      "src": "From the parish of St. Andrew, Kingston, Jamaica — to a platform reaching communities worldwide. A timeline of the mission that became a movement.",
+      "t": ""
+    },
+    "0fe2b40f": {
+      "src": "Full Name",
+      "t": ""
+    },
+    "c3587378": {
+      "src": "Greetings, distinguished individuals. A proud native of the Caribbean. Electronic technician. Health educator. Committed Rastafarian. And since January 2014, the founder of a movement dedicated to putting health knowledge where it belongs — in everyone’s hands, free of charge.",
+      "t": ""
+    },
+    "152d8e4b": {
+      "src": "Health Foods Educator",
+      "t": ""
+    },
+    "887296aa": {
+      "src": "Health is not punishment. It is harmony.",
+      "t": ""
+    },
+    "be4e4444": {
+      "src": "Help and be helped.",
+      "t": ""
+    },
+    "388fd482": {
+      "src": "Here’s to your prosperity — may your journey be healthier, more confident, and filled with joy. 🇯🇲❤️💚",
+      "t": ""
+    },
+    "838b5730": {
+      "src": "Heritage",
+      "t": ""
+    },
+    "6c5882b0": {
+      "src": "Holistic Nutrition",
+      "t": ""
+    },
+    "8e6ae356": {
+      "src": "Honey Ras",
+      "t": ""
+    },
+    "8dd965a2": {
+      "src": "Honey Ras (Wilbert Blackwood)",
+      "t": ""
+    },
+    "04fc69ec": {
+      "src": "Honey Ras family tree — Kingston, Jamaica 🇯🇲❤️💚",
+      "t": ""
+    },
+    "2903c9a8": {
+      "src": "Honey Ras — Man Rasta — Online: Man Rasta 🇯🇲",
+      "t": ""
+    },
+    "e10add79": {
+      "src": "I am Wilbert Blackwood — better known as Honey Ras, and online as Man Rasta. I was born and raised in Kingston, Jamaica, specifically in the parish of St. Andrew on the southeastern coast.",
+      "t": ""
+    },
+    "e4bfebd7": {
+      "src": "I freely share knowledge on the Kwik Fat Cut education-first platform",
+      "t": ""
+    },
+    "dce8449a": {
+      "src": "I offer personalised guidance on developing comprehensive health routines, daily wellness programmes, and nutritional plans. The goal is never to create dependency — it is to build understanding so deep that people no longer need to be told what to do.",
+      "t": ""
+    },
+    "dfc1d0bb": {
+      "src": "Identity",
+      "t": ""
+    },
+    "182957eb": {
+      "src": "It is not a programme to purchase. It is a relationship to cultivate — daily, consistently, with humility.",
+      "t": ""
+    },
+    "5fae9b19": {
+      "src": "January 1, 2014",
+      "t": ""
+    },
+    "8b3058be": {
+      "src": "Join the",
+      "t": ""
+    },
+    "1293524d": {
+      "src": "July 1692",
+      "t": ""
+    },
+    "0308197c": {
+      "src": "Kingston",
+      "t": ""
+    },
+    "bbb92539": {
+      "src": "Kingston founded",
+      "t": ""
+    },
+    "364f3bb1": {
+      "src": "Kingston quickly developed into Jamaica’s main city — its growth accelerated by seismic destruction. It surpassed",
+      "t": ""
+    },
+    "cfccb24b": {
+      "src": "Kingston was founded in",
+      "t": ""
+    },
+    "e0edbf40": {
+      "src": "Kingston —",
+      "t": ""
+    },
+    "ac464303": {
+      "src": "Kingston — A city built from resilience",
+      "t": ""
+    },
+    "b3c32b0d": {
+      "src": "Kingston, Jamaica 🇯🇲",
+      "t": ""
+    },
+    "2d6b0e24": {
+      "src": "Known As",
+      "t": ""
+    },
+    "0fa3b165": {
+      "src": "Kwik Fat Cut takes shape",
+      "t": ""
+    },
+    "8842164c": {
+      "src": "Kwik Fat Cut —",
+      "t": ""
+    },
+    "6c6701f9": {
+      "src": "Let’s move forward together — uplifting and supporting each other.",
+      "t": ""
+    },
+    "efcc7eda": {
+      "src": "Local health fairs, youth food-mentoring programmes. Sharing knowledge freely — because that is the point.",
+      "t": ""
+    },
+    "c2ef4b3b": {
+      "src": "Mission Since",
+      "t": ""
+    },
+    "6875c6a2": {
+      "src": "My dedication to helping others is unwavering.",
+      "t": ""
+    },
+    "c26d6f4e": {
+      "src": "My professional background is as precise as it is diverse. I am an",
+      "t": ""
+    },
+    "8a78174f": {
+      "src": "No Body Shaming. Ever.",
+      "t": ""
+    },
+    "7f5f5550": {
+      "src": "No joke, no doubt about it.",
+      "t": ""
+    },
+    "60e47df0": {
+      "src": "On",
+      "t": ""
+    },
+    "65378b26": {
+      "src": "Over five decades of installing, repairing, and troubleshooting complex electrical systems. The discipline of diagnosis before intervention became a life philosophy.",
+      "t": ""
+    },
+    "83b465f8": {
+      "src": "Parish",
+      "t": ""
+    },
+    "66f80a2b": {
+      "src": "Parish of St. Andrew.",
+      "t": ""
+    },
+    "ed7fd237": {
+      "src": "People deserve to understand their bodies before being asked to follow a programme or purchase a product. Understanding first. Always.",
+      "t": ""
+    },
+    "1e785fcd": {
+      "src": "Personalised health routines, daily wellness programmes, and nutritional plans tailored to individual needs.",
+      "t": ""
+    },
+    "fb38adff": {
+      "src": "Profession",
+      "t": ""
+    },
+    "d411e0a8": {
+      "src": "Projects get lost. Platforms get rebuilt. But the mission does not move. Like a resilient tree, true change demands time, persistence, and unwavering progress.",
+      "t": ""
+    },
+    "1b2d48a3": {
+      "src": "Rastafarian Practitioner",
+      "t": ""
+    },
+    "1b6c02e7": {
+      "src": "Rastafarian Vegetarian",
+      "t": ""
+    },
+    "091185ce": {
+      "src": "Rastafarian roots.",
+      "t": ""
+    },
+    "bf85520a": {
+      "src": "Rastafarian tradition holds a deep, abiding respect for the Creator, the body, the land, and ancestral heritage.",
+      "t": ""
+    },
+    "f8a4bb08": {
+      "src": "Regular meditation, chanting, and herbal remedies. A lived embodiment of Rastafari’s principles.",
+      "t": ""
+    },
+    "902b7e39": {
+      "src": "Role",
+      "t": ""
+    },
+    "b3104f8a": {
+      "src": "Roots,",
+      "t": ""
+    },
+    "0d557b8f": {
+      "src": "Share this page",
+      "t": ""
+    },
+    "9a9c6d21": {
+      "src": "Spanish Town",
+      "t": ""
+    },
+    "14376d02": {
+      "src": "St. Andrew Parish",
+      "t": ""
+    },
+    "886f9f9d": {
+      "src": "St. Andrew, Jamaica",
+      "t": ""
+    },
+    "e70face8": {
+      "src": "Start free. Learn first. No pressure, no body shaming, no barriers.",
+      "t": ""
+    },
+    "feafa0b3": {
+      "src": "THAT’S HOW WE STAY",
+      "t": ""
+    },
+    "2dba3ed7": {
+      "src": "TRUE RASTA. THAT’S WHO WE ARE.",
+      "t": ""
+    },
+    "2d2c87cf": {
+      "src": "That discipline — understanding how a system works before intervening in it, diagnosing before prescribing, precision over assumption — is the same philosophy at the heart of Kwik Fat Cut.",
+      "t": ""
+    },
+    "e5668838": {
+      "src": "The Journey",
+      "t": ""
+    },
+    "ea36ab01": {
+      "src": "The Story",
+      "t": ""
+    },
+    "6456bd06": {
+      "src": "The mission begins — January 1st",
+      "t": ""
+    },
+    "0240ed2d": {
+      "src": "The mission expands into a full health education platform — free to access, rooted in ancestral wisdom, built for communities underserved by mainstream wellness.",
+      "t": ""
+    },
+    "813129a3": {
+      "src": "The movement continues",
+      "t": ""
+    },
+    "96b8b294": {
+      "src": "The traditional foods of Jamaica, West Africa, and the Caribbean sustained generations. That knowledge was not improved by industrialisation — it was diminished by it.",
+      "t": ""
+    },
+    "c40b01c8": {
+      "src": "These are not marketing principles. They are the foundation of everything Kwik Fat Cut does — drawn from lived experience, cultural heritage, and over a decade of standing behind them.",
+      "t": ""
+    },
+    "98346e38": {
+      "src": "This region spans approximately 13 square miles and is renowned for its",
+      "t": ""
+    },
+    "2f10e8b1": {
+      "src": "To the Family",
+      "t": ""
+    },
+    "208eab28": {
+      "src": "Values that",
+      "t": ""
+    },
+    "3490486e": {
+      "src": "Vegetarian — plant-based",
+      "t": ""
+    },
+    "3b6ec93b": {
+      "src": "Vegetarian, indigenous, plant-based diet. Organic and locally sourced. Sustainable agriculture by conviction.",
+      "t": ""
+    },
+    "a3c93419": {
+      "src": "We Keep Moving Forward",
+      "t": ""
+    },
+    "6ef8fa18": {
+      "src": "We are a",
+      "t": ""
+    },
+    "1a203eef": {
+      "src": "We are a family of partners committed to progress. We do not compete with people seeking health — we row with them. They steer. They lead the way.",
+      "t": ""
+    },
+    "5b46d44a": {
+      "src": "We cannot do this alone.",
+      "t": ""
+    },
+    "b47334e4": {
+      "src": "We row together. You steer. You lead the way.",
+      "t": ""
+    },
+    "82bfd573": {
+      "src": "We take feedback like yours seriously. If Kwik Fat Cut opened your eyes or gave someone you love a new perspective — pass it on. Tell a friend to tell a friend.",
+      "t": ""
+    },
+    "964bd2b4": {
+      "src": "Wellness Guidance",
+      "t": ""
+    },
+    "271238f3": {
+      "src": "What I Stand For",
+      "t": ""
+    },
+    "ae4e0bdc": {
+      "src": "Wilbert",
+      "t": ""
+    },
+    "013d1086": {
+      "src": "Wilbert Blackwood",
+      "t": ""
+    },
+    "8ee1b77a": {
+      "src": "With blessings to the nation —",
+      "t": ""
+    },
+    "3398bccc": {
+      "src": "You should never have to pay to understand your own body. Core health education is free at Kwik Fat Cut — no time limit, no tricks, no paywall on the fundamentals.",
+      "t": ""
+    },
+    "1e99a2f9": {
+      "src": "Your support for Kwik Fat Cut natural foods helps you regain your vitality. Promote online, spread the word — your loyal support helps us provide indigenous, education-first assistance in various communities. We can’t do it alone.",
+      "t": ""
+    },
+    "4bc5ff7a": {
+      "src": "and actively support community initiatives including local health fairs and youth food-mentoring programmes.",
+      "t": ""
+    },
+    "fd90b9d8": {
+      "src": "as a refuge for survivors of the collapse of Port Royal harbour. A powerful earthquake caused tremors and land subsidence, with part of the harbour being submerged beneath the sea. From that disaster, a city rose.",
+      "t": ""
+    },
+    "6959cc5b": {
+      "src": "dedication.",
+      "t": ""
+    },
+    "b75eda8b": {
+      "src": "electronic technician specialising in audio and video equipment",
+      "t": ""
+    },
+    "f8b50fef": {
+      "src": "electronic technician.",
+      "t": ""
+    },
+    "ca019036": {
+      "src": "emphasising organic and locally sourced foods. My passion for nutritious living and sustainable agriculture drives my efforts every day.",
+      "t": ""
+    },
+    "03157746": {
+      "src": "family of partners committed to making progress.",
+      "t": ""
+    },
+    "4aad5705": {
+      "src": "family.",
+      "t": ""
+    },
+    "8dd74364": {
+      "src": "good food is meant for eating.",
+      "t": ""
+    },
+    "33379314": {
+      "src": "never move.",
+      "t": ""
+    },
+    "69343c68": {
+      "src": "of",
+      "t": ""
+    },
+    "a2e82d1a": {
+      "src": "political, economic, and cultural hub of Jamaica",
+      "t": ""
+    },
+    "2d5bb7ec": {
+      "src": "pristine white-sand beaches, crystal-clear waters, a vibrant cultural scene centred on physical sports, top-tier athletes, reggae and dancehall pioneers",
+      "t": ""
+    },
+    "6c679afd": {
+      "src": "purpose.",
+      "t": ""
+    },
+    "14fa4c0c": {
+      "src": "resilience",
+      "t": ""
+    },
+    "878995c9": {
+      "src": "the evolution.",
+      "t": ""
+    },
+    "572e65d4": {
+      "src": "the mission.",
+      "t": ""
+    },
+    "cc7e268c": {
+      "src": "vegetarian, indigenous, holistic, plant-based diet",
+      "t": ""
+    },
+    "16b75e5c": {
+      "src": "— a city that has always known how to rebuild.",
+      "t": ""
+    },
+    "cd2921c1": {
+      "src": "“Healthy communities begin at home.”",
+      "t": ""
+    },
+    "c02f38fe": {
+      "src": "🌱",
+      "t": ""
+    },
+    "062efb99": {
+      "src": "📋",
+      "t": ""
+    },
+    "b22ce45d": {
+      "src": "🔧",
+      "t": ""
+    },
+    "582b3374": {
+      "src": "🤝",
+      "t": ""
+    },
+    "152c5cfb": {
+      "src": "🧘",
+      "t": ""
+    }
+  }
+}

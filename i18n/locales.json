@@ -1,0 +1,28 @@
+{
+  "_comment": "Locale registry for Kwik Fat Cut. Adding a locale means adding an entry here and a matching folder under i18n/. No JavaScript changes required.",
+  "source": "en-GB",
+  "fallback": "en-GB",
+  "locales": {
+    "en-GB": { "label": "English (UK)", "short": "UK", "lang": "en-GB", "dir": "ltr", "mode": "source" },
+    "en-US": { "label": "English (US)", "short": "US", "lang": "en-US", "dir": "ltr", "mode": "transform", "transform": "en-US" },
+    "es":    { "label": "Espanol",      "short": "ES", "lang": "es",    "dir": "ltr", "mode": "dictionary", "dictionary": "es" }
+  },
+  "_regions_comment": "ISO 3166-1 alpha-2 country to locale. Anything not listed falls through to the language check, then to the fallback locale. Add rows freely; nothing else needs to change.",
+  "regions": {
+    "GB": "en-GB", "IE": "en-GB", "FR": "en-GB", "DE": "en-GB", "NL": "en-GB",
+    "BE": "en-GB", "IT": "en-GB", "PT": "en-GB", "SE": "en-GB", "NO": "en-GB",
+    "DK": "en-GB", "FI": "en-GB", "PL": "en-GB", "CH": "en-GB", "AT": "en-GB",
+    "GR": "en-GB", "CZ": "en-GB", "JM": "en-GB", "TT": "en-GB", "BB": "en-GB",
+    "GY": "en-GB", "BS": "en-GB", "AG": "en-GB", "GD": "en-GB", "LC": "en-GB",
+    "VC": "en-GB", "KN": "en-GB", "DM": "en-GB", "BZ": "en-GB", "ZA": "en-GB",
+    "NG": "en-GB", "GH": "en-GB", "KE": "en-GB", "AU": "en-GB", "NZ": "en-GB",
+    "IN": "en-GB", "CA": "en-GB",
+    "US": "en-US", "PR": "en-US", "VI": "en-US", "GU": "en-US",
+    "CU": "es", "ES": "es", "MX": "es", "AR": "es", "CO": "es", "PE": "es",
+    "VE": "es", "CL": "es", "EC": "es", "GT": "es", "BO": "es", "DO": "es",
+    "HN": "es", "PY": "es", "SV": "es", "NI": "es", "CR": "es", "PA": "es",
+    "UY": "es", "GQ": "es"
+  },
+  "_languages_comment": "navigator.language prefix to locale, used when the region is unknown.",
+  "languages": { "es": "es", "en-US": "en-US", "en-GB": "en-GB", "en": "en-GB" }
+}

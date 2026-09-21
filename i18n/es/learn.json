@@ -1,0 +1,495 @@
+{
+  "_note": "Page content for learn.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "12f753b4": {
+      "src": "10 min read",
+      "t": ""
+    },
+    "754d4db3": {
+      "src": "10 min read · Ancestral Foods",
+      "t": ""
+    },
+    "b46e0ae5": {
+      "src": "11 min read",
+      "t": ""
+    },
+    "e0915316": {
+      "src": "12 min read",
+      "t": ""
+    },
+    "1f689747": {
+      "src": "13 min read",
+      "t": ""
+    },
+    "a60b7300": {
+      "src": "14 min read",
+      "t": ""
+    },
+    "384880d1": {
+      "src": "15 min read",
+      "t": ""
+    },
+    "f683d0f2": {
+      "src": "16 min read",
+      "t": ""
+    },
+    "42d9f238": {
+      "src": "5 min read",
+      "t": ""
+    },
+    "f4f4a6cb": {
+      "src": "6 min read",
+      "t": ""
+    },
+    "f73252ea": {
+      "src": "6 min read · Digestion & Nutrition",
+      "t": ""
+    },
+    "064499e6": {
+      "src": "7 min read · Mindful Eating",
+      "t": ""
+    },
+    "f86fb455": {
+      "src": "8 min read",
+      "t": ""
+    },
+    "a45e319e": {
+      "src": "8 min read · Digestion & Food Safety",
+      "t": ""
+    },
+    "f4ce69f4": {
+      "src": "8 min read · Oral Health & Nutrition",
+      "t": ""
+    },
+    "96460984": {
+      "src": "9 min read · Ancient Wisdom",
+      "t": ""
+    },
+    "fb81db48": {
+      "src": "A Nation's Guide to Health, Wealth and Wisdom — how real food keeps Jamaica, families, communities, and residents healthy, wealthy, and wise. Rooted in ancient knowledge, proven by modern science.",
+      "t": ""
+    },
+    "a9a54922": {
+      "src": "A nation&rsquo;s guide. Health, wealth &amp; wisdom.",
+      "t": ""
+    },
+    "25f34c4f": {
+      "src": "All Articles",
+      "t": ""
+    },
+    "ed26dd5c": {
+      "src": "All articles are free. Always.",
+      "t": ""
+    },
+    "e9d023f7": {
+      "src": "Ancestral Nutrition &mdash; Proven by Science &mdash; Rooted in Tradition",
+      "t": ""
+    },
+    "6f924949": {
+      "src": "Article in preparation",
+      "t": ""
+    },
+    "62bb6bb0": {
+      "src": "Before Modern Dentistry — Ancient Oral Wisdom",
+      "t": ""
+    },
+    "8877f39e": {
+      "src": "Before modern dentistry &mdash; oral health was lived.",
+      "t": ""
+    },
+    "54502b96": {
+      "src": "Before modern dentistry, oral health was not outsourced — it was lived. The Moors used the miswak daily.",
+      "t": ""
+    },
+    "304b6532": {
+      "src": "Blood — the body's living river. If water is the fluid of life, blood is life in motion.",
+      "t": ""
+    },
+    "ce9d129d": {
+      "src": "Blood. The body&rsquo;s living river.",
+      "t": ""
+    },
+    "3775079a": {
+      "src": "Building the Food Community — how knowledge keeps families healthy. How communities teaching each other about real food create lasting health.",
+      "t": ""
+    },
+    "08e86ab6": {
+      "src": "Building the food community. How knowledge keeps families healthy.",
+      "t": ""
+    },
+    "9653f595": {
+      "src": "Chronic Inflammation & What Diet Has to Do With It",
+      "t": ""
+    },
+    "830ec08a": {
+      "src": "Digestion &amp; Food Safety",
+      "t": ""
+    },
+    "e3fdbb41": {
+      "src": "Download the Kwik Fat Cut app and begin logging your food — no subscription required.",
+      "t": ""
+    },
+    "2528a9d7": {
+      "src": "Embrace Healthy Living &mdash; Part 1 of 3 &mdash; Physical",
+      "t": ""
+    },
+    "a8339b22": {
+      "src": "Embrace Healthy Living &mdash; Part 2 of 3 &mdash; Mental",
+      "t": ""
+    },
+    "8c0ff6c1": {
+      "src": "Embrace Healthy Living &mdash; Part 3 of 3 &mdash; Spiritual",
+      "t": ""
+    },
+    "03188ec6": {
+      "src": "Every article",
+      "t": ""
+    },
+    "f4f6f85d": {
+      "src": "Everything published so far, in one place. Start anywhere. There is no order you are meant to follow.",
+      "t": ""
+    },
+    "c62ac8c1": {
+      "src": "Explore &mdash; Kwik Fat Cut Foods Hub",
+      "t": ""
+    },
+    "38364b59": {
+      "src": "Food is not a luxury — it is life. Explore the practice of mindful eating, how habits grow like roots, and why trust, integrity and education form the only solid foundation for health.",
+      "t": ""
+    },
+    "d3bd8504": {
+      "src": "Foundation",
+      "t": ""
+    },
+    "5599ab14": {
+      "src": "Free health education rooted in ancestral wisdom, indigenous whole foods, and practical understanding. No subscriptions. No pressure. Start wherever you are.",
+      "t": ""
+    },
+    "e7a55f12": {
+      "src": "Health Begins in the Mouth",
+      "t": ""
+    },
+    "c9109e0d": {
+      "src": "Health Education",
+      "t": ""
+    },
+    "7cbe5588": {
+      "src": "Health Education &mdash; Foundation",
+      "t": ""
+    },
+    "5831d3c4": {
+      "src": "Health Education &mdash; Practice",
+      "t": ""
+    },
+    "9ea103b4": {
+      "src": "Health begins in the mouth.",
+      "t": ""
+    },
+    "71faf198": {
+      "src": "Health begins in the mouth. Your taste buds, saliva, digestion, and daily oral care habits all connect to your overall well-being.",
+      "t": ""
+    },
+    "1230fdd2": {
+      "src": "Inflammation underpins heart disease, diabetes, obesity, arthritis, and some cancers. Diet can increase or reduce it. The choice, once understood, is yours.",
+      "t": ""
+    },
+    "dff9a23d": {
+      "src": "It All Starts With Your Stomach Hurting",
+      "t": ""
+    },
+    "4a2e7ca9": {
+      "src": "It all starts with your stomach hurting.",
+      "t": ""
+    },
+    "fbbc50f9": {
+      "src": "It all starts with your stomach hurting. Why chewing thoroughly matters, what undigested food does to the body, digestion symptoms to recognise, and food safety risks — clear, honest education.",
+      "t": ""
+    },
+    "4d3f556b": {
+      "src": "Kwik Fat Cut is a",
+      "t": ""
+    },
+    "4950d05c": {
+      "src": "Learn first. Start free. Understand first.”",
+      "t": ""
+    },
+    "ca756e39": {
+      "src": "Living Longer, Healthier and Happier — the evidence from ancient populations. The Blue Zones, ancestral longevity science, and how real food builds a longer, fuller life.",
+      "t": ""
+    },
+    "740136b0": {
+      "src": "Living longer. Healthier. Happier.",
+      "t": ""
+    },
+    "723e6db1": {
+      "src": "Mindful Eating & The Foundation of Lasting Health",
+      "t": ""
+    },
+    "394ae582": {
+      "src": "Mindful eating &amp; the foundation of lasting health.",
+      "t": ""
+    },
+    "8ddd2d02": {
+      "src": "Mindful eating and the foundation of lasting health. Food is not a luxury — it is life.",
+      "t": ""
+    },
+    "2dc4d561": {
+      "src": "Modern health problems did not appear overnight. Learning from Jamaica, the Caribbean, and ancestral traditions — the original blueprint of human nutrition, and five steps to start today.",
+      "t": ""
+    },
+    "91a6c8c4": {
+      "src": "Movement Is Medicine — the deeply researched physical dimension of healthy living. How the body was designed to move, what happens when it does not, and how plant-based whole foods amplify every physical gain.",
+      "t": ""
+    },
+    "df854b3a": {
+      "src": "Movement is medicine.",
+      "t": ""
+    },
+    "82ab99c4": {
+      "src": "Non-Profit Platform",
+      "t": ""
+    },
+    "18a32654": {
+      "src": "Origins &mdash; Deep Research &mdash; Identity &amp; Survival",
+      "t": ""
+    },
+    "c09db7e6": {
+      "src": "Returning to Real Food",
+      "t": ""
+    },
+    "da2633c3": {
+      "src": "Returning to Real Food — learning from the past to build a stronger future. The deeply researched case for indigenous, whole, plant-based foods rooted in ancestral wisdom and confirmed by modern science.",
+      "t": ""
+    },
+    "b936b196": {
+      "src": "Returning to real food. Learning from the past to build a stronger future.",
+      "t": ""
+    },
+    "d59ea5f8": {
+      "src": "Roots Never Seen, But They Shape Everything. Water and blood — two vital fluids compared, rooted in family, ancestral tradition, and proven science.",
+      "t": ""
+    },
+    "130e6e78": {
+      "src": "Roots do not disappear overnight — they grow steadily and deeply over time. Understand the tree-body metaphor, how digestion truly begins, and why what you consume determines what you absorb.",
+      "t": ""
+    },
+    "d72254c2": {
+      "src": "Roots never seen. But they shape everything.",
+      "t": ""
+    },
+    "f9947bda": {
+      "src": "Spirit Is the Root — the deeply researched spiritual dimension of healthy living. How purpose, meaning, and ancestral connection are documented drivers of longevity, healing, and whole-body health.",
+      "t": ""
+    },
+    "ed514275": {
+      "src": "Spirit is the root.",
+      "t": ""
+    },
+    "ece3aaf7": {
+      "src": "Start free.",
+      "t": ""
+    },
+    "8e7f0faa": {
+      "src": "Stillness Is Medicine — the deeply researched mental dimension of healthy living. How the mind heals through rest, silence, and awareness.",
+      "t": ""
+    },
+    "c5f6d704": {
+      "src": "Stillness is medicine.",
+      "t": ""
+    },
+    "c330a5cd": {
+      "src": "The Ancient Archive — what indigenous peoples actually ate. Drawn from anthropological records, archaeological evidence, and oral traditions.",
+      "t": ""
+    },
+    "a0dd542e": {
+      "src": "The Family Tree & How Your Body Draws Nourishment",
+      "t": ""
+    },
+    "776dd075": {
+      "src": "The Family Tree: The Original Structure of Human Survival. Not a hobby.",
+      "t": ""
+    },
+    "a388904b": {
+      "src": "The Gut Microbiome: Your Second Brain",
+      "t": ""
+    },
+    "1517bd93": {
+      "src": "The Moorish Table — the foods that changed the world. Drawn from the British Library's Andalusian manuscripts, Ibn Sina's Canon of Medicine, and 700 years of documented Islamic nutritional science.",
+      "t": ""
+    },
+    "d050f659": {
+      "src": "The Moorish table. The foods that changed the world.",
+      "t": ""
+    },
+    "4d09d85b": {
+      "src": "The Moors used the miswak daily. The Aztecs built diets around fibrous whole foods that cleaned as they nourished. Two civilisations, one pattern. Restore memory — trace the roots.",
+      "t": ""
+    },
+    "d3c9723d": {
+      "src": "The Taino Diet — Jamaica's first food tradition. What the original inhabitants ate, how they cultivated it, and the deep nutritional intelligence embedded in Caribbean indigenous food culture.",
+      "t": ""
+    },
+    "b436aab5": {
+      "src": "The Taino diet. Jamaica&rsquo;s first food tradition.",
+      "t": ""
+    },
+    "e58666bc": {
+      "src": "The ancient archive. What indigenous peoples actually ate.",
+      "t": ""
+    },
+    "180c1ded": {
+      "src": "The family tree &amp; how your body draws nourishment.",
+      "t": ""
+    },
+    "193b786e": {
+      "src": "The family tree and how your body draws nourishment. Roots grow steadily — and so does health.",
+      "t": ""
+    },
+    "a992a6f3": {
+      "src": "The family tree. The original structure of human survival.",
+      "t": ""
+    },
+    "8eed17f1": {
+      "src": "The full index",
+      "t": ""
+    },
+    "81f7c5b0": {
+      "src": "The knowledge",
+      "t": ""
+    },
+    "c77e459f": {
+      "src": "The mouth is the gateway to your overall well-being. Discover the five taste signals, the role of saliva, why oral hygiene connects to whole-body health, and the fundamental truth about what we consume.",
+      "t": ""
+    },
+    "de0c9257": {
+      "src": "Track what you learn.",
+      "t": ""
+    },
+    "9c9dd352": {
+      "src": "Trillions of bacteria influence digestion, immunity, mental health, and vitamin production. Understanding your microbiome changes how you understand food.",
+      "t": ""
+    },
+    "bd8af69e": {
+      "src": "West African Food Traditions — the roots of Caribbean cuisine. The foods, farming systems, and nutritional wisdom that crossed the Atlantic and became the foundation of Jamaican cooking.",
+      "t": ""
+    },
+    "085bd377": {
+      "src": "West African food traditions. The roots of Caribbean cuisine.",
+      "t": ""
+    },
+    "ef45b5b7": {
+      "src": "What is water? Is it truly the fluid of life?",
+      "t": ""
+    },
+    "870e5db0": {
+      "src": "Why chewing thoroughly matters. What undigested food does to the body. Symptoms to recognise. Food safety risks, pathogens, and the hidden dangers in some fruit seeds.",
+      "t": ""
+    },
+    "fce77090": {
+      "src": "articles.",
+      "t": ""
+    },
+    "0eb5a383": {
+      "src": "dedicated to indigenous whole-foods health education. Every article, guide, and resource is produced to enhance understanding of healthy foods, nutrition, and environmental factors — at no cost to you.",
+      "t": ""
+    },
+    "75eb773d": {
+      "src": "education before intervention.",
+      "t": ""
+    },
+    "b4817564": {
+      "src": "non-profit platform",
+      "t": ""
+    },
+    "86e24d0d": {
+      "src": "tree grows here.",
+      "t": ""
+    },
+    "17d2bf54": {
+      "src": "· Learn",
+      "t": ""
+    },
+    "0d3be1bf": {
+      "src": "“Prioritise",
+      "t": ""
+    },
+    "973c7cf5": {
+      "src": "→",
+      "t": ""
+    },
+    "2d651b8e": {
+      "src": "⚡ Digestion & Safety",
+      "t": ""
+    },
+    "8d7e306e": {
+      "src": "🇯🇲 Return to Real Food Series &mdash; Part 5 of 7",
+      "t": ""
+    },
+    "5d32f470": {
+      "src": "🌍 Return to Real Food Series &mdash; Part 3 of 7",
+      "t": ""
+    },
+    "7f6e4149": {
+      "src": "🌳 Foundation",
+      "t": ""
+    },
+    "5e1c339f": {
+      "src": "🌳 Return to Real Food Series &mdash; Part 6 of 7",
+      "t": ""
+    },
+    "6742dd18": {
+      "src": "🌳 Return to Real Food Series &mdash; Part 7 of 7 &mdash; Final",
+      "t": ""
+    },
+    "14f0832a": {
+      "src": "🌳 Roots Never Seen &mdash; Water vs Blood",
+      "t": ""
+    },
+    "82b400ce": {
+      "src": "🌴 Return to Real Food Series &mdash; Part 2 &mdash; The Taino Diet",
+      "t": ""
+    },
+    "091a11b2": {
+      "src": "🌿 Ancestral Foods",
+      "t": ""
+    },
+    "3b638d21": {
+      "src": "🍃 Practice",
+      "t": ""
+    },
+    "b960d89f": {
+      "src": "🏛️ Deep Read",
+      "t": ""
+    },
+    "096e218f": {
+      "src": "💋 Oral Health",
+      "t": ""
+    },
+    "fdbd0231": {
+      "src": "💧 Hydration Science &mdash; Deep Research &mdash; Foundations of Life",
+      "t": ""
+    },
+    "24a9956c": {
+      "src": "📜 Return to Real Food Series &mdash; Part 1 &mdash; Ancient Archive",
+      "t": ""
+    },
+    "e9bfd4cd": {
+      "src": "📜 Return to Real Food Series &mdash; Part 4 of 7",
+      "t": ""
+    },
+    "0bb5ff89": {
+      "src": "🔥 Coming Soon",
+      "t": ""
+    },
+    "8a04cb4d": {
+      "src": "🦠 Coming Soon",
+      "t": ""
+    },
+    "75744ab0": {
+      "src": "🩸 Blood Science &mdash; Deep Research &mdash; The Body&rsquo;s Living River",
+      "t": ""
+    }
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "_note": "Page content for why-we-exist.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "c505bddf": {
+      "src": "A Different Approach",
+      "t": ""
+    },
+    "36004e59": {
+      "src": "At Kwik Fat Cut, we believe people should understand their health before they are asked to buy programmes, follow strict diets, or make major lifestyle changes. When people truly understand, they can make better decisions — for themselves and their families — not just for a few weeks, but for life.",
+      "t": ""
+    },
+    "52b23026": {
+      "src": "Begin with",
+      "t": ""
+    },
+    "9f7c7df9": {
+      "src": "But few are ever taught how their bodies actually work",
+      "t": ""
+    },
+    "a1de2fdd": {
+      "src": "Change",
+      "t": ""
+    },
+    "1e2f2b21": {
+      "src": "Clear explanations in simple language",
+      "t": ""
+    },
+    "c1522ef1": {
+      "src": "Confidence",
+      "t": ""
+    },
+    "cdbab017": {
+      "src": "Confusing and contradictory",
+      "t": ""
+    },
+    "a6c988c7": {
+      "src": "Consistency",
+      "t": ""
+    },
+    "fede020a": {
+      "src": "Creates",
+      "t": ""
+    },
+    "20669a33": {
+      "src": "Cultural foods and real-life eating habits",
+      "t": ""
+    },
+    "9f5a3b71": {
+      "src": "Culture",
+      "t": ""
+    },
+    "f8cfff11": {
+      "src": "Disconnected from cultural foods",
+      "t": ""
+    },
+    "1697d235": {
+      "src": "Education",
+      "t": ""
+    },
+    "7683851d": {
+      "src": "Education Before Intervention.",
+      "t": ""
+    },
+    "cc6038ce": {
+      "src": "Education families can share",
+      "t": ""
+    },
+    "2728141b": {
+      "src": "Education that lasts.",
+      "t": ""
+    },
+    "07245a9a": {
+      "src": "Environment",
+      "t": ""
+    },
+    "35969620": {
+      "src": "Family habits",
+      "t": ""
+    },
+    "7341eead": {
+      "src": "Feel discouraged",
+      "t": ""
+    },
+    "e4de4281": {
+      "src": "Focused on selling products",
+      "t": ""
+    },
+    "dff23c34": {
+      "src": "Focused on short-term results",
+      "t": ""
+    },
+    "b6bed281": {
+      "src": "Free. No subscription. No pressure. The knowledge tree grows with every person who learns.",
+      "t": ""
+    },
+    "d9d54802": {
+      "src": "Gain it back",
+      "t": ""
+    },
+    "0abfc40a": {
+      "src": "Generational knowledge",
+      "t": ""
+    },
+    "ecaf488c": {
+      "src": "How environment and lifestyle shape the body",
+      "t": ""
+    },
+    "a199c6bd": {
+      "src": "How family habits influence health",
+      "t": ""
+    },
+    "6c824f7a": {
+      "src": "How sleep, stress, and sunlight affect health",
+      "t": ""
+    },
+    "1c4437ea": {
+      "src": "How the body uses food",
+      "t": ""
+    },
+    "aa8e7533": {
+      "src": "How traditional foods compare to modern foods",
+      "t": ""
+    },
+    "2cf2aa1e": {
+      "src": "How weight is gained and lost",
+      "t": ""
+    },
+    "10329ac2": {
+      "src": "It is a failure of",
+      "t": ""
+    },
+    "458413f1": {
+      "src": "It is a failure of education. Kwik Fat Cut exists to break that cycle — through education first, not pressure.",
+      "t": ""
+    },
+    "a4d1a91a": {
+      "src": "Knowledge that passes to future generations",
+      "t": ""
+    },
+    "42807990": {
+      "src": "Kwik Fat Cut",
+      "t": ""
+    },
+    "4acc8dfa": {
+      "src": "Kwik Fat Cut aims to be genuinely different — not in tone, but in purpose. The goal is not to create customers. The goal is to build understanding that families can share and pass to future generations.",
+      "t": ""
+    },
+    "69ec3778": {
+      "src": "Kwik Fat Cut exists to break that cycle. Not through another programme. Not through another product.",
+      "t": ""
+    },
+    "71134119": {
+      "src": "Kwik Fat Cut is about understanding health — deeply, clearly, and in a language that every family can share and every generation can build on.",
+      "t": ""
+    },
+    "d773fa35": {
+      "src": "Kwik Fat Cut is built around the idea of a knowledge tree. Each level of the tree represents a different layer of influence — from the unseen roots of habit and heritage, through the trunk of daily choices, to the branches that reach into the next generation.",
+      "t": ""
+    },
+    "8ae6dd42": {
+      "src": "Kwik Fat Cut is not trying to build customers. We are trying to grow a knowledge tree.",
+      "t": ""
+    },
+    "f73c7ff7": {
+      "src": "Kwik Fat Cut was created for a simple reason. And that reason has never changed.",
+      "t": ""
+    },
+    "8842164c": {
+      "src": "Kwik Fat Cut —",
+      "t": ""
+    },
+    "18d65d95": {
+      "src": "Leads to",
+      "t": ""
+    },
+    "ae65f0a0": {
+      "src": "Lifestyle",
+      "t": ""
+    },
+    "575d9707": {
+      "src": "Long-term health, not quick fixes",
+      "t": ""
+    },
+    "53ddbcc0": {
+      "src": "Lose some weight",
+      "t": ""
+    },
+    "7e11a19f": {
+      "src": "Many are told what to eat, what not to eat, which diet to follow, which programme to join, and which product to buy.",
+      "t": ""
+    },
+    "caf3229b": {
+      "src": "Most Health Advice Online",
+      "t": ""
+    },
+    "5fb616ed": {
+      "src": "Most of it misses the point.",
+      "t": ""
+    },
+    "6220b97b": {
+      "src": "Not designed for everyday families",
+      "t": ""
+    },
+    "309d2b1e": {
+      "src": "Not just about losing weight — about understanding health",
+      "t": ""
+    },
+    "3e51913b": {
+      "src": "Not just about losing weight.",
+      "t": ""
+    },
+    "d2a157cd": {
+      "src": "Overly complicated",
+      "t": ""
+    },
+    "c264770c": {
+      "src": "People are told what to eat, which diet to follow, which product to buy — but few are ever taught how their bodies actually work, or why certain habits lead to weight gain, fatigue, or chronic illness.",
+      "t": ""
+    },
+    "70f2346c": {
+      "src": "Repeat.",
+      "t": ""
+    },
+    "6c42c332": {
+      "src": "Start a diet",
+      "t": ""
+    },
+    "4b7f7705": {
+      "src": "Stop",
+      "t": ""
+    },
+    "c8d7ad51": {
+      "src": "Support This Work",
+      "t": ""
+    },
+    "f10f1b75": {
+      "src": "That lasts",
+      "t": ""
+    },
+    "b7620661": {
+      "src": "The Branches — Your future & theirs",
+      "t": ""
+    },
+    "433bb969": {
+      "src": "The Familiar Cycle",
+      "t": ""
+    },
+    "948462e8": {
+      "src": "The Principle",
+      "t": ""
+    },
+    "f656de48": {
+      "src": "The Reason",
+      "t": ""
+    },
+    "15fbc65a": {
+      "src": "The Roots — Unseen, but foundational",
+      "t": ""
+    },
+    "62a1d7a6": {
+      "src": "The Trunk — Your present",
+      "t": ""
+    },
+    "adb6c9a4": {
+      "src": "The Vision",
+      "t": ""
+    },
+    "6f2189bc": {
+      "src": "The internet is full",
+      "t": ""
+    },
+    "0c34ab5d": {
+      "src": "The next generation",
+      "t": ""
+    },
+    "1430a14d": {
+      "src": "This is not a",
+      "t": ""
+    },
+    "94e58560": {
+      "src": "This is not a failure of discipline.",
+      "t": ""
+    },
+    "2d3a69ec": {
+      "src": "Through understanding — which is the only thing that creates lasting change.",
+      "t": ""
+    },
+    "ff153b1e": {
+      "src": "Too many people try",
+      "t": ""
+    },
+    "4645a5df": {
+      "src": "Traditional foods",
+      "t": ""
+    },
+    "234b3630": {
+      "src": "Try something new",
+      "t": ""
+    },
+    "06a0730d": {
+      "src": "Understanding",
+      "t": ""
+    },
+    "b219edb5": {
+      "src": "We are not trying",
+      "t": ""
+    },
+    "3e77a052": {
+      "src": "We are trying to grow",
+      "t": ""
+    },
+    "bd64dded": {
+      "src": "We row. You steer. Start free. Learn first. Understand first.",
+      "t": ""
+    },
+    "8bb30060": {
+      "src": "What we carry without knowing it",
+      "t": ""
+    },
+    "9d5654a9": {
+      "src": "When clarity leads, decisions get easier, confidence replaces doubt, and real progress begins — not for a few weeks, but for life.",
+      "t": ""
+    },
+    "43ed71f9": {
+      "src": "When we educate one person, we often educate a family. When we educate a family, we influence a generation.",
+      "t": ""
+    },
+    "30a541ed": {
+      "src": "Where understanding reaches",
+      "t": ""
+    },
+    "0c7a9a77": {
+      "src": "Where you are right now",
+      "t": ""
+    },
+    "5fab6c18": {
+      "src": "Why We Exist",
+      "t": ""
+    },
+    "df2f532f": {
+      "src": "Without understanding, people repeat the same cycle for years:",
+      "t": ""
+    },
+    "e2442c72": {
+      "src": "Your body",
+      "t": ""
+    },
+    "25052429": {
+      "src": "Your children",
+      "t": ""
+    },
+    "088a9aab": {
+      "src": "Your community",
+      "t": ""
+    },
+    "a1c629df": {
+      "src": "Your current health",
+      "t": ""
+    },
+    "c9d92853": {
+      "src": "Your daily choices",
+      "t": ""
+    },
+    "125b5aaa": {
+      "src": "Your family",
+      "t": ""
+    },
+    "a3342bc9": {
+      "src": "Your future health",
+      "t": ""
+    },
+    "0dbe24d5": {
+      "src": "Your habits",
+      "t": ""
+    },
+    "e40c292c": {
+      "src": "a",
+      "t": ""
+    },
+    "3845ff3e": {
+      "src": "before",
+      "t": ""
+    },
+    "17d585d0": {
+      "src": "customers.",
+      "t": ""
+    },
+    "8eed0173": {
+      "src": "discipline.",
+      "t": ""
+    },
+    "78c16761": {
+      "src": "education.",
+      "t": ""
+    },
+    "554c6406": {
+      "src": "failure of",
+      "t": ""
+    },
+    "f5e2b236": {
+      "src": "intervention.",
+      "t": ""
+    },
+    "9b15dd25": {
+      "src": "knowledge tree.",
+      "t": ""
+    },
+    "2c21ea26": {
+      "src": "long after we are gone.",
+      "t": ""
+    },
+    "9c4766d0": {
+      "src": "of health advice.",
+      "t": ""
+    },
+    "2be0b22c": {
+      "src": "to build",
+      "t": ""
+    },
+    "acff476e": {
+      "src": "to improve their health",
+      "t": ""
+    },
+    "0a32192c": {
+      "src": "understanding it.",
+      "t": ""
+    },
+    "8540cd79": {
+      "src": "understanding.",
+      "t": ""
+    },
+    "3ff21de3": {
+      "src": "without",
+      "t": ""
+    },
+    "bcbafc42": {
+      "src": "— because what is passed down in behaviour is often more powerful than what is passed down in genes.",
+      "t": ""
+    },
+    "a89ef74f": {
+      "src": "— or why certain habits lead to weight gain, fatigue, or chronic illness.",
+      "t": ""
+    },
+    "dc4a6623": {
+      "src": "— pollution, soil quality, stress, community — health is not only personal, it is contextual.",
+      "t": ""
+    },
+    "a045cbfb": {
+      "src": "— the actual biology of fat storage and metabolism, explained in plain language without shame.",
+      "t": ""
+    },
+    "fea5a152": {
+      "src": "— the invisible factors that shape outcomes as powerfully as diet does.",
+      "t": ""
+    },
+    "cf88def3": {
+      "src": "— what ancestral diets understood that industrial food systems have actively forgotten.",
+      "t": ""
+    },
+    "93add193": {
+      "src": "— what happens to nutrients after swallowing, how energy is made, why fibre matters, what the gut microbiome does.",
+      "t": ""
+    },
+    "a9ca33b8": {
+      "src": "“You are not just supporting a website. You are helping grow a knowledge tree that will continue to educate and create opportunities for others",
+      "t": ""
+    },
+    "973c7cf5": {
+      "src": "→",
+      "t": ""
+    },
+    "c02f38fe": {
+      "src": "🌱",
+      "t": ""
+    },
+    "be2f35d8": {
+      "src": "🌳",
+      "t": ""
+    },
+    "ae2f1ca8": {
+      "src": "🍃",
+      "t": ""
+    }
+  }
+}

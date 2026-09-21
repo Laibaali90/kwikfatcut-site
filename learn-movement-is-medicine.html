@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Movement Is Medicine — the deeply researched physical dimension of healthy living. How the body was designed to move, what happens when it does not, and how plant-based whole foods amplify every physical gain.">
+<title>Movement Is Medicine — Physical Health — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(ellipse 60% 65% at 72% 32%,rgba(193,68,14,0.08) 0%,transparent 62%),
+    radial-gradient(ellipse 40% 45% at 8% 80%,rgba(218,165,32,0.05) 0%,transparent 55%);}
+  .series-nav{display:flex;gap:0.5rem;flex-wrap:wrap;margin-bottom:2rem;opacity:0;animation:up 0.9s 0.05s ease forwards;}
+  .sn-item{font-size:0.62rem;letter-spacing:0.18em;text-transform:uppercase;padding:0.28rem 0.75rem;border-radius:2px;text-decoration:none;border:1px solid;}
+  .sn-item.active{background:var(--red);color:var(--cream);border-color:var(--red);}
+  .sn-item.inactive{color:var(--c30);border-color:var(--c10);}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb a:hover{color:var(--c60);}
+  .breadcrumb span{margin:0 0.6rem;}
+  .article-tag{display:inline-block;font-size:0.64rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--red);border:1px solid rgba(193,68,14,0.35);padding:0.25rem 0.7rem;border-radius:2px;margin-bottom:1.5rem;opacity:0;animation:up 0.9s 0.15s ease forwards;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(3.2rem,9vw,8.5rem);font-weight:300;line-height:1.02;color:var(--cream);max-width:900px;opacity:0;animation:up 0.9s 0.22s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:580px;margin-top:2rem;font-size:1.05rem;line-height:1.9;color:var(--c60);font-style:italic;opacity:0;animation:up 0.9s 0.38s ease forwards;}
+  .article-meta{margin-top:2rem;display:flex;gap:2rem;flex-wrap:wrap;opacity:0;animation:up 0.9s 0.48s ease forwards;}
+  .meta-item{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);}
+  .meta-item strong{color:var(--c60);font-weight:400;}
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:4px;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+  .article-wrap{padding:6rem 6vw;display:grid;grid-template-columns:1fr 2.5fr;gap:6rem;align-items:start;}
+  .sidebar{position:sticky;top:110px;}
+  .sidebar-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:1.2rem;font-weight:500;}
+  .toc a{font-size:0.82rem;color:var(--c60);text-decoration:none;padding:0.65rem 0;border-bottom:1px solid var(--c10);display:block;transition:color 0.2s;line-height:1.4;}
+  .toc a:first-child{border-top:1px solid var(--c10);}
+  .toc a:hover{color:var(--gold);}
+  .sidebar-stat{margin-top:2.5rem;border-left:2px solid var(--red);padding:1.2rem;background:rgba(193,68,14,0.06);}
+  .sidebar-stat p{font-size:0.8rem;line-height:1.75;color:var(--c60);}
+  .sidebar-stat strong{color:var(--cream);font-weight:400;}
+  .sidebar-series{margin-top:2rem;}
+  .ss-title{font-size:0.62rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:0.8rem;}
+  .ss-links{display:flex;flex-direction:column;gap:0.4rem;}
+  .ss-link{font-size:0.8rem;color:var(--c60);text-decoration:none;padding:0.5rem 0;border-bottom:1px solid var(--c10);transition:color 0.2s;}
+  .ss-link:hover{color:var(--gold);}
+  .ss-link.current{color:var(--red);}
+  .sidebar-logo{margin-top:2rem;text-align:center;}
+  .sidebar-logo img{width:120px;height:auto;opacity:0.85;}
+  .article-body{display:flex;flex-direction:column;gap:0;}
+  .article-section{padding:3.5rem 0;border-bottom:1px solid var(--c10);}
+  .article-section:first-child{padding-top:0;}
+  .article-section:last-child{border-bottom:none;}
+  .section-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.8rem;}
+  .section-label.green{color:var(--green);}
+  .section-label.gold{color:var(--gold);}
+  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.7rem,3vw,2.6rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.5rem;}
+  .article-section h2 em{font-style:italic;color:var(--gold);}
+  .article-section p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1.2rem;}
+  .article-section p:last-child{margin-bottom:0;}
+  .article-section p strong{color:var(--cream);font-weight:400;}
+  .pull-quote{margin:2.5rem 0;padding:2rem 2.5rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .pull-quote p{font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:300;font-style:italic;line-height:1.6;color:var(--cream);}
+  .pull-quote p em{font-style:normal;color:var(--gold);}
+  .fact-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:2px;margin:2rem 0;}
+  .fact-card{padding:1.8rem 1.5rem;border:1px solid var(--c10);text-align:center;transition:border-color 0.3s,background 0.3s;}
+  .fact-card:hover{border-color:var(--g20);background:var(--g08);}
+  .fact-number{font-family:'Cormorant Garamond',serif;font-size:2.8rem;font-weight:300;color:var(--gold);line-height:1;}
+  .fact-unit{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--gold);opacity:0.6;margin-bottom:0.5rem;}
+  .fact-label{font-size:0.82rem;line-height:1.6;color:var(--c60);}
+  .movement-list{display:flex;flex-direction:column;gap:0;margin:2rem 0;}
+  .mv-item{display:flex;gap:1.5rem;align-items:flex-start;padding:1.6rem 0;border-bottom:1px solid var(--c10);}
+  .mv-item:first-child{border-top:1px solid var(--c10);}
+  .mv-icon{font-size:1.4rem;flex-shrink:0;line-height:1.3;}
+  .mv-content h3{font-size:0.9rem;font-weight:500;color:var(--cream);margin-bottom:0.3rem;}
+  .mv-content p{font-size:0.87rem;line-height:1.82;color:var(--c60);}
+  .mv-content p strong{color:var(--cream);font-weight:400;}
+  .food-fuel{display:grid;grid-template-columns:1fr 1fr;gap:2px;margin:2rem 0;}
+  .ff-card{padding:1.6rem 1.5rem;border:1px solid var(--c10);transition:border-color 0.3s,background 0.3s;}
+  .ff-card:hover{border-color:rgba(46,107,62,0.3);background:rgba(46,107,62,0.05);}
+  .ff-food{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:400;color:var(--cream);margin-bottom:0.4rem;}
+  .ff-role{font-size:0.8rem;line-height:1.65;color:var(--c60);}
+  .ff-role strong{color:var(--green);font-weight:400;}
+  .closing-block{margin:2rem 0;padding:2.2rem 2.4rem;border-left:2px solid var(--red);background:rgba(193,68,14,0.05);}
+  .closing-block p{font-family:'Cormorant Garamond',serif;font-size:1.15rem;font-weight:300;font-style:italic;line-height:1.6;color:var(--cream);}
+  .closing-block p em{font-style:normal;color:var(--gold);}
+  .series-cta{margin:3rem 0;padding:2rem;border:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;}
+  .sc-text p{font-size:0.82rem;color:var(--c60);margin-top:0.2rem;}
+  .sc-text strong{color:var(--cream);font-weight:400;font-size:0.9rem;}
+  .sc-link{display:inline-block;background:var(--gold);color:var(--bg);padding:0.7rem 1.5rem;border-radius:1px;font-size:0.74rem;font-weight:500;letter-spacing:0.14em;text-transform:uppercase;text-decoration:none;transition:background 0.2s;}
+  .sc-link:hover{background:var(--cream);}
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,transform 0.2s;}
+  .btn-primary:hover{background:var(--cream);transform:translateY(-2px);}
+  .btn-outline{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .btn-outline:hover{border-color:var(--c60);color:var(--cream);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){.article-wrap{grid-template-columns:1fr;gap:3rem;}.sidebar{position:static;}.food-fuel{grid-template-columns:1fr;}.cta-strip{flex-direction:column;align-items:flex-start;}}
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/learn-movement-is-medicine.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <div class="series-nav">
+    <span class="sn-item active">Part 1 — Physical</span>
+    <a href="learn-stillness-is-medicine.html" class="sn-item inactive">Part 2 — Mental</a>
+    <a href="learn-spirit-is-the-root.html" class="sn-item inactive">Part 3 — Spiritual</a>
+  </div>
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span><a href="learn.html">Learn</a><span>&middot;</span>Movement Is Medicine</p>
+  <span class="article-tag">Embrace Healthy Living &mdash; Part 1 of 3 &mdash; Physical</span>
+  <h1>Movement<br>is<br><em>medicine.</em></h1>
+  <p class="lede">Smile for me, Jamaica. The body was not designed to sit still. Every step is a dose. Every stretch is a prescription. Every breath drawn during movement is the body reminding itself that it is alive &mdash; and capable of far more than we ask of it.</p>
+  <div class="article-meta">
+    <div class="meta-item">Series <strong>Embrace Healthy Living &mdash; 1 of 3</strong></div>
+    <div class="meta-item">Reading time <strong>11 min</strong></div>
+    <div class="meta-item">Level <strong>Deep Research</strong></div>
+  </div>
+</header>
+
+<div class="colour-band"><div class="cb-black"></div><div class="cb-red"></div><div class="cb-gold"></div><div class="cb-green"></div></div>
+
+<div class="article-wrap">
+  <aside class="sidebar reveal">
+    <p class="sidebar-label">In this article</p>
+    <nav class="toc">
+      <a href="#designed">The body designed to move</a>
+      <a href="#what-happens">What movement actually does</a>
+      <a href="#sedentary">The sedentary crisis</a>
+      <a href="#ancestral">Ancestral movement wisdom</a>
+      <a href="#types">Types of movement as medicine</a>
+      <a href="#plant-fuel">Plant foods that fuel movement</a>
+      <a href="#jamaica">Jamaica moves</a>
+    </nav>
+    <div class="sidebar-stat">
+      <p><strong>150 minutes</strong> of moderate movement per week reduces all-cause mortality by 31%. Yet the WHO estimates <strong>1 in 4 adults globally</strong> do not reach this threshold. The medicine is free. The barrier is knowledge.</p>
+    </div>
+    <div class="sidebar-series">
+      <p class="ss-title">This Series</p>
+      <div class="ss-links">
+        <span class="ss-link current">Part 1 — Movement Is Medicine (Physical)</span>
+        <a href="learn-stillness-is-medicine.html" class="ss-link">Part 2 — Stillness Is Medicine (Mental)</a>
+        <a href="learn-spirit-is-the-root.html" class="ss-link">Part 3 — Spirit Is the Root (Spiritual)</a>
+      </div>
+    </div>
+    <div class="sidebar-logo">
+      <img src="kwik-logo.jpeg" alt="Kwik Fat Cut" loading="eager" fetchpriority="high" decoding="async">
+    </div>
+  </aside>
+
+  <article class="article-body">
+
+    <div class="article-section reveal" id="designed">
+      <p class="section-label">The Architecture of the Body</p>
+      <h2>The body was<br><em>designed to move.</em></h2>
+      <p>The human skeleton contains 206 bones, 360 joints, and over 600 skeletal muscles. <strong>Every single one of these structures exists, in its entirety, to facilitate movement.</strong> The heart is a muscle. The lungs expand and contract with every breath. The lymphatic system — the body's waste removal network — has no pump. It moves only when the body moves.</p>
+      <p>The human body was shaped by 2.5 million years of walking, running, climbing, lifting, swimming, and dancing. The Hadza people of Tanzania — one of the last remaining hunter-gatherer societies — walk an average of 11 kilometres per day. Archaeological studies of pre-agricultural skeletons show bone density and joint health dramatically superior to modern humans. <strong>We did not evolve for chairs.</strong></p>
+      <p>The Rastafarian and Ital tradition understands this instinctively. Work the land. Walk the hills. Engage the body in the rhythms of natural life. Movement was never separate from existence — <strong>it was existence.</strong></p>
+
+      <div class="pull-quote">
+        <p>&ldquo;The body is not a container for the spirit. The body <em>is</em> the expression of the spirit. How you move it is how you honour what lives inside it.&rdquo;</p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="what-happens">
+      <p class="section-label">The Physiology</p>
+      <h2>What movement<br><em>actually does.</em></h2>
+      <p>Movement is not simply burning calories. That understanding is too shallow and has done enormous damage — reducing exercise to a punishment for eating, rather than understanding it as a fundamental biological need. Here is what movement actually does at the physiological level.</p>
+
+      <div class="fact-grid">
+        <div class="fact-card reveal">
+          <div class="fact-number">31%</div>
+          <div class="fact-unit">Reduction</div>
+          <div class="fact-label">In all-cause mortality with 150 minutes of moderate movement per week (WHO, 2020)</div>
+        </div>
+        <div class="fact-card reveal">
+          <div class="fact-number">40%</div>
+          <div class="fact-unit">Reduction</div>
+          <div class="fact-label">In type 2 diabetes risk with regular walking — greater than metformin in some trials (NEJM, 2002)</div>
+        </div>
+        <div class="fact-card reveal">
+          <div class="fact-number">50%</div>
+          <div class="fact-unit">Reduction</div>
+          <div class="fact-label">In depression symptoms with 30 minutes of aerobic movement, 3 times per week (Duke University, 1999)</div>
+        </div>
+        <div class="fact-card reveal">
+          <div class="fact-number">25%</div>
+          <div class="fact-unit">Reduction</div>
+          <div class="fact-label">In breast cancer risk associated with regular physical activity (American Cancer Society, multiple studies)</div>
+        </div>
+        <div class="fact-card reveal">
+          <div class="fact-number">10yrs</div>
+          <div class="fact-unit">Difference</div>
+          <div class="fact-label">In biological age between the most active and least active adults — measured by telomere length (BYU Study, 2017)</div>
+        </div>
+        <div class="fact-card reveal">
+          <div class="fact-number">200+</div>
+          <div class="fact-unit">Conditions</div>
+          <div class="fact-label">That regular movement has been shown to prevent or improve — including heart disease, arthritis, anxiety, and dementia</div>
+        </div>
+      </div>
+
+      <p style="margin-top:1rem;">Movement triggers the release of <strong>BDNF — Brain-Derived Neurotrophic Factor</strong> — a protein that promotes the growth and survival of neurons. It is sometimes called &ldquo;Miracle-Gro for the brain.&rdquo; Exercise is, in clinical terms, the most powerful neurological maintenance tool available to any human being, at any age, at any fitness level. <strong>And it is completely free.</strong></p>
+    </div>
+
+    <div class="article-section reveal" id="sedentary">
+      <p class="section-label">The Crisis</p>
+      <h2>What stillness<br><em>of the wrong kind does.</em></h2>
+      <p>Sedentary behaviour — not merely the absence of exercise, but prolonged sitting — has been classified by leading researchers as an independent risk factor for mortality. The landmark Annals of Internal Medicine study (2017) found that <strong>even people who exercised regularly but sat for extended periods had significantly elevated mortality risk.</strong></p>
+      <p>What happens physiologically during prolonged sitting:</p>
+
+      <div class="movement-list">
+        <div class="mv-item reveal">
+          <div class="mv-icon">🩸</div>
+          <div class="mv-content">
+            <h3>Lipoprotein lipase shuts down</h3>
+            <p>Within 60-90 minutes of sitting, the enzyme that processes blood fats drops by <strong>90%.</strong> Triglycerides accumulate in the bloodstream. This is not about fitness — it is about the body&rsquo;s moment-to-moment metabolic management switching off.</p>
+          </div>
+        </div>
+        <div class="mv-item reveal">
+          <div class="mv-icon">🦵</div>
+          <div class="mv-content">
+            <h3>Muscle electrical activity falls to zero</h3>
+            <p>Leg muscles go electrically silent during sitting. Without muscular contraction, <strong>glucose cannot be efficiently transported into cells</strong> — blood sugar rises and insulin sensitivity falls, even in people who are not diabetic.</p>
+          </div>
+        </div>
+        <div class="mv-item reveal">
+          <div class="mv-icon">🫀</div>
+          <div class="mv-content">
+            <h3>Cardiovascular pressure changes</h3>
+            <p>Blood pools in the lower extremities. Venous return decreases. The heart works less efficiently. Over years of sedentary behaviour, <strong>arterial stiffness increases measurably</strong> — a precursor to hypertension and cardiovascular disease.</p>
+          </div>
+        </div>
+        <div class="mv-item reveal">
+          <div class="mv-icon">🧠</div>
+          <div class="mv-content">
+            <h3>Brain perfusion decreases</h3>
+            <p>Blood flow to the prefrontal cortex — the seat of decision-making, emotional regulation, and creativity — <strong>decreases by approximately 20% during prolonged sitting</strong> (University of Missouri, 2016). Standing or walking for two minutes every 30 minutes restores it fully.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="ancestral">
+      <p class="section-label gold">Ancestral Wisdom</p>
+      <h2>How our ancestors<br><em>moved &mdash; and why it worked.</em></h2>
+      <p>The indigenous and ancestral communities that maintained the best health outcomes across history did not &ldquo;exercise.&rdquo; They <strong>lived physically.</strong> The distinction matters enormously.</p>
+      <p>In Jamaica, before urban centres and sedentary work, daily life involved farming, fishing, walking long distances between communities, carrying provisions, building, cooking over open fires. <strong>The body was in constant, varied, purposeful movement.</strong> Not repetitive gym movement — diverse, functional, whole-body movement embedded in the acts of survival and community.</p>
+      <p>The Blue Zones — the five regions of the world with the highest concentrations of centenarians — all share one movement characteristic: <strong>natural, embedded daily movement rather than structured exercise.</strong> Sardinian shepherds walk 8 miles daily tending flocks. Okinawan elders sit on the floor throughout the day, rising and lowering dozens of times — one of the single greatest predictors of longevity discovered in the famous sitting-rising test.</p>
+
+      <div class="pull-quote">
+        <p>&ldquo;The Jamaican farmer climbing a hillside with a basket of produce on their head demonstrates <em>more sophisticated physical medicine</em> than any gym programme. The body knows what it is doing.&rdquo;</p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="types">
+      <p class="section-label">The Medicine Cabinet</p>
+      <h2>Types of movement<br><em>as specific medicines.</em></h2>
+      <p>Not all movement is the same medicine. Each type addresses different systems of the body. The ideal practice combines them — not as rigid programming, but as intuitive responsiveness to what the body is asking for.</p>
+
+      <div class="movement-list">
+        <div class="mv-item reveal">
+          <div class="mv-icon">🚶</div>
+          <div class="mv-content">
+            <h3>Walking — the foundational medicine</h3>
+            <p>Walking is the movement the human body is most precisely designed for. <strong>A 30-minute daily walk reduces cardiovascular disease risk by 35%, reduces dementia risk by 40%, and improves insulin sensitivity by 25%.</strong> It moves the lymphatic system, pumps cerebrospinal fluid, and stimulates the vagus nerve — the body&rsquo;s primary rest-and-repair pathway. The simplest, most ancient, most documented medicine available.</p>
+          </div>
+        </div>
+        <div class="mv-item reveal">
+          <div class="mv-icon">💪</div>
+          <div class="mv-content">
+            <h3>Resistance and strength — the longevity medicine</h3>
+            <p>Muscle mass is the primary metabolic organ of the body. It determines how efficiently glucose is managed, how well the body maintains temperature, and how robustly it responds to illness. <strong>After age 30, adults lose 3-5% of muscle mass per decade without resistance training.</strong> This is not inevitable — it is a choice. Resistance training twice per week is sufficient to reverse it entirely.</p>
+          </div>
+        </div>
+        <div class="mv-item reveal">
+          <div class="mv-icon">🧘</div>
+          <div class="mv-content">
+            <h3>Stretching and flexibility — the communication medicine</h3>
+            <p>Fascia — the connective tissue that wraps every muscle, organ, and nerve in the body — communicates throughout the entire physical structure. <strong>Tight, inflexible fascia compresses nerves, restricts blood flow, and generates pain signals.</strong> Gentle daily stretching releases fascial restriction and communicates safety to the nervous system. This is why stretching reduces anxiety — it signals the body to downregulate threat responses.</p>
+          </div>
+        </div>
+        <div class="mv-item reveal">
+          <div class="mv-icon">🏊</div>
+          <div class="mv-content">
+            <h3>Swimming and water movement — the joint medicine</h3>
+            <p>Jamaica&rsquo;s coastline is not just beautiful. It is medicinal. <strong>Water movement provides full-body resistance without joint impact</strong> — making it the most accessible form of vigorous exercise for people with joint pain, arthritis, or injury. Salt water&rsquo;s buoyancy and mineral content additionally support skin health and nervous system regulation through cold exposure and pressure.</p>
+          </div>
+        </div>
+        <div class="mv-item reveal">
+          <div class="mv-icon">💃</div>
+          <div class="mv-content">
+            <h3>Dance — the complete medicine</h3>
+            <p>Reggae. Dancehall. Kumina. Mento. Jamaica has always known that <strong>dance is one of the most sophisticated physical medicines available.</strong> A 2017 study in the New England Journal of Medicine found dancing reduced dementia risk by 76% — the highest of any activity tested, physical or cognitive. It combines cardiovascular exercise, coordination, memory, social connection, and joy simultaneously. <strong>Joy is medicine.</strong></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="plant-fuel">
+      <p class="section-label green">Plant Fuels for Movement</p>
+      <h2>What the body needs<br><em>to move well.</em></h2>
+      <p>Movement is only as effective as the fuel that powers it. Whole plant foods provide everything the active body needs &mdash; without the inflammatory burden of processed foods or the saturated fat load that slows recovery after physical activity.</p>
+
+      <div class="food-fuel">
+        <div class="ff-card reveal">
+          <div class="ff-food">🍌 Banana</div>
+          <div class="ff-role"><strong>Pre-movement fuel.</strong> Natural sugars for immediate energy. Potassium to prevent muscle cramps. Vitamin B6 supporting neuromuscular coordination. The original sports food.</div>
+        </div>
+        <div class="ff-card reveal">
+          <div class="ff-food">🫘 Legumes</div>
+          <div class="ff-role"><strong>Recovery protein.</strong> Red peas, gungo peas, lentils — plant protein for muscle repair without the inflammation that animal protein can trigger. Paired with rice for complete amino acids.</div>
+        </div>
+        <div class="ff-card reveal">
+          <div class="ff-food">🍠 Sweet Potato</div>
+          <div class="ff-role"><strong>Sustained energy.</strong> Complex carbohydrates for long, steady fuel release. Beta-carotene reducing exercise-induced oxidative stress. The athlete&rsquo;s ancestral food.</div>
+        </div>
+        <div class="ff-card reveal">
+          <div class="ff-food">🥬 Dark Leafy Greens</div>
+          <div class="ff-role"><strong>Nitrate conversion.</strong> Callaloo, kale, spinach convert to nitric oxide in the body — <strong>improving blood flow to muscles by up to 16%</strong> (University of Exeter, 2013). Natural performance enhancement.</div>
+        </div>
+        <div class="ff-card reveal">
+          <div class="ff-food">🥑 Avocado</div>
+          <div class="ff-role"><strong>Anti-inflammatory recovery.</strong> Monounsaturated fats reduce exercise-induced inflammation. Magnesium supports over 300 muscle and nerve functions. Potassium restores electrolytes.</div>
+        </div>
+        <div class="ff-card reveal">
+          <div class="ff-food">🥥 Coconut Water</div>
+          <div class="ff-role"><strong>Natural electrolyte replacement.</strong> Potassium, sodium, magnesium in natural ratios. Studies show it as effective as commercial sports drinks for post-exercise rehydration &mdash; without artificial additives.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="jamaica">
+      <p class="section-label">Smile for Me Jamaica</p>
+      <h2>Jamaica moves.<br><em>Always has.</em></h2>
+      <p>Jamaica is 4,244 square miles. It has produced more world-class sprinters per capita than any nation on earth. Usain Bolt. Shelly-Ann Fraser-Pryce. Merlene Ottey. Asafa Powell. <strong>This is not accident. This is culture, food, environment, and the living tradition of a people who have always understood that the body in motion is the body in health.</strong></p>
+      <p>The hills of St. Andrew — Honey Ras&rsquo;s parish — are not gentle. They demand physical engagement. The market women who carry baskets on their heads develop core strength, posture, and balance that physiotherapists spend careers trying to teach. The farmers who work the land in St. Elizabeth develop cardiovascular fitness through purposeful, joyful, connected labour.</p>
+      <p><strong>Jamaica&rsquo;s physical culture is medicine.</strong> Preserved in its athletes, in its farmers, in its coast-swimmers, in its dancers. Kwik Fat Cut exists to document that medicine and make it accessible to everyone who carries those roots, wherever in the world they now live.</p>
+
+      <div class="closing-block reveal">
+        <p>&ldquo;Movement is not exercise. Exercise is a modern word for something ancient. <em>The body moves because it is alive. The body heals because it moves. Smile for me, Jamaica — and then go outside.</em>&rdquo;</p>
+      </div>
+
+      <div class="series-cta reveal">
+        <div class="sc-text">
+          <strong>Continue the series</strong>
+          <p>Part 2 — Stillness Is Medicine (Mental Health)</p>
+        </div>
+        <a href="learn-stillness-is-medicine.html" class="sc-link">Read Part 2 →</a>
+      </div>
+    </div>
+
+  </article>
+</div>
+
+<div class="rule"></div>
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>Start free.<br><em>Move with understanding.</em></h3>
+    <p>All articles free. No subscription. The knowledge tree keeps growing.</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="learn-stillness-is-medicine.html" class="btn-primary">Part 2 — Mental</a>
+    <a href="learn.html" class="btn-outline">Learn Hub</a>
+  </div>
+</div>
+
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <p class="ss-body">Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">Share this article</button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link">Twitter / X</a>
+      <a href="#" class="ss-social-link">Instagram</a>
+      <a href="#" class="ss-social-link">TikTok</a>
+      <a href="#" class="ss-social-link">Facebook</a>
+    </div>
+    <p class="ss-note">Follow, like, share, comment. Tell a friend to tell a friend.</p>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+<script>
+function shareKFC(){const url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 Movement Is Medicine',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ss-btn.share');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
+</script>
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

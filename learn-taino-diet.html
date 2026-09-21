@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="The Taino Diet — Jamaica's first food tradition. What the original inhabitants ate, how they cultivated it, and the deep nutritional intelligence embedded in Caribbean indigenous food culture. Kwik Fat Cut Education First.">
+<title>The Taino Diet — Jamaica's First Food Tradition — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse 58% 68% at 72% 28%,rgba(46,107,62,0.1) 0%,transparent 62%),radial-gradient(ellipse 42% 48% at 8% 82%,rgba(218,165,32,0.06) 0%,transparent 55%);}
+  .series-badge{display:flex;gap:0.5rem;flex-wrap:wrap;margin-bottom:2rem;opacity:0;animation:up 0.9s 0.05s ease forwards;}
+  .sb-item{font-size:0.62rem;letter-spacing:0.18em;text-transform:uppercase;padding:0.28rem 0.75rem;border-radius:2px;text-decoration:none;border:1px solid;}
+  .sb-item.active{background:var(--green);color:var(--cream);border-color:var(--green);}
+  .sb-item.done{color:var(--c30);border-color:var(--c10);}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb span{margin:0 0.6rem;}
+  .article-tag{display:inline-block;font-size:0.64rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--green);border:1px solid rgba(46,107,62,0.4);padding:0.25rem 0.7rem;border-radius:2px;margin-bottom:1.5rem;opacity:0;animation:up 0.9s 0.15s ease forwards;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(2.8rem,8vw,7.5rem);font-weight:300;line-height:1.03;color:var(--cream);max-width:880px;opacity:0;animation:up 0.9s 0.22s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:580px;margin-top:2rem;font-size:1.02rem;line-height:1.9;color:var(--c60);font-style:italic;opacity:0;animation:up 0.9s 0.38s ease forwards;}
+  .article-meta{margin-top:2rem;display:flex;gap:2rem;flex-wrap:wrap;opacity:0;animation:up 0.9s 0.48s ease forwards;}
+  .meta-item{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);}
+  .meta-item strong{color:var(--c60);font-weight:400;}
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:4px;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+  .article-wrap{padding:6rem 6vw;display:grid;grid-template-columns:1fr 2.5fr;gap:6rem;align-items:start;}
+  .sidebar{position:sticky;top:110px;}
+  .sidebar-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:1.2rem;font-weight:500;}
+  .toc a{font-size:0.82rem;color:var(--c60);text-decoration:none;padding:0.65rem 0;border-bottom:1px solid var(--c10);display:block;transition:color 0.2s;line-height:1.4;}
+  .toc a:first-child{border-top:1px solid var(--c10);}
+  .toc a:hover{color:var(--gold);}
+  .sidebar-fact{margin-top:2.5rem;border-left:2px solid var(--green);padding:1.2rem;background:rgba(46,107,62,0.07);}
+  .sidebar-fact p{font-size:0.8rem;line-height:1.78;color:var(--c60);}
+  .sidebar-fact strong{color:var(--cream);font-weight:400;}
+  .sidebar-series{margin-top:2rem;}
+  .ss-title{font-size:0.62rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:0.8rem;}
+  .ss-links{display:flex;flex-direction:column;gap:0.4rem;}
+  .ss-link{font-size:0.78rem;color:var(--c60);text-decoration:none;padding:0.5rem 0;border-bottom:1px solid var(--c10);transition:color 0.2s;}
+  .ss-link:hover{color:var(--gold);}
+  .ss-link.current{color:var(--green);}
+  .sidebar-logo{margin-top:2rem;text-align:center;}
+  .sidebar-logo img{width:120px;height:auto;opacity:0.85;}
+  .article-body{display:flex;flex-direction:column;gap:0;}
+  .article-section{padding:3.8rem 0;border-bottom:1px solid var(--c10);}
+  .article-section:first-child{padding-top:0;}
+  .article-section:last-child{border-bottom:none;}
+  .section-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.9rem;}
+  .section-label.green{color:var(--green);}
+  .section-label.gold{color:var(--gold);}
+  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.7rem,3vw,2.6rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.5rem;}
+  .article-section h2 em{font-style:italic;color:var(--gold);}
+  .article-section p{font-size:0.97rem;line-height:1.97;color:var(--c60);margin-bottom:1.2rem;}
+  .article-section p:last-child{margin-bottom:0;}
+  .article-section p strong{color:var(--cream);font-weight:400;}
+  .pull-quote{margin:2.8rem 0;padding:2.2rem 2.8rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .pull-quote p{font-family:'Cormorant Garamond',serif;font-size:1.28rem;font-weight:300;font-style:italic;line-height:1.65;color:var(--cream);}
+  .pull-quote p em{font-style:normal;color:var(--gold);}
+  .food-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:2px;margin:2rem 0;}
+  .fg-card{padding:1.8rem 1.6rem;border:1px solid var(--c10);transition:border-color 0.3s,background 0.3s;}
+  .fg-card:hover{border-color:rgba(46,107,62,0.3);background:rgba(46,107,62,0.05);}
+  .fg-name{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:400;color:var(--cream);margin-bottom:0.4rem;}
+  .fg-taino{font-size:0.66rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--gold);opacity:0.6;margin-bottom:0.5rem;}
+  .fg-role{font-size:0.82rem;line-height:1.68;color:var(--c60);}
+  .fg-role strong{color:var(--green);font-weight:400;}
+  .item-list{display:flex;flex-direction:column;gap:0;margin:2rem 0;}
+  .il-item{display:flex;gap:1.5rem;align-items:flex-start;padding:1.4rem 0;border-bottom:1px solid var(--c10);}
+  .il-item:first-child{border-top:1px solid var(--c10);}
+  .il-dot{width:7px;height:7px;border-radius:50%;background:var(--green);flex-shrink:0;margin-top:0.65rem;}
+  .il-item p{font-size:0.9rem;line-height:1.85;color:var(--c60);}
+  .il-item p strong{color:var(--cream);font-weight:400;}
+  .conuco-block{margin:2rem 0;border:1px solid rgba(46,107,62,0.25);overflow:hidden;}
+  .cb-head{padding:1.3rem 2rem;background:rgba(46,107,62,0.08);border-bottom:1px solid rgba(46,107,62,0.15);}
+  .cb-eyebrow{font-size:0.62rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--green);font-weight:500;margin-bottom:0.3rem;}
+  .cb-head h3{font-family:'Cormorant Garamond',serif;font-size:1.15rem;font-weight:400;color:var(--cream);}
+  .cb-body{padding:1.8rem 2rem;}
+  .cb-body p{font-size:0.9rem;line-height:1.88;color:var(--c60);margin-bottom:0.9rem;}
+  .cb-body p:last-child{margin-bottom:0;}
+  .cb-body p strong{color:var(--cream);font-weight:400;}
+  .series-cta{margin:3rem 0;padding:2rem;border:1px solid var(--g20);background:var(--g08);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;}
+  .sc-text strong{color:var(--cream);font-weight:400;font-size:0.9rem;display:block;margin-bottom:0.2rem;}
+  .sc-text p{font-size:0.82rem;color:var(--c60);}
+  .sc-link{display:inline-block;background:var(--gold);color:var(--bg);padding:0.7rem 1.5rem;border-radius:1px;font-size:0.74rem;font-weight:500;letter-spacing:0.14em;text-transform:uppercase;text-decoration:none;transition:background 0.2s;}
+  .sc-link:hover{background:var(--cream);}
+  .article-close{padding:4rem 0 2rem;}
+  .article-close h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.12;color:var(--cream);margin-bottom:1.2rem;}
+  .article-close h2 em{font-style:italic;color:var(--gold);}
+  .article-close p{font-size:0.97rem;line-height:1.97;color:var(--c60);margin-bottom:1rem;}
+  .article-close p strong{color:var(--cream);font-weight:400;}
+  .article-close .sign{font-size:0.7rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);margin-top:2rem;}
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-lbl{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s;}
+  .btn-primary:hover{background:var(--cream);}
+  .btn-outline{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .btn-outline:hover{border-color:var(--c60);color:var(--cream);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){.article-wrap{grid-template-columns:1fr;gap:3.5rem;}.sidebar{position:static;}.food-grid{grid-template-columns:1fr 1fr;}.cta-strip{flex-direction:column;align-items:flex-start;}}
+  @media(max-width:540px){.food-grid{grid-template-columns:1fr;}}
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/learn-taino-diet.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <div class="series-badge">
+    <a href="learn-ancient-archive.html" class="sb-item done">01 Archive</a>
+    <span class="sb-item active">02 Taino</span>
+    <a href="learn-west-african-food-traditions.html" class="sb-item done">03 West Africa</a>
+    <a href="learn-moorish-table.html" class="sb-item done">04 Moors</a>
+    <a href="learn-nations-guide-health.html" class="sb-item done">05 Nation</a>
+    <a href="learn-food-community.html" class="sb-item done">06 Community</a>
+    <a href="learn-living-longer.html" class="sb-item done">07 Longevity</a>
+  </div>
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span><a href="learn.html">Learn</a><span>&middot;</span>Return to Real Food</p>
+  <span class="article-tag">🌴 Return to Real Food Series &mdash; Part 2 &mdash; The Taino Diet</span>
+  <h1>The Taino diet.<br><em>Jamaica&rsquo;s first<br>food tradition.</em></h1>
+  <p class="lede">Before Columbus. Before colonisation. Before the plantation. The Taino people of the Caribbean had developed one of the most complete, sustainable, and nutritionally sophisticated food systems in the pre-Columbian world. This is what they knew.</p>
+  <div class="article-meta">
+    <div class="meta-item">Series <strong>Return to Real Food &mdash; 2 of 7</strong></div>
+    <div class="meta-item">Reading time <strong>12 min</strong></div>
+    <div class="meta-item">Sources <strong>Archaeological &amp; Colonial Records</strong></div>
+  </div>
+</header>
+
+<div class="colour-band"><div class="cb-black"></div><div class="cb-red"></div><div class="cb-gold"></div><div class="cb-green"></div></div>
+
+<div class="article-wrap">
+  <aside class="sidebar reveal">
+    <p class="sidebar-label">In this article</p>
+    <nav class="toc">
+      <a href="#who">Who the Taino were</a>
+      <a href="#conuco">The conuco system</a>
+      <a href="#foods">The core foods</a>
+      <a href="#cassava">Cassava — the sacred staple</a>
+      <a href="#sea">From the sea</a>
+      <a href="#medicine">Food as medicine</a>
+      <a href="#legacy">What survived</a>
+    </nav>
+    <div class="sidebar-fact">
+      <p>The Taino word <strong>&ldquo;barbacoa&rdquo;</strong> (barbecue), <strong>&ldquo;canoa&rdquo;</strong> (canoe), <strong>&ldquo;hamaca&rdquo;</strong> (hammock), and <strong>&ldquo;hutia&rdquo;</strong> all entered English through contact with Taino culture. Their food words &mdash; including the names of cassava, guava, papaya, and maize &mdash; are embedded in every language that describes Caribbean produce.</p>
+    </div>
+    <div class="sidebar-series">
+      <p class="ss-title">The Series</p>
+      <div class="ss-links">
+        <a href="learn-ancient-archive.html" class="ss-link">01 &mdash; The Ancient Archive</a>
+        <span class="ss-link current">02 &mdash; The Taino Diet</span>
+        <a href="learn-west-african-food-traditions.html" class="ss-link">03 &mdash; West African Roots</a>
+        <a href="learn-moorish-table.html" class="ss-link">04 &mdash; The Moorish Table</a>
+        <a href="learn-nations-guide-health.html" class="ss-link">05 &mdash; A Nation&rsquo;s Guide</a>
+        <a href="learn-food-community.html" class="ss-link">06 &mdash; Building the Community</a>
+        <a href="learn-living-longer.html" class="ss-link">07 &mdash; Living Longer &amp; Happier</a>
+      </div>
+    </div>
+    <div class="sidebar-logo"><img src="kwik-logo.jpeg" alt="Kwik Fat Cut" loading="eager" fetchpriority="high" decoding="async"></div>
+  </aside>
+
+  <article class="article-body">
+
+    <div class="article-section reveal" id="who">
+      <p class="section-label gold">Who They Were</p>
+      <h2>The first people<br><em>of Jamaica&rsquo;s land.</em></h2>
+      <p>The Taino were the Arawakan-speaking indigenous people who inhabited the Greater Antilles &mdash; including Jamaica, Cuba, Hispaniola, and Puerto Rico &mdash; for at least 2,000 years before European contact. Archaeological evidence from sites in Jamaica, including the White Marl village site near Spanish Town, places Taino settlement on the island as early as 600 CE, with Arawakan ancestors present from as early as 300 BCE.</p>
+      <p>When Christopher Columbus arrived in Jamaica in 1494, he encountered a population estimated at 60,000&ndash;100,000 people &mdash; organised into chiefdoms, living in large villages, and maintaining a food system of remarkable sophistication. <strong>Within fifty years, the Taino population of Jamaica had been effectively destroyed by disease, enslavement, and colonial violence.</strong> Their food knowledge, however, survived &mdash; embedded in the plants they cultivated, the words they gave to Caribbean produce, and the agricultural systems they left behind.</p>
+
+      <div class="pull-quote">
+        <p>&ldquo;The Taino did not discover the nutritional value of Caribbean plants. <em>They cultivated it, systematised it, and transmitted it across generations</em> with a precision that European colonisers simultaneously destroyed and depended upon for survival.&rdquo;</p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="conuco">
+      <p class="section-label green">The Agricultural System</p>
+      <h2>The conuco &mdash;<br><em>the most sophisticated farm in the pre-Columbian Caribbean.</em></h2>
+      <p>The foundation of Taino food production was the <strong>conuco</strong> &mdash; a raised mound cultivation system of extraordinary ecological intelligence. Conucos were constructed by heaping soil into mounds one to three feet high and several feet wide, then planting multiple crops together in the same mound.</p>
+
+      <div class="conuco-block reveal">
+        <div class="cb-head">
+          <p class="cb-eyebrow">The conuco system &mdash; documented by Spanish colonial observers</p>
+          <h3>Why the mound worked — then and now</h3>
+        </div>
+        <div class="cb-body">
+          <p>The conuco mound was not arbitrary. It was a solution to multiple agricultural problems simultaneously:</p>
+          <p><strong>Drainage:</strong> The raised height protected root crops from waterlogging during Jamaica&rsquo;s heavy rainfall periods, preventing root rot and crop failure.</p>
+          <p><strong>Soil quality:</strong> The mounding process incorporates organic material from the surrounding area, concentrating nutrients around the root zone of the plant.</p>
+          <p><strong>Companion planting:</strong> Multiple species grown together in a single mound create natural pest deterrence, nitrogen fixation (through legumes), and canopy shading that retains soil moisture.</p>
+          <p><strong>Harvest continuity:</strong> By staggering planting dates across different mounds, Taino farmers ensured a continuous year-round food supply rather than seasonal feast and famine.</p>
+          <p>Spanish colonial observers documented conuco fields stretching for miles across Jamaica&rsquo;s interior. <strong>They fed tens of thousands of people with zero chemical inputs, zero irrigation infrastructure, and zero soil depletion</strong> &mdash; because the system was designed to work with the island&rsquo;s ecology rather than against it.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="foods">
+      <p class="section-label">The Core Foods</p>
+      <h2>What the Taino<br><em>cultivated and ate.</em></h2>
+      <p>The Taino diet was overwhelmingly plant-based, supplemented by seafood, freshwater fish, and small game. Archaeological analysis of Taino middens (refuse mounds) across the Caribbean has identified the following as the core of their nutritional system &mdash; many of which form the foundation of Jamaican cuisine to this day.</p>
+
+      <div class="food-grid">
+        <div class="fg-card reveal">
+          <p class="fg-taino">Taino: yuca</p>
+          <div class="fg-name">Cassava (Manioc)</div>
+          <div class="fg-role"><strong>The sacred staple.</strong> Primary calorie source across the Caribbean. Rich in resistant starch. Gluten-free. Processed into flatbread (casabe) that could be stored for months without refrigeration.</div>
+        </div>
+        <div class="fg-card reveal">
+          <p class="fg-taino">Taino: batata</p>
+          <div class="fg-name">Sweet Potato</div>
+          <div class="fg-role"><strong>High in beta-carotene, vitamin C, and B vitamins.</strong> The Taino batata is the direct ancestor of the Caribbean sweet potato. Over 102% of daily vitamin A in a single medium-sized root.</div>
+        </div>
+        <div class="fg-card reveal">
+          <p class="fg-taino">Taino: aje</p>
+          <div class="fg-name">Yam</div>
+          <div class="fg-role"><strong>Complex carbohydrate with low glycaemic index.</strong> Potassium, vitamin C, manganese. Cultivated across the Caribbean for centuries. Still a cornerstone of Jamaican ground provisions.</div>
+        </div>
+        <div class="fg-card reveal">
+          <p class="fg-taino">Taino: mahiz</p>
+          <div class="fg-name">Maize (Corn)</div>
+          <div class="fg-role"><strong>Complex carbohydrate and plant protein foundation.</strong> The Taino word <em>mahiz</em> became the Spanish <em>maíz</em> and the English <em>maize</em>. Cultivated in conucos alongside beans to form complete plant protein.</div>
+        </div>
+        <div class="fg-card reveal">
+          <p class="fg-taino">Taino: guayaba</p>
+          <div class="fg-name">Guava</div>
+          <div class="fg-role"><strong>Extraordinarily high vitamin C &mdash; 4x more than an orange.</strong> Lycopene, folate, potassium. The Taino guayaba grew wild across Jamaica and was cultivated for both food and medicine.</div>
+        </div>
+        <div class="fg-card reveal">
+          <p class="fg-taino">Taino: papaya</p>
+          <div class="fg-name">Papaya</div>
+          <div class="fg-role"><strong>Papain enzyme &mdash; one of the most powerful digestive enzymes from a plant source.</strong> Vitamins A, C, and E. Folate. The Taino used unripe papaya medicinally for wounds and digestive complaints &mdash; uses now confirmed by clinical research.</div>
+        </div>
+        <div class="fg-card reveal">
+          <p class="fg-taino">Taino: anana</p>
+          <div class="fg-name">Pineapple</div>
+          <div class="fg-role"><strong>Bromelain &mdash; anti-inflammatory enzyme.</strong> Manganese for bone health. Vitamin C. The Taino anana &mdash; from which the word &ldquo;pineapple&rdquo; derives &mdash; was cultivated across the Caribbean and used medicinally for arthritis and digestive issues.</div>
+        </div>
+        <div class="fg-card reveal">
+          <p class="fg-taino">Taino: agi</p>
+          <div class="fg-name">Chilli Pepper</div>
+          <div class="fg-role"><strong>Capsaicin &mdash; documented pain relief, metabolism boost, cardiovascular support.</strong> The Taino agi is the ancestor of the Scotch bonnet. Used in food, medicine, and as a natural insect repellent.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="cassava">
+      <p class="section-label gold">The Sacred Staple</p>
+      <h2>Cassava &mdash;<br><em>the most important food in pre-Columbian Caribbean history.</em></h2>
+      <p>No single food defined Taino civilisation more than cassava. It was their primary calorie source, their preserved food, their trade good, and their ceremonial offering. <strong>The Taino developed the processing of bitter cassava &mdash; which contains toxic hydrogen cyanide in its raw state &mdash; into a safe, storable flatbread called <em>casabe</em></strong>, without formal chemistry and without written science.</p>
+      <p>The process they developed: grating the cassava root, squeezing out the toxic juice through a woven press called a <em>matapi</em>, and cooking the remaining starch on a flat griddle. The resulting casabe could be stored for months without spoilage &mdash; making it the Caribbean&rsquo;s original long-life food and the provision that sustained Taino communities through seasonal variation.</p>
+      <p>When Christopher Columbus arrived in 1492 and his crew was facing starvation, <strong>it was Taino cassava bread that kept the Spanish alive.</strong> The colonisers depended on indigenous food knowledge for survival while simultaneously destroying the culture that produced it.</p>
+      <p>Nutritionally, processed cassava provides complex carbohydrates, resistant starch (a prebiotic that feeds beneficial gut bacteria), and when paired with the Taino&rsquo;s legume cultivation, delivered a nutritionally complete foundation. <strong>Cassava farming still dominates in Jamaica today &mdash; a direct living legacy of Taino agricultural intelligence.</strong></p>
+    </div>
+
+    <div class="article-section reveal" id="sea">
+      <p class="section-label green">From the Sea</p>
+      <h2>The ocean as<br><em>a second garden.</em></h2>
+      <p>Jamaica&rsquo;s coastline was as much a food source as its interior. The Taino were skilled canoe builders and fishermen, navigating inter-island routes across the Caribbean in dugout canoes they called <em>canoa</em> &mdash; the origin of the English word &ldquo;canoe.&rdquo;</p>
+
+      <div class="item-list">
+        <div class="il-item reveal">
+          <div class="il-dot"></div>
+          <p><strong>Reef fish &mdash;</strong> Parrotfish, snapper, grouper, and grunt were the primary protein sources from the sea. All rich in omega-3 fatty acids, lean protein, and selenium. The Taino fished using woven nets, bone hooks, and the extraordinary technique of <em>remora fishing</em> &mdash; attaching a line to a remora fish and guiding it to larger fish.</p>
+        </div>
+        <div class="il-item reveal">
+          <div class="il-dot"></div>
+          <p><strong>Shellfish and crustaceans &mdash;</strong> Conch, crab, lobster, and various molluscs provided zinc, iodine, and additional protein. Archaeological midden sites across Jamaica show extensive shellfish consumption &mdash; with conch shells the dominant find at most coastal sites.</p>
+        </div>
+        <div class="il-item reveal">
+          <div class="il-dot"></div>
+          <p><strong>Sea turtles &mdash;</strong> Documented in Taino oral traditions and Spanish colonial records as a prized food source for major ceremonies and community gatherings. Used sustainably, with detailed knowledge of nesting seasons and sustainable harvest levels that maintained populations.</p>
+        </div>
+        <div class="il-item reveal">
+          <div class="il-dot"></div>
+          <p><strong>Sea vegetables and coastal plants &mdash;</strong> Various coastal plants, including sea grapes and mangrove fruits, supplemented the diet at certain seasons. The Taino&rsquo;s detailed knowledge of coastal ecology gave them access to nutritional resources that European colonisers &mdash; unfamiliar with the environment &mdash; completely missed.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="medicine">
+      <p class="section-label">Food as Medicine</p>
+      <h2>The Taino pharmacopoeia &mdash;<br><em>plants that healed.</em></h2>
+      <p>The Taino maintained extensive knowledge of medicinal plants, transmitted through specialist healers called <em>bohique</em>. Spanish colonial records document their astonishment at the effectiveness of Taino plant medicine &mdash; noting that indigenous healers successfully treated conditions that European physicians could not.</p>
+
+      <div class="item-list">
+        <div class="il-item reveal">
+          <div class="il-dot"></div>
+          <p><strong>Copal (Bursera simaruba) &mdash;</strong> Used for fevers, skin conditions, and respiratory complaints. The resin applied topically to wounds as a natural antiseptic. Modern analysis confirms significant antimicrobial properties.</p>
+        </div>
+        <div class="il-item reveal">
+          <div class="il-dot"></div>
+          <p><strong>Aloe vera &mdash;</strong> Applied to burns, skin irritations, and digestive complaints. The Taino used both the gel (topically) and the bitter sap (internally) &mdash; distinctions now confirmed by modern phytochemistry as representing different active compound profiles.</p>
+        </div>
+        <div class="il-item reveal">
+          <div class="il-dot"></div>
+          <p><strong>Tobacco (<em>cohiba</em>) &mdash;</strong> Used ceremonially and medicinally, not recreationally &mdash; a critical distinction. The bohique used tobacco in specific healing ceremonies. <strong>The mass recreational use of tobacco was imposed by colonial trade, not indigenous practice.</strong></p>
+        </div>
+        <div class="il-item reveal">
+          <div class="il-dot"></div>
+          <p><strong>Guanábana (Soursop) &mdash;</strong> Used for fever reduction, sleep, and nervous system complaints. The leaves, roots, and fruit all used for different conditions &mdash; a specificity of plant knowledge that modern phytochemistry is now mapping through the identification of distinct active compounds in each part of the plant.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="legacy">
+      <p class="section-label green">What Survived</p>
+      <h2>The Taino legacy<br><em>in every Jamaican kitchen.</em></h2>
+      <p>The Taino people were largely destroyed within fifty years of European contact. But their food knowledge was not. It survived in the plants themselves &mdash; in the cassava, sweet potato, yam, guava, papaya, pineapple, and chilli that became the foundation of Caribbean cuisine. It survived in the conuco system, adopted and adapted by enslaved West Africans who recognised its ecological logic. It survived in the words: <em>barbecue, hurricane, canoe, hammock, guava, papaya, maize, savanna.</em></p>
+      <p><strong>When you eat Jamaican food &mdash; when you eat ground provisions, tropical fruit, fresh fish, or spiced peppers &mdash; you are eating Taino knowledge.</strong> You are eating the nutritional intelligence of a people who understood this land, its soil, its seasons, and its medicinal plants with a precision that four centuries of industrial agriculture have not surpassed.</p>
+      <p>Returning to real food in Jamaica means, in part, returning to Taino food. The conuco is still the most sustainable agricultural system for tropical Caribbean conditions. The cassava is still a nutritional foundation. The guava still contains more vitamin C than any imported citrus. <strong>The land still provides. The knowledge is still here.</strong></p>
+
+      <div class="series-cta reveal">
+        <div class="sc-text">
+          <strong>Next in the series</strong>
+          <p>Part 3 &mdash; West African Food Traditions: the roots of Caribbean cuisine</p>
+        </div>
+        <a href="learn-west-african-food-traditions.html" class="sc-link">Read Part 3 &rarr;</a>
+      </div>
+    </div>
+
+    <div class="article-close reveal">
+      <h2>The first kitchen<br><em>was this island.</em></h2>
+      <p>The Taino did not need to be told that food was medicine. They lived it, built it into their agricultural system, transmitted it through their healers, and demonstrated it in the extraordinary physical health documented by European observers who arrived to destroy the very civilisation they were studying.</p>
+      <p><strong>Their knowledge is in the plants. Their plants are in the ground. The ground is still here.</strong> Smile for me, Jamaica. We row. You steer. 🇯🇲❤️💚</p>
+      <p class="sign">Kwik Fat Cut &mdash; Return to Real Food Series &mdash; Education First</p>
+    </div>
+
+  </article>
+</div>
+
+<div class="rule"></div>
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>Continue<br><em>the series.</em></h3>
+    <p>Part 3 &mdash; West African Food Traditions. The roots of Caribbean cuisine.</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="learn-west-african-food-traditions.html" class="btn-primary">Part 3 &rarr;</a>
+    <a href="learn-ancient-archive.html" class="btn-outline">&larr; Part 1</a>
+  </div>
+</div>
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-lbl">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">Share this article</button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link">Twitter / X</a>
+      <a href="#" class="ss-social-link">Instagram</a>
+      <a href="#" class="ss-social-link">TikTok</a>
+      <a href="#" class="ss-social-link">Facebook</a>
+    </div>
+    <p class="ss-note">Movements are medicines. We row. You steer. 🇯🇲</p>
+  </div>
+</section>
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+<script>
+function shareKFC(){const url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 The Taino Diet',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ss-btn.share');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
+</script>
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

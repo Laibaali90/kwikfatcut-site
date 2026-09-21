@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Straight Mixes — raw, unprocessed combinations of whole plants where every moment of eating is a medicinal act. The Kwik Fat Cut guide to food as living medicine, rooted in Ital and ancestral wisdom.">
+<title>Straight Mixes — Moment Is Medicine — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  /* HERO */
+  .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(ellipse 55% 65% at 70% 30%,rgba(46,107,62,0.1) 0%,transparent 62%),
+    radial-gradient(ellipse 45% 50% at 8% 78%,rgba(218,165,32,0.06) 0%,transparent 55%),
+    radial-gradient(ellipse 35% 40% at 90% 85%,rgba(193,68,14,0.05) 0%,transparent 55%);}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb a:hover{color:var(--c60);}
+  .breadcrumb span{margin:0 0.6rem;}
+  .article-tag{display:inline-block;font-size:0.64rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--green);border:1px solid rgba(46,107,62,0.4);padding:0.25rem 0.7rem;border-radius:2px;margin-bottom:1.5rem;opacity:0;animation:up 0.9s 0.15s ease forwards;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(3.2rem,9vw,8.5rem);font-weight:300;line-height:1.02;color:var(--cream);max-width:900px;opacity:0;animation:up 0.9s 0.22s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .header-sub{max-width:560px;margin-top:2rem;opacity:0;animation:up 0.9s 0.38s ease forwards;}
+  .header-sub p{font-family:'Cormorant Garamond',serif;font-size:1.2rem;font-weight:300;font-style:italic;line-height:1.6;color:var(--c60);}
+  .header-sub p em{font-style:normal;color:var(--gold);}
+  .article-meta{margin-top:2rem;display:flex;gap:2rem;flex-wrap:wrap;opacity:0;animation:up 0.9s 0.48s ease forwards;}
+  .meta-item{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);}
+  .meta-item strong{color:var(--c60);font-weight:400;}
+
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:4px;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+
+  /* LAYOUT */
+  .article-wrap{padding:6rem 6vw;display:grid;grid-template-columns:1fr 2.5fr;gap:6rem;align-items:start;}
+  .sidebar{position:sticky;top:110px;}
+  .sidebar-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:1.2rem;font-weight:500;}
+  .toc a{font-size:0.82rem;color:var(--c60);text-decoration:none;padding:0.65rem 0;border-bottom:1px solid var(--c10);display:block;transition:color 0.2s;line-height:1.4;}
+  .toc a:first-child{border-top:1px solid var(--c10);}
+  .toc a:hover{color:var(--gold);}
+  .sidebar-quote{margin-top:2.5rem;border-left:2px solid var(--green);padding:1.2rem;background:rgba(46,107,62,0.07);}
+  .sidebar-quote p{font-size:0.82rem;line-height:1.75;color:var(--c60);font-style:italic;}
+  .sidebar-quote strong{font-style:normal;color:var(--cream);font-weight:400;}
+  .sidebar-logo{margin-top:2rem;text-align:center;}
+  .sidebar-logo img{width:120px;height:auto;opacity:0.85;}
+
+  .article-body{display:flex;flex-direction:column;gap:0;}
+  .article-section{padding:3.5rem 0;border-bottom:1px solid var(--c10);}
+  .article-section:first-child{padding-top:0;}
+  .article-section:last-child{border-bottom:none;}
+  .section-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.8rem;}
+  .section-label.green{color:var(--green);}
+  .section-label.gold{color:var(--gold);}
+  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.7rem,3vw,2.6rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.5rem;}
+  .article-section h2 em{font-style:italic;color:var(--gold);}
+  .article-section p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1.2rem;}
+  .article-section p:last-child{margin-bottom:0;}
+  .article-section p strong{color:var(--cream);font-weight:400;}
+
+  /* PULL QUOTE */
+  .pull-quote{margin:2.5rem 0;padding:2rem 2.5rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .pull-quote p{font-family:'Cormorant Garamond',serif;font-size:1.35rem;font-weight:300;font-style:italic;line-height:1.6;color:var(--cream);}
+  .pull-quote p em{font-style:normal;color:var(--gold);}
+
+  /* MEDICINE MOMENTS */
+  .medicine-moments{display:flex;flex-direction:column;gap:0;margin:2rem 0;}
+  .mm-item{display:flex;gap:2rem;align-items:flex-start;padding:2rem 0;border-bottom:1px solid var(--c10);}
+  .mm-item:first-child{border-top:1px solid var(--c10);}
+  .mm-time{font-family:'Cormorant Garamond',serif;font-size:0.9rem;font-weight:300;color:var(--gold);opacity:0.5;flex-shrink:0;width:4.5rem;padding-top:0.1rem;letter-spacing:0.05em;}
+  .mm-content h3{font-size:0.92rem;font-weight:500;color:var(--cream);margin-bottom:0.4rem;}
+  .mm-content p{font-size:0.87rem;line-height:1.82;color:var(--c60);}
+  .mm-content p strong{color:var(--cream);font-weight:400;}
+  .mm-medicine{display:inline-block;margin-top:0.6rem;font-size:0.72rem;letter-spacing:0.16em;text-transform:uppercase;color:var(--green);font-style:italic;}
+
+  /* STRAIGHT MIX CARDS */
+  .mix-cards{display:flex;flex-direction:column;gap:2px;margin:2rem 0;}
+  .mix-card{border:1px solid var(--c10);overflow:hidden;transition:border-color 0.3s;}
+  .mix-card:hover{border-color:rgba(46,107,62,0.3);}
+  .mix-header{padding:1.4rem 2rem;background:rgba(46,107,62,0.07);border-bottom:1px solid var(--c10);display:flex;align-items:baseline;gap:1.2rem;}
+  .mix-number{font-family:'Cormorant Garamond',serif;font-size:2rem;font-weight:300;color:var(--gold);opacity:0.25;line-height:1;flex-shrink:0;}
+  .mix-name{font-family:'Cormorant Garamond',serif;font-size:1.2rem;font-weight:400;color:var(--cream);}
+  .mix-tag{font-size:0.62rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--green);margin-left:auto;flex-shrink:0;}
+  .mix-body{padding:1.6rem 2rem;display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;}
+  .mix-ingredients h4{font-size:0.68rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:0.7rem;}
+  .mix-ingredients ul{list-style:none;display:flex;flex-direction:column;gap:0.35rem;}
+  .mix-ingredients ul li{font-size:0.84rem;line-height:1.6;color:var(--c60);display:flex;gap:0.5rem;}
+  .mix-ingredients ul li::before{content:'—';color:var(--gold);opacity:0.35;flex-shrink:0;}
+  .mix-medicine{background:rgba(46,107,62,0.06);border-left:2px solid var(--green);padding:1rem 1.2rem;}
+  .mix-medicine h4{font-size:0.68rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--green);font-weight:500;margin-bottom:0.5rem;}
+  .mix-medicine p{font-size:0.82rem;line-height:1.7;color:var(--c60);}
+  .mix-medicine p strong{color:var(--cream);font-weight:400;}
+
+  /* SCIENCE STRIP */
+  .science-strip{margin:2.5rem 0;padding:2.2rem 2.4rem;border:1px solid rgba(218,165,32,0.2);background:var(--g08);}
+  .ss-label{font-size:0.62rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--gold);font-weight:500;margin-bottom:1rem;}
+  .science-strip p{font-size:0.9rem;line-height:1.85;color:var(--c60);}
+  .science-strip p strong{color:var(--cream);font-weight:400;}
+
+  /* SYNERGY TABLE */
+  .synergy-table{display:flex;flex-direction:column;gap:0;margin:2rem 0;}
+  .sy-row{display:grid;grid-template-columns:1.5fr 1fr 1fr;border-bottom:1px solid var(--c10);transition:background 0.2s;}
+  .sy-row:hover{background:rgba(253,245,230,0.02);}
+  .sy-row.head{border-bottom:2px solid rgba(46,107,62,0.3);}
+  .sy-row:first-child{border-top:1px solid var(--c10);}
+  .sy-cell{padding:0.9rem 1rem;font-size:0.83rem;line-height:1.6;color:var(--c60);}
+  .sy-cell.head{font-size:0.62rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);font-weight:500;}
+  .sy-cell.combo{color:var(--cream);font-weight:400;}
+  .sy-cell.effect{color:var(--green);font-size:0.78rem;}
+
+  /* CLOSING */
+  .close-statement{margin:2rem 0;padding:2.5rem;border:1px solid rgba(46,107,62,0.25);background:rgba(46,107,62,0.05);}
+  .cs-lines{display:flex;flex-direction:column;gap:0.6rem;}
+  .cs-line{font-family:'Cormorant Garamond',serif;font-size:clamp(1.2rem,2.2vw,1.9rem);font-weight:300;font-style:italic;color:var(--cream);line-height:1.3;}
+  .cs-line em{font-style:normal;color:var(--gold);}
+
+  .article-close{padding:4rem 0 2rem;}
+  .article-close h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.12;color:var(--cream);margin-bottom:1.2rem;}
+  .article-close h2 em{font-style:italic;color:var(--gold);}
+  .article-close p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1rem;}
+  .article-close p strong{color:var(--cream);font-weight:400;}
+  .article-close .sign{font-size:0.72rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);margin-top:1.5rem;}
+
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label-strip{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,transform 0.2s;}
+  .btn-primary:hover{background:var(--cream);transform:translateY(-2px);}
+  .btn-outline{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .btn-outline:hover{border-color:var(--c60);color:var(--cream);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){.article-wrap{grid-template-columns:1fr;gap:3rem;}.sidebar{position:static;}.mix-body{grid-template-columns:1fr;}.sy-row{grid-template-columns:1fr;}.cta-strip{flex-direction:column;align-items:flex-start;}}
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/learn-straight-mixes.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span><a href="learn.html">Learn</a><span>&middot;</span>Straight Mixes</p>
+  <span class="article-tag">Raw &amp; Living Foods &mdash; Ital Philosophy</span>
+  <h1>Straight<br>mixes.<br><em>Moment is<br>medicine.</em></h1>
+  <div class="header-sub">
+    <p>Every bite is a decision. Every swallow is a conversation between you and your body. <em>The moment you eat is the moment you heal</em> &mdash; or the moment you burden. Understanding which is which is everything.</p>
+  </div>
+  <div class="article-meta">
+    <div class="meta-item">Category <strong>Raw &amp; Living Foods</strong></div>
+    <div class="meta-item">Reading time <strong>10 min</strong></div>
+    <div class="meta-item">Approach <strong>Ital &amp; Nutritional Science</strong></div>
+  </div>
+</header>
+
+<div class="colour-band"><div class="cb-black"></div><div class="cb-red"></div><div class="cb-gold"></div><div class="cb-green"></div></div>
+
+<div class="article-wrap">
+  <aside class="sidebar reveal">
+    <p class="sidebar-label">In this article</p>
+    <nav class="toc">
+      <a href="#moment">The moment as medicine</a>
+      <a href="#straight">What straight mixes are</a>
+      <a href="#synergy">Plant synergy — why mixing matters</a>
+      <a href="#mixes">The mixes themselves</a>
+      <a href="#timeline">A day of medicine moments</a>
+      <a href="#living">Living food science</a>
+    </nav>
+    <div class="sidebar-quote">
+      <p>&ldquo;The body does not wait for medicine. <strong>It receives medicine with every meal.</strong> The question is only whether you are giving it the right kind.&rdquo;</p>
+    </div>
+    <div class="sidebar-logo">
+      <img src="kwik-logo.jpeg" alt="Kwik Fat Cut" loading="eager" fetchpriority="high" decoding="async">
+    </div>
+  </aside>
+
+  <article class="article-body">
+
+    <div class="article-section reveal" id="moment">
+      <p class="section-label">The Foundation</p>
+      <h2>Every moment<br><em>is medicine.</em></h2>
+      <p>This is not a metaphor. It is biology. Every time food enters the mouth, the body begins responding &mdash; enzymatically, hormonally, immunologically. <strong>The meal you eat right now is already becoming the chemistry of your blood, the lining of your gut, the signal sent to your immune system.</strong> It is medicine, whether you intend it that way or not.</p>
+      <p>The only question is: what kind of medicine are you administering?</p>
+      <p>Rastafarian Ital tradition has always understood this. <strong>Ital is vital</strong> &mdash; eating as a sacred act, not a mechanical one. Every meal is a choice to honour or dishonour the body. Every combination of plants is a conversation with the Creator&rsquo;s design. And science, arriving thousands of years later with its instruments and its data, confirms what the Ital practitioner already knew intuitively.</p>
+
+      <div class="pull-quote">
+        <p>&ldquo;Hippocrates said: let food be thy medicine. But the elders understood this <em>before</em> Hippocrates had a name for it. They simply lived it, meal by meal, generation by generation.&rdquo;</p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="straight">
+      <p class="section-label green">The Concept</p>
+      <h2>What straight<br><em>mixes are.</em></h2>
+      <p>A straight mix is exactly what it sounds like. <strong>No cooking. No processing. No heat that destroys enzymes and depletes water-soluble vitamins.</strong> Plants combined in their raw, living state &mdash; each chosen deliberately for what it brings to the body, and for what it brings out in the other plants it is mixed with.</p>
+      <p>The word &ldquo;straight&rdquo; carries weight. Straight means direct. Unmediated. Nothing between the earth and your body. <strong>The plant gives everything it has. The body receives everything it needs.</strong> No industrial process in between deciding what gets kept and what gets discarded.</p>
+      <p>Straight mixes are not a meal replacement or a supplement. They are a return to the most ancient form of eating &mdash; the way the body has been receiving food for most of human history, before fire, before agriculture, before processing. <strong>Raw, whole, alive.</strong></p>
+    </div>
+
+    <div class="article-section reveal" id="synergy">
+      <p class="section-label gold">Plant Synergy</p>
+      <h2>Why mixing<br><em>multiplies the medicine.</em></h2>
+      <p>Nutritional science has a concept called <strong>food synergy</strong> &mdash; the idea that certain plant compounds work dramatically better together than they do alone. This is not additive. It is multiplicative. The combination creates an effect that neither plant could produce independently.</p>
+      <p>The elders knew this not as science but as wisdom. Certain herbs were always combined. Certain fruits were always eaten together. Certain roots were always paired. <strong>Generations of observation produced the same conclusions that laboratory research is now confirming.</strong></p>
+
+      <div class="synergy-table reveal">
+        <div class="sy-row head">
+          <div class="sy-cell head">The combination</div>
+          <div class="sy-cell head">The mechanism</div>
+          <div class="sy-cell head">The medicine</div>
+        </div>
+        <div class="sy-row">
+          <div class="sy-cell combo">Turmeric + black pepper</div>
+          <div class="sy-cell">Piperine in black pepper increases curcumin absorption by up to 2,000%</div>
+          <div class="sy-cell effect">Anti-inflammatory effect multiplied dramatically</div>
+        </div>
+        <div class="sy-row">
+          <div class="sy-cell combo">Vitamin C foods + iron-rich plants</div>
+          <div class="sy-cell">Vitamin C converts non-haem iron to absorbable form</div>
+          <div class="sy-cell effect">Iron absorption from plants increases 3–6 fold</div>
+        </div>
+        <div class="sy-row">
+          <div class="sy-cell combo">Garlic + ginger</div>
+          <div class="sy-cell">Allicin and gingerols work synergistically on inflammation pathways</div>
+          <div class="sy-cell effect">Stronger antimicrobial and anti-inflammatory action</div>
+        </div>
+        <div class="sy-row">
+          <div class="sy-cell combo">Healthy fat + fat-soluble vitamins</div>
+          <div class="sy-cell">Vitamins A, D, E, K require fat for absorption — avocado, coconut, seeds unlock them</div>
+          <div class="sy-cell effect">Nutrients from greens and vegetables fully absorbed</div>
+        </div>
+        <div class="sy-row">
+          <div class="sy-cell combo">Papaya + pineapple</div>
+          <div class="sy-cell">Papain + bromelain — two digestive enzymes working together on protein breakdown</div>
+          <div class="sy-cell effect">Superior protein digestion, reduced bloating</div>
+        </div>
+        <div class="sy-row">
+          <div class="sy-cell combo">Lime + dark leafy greens</div>
+          <div class="sy-cell">Citric acid breaks down oxalates that block mineral absorption</div>
+          <div class="sy-cell effect">Calcium and iron from greens fully released to the body</div>
+        </div>
+      </div>
+
+      <div class="science-strip reveal">
+        <p class="ss-label">Why raw matters for synergy</p>
+        <p>Many of these synergistic compounds are heat-sensitive. Bromelain in pineapple begins to degrade above 60&deg;C. Myrosinase in cruciferous vegetables &mdash; needed to activate cancer-protective sulforaphane &mdash; is destroyed by cooking. <strong>The straight mix preserves the full compound profile</strong> so that synergy can happen as nature designed it.</p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="mixes">
+      <p class="section-label green">The Mixes</p>
+      <h2>Straight mixes<br><em>in practice.</em></h2>
+      <p>These are living combinations. Each one is a medicine moment in a bowl or a glass. Each ingredient is chosen for what it does alone and for what it unlocks in the others.</p>
+
+      <div class="mix-cards">
+
+        <div class="mix-card reveal">
+          <div class="mix-header">
+            <div class="mix-number">01</div>
+            <div class="mix-name">The Blood Builder</div>
+            <span class="mix-tag">Iron &amp; Vitamin C Synergy</span>
+          </div>
+          <div class="mix-body">
+            <div class="mix-ingredients">
+              <h3>Ingredients</h3>
+              <ul>
+                <li>Raw callaloo or baby spinach</li>
+                <li>Fresh orange or lime juice</li>
+                <li>Soaked pumpkin seeds</li>
+                <li>Sliced mango</li>
+                <li>Fresh ginger (grated)</li>
+                <li>Pinch of cayenne</li>
+              </ul>
+            </div>
+            <div class="mix-medicine">
+              <h3>The medicine</h3>
+              <p>Vitamin C from citrus triples iron absorption from callaloo. <strong>Pumpkin seeds add zinc and additional iron.</strong> Ginger opens circulation so nutrients reach the blood faster. Cayenne boosts metabolism. Together: a blood-building medicine moment.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="mix-card reveal">
+          <div class="mix-header">
+            <div class="mix-number">02</div>
+            <div class="mix-name">The Digestive Fire</div>
+            <span class="mix-tag">Enzyme Activation</span>
+          </div>
+          <div class="mix-body">
+            <div class="mix-ingredients">
+              <h3>Ingredients</h3>
+              <ul>
+                <li>Fresh papaya chunks</li>
+                <li>Pineapple pieces</li>
+                <li>Lime juice</li>
+                <li>Fresh mint leaves</li>
+                <li>Coconut water</li>
+                <li>Pinch of sea salt</li>
+              </ul>
+            </div>
+            <div class="mix-medicine">
+              <h3>The medicine</h3>
+              <p>Papain from papaya and bromelain from pineapple are <strong>two of the most powerful plant-based digestive enzymes known.</strong> Combined raw, they break down protein, reduce bloating, and soothe the intestinal lining. Mint calms gut spasms. Coconut water replaces electrolytes.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="mix-card reveal">
+          <div class="mix-header">
+            <div class="mix-number">03</div>
+            <div class="mix-name">The Inflammation Quench</div>
+            <span class="mix-tag">Anti-Inflammatory Synergy</span>
+          </div>
+          <div class="mix-body">
+            <div class="mix-ingredients">
+              <h3>Ingredients</h3>
+              <ul>
+                <li>Fresh turmeric root (grated)</li>
+                <li>Fresh ginger root (grated)</li>
+                <li>Pinch of black pepper</li>
+                <li>Lime juice</li>
+                <li>Raw honey (optional)</li>
+                <li>Warm (not hot) coconut water</li>
+              </ul>
+            </div>
+            <div class="mix-medicine">
+              <h3>The medicine</h3>
+              <p>Black pepper activates curcumin from turmeric by 2,000%. <strong>Ginger adds its own anti-inflammatory gingerols.</strong> The two together target multiple inflammation pathways simultaneously. Used warm, not hot, to preserve enzyme activity. This is not a wellness trend. It is ancient medicine.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="mix-card reveal">
+          <div class="mix-header">
+            <div class="mix-number">04</div>
+            <div class="mix-name">The Skin &amp; Vision Mix</div>
+            <span class="mix-tag">Beta-Carotene &amp; Fat Synergy</span>
+          </div>
+          <div class="mix-body">
+            <div class="mix-ingredients">
+              <h3>Ingredients</h3>
+              <ul>
+                <li>Ripe mango slices</li>
+                <li>Sliced avocado (pear)</li>
+                <li>Shredded carrot</li>
+                <li>Fresh soursop flesh</li>
+                <li>Lime juice &amp; fresh mint</li>
+                <li>Handful of soaked almonds</li>
+              </ul>
+            </div>
+            <div class="mix-medicine">
+              <h3>The medicine</h3>
+              <p>Beta-carotene from mango and carrot converts to vitamin A &mdash; critical for vision, skin, and immunity. <strong>Avocado fat unlocks fat-soluble vitamins that would otherwise pass through unused.</strong> Soursop adds vitamin C. This is a straight mix that works on three body systems simultaneously.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="mix-card reveal">
+          <div class="mix-header">
+            <div class="mix-number">05</div>
+            <div class="mix-name">The Pressure Drop</div>
+            <span class="mix-tag">Potassium &amp; Nitrate Synergy</span>
+          </div>
+          <div class="mix-body">
+            <div class="mix-ingredients">
+              <h3>Ingredients</h3>
+              <ul>
+                <li>Watermelon chunks (with white rind)</li>
+                <li>Cucumber slices</li>
+                <li>Fresh hibiscus (or sorrel)</li>
+                <li>Lime juice</li>
+                <li>Fresh mint &amp; basil</li>
+                <li>Chilled coconut water</li>
+              </ul>
+            </div>
+            <div class="mix-medicine">
+              <h3>The medicine</h3>
+              <p>Watermelon rind contains citrulline &mdash; converted by the body to arginine, which produces <strong>nitric oxide that relaxes blood vessels.</strong> Hibiscus is one of the most clinically studied natural blood pressure reducers. Potassium from coconut water counteracts sodium. Together: gentle, sustained cardiovascular support.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="mix-card reveal">
+          <div class="mix-header">
+            <div class="mix-number">06</div>
+            <div class="mix-name">The Ital Morning Roots</div>
+            <span class="mix-tag">Whole Ital Tradition</span>
+          </div>
+          <div class="mix-body">
+            <div class="mix-ingredients">
+              <h3>Ingredients</h3>
+              <ul>
+                <li>Fresh cerasee or moringa leaves</li>
+                <li>Soaked chia seeds</li>
+                <li>Guinep flesh (seasonal)</li>
+                <li>Star apple or Otaheiti apple</li>
+                <li>Grated coconut flesh</li>
+                <li>Spring water base</li>
+              </ul>
+            </div>
+            <div class="mix-medicine">
+              <h3>The medicine</h3>
+              <p>Cerasee supports blood sugar regulation. Moringa contains more vitamin C than oranges, more calcium than milk. <strong>Chia seeds provide omega-3 fatty acids in a bioavailable raw form.</strong> Guinep and star apple are Caribbean fruits rarely documented in mainstream nutrition — deeply medicinal, deeply Ital. This is the medicine of the land.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="timeline">
+      <p class="section-label">A Day of Medicine</p>
+      <h2>Every moment<br><em>from morning to night.</em></h2>
+      <p>When you understand that every meal is medicine, the structure of your day changes. Not through willpower or restriction &mdash; through awareness. Here is how a day of medicine moments can flow, rooted in Ital tradition and plant science combined.</p>
+
+      <div class="medicine-moments">
+        <div class="mm-item reveal">
+          <div class="mm-time">Before rising</div>
+          <div class="mm-content">
+            <h3>Warm spring water with lime</h3>
+            <p>Before any food, warm water with fresh lime juice <strong>activates the liver, stimulates bile production, and alkalises the body</strong> before the day&rsquo;s demands begin. The moment of waking is the moment of medicine.</p>
+            <span class="mm-medicine">Liver activation &mdash; bile stimulation &mdash; alkalising</span>
+          </div>
+        </div>
+        <div class="mm-item reveal">
+          <div class="mm-time">Morning</div>
+          <div class="mm-content">
+            <h3>The Ital Morning Roots mix or The Blood Builder</h3>
+            <p>Raw, living food first. Before cooked food. The digestive enzymes are fully active, the gut is empty and receptive, and <strong>the body absorbs living plant nutrients at peak efficiency.</strong> This is when the straight mix delivers the most.</p>
+            <span class="mm-medicine">Peak enzyme activity &mdash; maximum absorption</span>
+          </div>
+        </div>
+        <div class="mm-item reveal">
+          <div class="mm-time">Midday</div>
+          <div class="mm-content">
+            <h3>Cooked Ital meal — legumes, grains, greens</h3>
+            <p>The body&rsquo;s digestive fire (<em>agni</em> in Ayurveda; the Ital equivalent is &ldquo;heat of life&rdquo;) is at its strongest at midday. <strong>This is the time for the main cooked meal</strong> &mdash; slow-cooked peas, brown rice, steamed callaloo, roasted provisions.</p>
+            <span class="mm-medicine">Peak digestive capacity &mdash; heaviest meal here</span>
+          </div>
+        </div>
+        <div class="mm-item reveal">
+          <div class="mm-time">Afternoon</div>
+          <div class="mm-content">
+            <h3>The Digestive Fire mix or seasonal fruit</h3>
+            <p>A light, enzyme-rich straight mix between meals supports continued digestion of the midday meal. <strong>Papaya, pineapple, or seasonal Jamaican fruit</strong> keeps the digestive system active without burdening it.</p>
+            <span class="mm-medicine">Continued enzyme support &mdash; afternoon vitality</span>
+          </div>
+        </div>
+        <div class="mm-item reveal">
+          <div class="mm-time">Evening</div>
+          <div class="mm-content">
+            <h3>Light Ital stew or The Pressure Drop mix</h3>
+            <p>Evening is the time to wind down the digestive system, not load it. <strong>A light vegetable stew or hydrating straight mix</strong> with hibiscus, cucumber, and coconut water gives the body what it needs for overnight repair without overtaxing the organs that do their deepest work during sleep.</p>
+            <span class="mm-medicine">Cardiovascular support &mdash; overnight repair preparation</span>
+          </div>
+        </div>
+        <div class="mm-item reveal">
+          <div class="mm-time">Before rest</div>
+          <div class="mm-content">
+            <h3>Cerasee, fever grass, or moringa tea</h3>
+            <p>The final medicine moment. A warm herbal tea &mdash; cerasee for blood sugar, fever grass for nervous system calm, moringa for its extraordinary micronutrient density &mdash; <strong>closes the day the same way it opened: with intention.</strong> The body enters sleep nourished, not burdened.</p>
+            <span class="mm-medicine">Nervous system calm &mdash; blood sugar balance &mdash; deep sleep</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="living">
+      <p class="section-label">The Science of Living Food</p>
+      <h2>Why raw food<br><em>carries more life.</em></h2>
+      <p>Living foods &mdash; raw, unprocessed plants &mdash; contain active enzymes that cooked food does not. These enzymes are not just beneficial; they are <strong>essential participants in digestion</strong>, reducing the burden on the body&rsquo;s own digestive system and ensuring that nutrients are broken down and absorbed at maximum efficiency.</p>
+      <p>Raw plants also contain higher concentrations of <strong>biophotons</strong> &mdash; light energy stored in living cells. This is an area of emerging research, but one that Ital tradition anticipated intuitively. A living plant carries something that a dead, processed food does not. The body knows the difference. <strong>Energy levels, digestion quality, and mental clarity all shift when living food becomes a consistent part of the day.</strong></p>
+
+      <div class="close-statement reveal">
+        <div class="cs-lines">
+          <div class="cs-line">The plant is <em>alive.</em></div>
+          <div class="cs-line">The enzyme is <em>active.</em></div>
+          <div class="cs-line">The moment is <em>medicine.</em></div>
+          <div class="cs-line">The choice is <em>yours.</em></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-close reveal">
+      <h2>Straight. Real.<br><em>Alive.</em></h2>
+      <p>You do not need a programme. You do not need a subscription. You do not need permission. <strong>You need understanding</strong> &mdash; of what the plants do, of what your body is asking for, and of the simple, ancient truth that every moment you eat is a moment of medicine, for better or for worse.</p>
+      <p>Choose straight. Choose living. Choose with full awareness. That is the Kwik Fat Cut way. 🌿🇯🇲❤️💚</p>
+      <p class="sign">Kwik Fat Cut &mdash; Education First &mdash; We row. You steer.</p>
+    </div>
+
+  </article>
+</div>
+
+<div class="rule"></div>
+
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>More living<br><em>knowledge.</em></h3>
+    <p>All articles free. No subscription. The knowledge tree keeps growing.</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="learn-option-meals.html" class="btn-primary">Option Meals</a>
+    <a href="learn.html" class="btn-outline">Learn Hub</a>
+  </div>
+</div>
+
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label-strip">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <p class="ss-body">Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">Share this article</button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link">Twitter / X</a>
+      <a href="#" class="ss-social-link">Instagram</a>
+      <a href="#" class="ss-social-link">TikTok</a>
+      <a href="#" class="ss-social-link">Facebook</a>
+    </div>
+    <p class="ss-note">Follow, like, share, comment. Tell a friend to tell a friend.</p>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+
+<script>
+function shareKFC(){const url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 Straight Mixes: Moment is Medicine',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ss-btn.share');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
+</script>
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

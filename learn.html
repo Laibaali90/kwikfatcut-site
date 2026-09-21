@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="The Kwik Fat Cut Learn Hub — free health education articles on digestion, oral health, ancestral foods, mindful eating, and more. No subscription required. Education before intervention.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Learn — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  .nav-btn:hover{background:var(--cream)!important;}
+  .page-header::before{content:'';position:absolute;top:0;right:0;width:60vw;height:100%;background:radial-gradient(ellipse at 80% 50%,rgba(218,165,32,0.05) 0%,transparent 65%);pointer-events:none;}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(3rem,7vw,6.5rem);font-weight:300;line-height:1.08;color:var(--cream);max-width:700px;opacity:0;animation:up 0.9s 0.2s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:540px;margin-top:2rem;font-size:1rem;line-height:1.9;color:var(--c60);opacity:0;animation:up 0.9s 0.35s ease forwards;}
+
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+
+  /* DECLARATION STRIP */
+  .declaration{padding:4rem 6vw;text-align:center;background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .declaration p{font-family:'Cormorant Garamond',serif;font-size:clamp(1.2rem,2.5vw,1.8rem);font-weight:300;font-style:italic;color:var(--c60);max-width:700px;margin:0 auto;line-height:1.5;}
+  .declaration p em{font-style:normal;color:var(--gold);}
+
+  /* ARTICLE GRID */
+  .learn-grid-section{padding:6rem 6vw;}
+  .lg-header{margin-bottom:4rem;}
+  .lg-header .section-tag{font-size:0.66rem;letter-spacing:0.32em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.8rem;}
+  .lg-header h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.15;color:var(--cream);}
+  .lg-header h2 em{font-style:italic;color:var(--gold);}
+
+  .article-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:2px;}
+
+  .article-card{border:1px solid var(--c10);padding:2.5rem 2.2rem;display:flex;flex-direction:column;justify-content:space-between;transition:border-color 0.3s,background 0.3s;text-decoration:none;}
+  .article-card:hover{border-color:var(--g20);background:var(--g08);}
+  .article-card.featured{border-color:rgba(218,165,32,0.2);background:var(--g08);}
+
+  .ac-tag{font-size:0.62rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--green);font-weight:500;margin-bottom:1.2rem;}
+  .ac-tag.oral{color:var(--red);}
+  .ac-tag.mindful{color:var(--gold);}
+
+  .ac-title{font-family:'Cormorant Garamond',serif;font-size:1.4rem;font-weight:400;line-height:1.25;color:var(--cream);margin-bottom:0.8rem;}
+  .ac-excerpt{font-size:0.85rem;line-height:1.8;color:var(--c60);flex-grow:1;}
+  .ac-footer{margin-top:2rem;display:flex;align-items:center;justify-content:space-between;}
+  .ac-meta{font-size:0.68rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--c30);}
+  .ac-arrow{font-size:0.8rem;color:var(--gold);opacity:0.6;transition:opacity 0.2s,transform 0.2s;}
+  .article-card:hover .ac-arrow{opacity:1;transform:translateX(4px);}
+
+  /* COMING SOON CARD */
+  .article-card.coming{opacity:0.45;pointer-events:none;}
+  .ac-soon{font-size:0.62rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);margin-top:0.5rem;}
+
+  /* NON PROFIT BANNER */
+  .nonprofit-banner{margin:0 6vw;padding:2.5rem 3rem;border:1px solid rgba(46,107,62,0.25);background:rgba(46,107,62,0.05);display:flex;align-items:center;gap:3rem;flex-wrap:wrap;}
+  .nb-text h3{font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:400;color:var(--cream);margin-bottom:0.5rem;}
+  .nb-text p{font-size:0.88rem;line-height:1.8;color:var(--c60);}
+  .nb-text p strong{color:var(--cream);font-weight:400;}
+  .nb-badge{flex-shrink:0;font-size:0.66rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--green);border:1px solid rgba(46,107,62,0.4);padding:0.4rem 1rem;border-radius:2px;font-weight:500;white-space:nowrap;}
+
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,transform 0.2s;}
+  .btn-primary:hover{background:var(--cream);transform:translateY(-2px);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){.nonprofit-banner{flex-direction:column;gap:1.5rem;}.cta-strip{flex-direction:column;align-items:flex-start;}}
+
+  /* SOCIAL STRIP */
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn svg{width:15px;height:15px;fill:currentColor;flex-shrink:0;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-btn.follow:hover{background:var(--g08);border-color:var(--gold);}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/learn.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a> &middot; Learn</p>
+  <h1>The knowledge<br><em>tree grows here.</em></h1>
+  <p class="lede">Free health education rooted in ancestral wisdom, indigenous whole foods, and practical understanding. No subscriptions. No pressure. Start wherever you are.</p>
+</header>
+
+<div class="rule"></div>
+
+<div class="declaration reveal">
+  <p>&ldquo;Prioritise <em>education before intervention.</em> Learn first. Start free. Understand first.&rdquo;</p>
+</div>
+
+<div class="rule"></div>
+
+<section class="learn-grid-section">
+  <div class="lg-header reveal">
+    <p class="section-tag">All Articles</p>
+    <h2>Foundation <em>articles.</em></h2>
+  </div>
+  <div class="article-grid">
+
+    <a href="learn-family-tree.html" class="article-card featured reveal">
+      <div>
+        <p class="ac-tag">🌳 Foundation</p>
+        <h3 class="ac-title">The Family Tree &amp; How Your Body Draws Nourishment</h3>
+        <p class="ac-excerpt">Roots do not disappear overnight &mdash; they grow steadily and deeply over time. Understand the tree-body metaphor, how digestion truly begins, and why what you consume determines what you absorb.</p>
+      </div>
+      <div class="ac-footer">
+        <span class="ac-meta">6 min read &middot; Digestion &amp; Nutrition</span>
+        <span class="ac-arrow">→</span>
+      </div>
+    </a>
+
+    <a href="learn-mindful-eating.html" class="article-card reveal">
+      <div>
+        <p class="ac-tag mindful">🍃 Practice</p>
+        <h3 class="ac-title">Mindful Eating &amp; The Foundation of Lasting Health</h3>
+        <p class="ac-excerpt">Food is not a luxury &mdash; it is life. Explore the practice of mindful eating, how habits grow like roots, and why trust, integrity and education form the only solid foundation for health.</p>
+      </div>
+      <div class="ac-footer">
+        <span class="ac-meta">7 min read &middot; Mindful Eating</span>
+        <span class="ac-arrow">→</span>
+      </div>
+    </a>
+
+    <a href="learn-oral-health.html" class="article-card reveal">
+      <div>
+        <p class="ac-tag oral">💋 Oral Health</p>
+        <h3 class="ac-title">Health Begins in the Mouth</h3>
+        <p class="ac-excerpt">The mouth is the gateway to your overall well-being. Discover the five taste signals, the role of saliva, why oral hygiene connects to whole-body health, and the fundamental truth about what we consume.</p>
+      </div>
+      <div class="ac-footer">
+        <span class="ac-meta">8 min read &middot; Oral Health &amp; Nutrition</span>
+        <span class="ac-arrow">→</span>
+      </div>
+    </a>
+
+    <a href="learn-ancient-oral-wisdom.html" class="article-card reveal">
+      <div>
+        <p class="ac-tag" style="color:var(--gold);">🏛️ Deep Read</p>
+        <h3 class="ac-title">Before Modern Dentistry &mdash; Ancient Oral Wisdom</h3>
+        <p class="ac-excerpt">The Moors used the miswak daily. The Aztecs built diets around fibrous whole foods that cleaned as they nourished. Two civilisations, one pattern. Restore memory &mdash; trace the roots.</p>
+      </div>
+      <div class="ac-footer">
+        <span class="ac-meta">9 min read &middot; Ancient Wisdom</span>
+        <span class="ac-arrow">→</span>
+      </div>
+    </a>
+
+    <a href="learn-returning-to-real-food.html" class="article-card reveal">
+      <div>
+        <p class="ac-tag" style="color:#5a9a6e;">🌿 Ancestral Foods</p>
+        <h3 class="ac-title">Returning to Real Food</h3>
+        <p class="ac-excerpt">Modern health problems did not appear overnight. Learning from Jamaica, the Caribbean, and ancestral traditions &mdash; the original blueprint of human nutrition, and five steps to start today.</p>
+      </div>
+      <div class="ac-footer">
+        <span class="ac-meta">10 min read &middot; Ancestral Foods</span>
+        <span class="ac-arrow">→</span>
+      </div>
+    </a>
+
+    <a href="learn-digestion-food-safety.html" class="article-card reveal">
+      <div>
+        <p class="ac-tag oral">⚡ Digestion &amp; Safety</p>
+        <h3 class="ac-title">It All Starts With Your Stomach Hurting</h3>
+        <p class="ac-excerpt">Why chewing thoroughly matters. What undigested food does to the body. Symptoms to recognise. Food safety risks, pathogens, and the hidden dangers in some fruit seeds.</p>
+      </div>
+      <div class="ac-footer">
+        <span class="ac-meta">8 min read &middot; Digestion &amp; Food Safety</span>
+        <span class="ac-arrow">→</span>
+      </div>
+    </a>
+
+    <div class="article-card coming reveal">
+      <div>
+        <p class="ac-tag">🦠 Coming Soon</p>
+        <h3 class="ac-title">The Gut Microbiome: Your Second Brain</h3>
+        <p class="ac-excerpt">Trillions of bacteria influence digestion, immunity, mental health, and vitamin production. Understanding your microbiome changes how you understand food.</p>
+        <p class="ac-soon">Article in preparation</p>
+      </div>
+    </div>
+
+    <div class="article-card coming reveal">
+      <div>
+        <p class="ac-tag">🔥 Coming Soon</p>
+        <h3 class="ac-title">Chronic Inflammation &amp; What Diet Has to Do With It</h3>
+        <p class="ac-excerpt">Inflammation underpins heart disease, diabetes, obesity, arthritis, and some cancers. Diet can increase or reduce it. The choice, once understood, is yours.</p>
+        <p class="ac-soon">Article in preparation</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<div class="nonprofit-banner reveal">
+  <div class="nb-text">
+    <h3>All articles are free. Always.</h3>
+    <p>Kwik Fat Cut is a <strong>non-profit platform</strong> dedicated to indigenous whole-foods health education. Every article, guide, and resource is produced to enhance understanding of healthy foods, nutrition, and environmental factors &mdash; at no cost to you.</p>
+  </div>
+  <span class="nb-badge">Non-Profit Platform</span>
+</div>
+
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>Track what you learn.<br><em>Start free.</em></h3>
+    <p>Download the Kwik Fat Cut app and begin logging your food &mdash; no subscription required.</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="learn.html" class="btn-primary">Start Learning</a>
+  </div>
+</div>
+
+
+<!-- SOCIAL ENGAGEMENT STRIP -->
+<!-- KFC:INDEX START  generated by build/build-hubs.py, do not edit by hand -->
+  <section class="kfc-index">
+    <div class="kfc-index-head reveal">
+      <p class="section-tag">The full index</p>
+      <h2 class="section-title">Every article</h2>
+      <p class="lede">Everything published so far, in one place. Start anywhere. There is no order you are meant to follow.</p>
+    </div>
+    <div class="kfc-index-grid">
+      <a href="learn-nations-guide-health.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">🇯🇲 Return to Real Food Series &amp;mdash; Part 5 of 7</p>
+          <h3 class="ac-title">A nation&amp;rsquo;s guide. Health, wealth &amp;amp; wisdom.</h3>
+          <p class="ac-excerpt">A Nation's Guide to Health, Wealth and Wisdom — how real food keeps Jamaica, families, communities, and residents healthy, wealthy, and wise. Rooted in ancient knowledge, proven by modern science.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">13 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-ancient-oral-wisdom.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">Explore &amp;mdash; Kwik Fat Cut Foods Hub</p>
+          <h3 class="ac-title">Before modern dentistry &amp;mdash; oral health was lived.</h3>
+          <p class="ac-excerpt">Before modern dentistry, oral health was not outsourced — it was lived. The Moors used the miswak daily.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">6 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-blood.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">🩸 Blood Science &amp;mdash; Deep Research &amp;mdash; The Body&amp;rsquo;s Living River</p>
+          <h3 class="ac-title">Blood. The body&amp;rsquo;s living river.</h3>
+          <p class="ac-excerpt">Blood — the body's living river. If water is the fluid of life, blood is life in motion.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">16 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-food-community.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">🌳 Return to Real Food Series &amp;mdash; Part 6 of 7</p>
+          <h3 class="ac-title">Building the food community. How knowledge keeps families healthy.</h3>
+          <p class="ac-excerpt">Building the Food Community — how knowledge keeps families healthy. How communities teaching each other about real food create lasting health.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">12 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-oral-health.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">Health Education</p>
+          <h3 class="ac-title">Health begins in the mouth.</h3>
+          <p class="ac-excerpt">Health begins in the mouth. Your taste buds, saliva, digestion, and daily oral care habits all connect to your overall well-being.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">6 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-digestion-food-safety.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">Digestion &amp;amp; Food Safety</p>
+          <h3 class="ac-title">It all starts with your stomach hurting.</h3>
+          <p class="ac-excerpt">It all starts with your stomach hurting. Why chewing thoroughly matters, what undigested food does to the body, digestion symptoms to recognise, and food safety risks — clear, honest education.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">5 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-living-longer.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">🌳 Return to Real Food Series &amp;mdash; Part 7 of 7 &amp;mdash; Final</p>
+          <h3 class="ac-title">Living longer. Healthier. Happier.</h3>
+          <p class="ac-excerpt">Living Longer, Healthier and Happier — the evidence from ancient populations. The Blue Zones, ancestral longevity science, and how real food builds a longer, fuller life.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">16 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-mindful-eating.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">Health Education &amp;mdash; Practice</p>
+          <h3 class="ac-title">Mindful eating &amp;amp; the foundation of lasting health.</h3>
+          <p class="ac-excerpt">Mindful eating and the foundation of lasting health. Food is not a luxury — it is life.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">5 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-movement-is-medicine.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">Embrace Healthy Living &amp;mdash; Part 1 of 3 &amp;mdash; Physical</p>
+          <h3 class="ac-title">Movement is medicine.</h3>
+          <p class="ac-excerpt">Movement Is Medicine — the deeply researched physical dimension of healthy living. How the body was designed to move, what happens when it does not, and how plant-based whole foods amplify every physical gain.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">10 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-returning-to-real-food.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">Ancestral Nutrition &amp;mdash; Proven by Science &amp;mdash; Rooted in Tradition</p>
+          <h3 class="ac-title">Returning to real food. Learning from the past to build a stronger future.</h3>
+          <p class="ac-excerpt">Returning to Real Food — learning from the past to build a stronger future. The deeply researched case for indigenous, whole, plant-based foods rooted in ancestral wisdom and confirmed by modern science.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">15 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-water-vs-blood.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">🌳 Roots Never Seen &amp;mdash; Water vs Blood</p>
+          <h3 class="ac-title">Roots never seen. But they shape everything.</h3>
+          <p class="ac-excerpt">Roots Never Seen, But They Shape Everything. Water and blood — two vital fluids compared, rooted in family, ancestral tradition, and proven science.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">8 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-spirit-is-the-root.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">Embrace Healthy Living &amp;mdash; Part 3 of 3 &amp;mdash; Spiritual</p>
+          <h3 class="ac-title">Spirit is the root.</h3>
+          <p class="ac-excerpt">Spirit Is the Root — the deeply researched spiritual dimension of healthy living. How purpose, meaning, and ancestral connection are documented drivers of longevity, healing, and whole-body health.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">11 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-stillness-is-medicine.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">Embrace Healthy Living &amp;mdash; Part 2 of 3 &amp;mdash; Mental</p>
+          <h3 class="ac-title">Stillness is medicine.</h3>
+          <p class="ac-excerpt">Stillness Is Medicine — the deeply researched mental dimension of healthy living. How the mind heals through rest, silence, and awareness.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">10 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-ancient-archive.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">📜 Return to Real Food Series &amp;mdash; Part 1 &amp;mdash; Ancient Archive</p>
+          <h3 class="ac-title">The ancient archive. What indigenous peoples actually ate.</h3>
+          <p class="ac-excerpt">The Ancient Archive — what indigenous peoples actually ate. Drawn from anthropological records, archaeological evidence, and oral traditions.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">13 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-family-tree.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">Health Education &amp;mdash; Foundation</p>
+          <h3 class="ac-title">The family tree &amp;amp; how your body draws nourishment.</h3>
+          <p class="ac-excerpt">The family tree and how your body draws nourishment. Roots grow steadily — and so does health.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">5 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-family-tree-origin.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">Origins &amp;mdash; Deep Research &amp;mdash; Identity &amp;amp; Survival</p>
+          <h3 class="ac-title">The family tree. The original structure of human survival.</h3>
+          <p class="ac-excerpt">The Family Tree: The Original Structure of Human Survival. Not a hobby.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">8 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-moorish-table.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">📜 Return to Real Food Series &amp;mdash; Part 4 of 7</p>
+          <h3 class="ac-title">The Moorish table. The foods that changed the world.</h3>
+          <p class="ac-excerpt">The Moorish Table — the foods that changed the world. Drawn from the British Library's Andalusian manuscripts, Ibn Sina's Canon of Medicine, and 700 years of documented Islamic nutritional science.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">14 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-taino-diet.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">🌴 Return to Real Food Series &amp;mdash; Part 2 &amp;mdash; The Taino Diet</p>
+          <h3 class="ac-title">The Taino diet. Jamaica&amp;rsquo;s first food tradition.</h3>
+          <p class="ac-excerpt">The Taino Diet — Jamaica's first food tradition. What the original inhabitants ate, how they cultivated it, and the deep nutritional intelligence embedded in Caribbean indigenous food culture.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">10 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-west-african-food-traditions.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">🌍 Return to Real Food Series &amp;mdash; Part 3 of 7</p>
+          <h3 class="ac-title">West African food traditions. The roots of Caribbean cuisine.</h3>
+          <p class="ac-excerpt">West African Food Traditions — the roots of Caribbean cuisine. The foods, farming systems, and nutritional wisdom that crossed the Atlantic and became the foundation of Jamaican cooking.</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">13 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+      <a href="learn-water.html" class="article-card reveal">
+        <div>
+          <p class="ac-tag">💧 Hydration Science &amp;mdash; Deep Research &amp;mdash; Foundations of Life</p>
+          <h3 class="ac-title">What is water? Is it truly the fluid of life?</h3>
+          <p class="ac-excerpt">What is water? Is it truly the fluid of life?</p>
+        </div>
+        <div class="ac-footer">
+          <span class="ac-meta">14 min read</span>
+          <span class="ac-arrow">&rarr;</span>
+        </div>
+      </a>
+    </div>
+  </section>
+  <!-- KFC:INDEX END -->
+
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <p class="ss-body">We take feedback like yours seriously. If Kwik Fat Cut opened your eyes, helped you understand your body better, or gave someone you love a new perspective &mdash; pass it on. Tell a friend to tell a friend. No pressure. Just a gentle invitation.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">
+        <svg viewBox="0 0 24 24" style="width:15px;height:15px;fill:currentColor;flex-shrink:0;"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg>
+        Share this page
+      </button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">Twitter / X</a>
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">Instagram</a>
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">TikTok</a>
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">Facebook</a>
+    </div>
+    <p class="ss-note">Follow, like, share, comment. Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+
+
+
+
+<script>
+function shareKFC() {
+  const url = window.location.href;
+  const title = 'Kwik Fat Cut — Free Health Education';
+  if (navigator.share) {
+    navigator.share({title, url}).catch(()=>copyURL(url));
+  } else { copyURL(url); }
+}
+function copyURL(url) {
+  navigator.clipboard?.writeText(url).then(()=>{
+    const b = document.querySelector('.ss-btn.share');
+    if(b){const orig=b.innerHTML;b.textContent='✓ Link copied!';setTimeout(()=>b.innerHTML=orig,2500);}
+  });
+}
+</script>
+
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

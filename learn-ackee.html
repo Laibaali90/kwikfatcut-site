@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Ackee — Jamaica national fruit originating from West Africa. Full nutritional profile, ripening guide, health benefits, and cultural significance. Rich in omega-3 fatty acids, vitamins A, C, and B-complex.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ackee — Jamaica's National Fruit — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse 55% 60% at 75% 35%,rgba(193,68,14,0.08) 0%,transparent 62%),radial-gradient(ellipse 40% 45% at 10% 78%,rgba(218,165,32,0.05) 0%,transparent 55%);}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb a:hover{color:var(--c60);}
+  .breadcrumb span{margin:0 0.6rem;}
+  .article-tag{display:inline-block;font-size:0.64rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--red);border:1px solid rgba(193,68,14,0.35);padding:0.25rem 0.7rem;border-radius:2px;margin-bottom:1.5rem;opacity:0;animation:up 0.9s 0.15s ease forwards;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(3rem,8vw,7.5rem);font-weight:300;line-height:1.05;color:var(--cream);max-width:820px;opacity:0;animation:up 0.9s 0.22s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:560px;margin-top:2rem;font-size:1.05rem;line-height:1.9;color:var(--c60);font-style:italic;opacity:0;animation:up 0.9s 0.38s ease forwards;}
+  .article-meta{margin-top:2rem;display:flex;gap:2rem;flex-wrap:wrap;opacity:0;animation:up 0.9s 0.48s ease forwards;}
+  .meta-item{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);}
+  .meta-item strong{color:var(--c60);font-weight:400;}
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:4px;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+  .article-wrap{padding:6rem 6vw;display:grid;grid-template-columns:1fr 2.5fr;gap:6rem;align-items:start;}
+  .sidebar{position:sticky;top:110px;}
+  .sidebar-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:1.2rem;font-weight:500;}
+  .toc a{font-size:0.82rem;color:var(--c60);text-decoration:none;padding:0.65rem 0;border-bottom:1px solid var(--c10);display:block;transition:color 0.2s;line-height:1.4;}
+  .toc a:first-child{border-top:1px solid var(--c10);}
+  .toc a:hover{color:var(--gold);}
+  .sidebar-fact{margin-top:2.5rem;border-left:2px solid var(--red);padding:1.2rem;background:rgba(193,68,14,0.06);}
+  .sidebar-fact p{font-size:0.8rem;line-height:1.75;color:var(--c60);}
+  .sidebar-fact strong{color:var(--cream);font-weight:400;}
+  .sidebar-logo{margin-top:2rem;text-align:center;}
+  .sidebar-logo img{width:120px;height:auto;opacity:0.85;}
+  .article-body{display:flex;flex-direction:column;gap:0;}
+  .article-section{padding:3.2rem 0;border-bottom:1px solid var(--c10);}
+  .article-section:first-child{padding-top:0;}
+  .article-section:last-child{border-bottom:none;}
+  .section-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.8rem;}
+  .section-label.green{color:var(--green);}
+  .section-label.gold{color:var(--gold);}
+  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.6rem,2.8vw,2.5rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.5rem;}
+  .article-section h2 em{font-style:italic;color:var(--gold);}
+  .article-section p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1.2rem;}
+  .article-section p strong{color:var(--cream);font-weight:400;}
+  .article-section p:last-child{margin-bottom:0;}
+  .pull-quote{margin:2.5rem 0;padding:2rem 2.5rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .pull-quote p{font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:300;font-style:italic;line-height:1.6;color:var(--cream);}
+  .pull-quote p em{font-style:normal;color:var(--gold);}
+
+  /* RIPENING JOURNEY */
+  .ripening{display:flex;gap:0;margin:2rem 0;overflow:hidden;border:1px solid var(--c10);}
+  .rip-stage{flex:1;padding:1.5rem 1.2rem;text-align:center;border-right:1px solid var(--c10);}
+  .rip-stage:last-child{border-right:none;}
+  .rip-colour{width:36px;height:36px;border-radius:50%;margin:0 auto 0.8rem;}
+  .rip-name{font-family:'Cormorant Garamond',serif;font-size:1rem;font-weight:400;color:var(--cream);margin-bottom:0.3rem;}
+  .rip-desc{font-size:0.74rem;line-height:1.6;color:var(--c60);}
+
+  /* NUTRIENT PROFILE */
+  .nutrient-profile{margin:2rem 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:2px;}
+  .np-card{padding:1.4rem 1.2rem;border:1px solid var(--c10);transition:background 0.3s;}
+  .np-card:hover{background:var(--g08);}
+  .np-name{font-size:0.84rem;font-weight:500;color:var(--cream);margin-bottom:0.25rem;}
+  .np-detail{font-size:0.78rem;line-height:1.6;color:var(--c60);}
+
+  /* BENEFITS */
+  .benefits{display:flex;flex-direction:column;gap:0;margin:2rem 0;}
+  .ben-item{display:flex;gap:1.5rem;align-items:flex-start;padding:1.4rem 0;border-bottom:1px solid var(--c10);}
+  .ben-item:first-child{border-top:1px solid var(--c10);}
+  .ben-num{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--gold);opacity:0.3;flex-shrink:0;line-height:1;width:2rem;}
+  .ben-content h3{font-size:0.9rem;font-weight:500;color:var(--cream);margin-bottom:0.3rem;}
+  .ben-content p{font-size:0.86rem;line-height:1.8;color:var(--c60);}
+  .ben-content p strong{color:var(--cream);font-weight:400;}
+
+  /* WARNING */
+  .warning-block{margin:2rem 0;padding:1.8rem 2rem;border:1px solid rgba(193,68,14,0.3);background:rgba(193,68,14,0.05);}
+  .wb-label{font-size:0.62rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.7rem;}
+  .warning-block p{font-size:0.9rem;line-height:1.85;color:var(--c60);}
+  .warning-block p strong{color:var(--cream);font-weight:400;}
+
+  .article-close{padding:4rem 0 2rem;}
+  .article-close h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.2rem;}
+  .article-close h2 em{font-style:italic;color:var(--gold);}
+  .article-close p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1rem;}
+  .article-close .sign{font-size:0.72rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--c30);margin-top:1.5rem;}
+
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,transform 0.2s;}
+  .btn-primary:hover{background:var(--cream);transform:translateY(-2px);}
+  .btn-outline{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .btn-outline:hover{border-color:var(--c60);color:var(--cream);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){.article-wrap{grid-template-columns:1fr;gap:3rem;}.sidebar{position:static;}.ripening{flex-direction:column;}.cta-strip{flex-direction:column;align-items:flex-start;}}
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/learn-ackee.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span><a href="foods-hub.html">Foods Hub</a><span>&middot;</span>Ackee</p>
+  <span class="article-tag">🇯🇲 Jamaica&rsquo;s National Fruit</span>
+  <h1>Ackee.<br><em>From West Africa<br>to Jamaica&rsquo;s table.</em></h1>
+  <p class="lede">Originating from West Africa and introduced to Jamaica in the 18th century, ackee quickly became a Caribbean culinary symbol. Today it is Jamaica&rsquo;s national fruit &mdash; and one of the most nutritionally remarkable foods on the island.</p>
+  <div class="article-meta">
+    <div class="meta-item">Category <strong>Jamaican Foods</strong></div>
+    <div class="meta-item">Reading time <strong>9 min</strong></div>
+    <div class="meta-item">Origin <strong>West Africa &rarr; Jamaica</strong></div>
+  </div>
+</header>
+
+<div class="colour-band"><div class="cb-black"></div><div class="cb-red"></div><div class="cb-gold"></div><div class="cb-green"></div></div>
+
+<div class="article-wrap">
+  <aside class="sidebar reveal">
+    <p class="sidebar-label">In this article</p>
+    <nav class="toc">
+      <a href="#origins">Origins &amp; history</a>
+      <a href="#ripening">The ripening journey</a>
+      <a href="#nutrition">Nutritional profile</a>
+      <a href="#benefits">Health benefits</a>
+      <a href="#safety">Safety &amp; preparation</a>
+      <a href="#culture">Cultural significance</a>
+    </nav>
+    <div class="sidebar-fact">
+      <p><strong>Scientific name:</strong> Blighia sapida<br><br>Named after Captain William Bligh, who transported the fruit from West Africa to England in 1793. It reached Jamaica through the transatlantic slave trade.</p>
+    </div>
+    <div class="sidebar-logo">
+      <img src="kwik-logo.jpeg" alt="Kwik Fat Cut" loading="eager" fetchpriority="high" decoding="async">
+    </div>
+  </aside>
+
+  <article class="article-body">
+
+    <div class="article-section reveal" id="origins">
+      <p class="section-label">Origins</p>
+      <h2>From West Africa<br><em>to the Caribbean table.</em></h2>
+      <p>The ackee fruit (<em>Blighia sapida</em>) is celebrated for its unique, lively flavour and is a staple in exotic culinary traditions. <strong>Originating from West Africa and cultivated for centuries</strong>, it continues to delight worldwide. Introduced to Jamaica during the 18th-century transatlantic slave trade, ackee quickly became a Caribbean culinary symbol.</p>
+      <p>Its fragrant aroma, smooth creamy flesh, and sweet nutty flavour &mdash; reminiscent of tropical almonds &mdash; made it instantly beloved. But beyond flavour, <strong>ackee carries a rich nutritional profile</strong> including essential fatty acids (omega-3 and omega-6), vitamins A, C, and B-complex, and numerous phytochemicals with antioxidant properties.</p>
+      <p>Today, as a key ingredient in Jamaica&rsquo;s national dish &mdash; ackee and saltfish &mdash; it is a staple throughout the Caribbean, found in nearly every market stall and street vendor&rsquo;s stand, especially across Jamaica.</p>
+    </div>
+
+    <div class="article-section reveal" id="ripening">
+      <p class="section-label gold">The Ripening Journey</p>
+      <h2>Watch the ackee<br><em>reveal itself.</em></h2>
+      <p>The ripening of ackee is one of nature&rsquo;s most deliberate processes. The fruit moves through a visible colour transformation that signals when it is ready &mdash; and when it is not. <strong>Understanding this journey is essential.</strong> Unripe ackee is toxic. Fully ripe ackee is a nutritional powerhouse.</p>
+
+      <div class="ripening">
+        <div class="rip-stage">
+          <div class="rip-colour" style="background:#4a7c3f;"></div>
+          <div class="rip-name">Green</div>
+          <div class="rip-desc">Unripe. Closed. Toxic at this stage. Never consume.</div>
+        </div>
+        <div class="rip-stage">
+          <div class="rip-colour" style="background:#c8a84b;"></div>
+          <div class="rip-name">Yellow</div>
+          <div class="rip-desc">Beginning to ripen. Pod starts to open naturally.</div>
+        </div>
+        <div class="rip-stage">
+          <div class="rip-colour" style="background:#d4763a;"></div>
+          <div class="rip-name">Orange</div>
+          <div class="rip-desc">Ripening. Pod opens wider. Arils becoming visible.</div>
+        </div>
+        <div class="rip-stage" style="background:rgba(193,68,14,0.06);border-color:rgba(193,68,14,0.2);">
+          <div class="rip-colour" style="background:#C1440E;"></div>
+          <div class="rip-name">Red ✓</div>
+          <div class="rip-desc">Fully ripe. Pod open. Three black seeds visible. Safe to pick and prepare.</div>
+        </div>
+      </div>
+
+      <p>When fully ripe, the fruit displays <strong>three large, shiny black seeds</strong> (and sometimes a fourth, hidden inside) surrounded by soft, spongy, edible arils &mdash; the fruit&rsquo;s pulp &mdash; with a creamy texture and mild, savoury flavour. These arils are used in various culinary styles across the Caribbean.</p>
+    </div>
+
+    <div class="article-section reveal" id="nutrition">
+      <p class="section-label green">Nutritional Profile</p>
+      <h2>What ackee<br><em>delivers to the body.</em></h2>
+      <p>Ackee is highly nutritious, rich in vitamins, minerals, and bioactive compounds that contribute to a nutritious diet. Its nutritional range is exceptional for a tropical fruit.</p>
+
+      <div class="nutrient-profile">
+        <div class="np-card reveal">
+          <div class="np-name">Vitamin A</div>
+          <div class="np-detail">Supports vision, immune health, and organ function. Critical for cellular repair and skin integrity.</div>
+        </div>
+        <div class="np-card reveal">
+          <div class="np-name">Vitamin C</div>
+          <div class="np-detail">Crucial for tissue repair and antioxidant defence. Supports collagen production and immune resilience.</div>
+        </div>
+        <div class="np-card reveal">
+          <div class="np-name">B-Complex (B1, B2, B3)</div>
+          <div class="np-detail">Aid in energy metabolism. B1 supports nerve function, B2 assists cell growth, B3 regulates cholesterol.</div>
+        </div>
+        <div class="np-card reveal">
+          <div class="np-name">Potassium</div>
+          <div class="np-detail">~300–500mg per 100g. Natural vasodilator — relaxes blood vessel walls, improves circulation.</div>
+        </div>
+        <div class="np-card reveal">
+          <div class="np-name">Magnesium &amp; Zinc</div>
+          <div class="np-detail">Support bone density, immune function, wound healing, and over 300 enzymatic processes.</div>
+        </div>
+        <div class="np-card reveal">
+          <div class="np-name">Essential Fatty Acids</div>
+          <div class="np-detail">Omega-3 and omega-6 fatty acids. Brain health, inflammation regulation, cardiovascular support.</div>
+        </div>
+        <div class="np-card reveal">
+          <div class="np-name">Flavonoids</div>
+          <div class="np-detail">Antioxidant phytochemicals that protect against oxidative stress and cellular damage.</div>
+        </div>
+        <div class="np-card reveal">
+          <div class="np-name">Dietary Fibre</div>
+          <div class="np-detail">Supports healthy gastrointestinal function, eases constipation, and helps regulate cholesterol.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="benefits">
+      <p class="section-label">Health Benefits</p>
+      <h2>A superfruit<br><em>for the whole body.</em></h2>
+      <p>From lowering blood pressure to boosting energy &mdash; ackee&rsquo;s benefits are wide-ranging and well-documented. This is not marketing language. This is what the nutritional science confirms about a fruit Jamaicans have eaten for generations.</p>
+
+      <div class="benefits">
+        <div class="ben-item reveal">
+          <div class="ben-num">01</div>
+          <div class="ben-content">
+            <h3>Enhanced digestion</h3>
+            <p>Rich in dietary fibre, ackee promotes healthy gastrointestinal function. Its high fibre content helps ease constipation and reduces bloating, cramps, and colon inflammation. <strong>It also lowers cholesterol</strong>, directly supporting heart health through the digestive pathway.</p>
+          </div>
+        </div>
+        <div class="ben-item reveal">
+          <div class="ben-num">02</div>
+          <div class="ben-content">
+            <h3>Blood pressure regulation</h3>
+            <p>Containing approximately <strong>300–500mg of potassium per 100 grams</strong>, ackee helps relax blood vessel walls and improve circulation &mdash; reducing the risk of hypertension. Potassium is one of nature&rsquo;s most effective natural vasodilators.</p>
+          </div>
+        </div>
+        <div class="ben-item reveal">
+          <div class="ben-num">03</div>
+          <div class="ben-content">
+            <h3>Energy &amp; vitality</h3>
+            <p>The B-complex vitamins in ackee drive energy metabolism at the cellular level &mdash; converting food into usable fuel. <strong>This is sustained energy</strong>, not the spike-and-crash of refined carbohydrates.</p>
+          </div>
+        </div>
+        <div class="ben-item reveal">
+          <div class="ben-num">04</div>
+          <div class="ben-content">
+            <h3>Immune strength</h3>
+            <p>Vitamins A and C, combined with zinc and flavonoids, provide a comprehensive immune support profile. <strong>Ackee strengthens the body&rsquo;s defences</strong> at multiple levels simultaneously.</p>
+          </div>
+        </div>
+        <div class="ben-item reveal">
+          <div class="ben-num">05</div>
+          <div class="ben-content">
+            <h3>Bone health</h3>
+            <p>Magnesium, phosphorus, and calcium work together to support bone density and tooth strength. <strong>Essential for long-term skeletal health</strong> across all age groups.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="safety">
+      <p class="section-label">Safety First</p>
+      <h2>Important:<br><em>preparation matters.</em></h2>
+      <p>Ackee contains alkaloids &mdash; particularly <strong>hypoglycin A and B</strong> &mdash; that are toxic in unripe fruit but decrease significantly as the fruit ripens. These compounds are responsible for Jamaican Vomiting Sickness if unripe ackee is consumed.</p>
+
+      <div class="warning-block reveal">
+        <p class="wb-label">Always follow these rules</p>
+        <p><strong>Never pick or consume ackee before the pod opens naturally.</strong> Only harvest when the fruit has turned red and split open fully, revealing the three black seeds. Never force the pod open. Never eat the seeds, the pink membrane, or the inner lining &mdash; only the cream/yellow arils are edible. Properly prepared, fully ripe ackee is safe and nutritious for all ages.</p>
+      </div>
+    </div>
+
+    <div class="article-section reveal" id="culture">
+      <p class="section-label gold">Cultural Heart</p>
+      <h2>Jamaica&rsquo;s national dish.<br><em>A symbol of identity.</em></h2>
+      <p>Ackee and saltfish is not just a meal. It is a cultural declaration. <strong>Widely enjoyed across the Caribbean</strong>, found at nearly every market stall, breakfast table, and family gathering across Jamaica, ackee represents the synthesis of West African heritage, Caribbean environment, and the resilience of a people who created something extraordinary from what they were given.</p>
+      <p>In Rastafarian Ital tradition, the freshness and natural preparation of ackee &mdash; cooked simply, combined with natural seasonings &mdash; embodies the principle that <strong>food is medicine, and medicine should come from the earth.</strong></p>
+
+      <div class="pull-quote">
+        <p>&ldquo;Ackee is not just Jamaica&rsquo;s national fruit. It is a living connection to West Africa, to the land, and to the generations who understood that <em>what grows here was placed here for a reason.</em>&rdquo;</p>
+      </div>
+    </div>
+
+    <div class="article-close reveal">
+      <h2>Ackee. Rooted in<br><em>Africa. Grown in Jamaica.</em></h2>
+      <p>From lowering blood pressure to boosting energy, supporting growth and tissue repair, aiding digestion, reducing cholesterol, strengthening bones, enhancing immune response, and improving circulation &mdash; <strong>ackee is a notable superfruit</strong> that has been nourishing communities for centuries.</p>
+      <p>Eat it ripe. Prepare it correctly. Understand what it gives the body. That is the Kwik Fat Cut way. 🇯🇲</p>
+      <p class="sign">Kwik Fat Cut &mdash; Foods Hub &mdash; Education First</p>
+    </div>
+
+  </article>
+</div>
+
+<div class="rule"></div>
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>More Jamaican<br><em>superfoods.</em></h3>
+    <p>The Foods Hub keeps growing. All articles free.</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="foods-hub.html" class="btn-primary">Foods Hub</a>
+    <a href="learn.html" class="btn-outline">Learn Hub</a>
+  </div>
+</div>
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <p class="ss-body">Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">Share this article</button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link">Twitter / X</a>
+      <a href="#" class="ss-social-link">Instagram</a>
+      <a href="#" class="ss-social-link">TikTok</a>
+      <a href="#" class="ss-social-link">Facebook</a>
+    </div>
+    <p class="ss-note">Follow, like, share, comment. Tell a friend to tell a friend.</p>
+  </div>
+</section>
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+<script>
+function shareKFC(){const url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 Ackee: Jamaica\u2019s National Fruit',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ss-btn.share');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
+</script>
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

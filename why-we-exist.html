@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Kwik Fat Cut exists because too many people try to improve their health without understanding it. This is not a failure of discipline — it is a failure of education. We are here to break that cycle.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why Kwik Fat Cut Exists — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  .nav-btn:hover{background:var(--cream)!important;}
+  /* HERO */
+  .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(ellipse 60% 60% at 70% 40%,rgba(218,165,32,0.06) 0%,transparent 65%),
+    radial-gradient(ellipse 40% 50% at 10% 80%,rgba(46,107,62,0.05) 0%,transparent 55%);}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb a:hover{color:var(--c60);}
+  .breadcrumb span{margin:0 0.6rem;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(3rem,8vw,7.5rem);font-weight:300;line-height:1.05;color:var(--cream);max-width:880px;position:relative;z-index:1;opacity:0;animation:up 0.9s 0.2s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:560px;margin-top:2rem;font-size:1rem;line-height:1.9;color:var(--c60);position:relative;z-index:1;opacity:0;animation:up 0.9s 0.35s ease forwards;}
+
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+  .section-tag{font-size:0.66rem;letter-spacing:0.32em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:1rem;}
+  .section-title{font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,4vw,3.5rem);font-weight:300;line-height:1.12;color:var(--cream);}
+  .section-title em{font-style:italic;color:var(--gold);}
+
+  /* THE REASON */
+  .reason{padding:7rem 6vw;display:grid;grid-template-columns:1fr 1.8fr;gap:6rem;align-items:start;}
+  .reason-left{position:sticky;top:110px;}
+  .reason-left p{margin-top:1.4rem;font-size:0.9rem;line-height:1.9;color:var(--c60);}
+  .reason-right{display:flex;flex-direction:column;gap:0;}
+  .r-para{padding:2.4rem 0;border-bottom:1px solid var(--c10);font-size:1rem;line-height:1.95;color:var(--c60);}
+  .r-para:first-child{padding-top:0;}
+  .r-para strong{color:var(--cream);font-weight:400;}
+
+  /* CYCLE VISUALISATION */
+  .cycle{margin:2.5rem 0;position:relative;}
+  .cycle-label{font-size:0.64rem;letter-spacing:0.24em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:1.2rem;}
+  .cycle-steps{display:flex;flex-direction:column;gap:0;}
+  .cycle-step{display:flex;gap:1.4rem;align-items:flex-start;padding:0.9rem 0;border-bottom:1px solid var(--c10);}
+  .cycle-step:first-child{border-top:1px solid var(--c10);}
+  .cycle-arrow{font-size:0.7rem;color:var(--red);opacity:0.5;flex-shrink:0;width:1rem;margin-top:0.3rem;}
+  .cycle-step p{font-size:0.88rem;line-height:1.7;color:var(--c60);}
+  .cycle-step p strong{color:var(--cream);font-weight:400;}
+  .cycle-break{margin-top:1.8rem;padding:1.4rem 1.8rem;background:rgba(46,107,62,0.07);border-left:2px solid var(--green);}
+  .cycle-break p{font-size:0.9rem;line-height:1.8;color:var(--c60);}
+  .cycle-break p strong{color:var(--cream);font-weight:400;}
+
+  /* EDUCATION SECTION */
+  .education{padding:7rem 6vw;background:linear-gradient(to bottom,transparent,rgba(218,165,32,0.03),transparent);}
+  .ed-intro{max-width:640px;margin-bottom:5rem;}
+  .ed-intro p{margin-top:1.2rem;font-size:0.95rem;line-height:1.9;color:var(--c60);}
+  .ed-grid{display:grid;grid-template-columns:1fr 1fr;gap:3rem 6rem;max-width:1000px;}
+  .ed-item{border-left:1px solid var(--g20);padding-left:1.8rem;}
+  .ed-item p{font-size:0.9rem;line-height:1.85;color:var(--c60);}
+  .ed-item p strong{color:var(--cream);font-weight:400;}
+
+  /* CONFIDENCE CHAIN */
+  .confidence-chain{margin-top:4rem;display:flex;align-items:center;gap:0;flex-wrap:wrap;}
+  .cc-node{padding:1.2rem 2rem;border:1px solid var(--c10);text-align:center;flex:1;min-width:160px;}
+  .cc-word{font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:300;color:var(--cream);}
+  .cc-sub{font-size:0.65rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.2rem;}
+  .cc-arrow{font-size:1.2rem;color:var(--gold);opacity:0.3;padding:0 0.5rem;flex-shrink:0;}
+
+  /* DIFFERENT APPROACH */
+  .different{padding:7rem 6vw;border-top:1px solid var(--c10);}
+  .diff-intro{max-width:640px;margin-bottom:5rem;}
+  .diff-intro p{margin-top:1.2rem;font-size:0.95rem;line-height:1.9;color:var(--c60);}
+  .diff-compare{display:grid;grid-template-columns:1fr 1fr;gap:2px;}
+  .diff-side{padding:2.5rem 2.2rem;border:1px solid var(--c10);}
+  .diff-side.bad{border-color:rgba(193,68,14,0.15);}
+  .diff-side.good{background:var(--g08);border-color:var(--g20);}
+  .diff-header{font-size:0.66rem;letter-spacing:0.24em;text-transform:uppercase;font-weight:500;margin-bottom:1.5rem;}
+  .diff-side.bad .diff-header{color:var(--red);}
+  .diff-side.good .diff-header{color:var(--green);}
+  .diff-list{display:flex;flex-direction:column;gap:0.7rem;}
+  .diff-item{font-size:0.88rem;line-height:1.7;color:var(--c60);display:flex;gap:0.7rem;align-items:flex-start;}
+  .diff-item::before{flex-shrink:0;margin-top:0.1rem;}
+  .diff-side.bad .diff-item::before{content:'✗';color:var(--red);opacity:0.5;}
+  .diff-side.good .diff-item::before{content:'✓';color:var(--green);opacity:0.7;}
+
+  /* KNOWLEDGE TREE */
+  .knowledge-tree{padding:7rem 6vw;background:linear-gradient(to bottom,transparent,rgba(46,107,62,0.04),transparent);}
+  .kt-intro{max-width:640px;margin-bottom:5rem;}
+  .kt-intro p{margin-top:1.2rem;font-size:0.95rem;line-height:1.9;color:var(--c60);}
+  .kt-levels{display:flex;flex-direction:column;gap:2px;}
+  .kt-level{border:1px solid var(--c10);overflow:hidden;transition:border-color 0.3s;}
+  .kt-level:hover{border-color:var(--g20);}
+  .kt-level-header{padding:1.8rem 2.2rem;display:flex;align-items:center;gap:1.5rem;cursor:default;}
+  .kt-icon{font-size:1.6rem;flex-shrink:0;}
+  .kt-level-title{font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:400;color:var(--cream);}
+  .kt-level-sub{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);margin-top:0.2rem;}
+  .kt-level-body{padding:0 2.2rem 2rem;margin-left:calc(1.6rem + 1.5rem + 2.2rem);}
+  .kt-tags{display:flex;gap:0.5rem;flex-wrap:wrap;}
+  .kt-tag{font-size:0.74rem;padding:0.3rem 0.8rem;border:1px solid var(--c10);color:var(--c60);border-radius:2px;}
+
+  /* CLOSING STATEMENT */
+  .closing{padding:7rem 6vw;border-top:1px solid var(--c10);display:grid;grid-template-columns:1fr 1fr;gap:6rem;align-items:center;}
+  .cl-left blockquote{font-family:'Cormorant Garamond',serif;font-size:clamp(1.6rem,3vw,2.6rem);font-weight:300;font-style:italic;line-height:1.45;color:var(--cream);}
+  .cl-left blockquote em{font-style:normal;color:var(--gold);}
+  .cl-right{display:flex;flex-direction:column;gap:1.4rem;}
+  .cl-note{padding:1.4rem 1.8rem;border-left:2px solid var(--gold);background:var(--g08);}
+  .cl-note p{font-size:0.88rem;line-height:1.8;color:var(--c60);}
+  .cl-note p strong{color:var(--cream);font-weight:400;}
+
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,transform 0.2s;}
+  .btn-primary:hover{background:var(--cream);transform:translateY(-2px);}
+  .btn-outline{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .btn-outline:hover{border-color:var(--c60);color:var(--cream);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){
+    .reason{grid-template-columns:1fr;gap:3rem;}
+    .reason-left{position:static;}
+    .ed-grid{grid-template-columns:1fr;gap:2rem;}
+    .diff-compare{grid-template-columns:1fr;}
+    .closing{grid-template-columns:1fr;gap:3rem;}
+    .cta-strip{flex-direction:column;align-items:flex-start;}
+    .confidence-chain{flex-direction:column;align-items:flex-start;gap:0;}
+    .cc-arrow{transform:rotate(90deg);padding:0.3rem 0;}
+  }
+
+  /* SOCIAL STRIP */
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn svg{width:15px;height:15px;fill:currentColor;flex-shrink:0;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-btn.follow:hover{background:var(--g08);border-color:var(--gold);}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/why-we-exist.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span>Why We Exist</p>
+  <h1>Too many people try<br>to improve their health<br>without <em>understanding it.</em></h1>
+  <p class="lede">Kwik Fat Cut was created for a simple reason. And that reason has never changed.</p>
+</header>
+
+<div class="rule"></div>
+
+<!-- THE REASON -->
+<section class="reason">
+  <div class="reason-left reveal">
+    <p class="section-tag">The Reason</p>
+    <h2 class="section-title">This is not a<br>failure of <em>discipline.</em><br>It is a failure of<br><em>education.</em></h2>
+    <p>People are told what to eat, which diet to follow, which product to buy &mdash; but few are ever taught how their bodies actually work, or why certain habits lead to weight gain, fatigue, or chronic illness.</p>
+  </div>
+  <div class="reason-right">
+    <p class="r-para reveal">Many are told what to eat, what not to eat, which diet to follow, which programme to join, and which product to buy. <strong>But few are ever taught how their bodies actually work</strong> &mdash; or why certain habits lead to weight gain, fatigue, or chronic illness.</p>
+
+    <div class="r-para reveal">
+      <p style="margin-bottom:1.2rem;">Without understanding, people repeat the same cycle for years:</p>
+      <div class="cycle">
+        <p class="cycle-label">The Familiar Cycle</p>
+        <div class="cycle-steps">
+          <div class="cycle-step"><span class="cycle-arrow">→</span><p>Start a diet</p></div>
+          <div class="cycle-step"><span class="cycle-arrow">→</span><p>Lose some weight</p></div>
+          <div class="cycle-step"><span class="cycle-arrow">→</span><p>Stop</p></div>
+          <div class="cycle-step"><span class="cycle-arrow">→</span><p>Gain it back</p></div>
+          <div class="cycle-step"><span class="cycle-arrow">→</span><p>Feel discouraged</p></div>
+          <div class="cycle-step"><span class="cycle-arrow">→</span><p>Try something new</p></div>
+          <div class="cycle-step"><span class="cycle-arrow">→</span><p><strong>Repeat.</strong></p></div>
+        </div>
+        <div class="cycle-break">
+          <p><strong>This is not a failure of discipline.</strong> It is a failure of education. Kwik Fat Cut exists to break that cycle &mdash; through education first, not pressure.</p>
+        </div>
+      </div>
+    </div>
+
+    <p class="r-para reveal">Kwik Fat Cut exists to break that cycle. Not through another programme. Not through another product. <strong>Through understanding &mdash; which is the only thing that creates lasting change.</strong></p>
+  </div>
+</section>
+
+<div class="rule"></div>
+
+<!-- EDUCATION BEFORE INTERVENTION -->
+<section class="education">
+  <div class="ed-intro reveal">
+    <p class="section-tag">The Principle</p>
+    <h2 class="section-title">Education<br>before <em>intervention.</em></h2>
+    <p>At Kwik Fat Cut, we believe people should understand their health before they are asked to buy programmes, follow strict diets, or make major lifestyle changes. When people truly understand, they can make better decisions &mdash; for themselves and their families &mdash; not just for a few weeks, but for life.</p>
+  </div>
+
+  <div class="ed-grid">
+    <div class="ed-item reveal"><p><strong>How the body uses food</strong> &mdash; what happens to nutrients after swallowing, how energy is made, why fibre matters, what the gut microbiome does.</p></div>
+    <div class="ed-item reveal"><p><strong>How weight is gained and lost</strong> &mdash; the actual biology of fat storage and metabolism, explained in plain language without shame.</p></div>
+    <div class="ed-item reveal"><p><strong>How sleep, stress, and sunlight affect health</strong> &mdash; the invisible factors that shape outcomes as powerfully as diet does.</p></div>
+    <div class="ed-item reveal"><p><strong>How family habits influence health</strong> &mdash; because what is passed down in behaviour is often more powerful than what is passed down in genes.</p></div>
+    <div class="ed-item reveal"><p><strong>How traditional foods compare to modern foods</strong> &mdash; what ancestral diets understood that industrial food systems have actively forgotten.</p></div>
+    <div class="ed-item reveal"><p><strong>How environment and lifestyle shape the body</strong> &mdash; pollution, soil quality, stress, community &mdash; health is not only personal, it is contextual.</p></div>
+  </div>
+
+  <div class="confidence-chain reveal" style="margin-top:4rem;">
+    <div class="cc-node">
+      <div class="cc-word">Understanding</div>
+      <div class="cc-sub">Creates</div>
+    </div>
+    <div class="cc-arrow">→</div>
+    <div class="cc-node">
+      <div class="cc-word">Confidence</div>
+      <div class="cc-sub">Creates</div>
+    </div>
+    <div class="cc-arrow">→</div>
+    <div class="cc-node">
+      <div class="cc-word">Consistency</div>
+      <div class="cc-sub">Leads to</div>
+    </div>
+    <div class="cc-arrow">→</div>
+    <div class="cc-node" style="border-color:var(--g20);background:var(--g08);">
+      <div class="cc-word" style="color:var(--gold);">Change</div>
+      <div class="cc-sub">That lasts</div>
+    </div>
+  </div>
+</section>
+
+<div class="rule"></div>
+
+<!-- A DIFFERENT APPROACH -->
+<section class="different">
+  <div class="diff-intro reveal">
+    <p class="section-tag">A Different Approach</p>
+    <h2 class="section-title">The internet is full<br>of health advice.<br><em>Most of it misses the point.</em></h2>
+    <p>Kwik Fat Cut aims to be genuinely different &mdash; not in tone, but in purpose. The goal is not to create customers. The goal is to build understanding that families can share and pass to future generations.</p>
+  </div>
+  <div class="diff-compare">
+    <div class="diff-side bad reveal">
+      <p class="diff-header">Most Health Advice Online</p>
+      <div class="diff-list">
+        <div class="diff-item">Confusing and contradictory</div>
+        <div class="diff-item">Overly complicated</div>
+        <div class="diff-item">Focused on selling products</div>
+        <div class="diff-item">Focused on short-term results</div>
+        <div class="diff-item">Not designed for everyday families</div>
+        <div class="diff-item">Disconnected from cultural foods</div>
+      </div>
+    </div>
+    <div class="diff-side good reveal">
+      <p class="diff-header">Kwik Fat Cut</p>
+      <div class="diff-list">
+        <div class="diff-item">Clear explanations in simple language</div>
+        <div class="diff-item">Cultural foods and real-life eating habits</div>
+        <div class="diff-item">Long-term health, not quick fixes</div>
+        <div class="diff-item">Education families can share</div>
+        <div class="diff-item">Knowledge that passes to future generations</div>
+        <div class="diff-item">Not just about losing weight &mdash; about understanding health</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="rule"></div>
+
+<!-- THE KNOWLEDGE TREE -->
+<section class="knowledge-tree">
+  <div class="kt-intro reveal">
+    <p class="section-tag">The Vision</p>
+    <h2 class="section-title">We are not trying<br>to build <em>customers.</em><br>We are trying to grow<br>a <em>knowledge tree.</em></h2>
+    <p>Kwik Fat Cut is built around the idea of a knowledge tree. Each level of the tree represents a different layer of influence &mdash; from the unseen roots of habit and heritage, through the trunk of daily choices, to the branches that reach into the next generation.</p>
+  </div>
+
+  <div class="kt-levels">
+    <div class="kt-level reveal">
+      <div class="kt-level-header">
+        <div class="kt-icon">🌱</div>
+        <div>
+          <div class="kt-level-title">The Roots &mdash; Unseen, but foundational</div>
+          <div class="kt-level-sub">What we carry without knowing it</div>
+        </div>
+      </div>
+      <div class="kt-level-body">
+        <div class="kt-tags">
+          <span class="kt-tag">Family habits</span>
+          <span class="kt-tag">Traditional foods</span>
+          <span class="kt-tag">Environment</span>
+          <span class="kt-tag">Lifestyle</span>
+          <span class="kt-tag">Culture</span>
+          <span class="kt-tag">Generational knowledge</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="kt-level reveal" style="border-color:rgba(218,165,32,0.2);">
+      <div class="kt-level-header">
+        <div class="kt-icon">🌳</div>
+        <div>
+          <div class="kt-level-title">The Trunk &mdash; Your present</div>
+          <div class="kt-level-sub">Where you are right now</div>
+        </div>
+      </div>
+      <div class="kt-level-body">
+        <div class="kt-tags">
+          <span class="kt-tag" style="border-color:var(--g20);color:rgba(253,245,230,0.7);">Your current health</span>
+          <span class="kt-tag" style="border-color:var(--g20);color:rgba(253,245,230,0.7);">Your body</span>
+          <span class="kt-tag" style="border-color:var(--g20);color:rgba(253,245,230,0.7);">Your habits</span>
+          <span class="kt-tag" style="border-color:var(--g20);color:rgba(253,245,230,0.7);">Your daily choices</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="kt-level reveal" style="border-color:rgba(46,107,62,0.25);">
+      <div class="kt-level-header">
+        <div class="kt-icon">🍃</div>
+        <div>
+          <div class="kt-level-title">The Branches &mdash; Your future &amp; theirs</div>
+          <div class="kt-level-sub">Where understanding reaches</div>
+        </div>
+      </div>
+      <div class="kt-level-body">
+        <div class="kt-tags">
+          <span class="kt-tag" style="border-color:rgba(46,107,62,0.3);color:#5a9a6e;">Your future health</span>
+          <span class="kt-tag" style="border-color:rgba(46,107,62,0.3);color:#5a9a6e;">Your children</span>
+          <span class="kt-tag" style="border-color:rgba(46,107,62,0.3);color:#5a9a6e;">Your family</span>
+          <span class="kt-tag" style="border-color:rgba(46,107,62,0.3);color:#5a9a6e;">Your community</span>
+          <span class="kt-tag" style="border-color:rgba(46,107,62,0.3);color:#5a9a6e;">The next generation</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <p class="reveal" style="margin-top:3rem;font-size:1rem;line-height:1.9;color:var(--c60);max-width:640px;"><strong style="color:var(--cream);font-weight:400;">When we educate one person, we often educate a family. When we educate a family, we influence a generation.</strong> Kwik Fat Cut is not trying to build customers. We are trying to grow a knowledge tree.</p>
+</section>
+
+<!-- CLOSING -->
+<section class="closing">
+  <div class="cl-left reveal">
+    <blockquote>&ldquo;You are not just supporting a website. You are helping grow a knowledge tree that will continue to educate and create opportunities for others <em>long after we are gone.</em>&rdquo;</blockquote>
+  </div>
+  <div class="cl-right">
+    <div class="cl-note reveal">
+      <p><strong>Not just about losing weight.</strong> Kwik Fat Cut is about understanding health &mdash; deeply, clearly, and in a language that every family can share and every generation can build on.</p>
+    </div>
+    <div class="cl-note reveal" style="border-color:var(--green);background:rgba(46,107,62,0.06);">
+      <p><strong>Education that lasts.</strong> When clarity leads, decisions get easier, confidence replaces doubt, and real progress begins &mdash; not for a few weeks, but for life.</p>
+    </div>
+    <div class="cl-note reveal" style="border-color:var(--red);background:rgba(193,68,14,0.05);">
+      <p>Kwik Fat Cut &mdash; <strong>Education Before Intervention.</strong> We row. You steer. Start free. Learn first. Understand first.</p>
+    </div>
+  </div>
+</section>
+
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>Begin with<br><em>understanding.</em></h3>
+    <p>Free. No subscription. No pressure. The knowledge tree grows with every person who learns.</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="learn.html" class="btn-primary">Start Learning</a>
+    <a href="support.html" class="btn-outline">Support This Work</a>
+  </div>
+</div>
+
+
+<!-- SOCIAL ENGAGEMENT STRIP -->
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <p class="ss-body">We take feedback like yours seriously. If Kwik Fat Cut opened your eyes, helped you understand your body better, or gave someone you love a new perspective &mdash; pass it on. Tell a friend to tell a friend. No pressure. Just a gentle invitation.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">
+        <svg viewBox="0 0 24 24" style="width:15px;height:15px;fill:currentColor;flex-shrink:0;"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg>
+        Share this page
+      </button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">Twitter / X</a>
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">Instagram</a>
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">TikTok</a>
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">Facebook</a>
+    </div>
+    <p class="ss-note">Follow, like, share, comment. Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+
+
+
+
+
+<script>
+function shareKFC() {
+  const url = window.location.href;
+  const title = 'Kwik Fat Cut — Free Health Education';
+  if (navigator.share) {
+    navigator.share({title, url}).catch(()=>copyURL(url));
+  } else { copyURL(url); }
+}
+function copyURL(url) {
+  navigator.clipboard?.writeText(url).then(()=>{
+    const b = document.querySelector('.ss-btn.share');
+    if(b){const orig=b.innerHTML;b.textContent='✓ Link copied!';setTimeout(()=>b.innerHTML=orig,2500);}
+  });
+}
+</script>
+
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>

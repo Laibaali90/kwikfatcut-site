@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="You should never have to pay to understand your own body. Kwik Fat Cut is free because that is a principle — not a strategy. Here is what that means and why it will never change.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why Free — Kwik Fat Cut</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  .nav-btn:hover{background:var(--cream)!important;}
+  /* PAGE HEADER — large, centred, commanding */
+  .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse 55% 55% at 75% 55%,rgba(193,68,14,0.07) 0%,transparent 65%);}
+
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb a:hover{color:var(--c60);}
+  .breadcrumb span{margin:0 0.6rem;}
+
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(3rem,7.5vw,7rem);font-weight:300;line-height:1.05;color:var(--cream);max-width:820px;opacity:0;animation:up 0.9s 0.2s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:540px;margin-top:2rem;font-size:1rem;line-height:1.9;color:var(--c60);opacity:0;animation:up 0.9s 0.35s ease forwards;}
+
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+  .section-tag{font-size:0.66rem;letter-spacing:0.32em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:1rem;}
+  .section-title{font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,3.5vw,3rem);font-weight:300;line-height:1.15;color:var(--cream);}
+  .section-title em{font-style:italic;color:var(--gold);}
+
+  /* THE POSITION */
+  .position{padding:7rem 6vw;display:grid;grid-template-columns:1fr 2fr;gap:6rem;align-items:start;}
+  .position-left{position:sticky;top:110px;}
+  .position-left p{margin-top:1.5rem;font-size:0.9rem;line-height:1.9;color:var(--c60);}
+  .position-right{display:flex;flex-direction:column;gap:0;}
+  .pos-para{padding:2.2rem 0;border-bottom:1px solid var(--c10);font-size:1rem;line-height:1.95;color:var(--c60);}
+  .pos-para:first-child{padding-top:0;}
+  .pos-para strong{color:var(--cream);font-weight:400;}
+  .pos-para em{font-style:italic;color:rgba(253,245,230,0.8);}
+
+  /* WHAT COMES FREE */
+  .what-free{padding:7rem 6vw;background:linear-gradient(to bottom,transparent,rgba(46,107,62,0.03),transparent);}
+  .wf-intro{max-width:600px;margin-bottom:5rem;}
+  .wf-intro p{margin-top:1.2rem;font-size:0.95rem;line-height:1.9;color:var(--c60);}
+  .wf-items{display:flex;flex-direction:column;gap:0;max-width:800px;}
+  .wf-item{display:flex;gap:2.5rem;align-items:baseline;padding:2rem 0;border-bottom:1px solid var(--c10);}
+  .wf-item:first-child{border-top:1px solid var(--c10);}
+  .wf-num{font-family:'Cormorant Garamond',serif;font-size:1rem;font-weight:300;color:var(--red);opacity:0.5;flex-shrink:0;width:2rem;}
+  .wf-content h3{font-size:0.92rem;font-weight:500;color:var(--cream);margin-bottom:0.3rem;}
+  .wf-content p{font-size:0.87rem;line-height:1.8;color:var(--c60);}
+
+  /* THE JOURNEY */
+  .journey{padding:7rem 6vw;border-top:1px solid var(--c10);}
+  .journey-intro{max-width:600px;margin-bottom:5rem;}
+  .journey-intro p{margin-top:1.2rem;font-size:0.95rem;line-height:1.9;color:var(--c60);}
+  .journey-steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:2px;}
+  .journey-step{padding:2.5rem 2rem;border:1px solid var(--c10);transition:border-color 0.3s,background 0.3s;}
+  .journey-step:hover{border-color:var(--g20);background:var(--g08);}
+  .js-marker{font-family:'Cormorant Garamond',serif;font-size:2.5rem;font-weight:300;color:var(--gold);opacity:0.2;line-height:1;margin-bottom:1rem;}
+  .journey-step h3{font-family:'Cormorant Garamond',serif;font-size:1.25rem;font-weight:400;color:var(--cream);margin-bottom:0.6rem;}
+  .journey-step p{font-size:0.87rem;line-height:1.85;color:var(--c60);}
+  .journey-step p strong{color:var(--cream);font-weight:400;}
+
+  /* MANIFESTO CLOSE */
+  .manifesto{padding:8rem 6vw;position:relative;overflow:hidden;}
+  .manifesto::before{content:'';position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse 65% 60% at 50% 50%,rgba(218,165,32,0.04) 0%,transparent 70%);}
+  .manifesto-inner{max-width:760px;margin:0 auto;text-align:center;}
+  .manifesto-inner blockquote{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,3vw,2.5rem);font-weight:300;font-style:italic;line-height:1.5;color:var(--cream);}
+  .manifesto-inner blockquote em{font-style:normal;color:var(--gold);}
+  .manifesto-lines{margin-top:4rem;display:flex;flex-direction:column;gap:1.2rem;align-items:center;}
+  .manifesto-line{font-size:0.88rem;color:var(--c60);font-style:italic;line-height:1.6;text-align:center;max-width:500px;}
+  .manifesto-line strong{font-style:normal;color:var(--cream);font-weight:400;}
+  .manifesto-brand{margin-top:3.5rem;display:flex;flex-direction:column;gap:0.3rem;align-items:center;}
+  .manifesto-brand p{font-size:0.7rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);}
+  .manifesto-brand em{font-style:italic;color:var(--c60);letter-spacing:0;text-transform:none;font-size:0.85rem;}
+
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,transform 0.2s;}
+  .btn-primary:hover{background:var(--cream);transform:translateY(-2px);}
+  .btn-outline{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .btn-outline:hover{border-color:var(--c60);color:var(--cream);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+
+  @media(max-width:900px){
+    .position{grid-template-columns:1fr;gap:3rem;}
+    .position-left{position:static;}
+    .cta-strip{flex-direction:column;align-items:flex-start;}
+  }
+
+  /* SOCIAL STRIP */
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn svg{width:15px;height:15px;fill:currentColor;flex-shrink:0;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-btn.follow:hover{background:var(--g08);border-color:var(--gold);}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+
+</style>
+<link rel="stylesheet" href="kfc.css">
+<link rel="canonical" href="https://kwikfatcut.com/why-free.html">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<nav class="site-nav">
+  <a href="index.html" class="logo">
+    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html" class="nav-btn">Donate</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<header class="page-header">
+  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span>Why Free</p>
+  <h1>You should never have to pay<br>to understand<br><em>your own body.</em></h1>
+  <p class="lede">There&rsquo;s a reason you won&rsquo;t find a &ldquo;Subscription&rdquo; button on Kwik Fat Cut. It&rsquo;s not forgetfulness. It&rsquo;s not a lack of business understanding. It&rsquo;s a principle.</p>
+</header>
+
+<div class="rule"></div>
+
+<section class="position">
+  <div class="position-left reveal">
+    <p class="section-tag">Our Position</p>
+    <h2 class="section-title">Pay first.<br>Understand <em>later?</em><br>We reject that.</h2>
+    <p>Many are taught to pay first and understand later &mdash; pay for plans, programmes, or answers that should be free from the start. Confusion often remains even after payment. We oppose this entirely.</p>
+  </div>
+  <div class="position-right">
+    <p class="pos-para reveal">Many diet platforms ask you to pay for plans, pay for programmes, pay for answers <strong>that should be free from the start.</strong> And yet, confusion often still exists after the payment is made. People are left with instructions without understanding.</p>
+    <p class="pos-para reveal">At Kwik Fat Cut, we believe there must be <strong>clarity before structure.</strong> What you eat. How your body responds. Why some habits help or hinder. This foundation is not optional &mdash; it is essential. And it should not sit behind a paywall.</p>
+    <p class="pos-para reveal">We made a clear choice: <strong>education comes first &mdash; and it is free.</strong> To us, you are not a &ldquo;lead&rdquo; or a &ldquo;conversion.&rdquo; You are someone deserving of true understanding, without pressure, without confusion, and without being sold something before you truly need it.</p>
+    <p class="pos-para reveal"><em>&ldquo;Start Free&rdquo; is not a strategy &mdash; it is our principle.</em> When clarity leads, everything changes. Decisions get easier. Confidence replaces doubt. And real progress begins &mdash; built on understanding, not desperation.</p>
+  </div>
+</section>
+
+<div class="rule"></div>
+
+<section class="what-free">
+  <div class="wf-intro reveal">
+    <p class="section-tag">What&rsquo;s Free</p>
+    <h2 class="section-title">The full<br><em>foundation.</em></h2>
+    <p>The core of Kwik Fat Cut is free. No timer. No trial. No pressure to upgrade to see the basics. Here is what you get from day one &mdash; and keep indefinitely.</p>
+  </div>
+  <div class="wf-items">
+    <div class="wf-item reveal">
+      <span class="wf-num">01</span>
+      <div class="wf-content">
+        <h3>Full Food Library &mdash; 8M+ entries</h3>
+        <p>Search or scan any food. See complete macro and micronutrient breakdowns, in plain language. No paywall on knowledge.</p>
+      </div>
+    </div>
+    <div class="wf-item reveal">
+      <span class="wf-num">02</span>
+      <div class="wf-content">
+        <h3>Daily Food &amp; Calorie Tracking</h3>
+        <p>Log every meal, every day. Understand what you are eating and how it fits the bigger picture of your health.</p>
+      </div>
+    </div>
+    <div class="wf-item reveal">
+      <span class="wf-num">03</span>
+      <div class="wf-content">
+        <h3>Nutrient Breakdown &amp; Insights</h3>
+        <p>See your macros, your fibre, your micronutrient patterns. Understand what you&rsquo;re getting enough of &mdash; and where quiet gaps might exist.</p>
+      </div>
+    </div>
+    <div class="wf-item reveal">
+      <span class="wf-num">04</span>
+      <div class="wf-content">
+        <h3>In-Context Learning</h3>
+        <p>Short, relevant explanations appear as you track &mdash; not lectures, just timely knowledge at the moment it is most useful. Curiosity rewarded.</p>
+      </div>
+    </div>
+    <div class="wf-item reveal">
+      <span class="wf-num">05</span>
+      <div class="wf-content">
+        <h3>Hydration Tracking</h3>
+        <p>Water supports nearly every function in the body. Track your intake gently, alongside your food.</p>
+      </div>
+    </div>
+    <div class="wf-item reveal">
+      <span class="wf-num">06</span>
+      <div class="wf-content">
+        <h3>Progress Trends &amp; Weekly Patterns</h3>
+        <p>Weekly data tells a richer story than a single number. See your patterns, understand your trajectory, and track what actually matters.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="rule"></div>
+
+<section class="journey">
+  <div class="journey-intro reveal">
+    <p class="section-tag">The Journey</p>
+    <h2 class="section-title">Start wherever<br>you are.<br><em>No conditions.</em></h2>
+    <p>Understanding is what drives real change, not desperation. First, just begin.</p>
+  </div>
+  <div class="journey-steps">
+    <div class="journey-step reveal">
+      <div class="js-marker">01</div>
+      <h3>Clarity</h3>
+      <p>Understand what you eat, how your body responds, and why certain habits help or hinder. <strong>This is the foundation.</strong> It is free. It belongs to you.</p>
+    </div>
+    <div class="journey-step reveal">
+      <div class="js-marker">02</div>
+      <h3>Confidence</h3>
+      <p>When clarity grows, doubt shrinks. Decisions that once felt overwhelming begin to feel natural. <strong>That shift happens from the inside</strong> &mdash; not from a plan sold to you.</p>
+    </div>
+    <div class="journey-step reveal">
+      <div class="js-marker">03</div>
+      <h3>Progress</h3>
+      <p>Real progress &mdash; the kind that lasts &mdash; is built on understanding. Not willpower. Not restriction. <strong>On knowing why you are making each choice</strong> and choosing it freely.</p>
+    </div>
+  </div>
+</section>
+
+<section class="manifesto">
+  <div class="manifesto-inner">
+    <blockquote class="reveal">&ldquo;When clarity leads, everything changes. Decisions get easier. Confidence replaces doubt. And <em>real progress begins.</em>&rdquo;</blockquote>
+    <div class="manifesto-lines reveal">
+      <p class="manifesto-line">No body shaming.</p>
+      <p class="manifesto-line">No gatekeeping.</p>
+      <p class="manifesto-line">No pressure.</p>
+      <p class="manifesto-line"><strong>Just truth.</strong></p>
+    </div>
+    <div class="manifesto-brand reveal">
+      <p>Kwik Fat Cut</p>
+      <em>culinary peace.</em>
+      <p style="margin-top:0.3rem;">We row. You steer.</p>
+    </div>
+  </div>
+</section>
+
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>Start free.<br><em>Learn first.</em></h3>
+    <p>No subscription. No pressure. No body shaming. Just begin.</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="learn.html" class="btn-primary">Start Learning</a>
+    <a href="about.html" class="btn-outline">Our Story</a>
+  </div>
+</div>
+
+
+<!-- SOCIAL ENGAGEMENT STRIP -->
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <p class="ss-body">We take feedback like yours seriously. If Kwik Fat Cut opened your eyes, helped you understand your body better, or gave someone you love a new perspective &mdash; pass it on. Tell a friend to tell a friend. No pressure. Just a gentle invitation.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKFC()">
+        <svg viewBox="0 0 24 24" style="width:15px;height:15px;fill:currentColor;flex-shrink:0;"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg>
+        Share this page
+      </button>
+      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">Twitter / X</a>
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">Instagram</a>
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">TikTok</a>
+      <a href="#" class="ss-social-link" target="_blank" rel="noopener">Facebook</a>
+    </div>
+    <p class="ss-note">Follow, like, share, comment. Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div>
+    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav">
+    <a href="about.html">About</a>
+    <a href="why-free.html">Why Free</a>
+    <a href="our-roots.html">Our Roots</a>
+    <a href="foods-hub.html">Foods Hub</a>
+    <a href="learn.html">Learn</a>
+    <a href="team.html">Team</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+</footer>
+
+
+
+
+
+<script>
+function shareKFC() {
+  const url = window.location.href;
+  const title = 'Kwik Fat Cut — Free Health Education';
+  if (navigator.share) {
+    navigator.share({title, url}).catch(()=>copyURL(url));
+  } else { copyURL(url); }
+}
+function copyURL(url) {
+  navigator.clipboard?.writeText(url).then(()=>{
+    const b = document.querySelector('.ss-btn.share');
+    if(b){const orig=b.innerHTML;b.textContent='✓ Link copied!';setTimeout(()=>b.innerHTML=orig,2500);}
+  });
+}
+</script>
+
+<script src="kfc.js" defer></script>
+<script src="kfc-i18n.js" defer></script>
+</body>
+</html>
