@@ -1,0 +1,91 @@
+{
+  "_note": "Page content for learn-jamaican-seafood.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "4503f0b2": {
+      "src": "Eating seasonally, buying from local fishermen rather than imported frozen product, and avoiding juvenile fish allows the reef to regenerate",
+      "t": "Comer según la temporada, comprar a pescadores locales en lugar de producto congelado importado y evitar los peces juveniles permite que el arrecife se regenere"
+    },
+    "909cf62c": {
+      "src": "From the reef",
+      "t": "Del arrecife"
+    },
+    "2c767ef5": {
+      "src": "Jamaica is an island. The sea has always been a source of food, medicine, and livelihood. Parrotfish, snapper, kingfish, doctor fish, welshman — these are not just culturally significant. They are nutritionally extraordinary. This is the documented story of Jamaican seafood and its place in a whole-food diet.",
+      "t": "Jamaica es una isla. El mar siempre ha sido fuente de alimento, medicina y sustento. El pez loro, el pargo, el carite, el pez cirujano, el welshman: no solo tienen importancia cultural. Son extraordinarios desde el punto de vista nutricional. Esta es la historia documentada de los pescados y mariscos jamaicanos y de su lugar en una dieta de alimentos integrales."
+    },
+    "c9c327bb": {
+      "src": "Jamaican Seafood — Parrotfish, Snapper and Welshman",
+      "t": "Mariscos y pescados jamaicanos: pez loro, pargo y welshman"
+    },
+    "9f8bd51b": {
+      "src": "Jamaican Seafood: What the Island Waters Give",
+      "t": "Pescados y mariscos jamaicanos: lo que dan las aguas de la isla"
+    },
+    "aeb9c314": {
+      "src": "Jamaican reef fish — parrotfish, snapper, doctor fish, welshman — are among the most nutritionally complete foods available on the island.",
+      "t": "Los peces de arrecife jamaicanos (pez loro, pargo, pez cirujano, welshman) están entre los alimentos nutricionalmente más completos que hay en la isla."
+    },
+    "9ceb6578": {
+      "src": "Jamaican seafood.",
+      "t": "Pescados y mariscos jamaicanos."
+    },
+    "a8492e68": {
+      "src": "Marine fish provide complete protein — all nine essential amino acids — alongside omega-3 fatty acids (EPA and DHA) that are documented for cardiovascular protection, brain function, and anti-inflammatory activity. A 2018 JAMA Internal Medicine study found that regular fish consumption was associated with a 10% reduction in cardiovascular mortality.",
+      "t": "Los peces marinos aportan proteína completa (los nueve aminoácidos esenciales) junto con ácidos grasos omega-3 (EPA y DHA), documentados por su protección cardiovascular, su papel en la función cerebral y su actividad antiinflamatoria. Un estudio de 2018 publicado en JAMA Internal Medicine encontró que el consumo regular de pescado se asociaba con una reducción del 10% en la mortalidad cardiovascular."
+    },
+    "8ce5e0da": {
+      "src": "Parrotfish hold a unique position in Jamaican food culture and marine ecology. They are among the most popular reef fish — and also among the most ecologically important, as they graze on algae that would otherwise suffocate coral reefs. Jamaica's reef health directly affects coastal fish populations and therefore long-term food security.",
+      "t": "El pez loro ocupa un lugar único en la cultura alimentaria jamaicana y en la ecología marina. Es uno de los peces de arrecife más populares y también uno de los más importantes para el ecosistema, porque se alimenta de las algas que de otro modo asfixiarían los arrecifes de coral. La salud de los arrecifes de Jamaica afecta directamente a las poblaciones de peces costeros y, por tanto, a la seguridad alimentaria a largo plazo."
+    },
+    "9dc9e26f": {
+      "src": "Prepared simply — steamed, escovitch, or brown stewed with onions, scotch bonnet, and pimento — they deliver maximum nutritional value without the caloric burden of heavily processed preparations.",
+      "t": "Preparados de forma sencilla (al vapor, en escovitch o guisados al estilo brown stew con cebolla, ají scotch bonnet y pimienta de Jamaica), aportan el máximo valor nutricional sin la carga calórica de las preparaciones muy procesadas."
+    },
+    "6e11d7a1": {
+      "src": "Start free. Understand first.",
+      "t": "Empieza gratis. Entiende primero."
+    },
+    "34dc5e97": {
+      "src": "The Nutritional Case",
+      "t": "El argumento nutricional"
+    },
+    "1105c48f": {
+      "src": "The Sustainability Question",
+      "t": "La cuestión de la sostenibilidad"
+    },
+    "4f291a93": {
+      "src": "What Jamaica's reef fish",
+      "t": "Lo que los peces de arrecife de Jamaica"
+    },
+    "8bdcc953": {
+      "src": "What to eat and",
+      "t": "Qué comer y"
+    },
+    "787e53a0": {
+      "src": "actually delivers.",
+      "t": "realmente aportan."
+    },
+    "9d01a30b": {
+      "src": "to the table.",
+      "t": "a la mesa."
+    },
+    "87d531ef": {
+      "src": "what to protect.",
+      "t": "qué proteger."
+    },
+    "67c2b23e": {
+      "src": "while continuing to provide the nutritional abundance it has provided to Jamaican communities for centuries.",
+      "t": "mientras sigue ofreciendo la abundancia nutricional que ha dado a las comunidades jamaicanas durante siglos."
+    },
+    "4f93230b": {
+      "src": "“Education before intervention.",
+      "t": "“La educación antes que la intervención."
+    },
+    "81a0ed75": {
+      "src": "🐟 Jamaican Foods — Seafood",
+      "t": "🐟 Alimentos jamaicanos · Pescados y mariscos"
+    }
+  }
+}

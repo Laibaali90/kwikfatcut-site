@@ -1,0 +1,487 @@
+{
+  "_note": "Page content for learn-oral-health.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "855a8437": {
+      "src": "8 min",
+      "t": "8 min"
+    },
+    "b36e12aa": {
+      "src": "A Fundamental Truth",
+      "t": "Una Verdad Fundamental"
+    },
+    "b67f7332": {
+      "src": "A dental professional reaches what home care cannot, and monitors changes over time that the untrained eye will miss.",
+      "t": "Un profesional dental llega a donde el cuidado en casa no llega, y vigila con el tiempo cambios que un ojo sin formación pasaría por alto."
+    },
+    "8c50e837": {
+      "src": "A natural warning against potentially toxic substances. Protective by design.",
+      "t": "Una advertencia natural contra sustancias potencialmente tóxicas. Protector por diseño."
+    },
+    "9b388399": {
+      "src": "Antioxidants",
+      "t": "Antioxidantes"
+    },
+    "c94d4171": {
+      "src": "Back to Learn",
+      "t": "Volver a Aprende"
+    },
+    "1f8ea4e2": {
+      "src": "Bacteria accumulate, gums weaken, and pathways open beyond the mouth.",
+      "t": "Las bacterias se acumulan, las encías se debilitan y se abren caminos más allá de la boca."
+    },
+    "cf3e7fdb": {
+      "src": "Bitter",
+      "t": "Amargo"
+    },
+    "eea18710": {
+      "src": "Bitter and sour warned against harmful substances; salt and umami pointed toward mineral and protein nourishment.",
+      "t": "Lo amargo y lo ácido advertían de sustancias dañinas; lo salado y el umami apuntaban a la nutrición mineral y proteica."
+    },
+    "625089a9": {
+      "src": "Brush thoroughly, twice daily.",
+      "t": "Cepíllate bien, dos veces al día."
+    },
+    "98e12da1": {
+      "src": "Calcium",
+      "t": "Calcio"
+    },
+    "a6e48012": {
+      "src": "Consistent care",
+      "t": "El cuidado constante"
+    },
+    "bbc2be96": {
+      "src": "Consistent oral care remains simple and powerful. Not as routine — but as",
+      "t": "El cuidado bucal constante sigue siendo sencillo y poderoso. No como rutina, sino como"
+    },
+    "4b3de3b9": {
+      "src": "Daily Protection",
+      "t": "Protección diaria"
+    },
+    "86569803": {
+      "src": "Daily care",
+      "t": "El cuidado diario"
+    },
+    "a5ccc4a1": {
+      "src": "Educate yourself first. Start free. Understand first.",
+      "t": "Infórmate primero. Empieza gratis. Entiende primero."
+    },
+    "4b079621": {
+      "src": "Feed the mouth",
+      "t": "Dale a la boca"
+    },
+    "a6b869eb": {
+      "src": "Fibre",
+      "t": "Fibra"
+    },
+    "984e8593": {
+      "src": "Floss daily.",
+      "t": "Usa hilo dental a diario."
+    },
+    "d3bd8504": {
+      "src": "Foundation",
+      "t": "Fundamento"
+    },
+    "e83eaa45": {
+      "src": "Garbage in, garbage out. Clearly. There is no way around this biological truth. The quality of what enters the mouth determines the quality of what the body has to work with. No supplement, no programme, and no intervention can fully compensate for a consistently poor-quality diet.",
+      "t": "Si entra basura, sale basura. Así de claro. No hay forma de esquivar esta verdad biológica. La calidad de lo que entra en la boca determina la calidad de aquello con lo que el cuerpo tiene que trabajar. Ningún suplemento, ningún programa y ninguna intervención puede compensar del todo una dieta de mala calidad constante."
+    },
+    "73210557": {
+      "src": "Health Begins in the Mouth — Kwik Fat Cut",
+      "t": "La salud empieza en la boca · Kwik Fat Cut"
+    },
+    "c9109e0d": {
+      "src": "Health Education",
+      "t": "Educación en Salud"
+    },
+    "e189a42f": {
+      "src": "Health begins",
+      "t": "La salud empieza"
+    },
+    "540ebda6": {
+      "src": "Health begins with a kiss and a carefully chosen dinner. Welcome. Please, take a seat.",
+      "t": "La salud empieza con un beso y una cena bien elegida. Bienvenido. Por favor, toma asiento."
+    },
+    "af206f4a": {
+      "src": "Human Connection",
+      "t": "Conexión humana"
+    },
+    "c228a02a": {
+      "src": "Human connection",
+      "t": "La conexión humana"
+    },
+    "a0ab9fc3": {
+      "src": "Human connection also plays a role in oral and systemic health. Close contact — including the loving gestures that begin from birth — can exchange microbes between individuals.",
+      "t": "La conexión humana también influye en la salud bucal y en la del resto del cuerpo. El contacto cercano, incluidos los gestos de cariño que empiezan desde el nacimiento, puede intercambiar microbios entre personas."
+    },
+    "f387702d": {
+      "src": "It starts",
+      "t": "Empieza"
+    },
+    "d80dc6cd": {
+      "src": "Kwik Fat Cut is a non-profit platform committed to indigenous whole-foods health education, dedicated to promoting healthy living practices, methods, and tools that enhance",
+      "t": "Kwik Fat Cut es una plataforma sin fines de lucro comprometida con la educación en salud basada en alimentos indígenas e integrales, y dedicada a promover prácticas, métodos y herramientas de vida sana que mejoran"
+    },
+    "f1ef98a7": {
+      "src": "Kwik Fat Cut reminds us that our ability to create change starts with recognising the power of the mouth — the power we already hold.",
+      "t": "Kwik Fat Cut nos recuerda que nuestra capacidad de crear cambios empieza por reconocer el poder de la boca, el poder que ya tenemos."
+    },
+    "d10a5b82": {
+      "src": "Kwik Fat Cut — Education Before Intervention",
+      "t": "Kwik Fat Cut · La educación antes que la intervención"
+    },
+    "ceebed98": {
+      "src": "Maintain professional cleaning.",
+      "t": "Mantén las limpiezas profesionales."
+    },
+    "9a90beba": {
+      "src": "Nutrition & Repair",
+      "t": "Nutrición y reparación"
+    },
+    "0ce4dcda": {
+      "src": "Nutrition & repair",
+      "t": "Nutrición y reparación"
+    },
+    "3b7f2b4d": {
+      "src": "Oral Health",
+      "t": "Salud bucal"
+    },
+    "f708d4d3": {
+      "src": "Oral Health & Nutrition",
+      "t": "Salud bucal y nutrición"
+    },
+    "c8c6cf75": {
+      "src": "Pair good oral care with whole, nutrient-dense foods — and the body responds with repair and strength. The nutrients that support oral health are the same ones that support systemic health.",
+      "t": "Combina un buen cuidado bucal con alimentos integrales y ricos en nutrientes, y el cuerpo responde con reparación y fuerza. Los nutrientes que apoyan la salud bucal son los mismos que apoyan la salud de todo el organismo."
+    },
+    "c172783f": {
+      "src": "Plaque hardens into tartar within 24–48 hours. Regular removal keeps the cycle broken.",
+      "t": "La placa se endurece y se convierte en sarro en 24 a 48 horas. Eliminarla con regularidad mantiene el ciclo roto."
+    },
+    "a97588ad": {
+      "src": "Points toward mineral nourishment — sodium and electrolytes essential to cell function.",
+      "t": "Apunta a la nutrición mineral: el sodio y los electrolitos esenciales para el funcionamiento de las células."
+    },
+    "fb506dce": {
+      "src": "Points toward protein and amino acid richness — the building blocks of tissue and repair.",
+      "t": "Apunta a la riqueza en proteínas y aminoácidos, los componentes básicos de los tejidos y de su reparación."
+    },
+    "314c1663": {
+      "src": "Probiotics",
+      "t": "Probióticos"
+    },
+    "35078337": {
+      "src": "Reaches where brushing cannot. Disrupts bacterial colonies between teeth before they establish.",
+      "t": "Llega a donde el cepillo no llega. Desarma las colonias de bacterias entre los dientes antes de que se asienten."
+    },
+    "e1e740b5": {
+      "src": "Ready to",
+      "t": "¿Listo para"
+    },
+    "5a2c3997": {
+      "src": "Records from the British Medical Journal and the Journal of the American Dental Association described how oral conditions influenced digestion, infection spread, and whole-body resilience. What enters the mouth does not stay there —",
+      "t": "Los registros del British Medical Journal y del Journal of the American Dental Association describían cómo las afecciones bucales influían en la digestión, la propagación de infecciones y la resistencia de todo el cuerpo. Lo que entra en la boca no se queda ahí:"
+    },
+    "2db15aaf": {
+      "src": "Reduce oxidative stress in oral tissues. Found abundantly in whole fruits, vegetables, and herbs.",
+      "t": "Reducen el estrés oxidativo en los tejidos bucales. Abundan en las frutas enteras, las verduras y las hierbas."
+    },
+    "f0068667": {
+      "src": "Regulates calcium absorption. Essential for strong teeth and bone density in the jaw.",
+      "t": "Regula la absorción del calcio. Esencial para unos dientes fuertes y la densidad ósea de la mandíbula."
+    },
+    "882b1f7c": {
+      "src": "Remove plaque consistently.",
+      "t": "Elimina la placa con constancia."
+    },
+    "63e94f60": {
+      "src": "Remove the plaque that accumulates on teeth and at the gum line — the primary source of bacterial overgrowth.",
+      "t": "Elimina la placa que se acumula en los dientes y en el borde de las encías, la principal fuente de proliferación bacteriana."
+    },
+    "249ac43d": {
+      "src": "Restore memory — see real results inside.",
+      "t": "Recupera la memoria y verás resultados reales por dentro."
+    },
+    "569227bc": {
+      "src": "Saliva & protection",
+      "t": "La saliva y la protección"
+    },
+    "bbbe6e85": {
+      "src": "Saliva, often overlooked, was documented by early clinicians as a protective fluid — one that begins digestion and regulates microbial balance through natural enzymes. It is not simply moisture. It is the body’s first line of digestive defence.",
+      "t": "La saliva, a menudo pasada por alto, fue documentada por los primeros médicos como un líquido protector que inicia la digestión y regula el equilibrio microbiano mediante enzimas naturales. No es simple humedad. Es la primera línea de defensa digestiva del cuerpo."
+    },
+    "f6ce744c": {
+      "src": "Saliva: the",
+      "t": "La saliva: la"
+    },
+    "1cfcb608": {
+      "src": "Salty",
+      "t": "Salado"
+    },
+    "49aa98c1": {
+      "src": "Signals carbohydrates & quick energy. Guides the body toward calorie-dense foods.",
+      "t": "Indica carbohidratos y energía rápida. Guía al cuerpo hacia alimentos ricos en calorías."
+    },
+    "74513ffc": {
+      "src": "Sour",
+      "t": "Ácido"
+    },
+    "28561a0c": {
+      "src": "Start free. Explore the full Learn library — no subscription required.",
+      "t": "Empieza gratis. Explora toda la biblioteca de Aprende, sin necesidad de suscripción."
+    },
+    "a64c7ed6": {
+      "src": "Stimulates saliva production through chewing. Natural whole foods are the most effective source.",
+      "t": "Estimula la producción de saliva al masticar. Los alimentos integrales naturales son la fuente más eficaz."
+    },
+    "52e0dff7": {
+      "src": "Support a balanced oral microbiome. Found in fermented foods — a staple of many ancestral diets.",
+      "t": "Favorecen un microbioma bucal equilibrado. Se encuentran en los alimentos fermentados, básicos en muchas dietas ancestrales."
+    },
+    "6d8c1f73": {
+      "src": "Supports gum integrity and collagen production. Deficiency is historically linked to gum disease.",
+      "t": "Favorece la integridad de las encías y la producción de colágeno. Su carencia se ha relacionado históricamente con la enfermedad de las encías."
+    },
+    "fdba13cf": {
+      "src": "Sweet",
+      "t": "Dulce"
+    },
+    "c7b455a2": {
+      "src": "Taste buds are",
+      "t": "Las papilas gustativas son"
+    },
+    "ade2eb89": {
+      "src": "The Five Signals",
+      "t": "Las cinco señales"
+    },
+    "a778846a": {
+      "src": "The Gateway",
+      "t": "La puerta de entrada"
+    },
+    "c78527db": {
+      "src": "The Protective Fluid",
+      "t": "El líquido protector"
+    },
+    "1f450b88": {
+      "src": "The body learns before the stomach ever receives.",
+      "t": "El cuerpo aprende antes de que el estómago reciba nada."
+    },
+    "291e0509": {
+      "src": "The five signals",
+      "t": "Las cinco señales"
+    },
+    "76cfa8ca": {
+      "src": "The gateway",
+      "t": "La puerta de entrada"
+    },
+    "39247ece": {
+      "src": "The mouth and",
+      "t": "La boca y"
+    },
+    "724329ed": {
+      "src": "The mouth does not exist in isolation from the rest of the body. It is connected — through the bloodstream, the digestive tract, the immune system — to everything that follows.",
+      "t": "La boca no existe aislada del resto del cuerpo. Está conectada, a través de la sangre, el aparato digestivo y el sistema inmunitario, con todo lo que viene después."
+    },
+    "bfc3efae": {
+      "src": "The mouth houses taste buds — specialised sensory cells that read five distinct signals. These are not merely flavours. Early physiology texts noted their role as protective guides: the body learns before the stomach ever receives.",
+      "t": "En la boca están las papilas gustativas, células sensoriales especializadas que leen cinco señales distintas. No son solo sabores. Los primeros textos de fisiología ya señalaban su papel como guías protectoras: el cuerpo aprende antes de que el estómago reciba nada."
+    },
+    "3154ffed": {
+      "src": "The mouth is not separate. It is the starting point.",
+      "t": "La boca no está separada. Es el punto de partida."
+    },
+    "e5c94839": {
+      "src": "The mouth is the gateway to your overall well-being. Health often begins with an act of affection — and continues with every informed choice you make about what you allow to enter it. Understanding that is not complicated. It is clarifying.",
+      "t": "La boca es la puerta de entrada a tu bienestar general. La salud a menudo empieza con un acto de cariño y continúa con cada decisión informada que tomas sobre lo que dejas entrar en ella. Entender esto no es complicado. Es revelador."
+    },
+    "b0cdc67e": {
+      "src": "The mouth is where",
+      "t": "La boca es donde"
+    },
+    "ee61db98": {
+      "src": "The mouth is where nourishment enters. Protecting it is not vanity. It is stewardship.",
+      "t": "La boca es por donde entra la nutrición. Protegerla no es vanidad. Es cuidado responsable."
+    },
+    "8dd575ad": {
+      "src": "The mouth plays a vital role in overall health. The quality of a person’s diet and oral hygiene directly impacts both physical and mental well-being. It is important to remember that health often starts with a simple gesture of affection — a loving kiss from birth — and a carefully chosen, nutritious meal that nourishes both the body and the spirit.",
+      "t": "La boca cumple un papel vital en la salud general. La calidad de la dieta y de la higiene bucal de una persona influye directamente en su bienestar físico y mental. Es importante recordar que la salud a menudo empieza con un sencillo gesto de cariño, un beso lleno de amor desde el nacimiento, y con una comida nutritiva y bien elegida que alimenta el cuerpo y el espíritu."
+    },
+    "a6471cbb": {
+      "src": "The primary mineral of tooth structure. Found in whole dairy, leafy greens, legumes, and seeds.",
+      "t": "El principal mineral de la estructura dental. Se encuentra en los lácteos enteros, las verduras de hoja, las legumbres y las semillas."
+    },
+    "c71a025f": {
+      "src": "This is exactly why Kwik Fat Cut emphasises learning before acting.",
+      "t": "Por eso precisamente Kwik Fat Cut pone el aprendizaje antes que la acción."
+    },
+    "0517df07": {
+      "src": "This is not an opinion. It is a fundamental fact. Your taste buds are the gateway through which every food decision passes.",
+      "t": "No es una opinión. Es un hecho fundamental. Tus papilas gustativas son la puerta por la que pasa cada decisión sobre la comida."
+    },
+    "89bb10fc": {
+      "src": "This is not cause for alarm. It is a reminder that health is not purely individual — it is relational, communal, and woven into how we live alongside one another. The mouth is where that connection, literally, begins.",
+      "t": "No es motivo de alarma. Es un recordatorio de que la salud no es puramente individual: es relacional, comunitaria y está entretejida en cómo vivimos unos junto a otros. La boca es, literalmente, donde empieza esa conexión."
+    },
+    "54509f49": {
+      "src": "This is not instinct alone — it is a sophisticated biological reading system, refined over millennia.",
+      "t": "No es solo instinto: es un sofisticado sistema biológico de lectura, perfeccionado durante milenios."
+    },
+    "56273bab": {
+      "src": "Ultimately, what you consume is what your stomach digests and processes.",
+      "t": "Al final, lo que consumes es lo que tu estómago digiere y procesa."
+    },
+    "37fe2aac": {
+      "src": "Umami",
+      "t": "Umami"
+    },
+    "c6b1c4b0": {
+      "src": "Vitamin C",
+      "t": "Vitamina C"
+    },
+    "cdb1cfb5": {
+      "src": "Vitamin D",
+      "t": "Vitamina D"
+    },
+    "14e6790c": {
+      "src": "Warns against fermented or spoiled substances. Also signals vitamin C-rich foods.",
+      "t": "Advierte de sustancias fermentadas o en mal estado. También señala alimentos ricos en vitamina C."
+    },
+    "57be40b5": {
+      "src": "We look forward to your arrival. Please proceed and take a seat. Our ability to create change starts with recognising the power of the mouth — the one we already hold.",
+      "t": "Te esperábamos. Pasa y toma asiento. Nuestra capacidad de crear cambios empieza por reconocer el poder de la boca, ese poder que ya tenemos."
+    },
+    "e33d3921": {
+      "src": "What enters the mouth does not stay there",
+      "t": "Lo que entra en la boca no se queda ahí"
+    },
+    "b211cdb6": {
+      "src": "When oral hygiene declines, this balance shifts.",
+      "t": "Cuando la higiene bucal se descuida, este equilibrio cambia."
+    },
+    "b7719979": {
+      "src": "When the body is well nourished and stable, this microbial exchange supports diversity",
+      "t": "Cuando el cuerpo está bien nutrido y estable, este intercambio microbiano favorece la diversidad"
+    },
+    "f359e5ad": {
+      "src": "Your taste buds are",
+      "t": "Tus papilas gustativas son"
+    },
+    "7724e797": {
+      "src": "You’re here. Please, have a seat. Let’s go through this together. No rush, no pressure. Just clarity.",
+      "t": "Ya estás aquí. Por favor, toma asiento. Recorramos esto juntos. Sin prisa, sin presión. Solo claridad."
+    },
+    "ab70a21b": {
+      "src": "begins.",
+      "t": "empieza."
+    },
+    "76e54313": {
+      "src": "daily protection of your internal environment.",
+      "t": "protección diaria de tu entorno interno."
+    },
+    "d3397424": {
+      "src": "guides, not passengers.",
+      "t": "guías, no pasajeras."
+    },
+    "6b98ed8f": {
+      "src": "health",
+      "t": "la salud"
+    },
+    "c3b96210": {
+      "src": "human contact.",
+      "t": "el contacto humano."
+    },
+    "848a9b39": {
+      "src": "in the",
+      "t": "en la"
+    },
+    "68c10ea0": {
+      "src": "in the oral and gut microbiome.",
+      "t": "del microbioma bucal e intestinal."
+    },
+    "1689917e": {
+      "src": "influential",
+      "t": "más influyente"
+    },
+    "8fa7d58f": {
+      "src": "is the practice.",
+      "t": "es la práctica."
+    },
+    "82b4f7de": {
+      "src": "it sets direction.",
+      "t": "marca el rumbo."
+    },
+    "50e8a65f": {
+      "src": "mental balance, resilience, and mental clarity.",
+      "t": "el equilibrio mental, la resiliencia y la claridad mental."
+    },
+    "9d36b20d": {
+      "src": "more?",
+      "t": "más?"
+    },
+    "c90b8ff6": {
+      "src": "mouth.",
+      "t": "boca."
+    },
+    "c89f9c36": {
+      "src": "overlooked guardian.",
+      "t": "guardiana olvidada."
+    },
+    "a5335b82": {
+      "src": "part of your body.",
+      "t": "de tu cuerpo."
+    },
+    "b074712b": {
+      "src": "the most",
+      "t": "la parte"
+    },
+    "f70cff12": {
+      "src": "the mouth is the first checkpoint of the body.",
+      "t": "la boca es el primer punto de control del cuerpo."
+    },
+    "0ec63aab": {
+      "src": "understand",
+      "t": "entender"
+    },
+    "69cc2650": {
+      "src": "what it needs to protect you.",
+      "t": "lo que necesita para protegerte."
+    },
+    "49d33e6a": {
+      "src": "— it sets direction for everything that follows.”",
+      "t": ": marca el rumbo de todo lo que sigue.”"
+    },
+    "193edc9b": {
+      "src": "“",
+      "t": "“"
+    },
+    "4f228cf6": {
+      "src": "“Before modern wellness language, early clinicians were already clear:",
+      "t": "“Antes del lenguaje moderno del bienestar, los primeros médicos ya lo tenían claro:"
+    },
+    "fd8d26a3": {
+      "src": "❤️💚",
+      "t": "❤️💚"
+    },
+    "ba2f2f8c": {
+      "src": "🌿",
+      "t": "🌿"
+    },
+    "a62f1010": {
+      "src": "🍋",
+      "t": "🍋"
+    },
+    "a32f0b57": {
+      "src": "🍖",
+      "t": "🍖"
+    },
+    "8a2ee3fc": {
+      "src": "🍯",
+      "t": "🍯"
+    },
+    "ff2c3a59": {
+      "src": "🧂",
+      "t": "🧂"
+    }
+  }
+}

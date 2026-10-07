@@ -5,43 +5,107 @@
   "strings": {
     "20ed70ba": {
       "src": "01",
-      "t": ""
+      "t": "01"
+    },
+    "654ec49f": {
+      "src": "01 — The Ancient Archive",
+      "t": "01 · El archivo antiguo"
     },
     "1fed6f27": {
       "src": "02",
-      "t": ""
+      "t": "02"
+    },
+    "2b457935": {
+      "src": "02 — The Taino Diet",
+      "t": "02 · La dieta taína"
     },
     "1eed6d94": {
       "src": "03",
-      "t": ""
+      "t": "03"
+    },
+    "e8e82dd6": {
+      "src": "03 — West African Roots",
+      "t": "03 · Raíces de África Occidental"
     },
     "1ded6c01": {
       "src": "04",
-      "t": ""
+      "t": "04"
+    },
+    "f9108205": {
+      "src": "04 — The Moorish Table",
+      "t": "04 · La mesa mora"
+    },
+    "a21d0f20": {
+      "src": "05 — A Nation’s Guide",
+      "t": "05 · La guía de una nación"
+    },
+    "bad6d953": {
+      "src": "06 — Building the Community",
+      "t": "06 · Construir la comunidad"
+    },
+    "295e8bc5": {
+      "src": "07 — Living Longer & Happier",
+      "t": "07 · Vivir más y más felices"
+    },
+    "520abfaa": {
+      "src": "12 min",
+      "t": "12 min"
     },
     "98c74e18": {
       "src": "A knowledge tree for health, wellness, awareness & opportunity.",
-      "t": "Un arbol de conocimiento para la salud, el bienestar, la conciencia y la oportunidad."
+      "t": "Un árbol del conocimiento para la salud, el bienestar, la conciencia y la oportunidad."
+    },
+    "52086efa": {
+      "src": "A suh wi stay 🌿",
+      "t": "A suh wi stay 🌿"
     },
     "58e096de": {
       "src": "About",
       "t": "Acerca de"
     },
+    "1d3930b3": {
+      "src": "Ask Kwik Fat Cut",
+      "t": "Pregunta a Kwik Fat Cut"
+    },
+    "c01ff3f1": {
+      "src": "Ask about a food or a topic",
+      "t": "Pregunta sobre un alimento o un tema"
+    },
+    "aca6f950": {
+      "src": "Begin Free",
+      "t": "Empieza gratis"
+    },
     "afb3e591": {
       "src": "Category",
-      "t": "Categoria"
+      "t": "Categoría"
     },
-    "200c502a": {
-      "src": "Donate",
-      "t": "Donar"
+    "cd86acc3": {
+      "src": "Close",
+      "t": "Cerrar"
+    },
+    "0f47ca99": {
+      "src": "Coming Soon",
+      "t": "Próximamente"
+    },
+    "a23e7e7f": {
+      "src": "Continue the",
+      "t": "Continúa la"
+    },
+    "d549daf4": {
+      "src": "Deep Research",
+      "t": "Investigación profunda"
     },
     "ac37c251": {
       "src": "Facebook",
-      "t": ""
+      "t": "Facebook"
+    },
+    "d10bafc3": {
+      "src": "Facebook: Coming Soon",
+      "t": "Facebook: próximamente"
     },
     "2e48ba34": {
       "src": "Fat Cut",
-      "t": ""
+      "t": "Fat Cut"
     },
     "c68a9541": {
       "src": "Follow Kwik Fat Cut",
@@ -53,11 +117,19 @@
     },
     "e7e26241": {
       "src": "Follow, like, share, comment. Tell a friend to tell a friend. — Kwik Fat Cut, Education First.",
-      "t": "Sigue, da me gusta, comparte, comenta. Dile a un amigo que le diga a otro. — Kwik Fat Cut, la educacion primero."
+      "t": "Sigue, da me gusta, comparte, comenta. Dile a un amigo que le diga a otro. Kwik Fat Cut, la educación primero."
     },
     "22a51311": {
       "src": "Foods Hub",
       "t": "Centro de alimentos"
+    },
+    "575cffd2": {
+      "src": "Footer",
+      "t": "Pie de página"
+    },
+    "62a50daf": {
+      "src": "Greetings. Ask about any food or topic on this site. This is education, not medical advice.",
+      "t": "Saludos. Pregunta sobre cualquier alimento o tema de este sitio. Esto es educación, no consejo médico."
     },
     "52f50eae": {
       "src": "Home",
@@ -65,23 +137,55 @@
     },
     "85ebd6bf": {
       "src": "If this helped you —",
-      "t": "Si esto te ayudo"
+      "t": "Si esto te ayudó,"
     },
     "cb4d39d4": {
       "src": "In this article",
-      "t": "En este articulo"
+      "t": "En este artículo"
     },
     "0f95701b": {
       "src": "Instagram",
-      "t": ""
+      "t": "Instagram"
+    },
+    "86be762d": {
+      "src": "Instagram: Coming Soon",
+      "t": "Instagram: próximamente"
+    },
+    "a24902da": {
+      "src": "Keep this free",
+      "t": "Mantén esto gratuito"
     },
     "34785993": {
       "src": "Kwik",
-      "t": ""
+      "t": "Kwik"
+    },
+    "54b25870": {
+      "src": "Kwik Fat Cut assistant",
+      "t": "Asistente de Kwik Fat Cut"
+    },
+    "5ff1c167": {
+      "src": "Kwik Fat Cut home",
+      "t": "Inicio de Kwik Fat Cut"
+    },
+    "c9e86565": {
+      "src": "Kwik Fat Cut is a non-profit platform. Every article stays free to read, with no paywall and no subscription. Donations are what pay for it.",
+      "t": "Kwik Fat Cut es una plataforma sin fines de lucro. Cada artículo es gratuito, para siempre."
+    },
+    "6ac5c4b9": {
+      "src": "Kwik Fat Cut on X",
+      "t": "Kwik Fat Cut en X"
+    },
+    "71140730": {
+      "src": "Kwik Fat Cut on social media",
+      "t": "Kwik Fat Cut en redes sociales"
     },
     "90575f6b": {
       "src": "Kwik Fat Cut — Education First — A knowledge tree for health, wellness, awareness & opportunity.",
-      "t": "Kwik Fat Cut — la educacion primero — un arbol de conocimiento para la salud, el bienestar, la conciencia y la oportunidad."
+      "t": "Kwik Fat Cut, la educación primero: un árbol del conocimiento para la salud, el bienestar, la conciencia y la oportunidad."
+    },
+    "9dc37988": {
+      "src": "Kwik Fat Cut — Return to Real Food Series — Education First",
+      "t": "Kwik Fat Cut · Serie Volver a la Comida Real · La educación primero"
     },
     "2524e8b5": {
       "src": "Learn",
@@ -95,9 +199,29 @@
       "src": "Level",
       "t": "Nivel"
     },
+    "2f5973bf": {
+      "src": "LinkedIn",
+      "t": "LinkedIn"
+    },
+    "d732ffa1": {
+      "src": "LinkedIn: Coming Soon",
+      "t": "LinkedIn: próximamente"
+    },
+    "51707928": {
+      "src": "Main",
+      "t": "Principal"
+    },
+    "00c6075a": {
+      "src": "Menu",
+      "t": "Menú"
+    },
+    "adc44201": {
+      "src": "Movements are medicines. We row. You steer. 🇯🇲",
+      "t": "Los movimientos son medicina. Nosotros remamos. Tú diriges. 🇯🇲"
+    },
     "9f88b18c": {
       "src": "Our Roots",
-      "t": "Nuestras raices"
+      "t": "Nuestras raíces"
     },
     "ebfa87e7": {
       "src": "Privacy",
@@ -107,17 +231,33 @@
       "src": "Reading time",
       "t": "Tiempo de lectura"
     },
+    "02949b44": {
+      "src": "Return to Real Food",
+      "t": "Volver a la Comida Real"
+    },
+    "f28e14cf": {
+      "src": "Send",
+      "t": "Enviar"
+    },
     "098b99d0": {
       "src": "Series",
       "t": "Serie"
     },
     "06d7397e": {
       "src": "Share this article",
-      "t": "Comparte este articulo"
+      "t": "Comparte este artículo"
+    },
+    "0d557b8f": {
+      "src": "Share this page",
+      "t": "Compartir esta página"
     },
     "c7af44e6": {
       "src": "Skip to content",
       "t": "Saltar al contenido"
+    },
+    "a2c773d1": {
+      "src": "Sources",
+      "t": "Fuentes"
     },
     "c27dd5c1": {
       "src": "Spread the knowledge",
@@ -131,6 +271,10 @@
       "src": "Support",
       "t": "Apoyo"
     },
+    "b432c639": {
+      "src": "Support Kwik Fat Cut",
+      "t": "Apoya a Kwik Fat Cut"
+    },
     "2329c92c": {
       "src": "Team",
       "t": "Equipo"
@@ -141,47 +285,83 @@
     },
     "a61c44d1": {
       "src": "Tell a friend to tell a friend. — Kwik Fat Cut, Education First.",
-      "t": "Dile a un amigo que le diga a otro. — Kwik Fat Cut, la educacion primero."
+      "t": "Dile a un amigo que le diga a otro. Kwik Fat Cut, la educación primero."
+    },
+    "2f8b92b1": {
+      "src": "The Series",
+      "t": "La serie"
+    },
+    "8d928af2": {
+      "src": "The assistant is being connected and will be available soon. In the meantime, the Learn hub has every article free, or email kwik@kwikfatcut.com.",
+      "t": "El asistente se está conectando y estará disponible pronto. Mientras tanto, el Centro de aprendizaje tiene todos los artículos gratis, o escribe a kwik@kwikfatcut.com."
     },
     "c8a113f3": {
       "src": "TikTok",
-      "t": ""
+      "t": "TikTok"
     },
-    "48e914d9": {
-      "src": "Twitter / X",
-      "t": ""
+    "6056da35": {
+      "src": "TikTok: Coming Soon",
+      "t": "TikTok: próximamente"
     },
     "af757a93": {
       "src": "We row. You steer.",
-      "t": "Nosotros remamos. Tu diriges."
+      "t": "Nosotros remamos. Tú diriges."
     },
     "2c0b3dc0": {
       "src": "We take feedback like yours seriously. If Kwik Fat Cut opened your eyes, helped you understand your body better, or gave someone you love a new perspective — pass it on. Tell a friend to tell a friend. No pressure. Just a gentle invitation.",
-      "t": "Tomamos muy en serio comentarios como el tuyo. Si Kwik Fat Cut te abrio los ojos, te ayudo a entender mejor tu cuerpo, o le dio a alguien que quieres una nueva perspectiva, pasalo. Dile a un amigo que le diga a otro. Sin presion. Solo una invitacion sincera."
+      "t": "Tomamos muy en serio comentarios como el tuyo. Si Kwik Fat Cut te abrió los ojos, te ayudó a entender mejor tu cuerpo o le dio a alguien que quieres una nueva perspectiva, compártelo. Dile a un amigo que le diga a otro. Sin presión. Solo una invitación sincera."
     },
     "1e938601": {
       "src": "Why Free",
-      "t": "Por que es gratis"
+      "t": "Por qué es gratis"
+    },
+    "dd0c1e27": {
+      "src": "X",
+      "t": "X"
+    },
+    "be3a531e": {
+      "src": "YouTube",
+      "t": "YouTube"
+    },
+    "aebd4962": {
+      "src": "YouTube: Coming Soon",
+      "t": "YouTube: próximamente"
+    },
+    "a0bb761e": {
+      "src": "Your question",
+      "t": "Tu pregunta"
     },
     "82fe5fdc": {
       "src": "pass it on.",
-      "t": "pasalo."
+      "t": "pásalo."
     },
     "762dbd87": {
       "src": "© 2026 Kwik Fat Cut",
-      "t": ""
+      "t": "© 2026 Kwik Fat Cut"
     },
     "b20bda76": {
       "src": "·",
-      "t": ""
+      "t": "·"
+    },
+    "520b4356": {
+      "src": "×",
+      "t": "×"
     },
     "183edb08": {
       "src": "”",
-      "t": ""
+      "t": "”"
     },
-    "ba2f2f8c": {
-      "src": "🌿",
-      "t": ""
+    "59633031": {
+      "src": "✓ Copied!",
+      "t": "✓ ¡Copiado!"
+    },
+    "1391f855": {
+      "src": "✓ Link copied!",
+      "t": "✓ ¡Enlace copiado!"
+    },
+    "e8c33e18": {
+      "src": "🇯🇲❤️💚",
+      "t": "🇯🇲❤️💚"
     }
   }
 }

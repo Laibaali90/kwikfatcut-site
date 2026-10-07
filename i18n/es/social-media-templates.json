@@ -1,0 +1,231 @@
+{
+  "_note": "Page content for social-media-templates.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "33dd9812": {
+      "src": "\"Share this if it helped\" beats \"please share this.\" Respect is the strategy.",
+      "t": "\"Compártelo si te ayudó\" funciona mejor que \"por favor, comparte esto\". El respeto es la estrategia."
+    },
+    "a056dcb1": {
+      "src": "#AncestralWisdom #IndigenousHealth #KwikFatCut #EducationFirst",
+      "t": "#AncestralWisdom #IndigenousHealth #KwikFatCut #EducationFirst"
+    },
+    "285dcd64": {
+      "src": "#HealthEducation #KwikFatCut #StartFree #WholeFoods",
+      "t": "#HealthEducation #KwikFatCut #StartFree #WholeFoods"
+    },
+    "18166617": {
+      "src": "#KwikFatCut #WeRowYouSteer #FreeHealthEducation #CulinaryPeace",
+      "t": "#KwikFatCut #WeRowYouSteer #FreeHealthEducation #CulinaryPeace"
+    },
+    "33e13f81": {
+      "src": "#MindfulEating #OralHealth #KwikFatCut #HealthFirst",
+      "t": "#MindfulEating #OralHealth #KwikFatCut #HealthFirst"
+    },
+    "5ecb0ff6": {
+      "src": "280 characters — short, sharp, shareable",
+      "t": "280 caracteres: breve, directo, fácil de compartir"
+    },
+    "c4273283": {
+      "src": "Assertive.",
+      "t": "Firme."
+    },
+    "c7c4ebae": {
+      "src": "Awareness",
+      "t": "Conciencia"
+    },
+    "642567f2": {
+      "src": "Calm, human, and professionally assertive. Every post invites without pressuring — sharing knowledge, building community, and growing the tree. Copy, adjust, and post.",
+      "t": "Serenas, humanas y profesionalmente firmes. Cada publicación invita sin presionar: comparte conocimiento, construye comunidad y hace crecer el árbol. Copia, ajusta y publica."
+    },
+    "909c7cdd": {
+      "src": "Calm. Human.",
+      "t": "Sereno. Humano."
+    },
+    "0558533b": {
+      "src": "Caption — lead with story, end with CTA",
+      "t": "Pie de foto: empieza con una historia, termina con una llamada a la acción"
+    },
+    "a6a3bf94": {
+      "src": "Comment, share, follow, or visit — pick one. Multiple asks dilute all of them.",
+      "t": "Comentar, compartir, seguir o visitar: elige una. Varias peticiones las debilitan todas."
+    },
+    "2c79b13c": {
+      "src": "Community post",
+      "t": "Publicación de comunidad"
+    },
+    "658f3664": {
+      "src": "Copy",
+      "t": "Copiar"
+    },
+    "c9fed9e1": {
+      "src": "Education post",
+      "t": "Publicación educativa"
+    },
+    "965d302e": {
+      "src": "Engagement",
+      "t": "Interacción"
+    },
+    "cf60ca85": {
+      "src": "Engagement hook",
+      "t": "Gancho de interacción"
+    },
+    "ec7401a5": {
+      "src": "Every post gives something useful first. The call to action follows, never leads.",
+      "t": "Cada publicación da primero algo útil. La llamada a la acción viene después, nunca delante."
+    },
+    "86ac36cb": {
+      "src": "Every post reflects the brand. We never beg, never pressure, never exaggerate. We share knowledge and trust that it speaks for itself.",
+      "t": "Cada publicación refleja la marca. Nunca suplicamos, nunca presionamos, nunca exageramos. Compartimos conocimiento y confiamos en que habla por sí mismo."
+    },
+    "a8142d62": {
+      "src": "Facebook & Community Groups",
+      "t": "Facebook y grupos comunitarios"
+    },
+    "2f83e159": {
+      "src": "Follow invite",
+      "t": "Invitación a seguir"
+    },
+    "0363a096": {
+      "src": "Founder post",
+      "t": "Publicación del fundador"
+    },
+    "fd37df7f": {
+      "src": "HOOK (0–3s): \"Nobody taught you how your body actually works. That's not your fault.\" BODY (3–25s): Most diet platforms tell you what to eat, what to avoid, which product to buy — but nobody explains the why. Why does sugar affect your metabolism? Why do traditional foods work better than modern processed ones? Why does stress make you gain weight? Kwik Fat Cut was built to answer those questions. Free. No subscription. No pressure. CTA (25–30s): \"Follow for free health education rooted in ancestral wisdom. Start free at kwikfatcut.com.\" CAPTION: Free health education. No subscriptions. No pressure. Just understanding. 🌿 #KwikFatCut #HealthTok #FreeEducation #LearnFirst #StartFree",
+      "t": "GANCHO (0 a 3 s): \"Nadie te enseñó cómo funciona realmente tu cuerpo. No es culpa tuya.\" CUERPO (3 a 25 s): La mayoría de las plataformas de dietas te dicen qué comer, qué evitar y qué producto comprar, pero nadie explica el porqué. ¿Por qué el azúcar afecta a tu metabolismo? ¿Por qué los alimentos tradicionales funcionan mejor que los procesados modernos? ¿Por qué el estrés te hace subir de peso? Kwik Fat Cut se creó para responder a esas preguntas. Gratis. Sin suscripción. Sin presión. LLAMADA A LA ACCIÓN (25 a 30 s): \"Síguenos para recibir educación en salud gratuita con raíces en la sabiduría ancestral. Empieza gratis en kwikfatcut.com.\" PIE: Educación en salud gratuita. Sin suscripciones. Sin presión. Solo comprensión. 🌿 #KwikFatCut #HealthTok #FreeEducation #LearnFirst #StartFree"
+    },
+    "fb1b0ffa": {
+      "src": "HOOK (0–3s): \"The Aztecs had better oral health than most people do today. Here's why.\" BODY (3–25s): No toothbrush. No fluoride. No dental products. They ate maize, beans, squash, and fibrous whole foods — foods that required chewing, which naturally cleaned their teeth and stimulated saliva. Their hygiene? Plant-based abrasives, salt rinses, herbal preparations. Daily habits, not products, maintained balance. CTA (25–30s): \"This is why we go back to basics. Follow Kwik Fat Cut for more. Link in bio.\" CAPTION: The roots knew. 🌿 Free health education at kwikfatcut.com #AncientWisdom #OralHealth #KwikFatCut #IndigenousHealth #HealthTok",
+      "t": "GANCHO (0 a 3 s): \"Los aztecas tenían mejor salud bucal que la mayoría de la gente hoy. Te contamos por qué.\" CUERPO (3 a 25 s): Sin cepillo de dientes. Sin flúor. Sin productos dentales. Comían maíz, frijoles, calabaza y alimentos integrales fibrosos, alimentos que había que masticar y que limpiaban los dientes y estimulaban la saliva de forma natural. ¿Su higiene? Abrasivos vegetales, enjuagues con sal, preparaciones de hierbas. Los hábitos diarios, no los productos, mantenían el equilibrio. LLAMADA A LA ACCIÓN (25 a 30 s): \"Por eso volvemos a lo básico. Sigue a Kwik Fat Cut para ver más. Enlace en la bio.\" PIE: Las raíces lo sabían. 🌿 Educación en salud gratuita en kwikfatcut.com #AncientWisdom #OralHealth #KwikFatCut #IndigenousHealth #HealthTok"
+    },
+    "96301ea9": {
+      "src": "Health education should be free. Not behind a paywall. Not buried in a subscription. Not conditional on buying something first. At Kwik Fat Cut, we believe you should never have to pay to understand your own body. Free health education. Free nutrition education. Free, always — because that's the principle. Start free at kwikfatcut.com 🌿 — If this resonates with you, share it with someone who's been stuck in the cycle of diets that never last. 💚 #KwikFatCut #StartFree #HealthEducation #EducationFirst #WholeFoods #IndigenousHealth #CulinaryPeace #WeRowYouSteer",
+      "t": "La educación en salud debería ser gratuita. No detrás de un muro de pago. No enterrada en una suscripción. No condicionada a comprar algo primero. En Kwik Fat Cut creemos que nunca deberías tener que pagar para entender tu propio cuerpo. Educación en salud gratuita. Educación en nutrición gratuita. Gratis, siempre, porque ese es el principio. Empieza gratis en kwikfatcut.com 🌿 Si esto resuena contigo, compártelo con alguien que lleve tiempo atrapado en el ciclo de dietas que nunca duran. 💚 #KwikFatCut #StartFree #HealthEducation #EducationFirst #WholeFoods #IndigenousHealth #CulinaryPeace #WeRowYouSteer"
+    },
+    "c61dc28d": {
+      "src": "Hook script",
+      "t": "Guion con gancho"
+    },
+    "2e4cf91d": {
+      "src": "Invite, don't demand",
+      "t": "Invita, no exijas"
+    },
+    "2dc5b2b0": {
+      "src": "Lead with value",
+      "t": "Empieza aportando valor"
+    },
+    "2f5973bf": {
+      "src": "LinkedIn",
+      "t": "LinkedIn"
+    },
+    "99f42945": {
+      "src": "Longer form — story-driven, community-focused",
+      "t": "Formato largo: basado en historias y centrado en la comunidad"
+    },
+    "fdfcadf4": {
+      "src": "Most people try to improve their health without understanding their body. That's not a failure of willpower. It's a failure of education. Kwik Fat Cut is free health education — no subscriptions, no pressure. Start free. Learn first. 🌿",
+      "t": "La mayoría de las personas intenta mejorar su salud sin entender su cuerpo. No es un fallo de fuerza de voluntad. Es un fallo de educación. Kwik Fat Cut es educación en salud gratuita, sin suscripciones y sin presión. Empieza gratis. Aprende primero. 🌿"
+    },
+    "0e754ba9": {
+      "src": "One ask per post",
+      "t": "Una sola petición por publicación"
+    },
+    "2204f49c": {
+      "src": "Professional — platform story, mission, impact",
+      "t": "Profesional: la historia de la plataforma, su misión y su impacto"
+    },
+    "d5550693": {
+      "src": "Roots don't disappear overnight. They grow steadily — and so does health. 🌳 The Kwik Fat Cut family tree stands for something: 🖤 Black — heritage, identity, strength ❤️ Red — resistance, courage, sacrifice 💛 Gold — prosperity, dignity, wisdom 💚 Green — life, growth, renewal These aren't just colours. They're a reminder that our health is rooted in daily choices — and in the ancestral wisdom that came before us. Jamaican 🇯🇲 West Indian. African. Rooted in tradition. Built to last. Share this with your family. The tree grows when knowledge travels. 🌿 #KwikFatCut #FamilyTree #RastafarianHealth #JamaicanCulture #AncestralWisdom #CulinaryPeace",
+      "t": "Las raíces no desaparecen de la noche a la mañana. Crecen poco a poco, y la salud también. 🌳 El árbol genealógico de Kwik Fat Cut representa algo: 🖤 Negro: herencia, identidad, fuerza ❤️ Rojo: resistencia, valentía, sacrificio 💛 Dorado: prosperidad, dignidad, sabiduría 💚 Verde: vida, crecimiento, renovación No son solo colores. Son un recordatorio de que nuestra salud tiene raíces en las decisiones diarias y en la sabiduría ancestral que vino antes que nosotros. Jamaicanos 🇯🇲 Antillanos. Africanos. Con raíces en la tradición. Hechos para durar. Compártelo con tu familia. El árbol crece cuando el conocimiento viaja. 🌿 #KwikFatCut #FamilyTree #RastafarianHealth #JamaicanCulture #AncestralWisdom #CulinaryPeace"
+    },
+    "621e0fa8": {
+      "src": "Roots post",
+      "t": "Publicación de raíces"
+    },
+    "a73dc4bd": {
+      "src": "Script hooks — first 3 seconds decide everything",
+      "t": "Ganchos para guiones: los primeros 3 segundos lo deciden todo"
+    },
+    "1e957ec1": {
+      "src": "Share invite",
+      "t": "Invitación a compartir"
+    },
+    "1b6fee2b": {
+      "src": "Since January 1, 2014, I've dedicated myself to one mission: making health education accessible to everyone — free of charge, free of pressure, and free of judgment. Kwik Fat Cut is the result of that decade of work. It is not designed to sell products. It is not built around subscriptions. It is a knowledge tree — a non-profit health education platform rooted in ancestral wisdom, indigenous food traditions, and the simple belief that you should never have to pay to understand your own body. We focus on: → Education before intervention → Cultural foods and real-life eating habits → Long-term understanding, not quick fixes → Knowledge that families can share across generations If you know someone working in health, education, nutrition, or community development who shares these values — I'd welcome the connection. The tree grows when knowledge travels. 🌿 Wilbert Blackwood — Founder & CEO, Kwik Fat Cut Kingston, Jamaica 🇯🇲 kwikfatcut.com #HealthEducation #NonProfit #IndigenousHealth #EducationFirst #KwikFatCut #PublicHealth",
+      "t": "Desde el 1 de enero de 2014 me he dedicado a una sola misión: hacer que la educación en salud sea accesible para todos, sin costo, sin presión y sin juicios. Kwik Fat Cut es el resultado de esa década de trabajo. No está pensado para vender productos. No está construido en torno a suscripciones. Es un árbol del conocimiento: una plataforma de educación en salud sin fines de lucro, con raíces en la sabiduría ancestral, las tradiciones alimentarias indígenas y la sencilla convicción de que nunca deberías tener que pagar para entender tu propio cuerpo. Nos centramos en: → La educación antes que la intervención → Los alimentos culturales y los hábitos alimentarios reales → La comprensión a largo plazo, no las soluciones rápidas → Un conocimiento que las familias pueden compartir de generación en generación Si conoces a alguien que trabaje en salud, educación, nutrición o desarrollo comunitario y comparta estos valores, me encantaría conectar. El árbol crece cuando el conocimiento viaja. 🌿 Wilbert Blackwood, fundador y CEO de Kwik Fat Cut Kingston, Jamaica 🇯🇲 kwikfatcut.com #HealthEducation #NonProfit #IndigenousHealth #EducationFirst #KwikFatCut #PublicHealth"
+    },
+    "a72743ba": {
+      "src": "Social Media Templates — Kwik Fat Cut",
+      "t": "Plantillas para redes sociales · Kwik Fat Cut"
+    },
+    "93362246": {
+      "src": "Social media",
+      "t": "Plantillas de publicaciones"
+    },
+    "d0d1fc40": {
+      "src": "Stay consistent",
+      "t": "Sé constante"
+    },
+    "0912ece0": {
+      "src": "Take a seat. We're here to listen. 🇯🇲 Kwik Fat Cut isn't here to tell you what to do. We're here to help you understand what's happening. There's a difference — and it matters. When you understand your body, your food, and your habits, you stop repeating the same cycle. You start making choices that actually last. Comment below: what's one thing about your health you've always wanted to understand better? We read every reply. 💬 #KwikFatCut #HealthCommunity #FamilyHealth #NoBodShaming #LearnFirst #EducationBeforeIntervention",
+      "t": "Toma asiento. Estamos aquí para escucharte. 🇯🇲 Kwik Fat Cut no está aquí para decirte qué hacer. Estamos aquí para ayudarte a entender lo que está pasando. Hay una diferencia, y es importante. Cuando entiendes tu cuerpo, tu comida y tus hábitos, dejas de repetir el mismo ciclo. Empiezas a tomar decisiones que de verdad duran. Comenta abajo: ¿qué es algo de tu salud que siempre quisiste entender mejor? Leemos todas las respuestas. 💬 #KwikFatCut #HealthCommunity #FamilyHealth #NoBodShaming #LearnFirst #EducationBeforeIntervention"
+    },
+    "9432554f": {
+      "src": "The Moors used the miswak daily. The Aztecs ate fibrous whole foods that cleaned their teeth naturally. Two civilisations. One pattern. Zero products. If this surprised you — share it with someone who needs to hear it. 🇯🇲❤️💚 kwikfatcut.com",
+      "t": "Los moros usaban el miswak a diario. Los aztecas comían alimentos integrales fibrosos que limpiaban sus dientes de forma natural. Dos civilizaciones. Un patrón. Cero productos. Si esto te sorprendió, compártelo con alguien que necesite oírlo. 🇯🇲❤️💚 kwikfatcut.com"
+    },
+    "e73302e4": {
+      "src": "The Tone",
+      "t": "El tono"
+    },
+    "29171519": {
+      "src": "The brand voice is the same everywhere — calm, warm, never preachy, never pushy.",
+      "t": "La voz de la marca es la misma en todas partes: serena, cálida, nunca sermoneadora, nunca insistente."
+    },
+    "0bd461f4": {
+      "src": "TikTok & Short Video",
+      "t": "TikTok y videos cortos"
+    },
+    "1c62331b": {
+      "src": "To everyone in this community — Kwik Fat Cut was created for a simple reason: too many people try to improve their health without ever being taught how their bodies actually work. We've all seen it. Someone starts a diet, loses a little weight, stops, gains it back, feels discouraged, tries something new — and repeats the cycle for years. That's not a failure of discipline. It's a failure of education. Kwik Fat Cut is a free health education platform. No subscription. No pressure. No body shaming. Just clear, honest information rooted in ancestral food wisdom and practical understanding. If this community has been your place to learn and grow — share this post with someone who needs it. 🌿 We row together. You steer. You lead the way. 🇯🇲 Visit: kwikfatcut.com Follow us for weekly education. #KwikFatCut #FreeHealthEducation #EducationFirst #FamilyHealth #CulinaryPeace",
+      "t": "A todas las personas de esta comunidad: Kwik Fat Cut se creó por una razón sencilla. Demasiadas personas intentan mejorar su salud sin que nunca les hayan enseñado cómo funciona realmente su cuerpo. Todos lo hemos visto. Alguien empieza una dieta, baja un poco de peso, la deja, lo recupera, se desanima, prueba algo nuevo y repite el ciclo durante años. No es un fallo de disciplina. Es un fallo de educación. Kwik Fat Cut es una plataforma gratuita de educación en salud. Sin suscripción. Sin presión. Sin criticar el cuerpo de nadie. Solo información clara y honesta, con raíces en la sabiduría alimentaria ancestral y en la comprensión práctica. Si esta comunidad ha sido tu lugar para aprender y crecer, comparte esta publicación con alguien que la necesite. 🌿 Remamos juntos. Tú diriges. Tú marcas el camino. 🇯🇲 Visita: kwikfatcut.com Síguenos para recibir educación cada semana. #KwikFatCut #FreeHealthEducation #EducationFirst #FamilyHealth #CulinaryPeace"
+    },
+    "48e914d9": {
+      "src": "Twitter / X",
+      "t": "Twitter / X"
+    },
+    "e4602eb3": {
+      "src": "We row. You steer. Kwik Fat Cut is a free health education platform rooted in ancestral wisdom, indigenous foods, and the knowledge your body already responds to. Follow for weekly health education — calm, clear, no pressure. Start free: kwikfatcut.com",
+      "t": "Nosotros remamos. Tú diriges. Kwik Fat Cut es una plataforma gratuita de educación en salud con raíces en la sabiduría ancestral, los alimentos indígenas y el conocimiento al que tu cuerpo ya responde. Síguenos para recibir educación en salud cada semana: serena, clara, sin presión. Empieza gratis: kwikfatcut.com"
+    },
+    "9a328202": {
+      "src": "Your mouth is the gateway to your overall health. What you eat, how you chew, and what you repeat daily — these habits shape everything that follows. The mouth remembers. Do you? Drop a 🌿 if you're working on eating more mindfully.",
+      "t": "Tu boca es la puerta de entrada a tu salud general. Lo que comes, cómo masticas y lo que repites cada día: estos hábitos moldean todo lo que viene después. La boca recuerda. ¿Y tú? Deja un 🌿 si estás trabajando para comer de forma más consciente."
+    },
+    "e30c2799": {
+      "src": "f",
+      "t": "f"
+    },
+    "41387a9e": {
+      "src": "in",
+      "t": "in"
+    },
+    "87a38212": {
+      "src": "post templates.",
+      "t": "para redes sociales."
+    },
+    "b3365d09": {
+      "src": "▶",
+      "t": "▶"
+    },
+    "69dd194d": {
+      "src": "𝕏",
+      "t": "𝕏"
+    },
+    "022ef54d": {
+      "src": "📷",
+      "t": "📷"
+    }
+  }
+}

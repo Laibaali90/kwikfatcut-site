@@ -1,0 +1,251 @@
+{
+  "_note": "Page content for privacy.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "29a8ec2c": {
+      "src": ". It exists so the site does not have to ask you again on every page. It never leaves your device, it is not sent to us, and it identifies nothing about you.",
+      "t": ". Existe para que el sitio no tenga que preguntártelo de nuevo en cada página. Nunca sale de tu dispositivo, no se nos envía, y no identifica nada sobre ti."
+    },
+    "bcade02b": {
+      "src": "Analytics",
+      "t": "Analítica"
+    },
+    "ca19aa00": {
+      "src": "Any personal information provided to Kwik Fat Cut — through the donation form or direct contact — is used only to respond to your enquiry or process your donation. It is never shared with third parties, never used for advertising, and never sold. The platform is funded by donations and operates on the principle that your trust is more valuable than any data. Education First. We row. You steer. A suh wi stay 🌿",
+      "t": "Cualquier información personal facilitada a Kwik Fat Cut (a través del formulario de donación o por contacto directo) se utiliza únicamente para responder a tu consulta o para procesar tu donación. Nunca se comparte con terceros, nunca se utiliza con fines publicitarios y nunca se vende. La plataforma se financia con donaciones y funciona según el principio de que tu confianza vale más que cualquier dato. La educación primero. Nosotros remamos. Tú diriges. A suh wi stay 🌿"
+    },
+    "7039f8a2": {
+      "src": "Contributions made through the support page are handled by an external payment provider. Your payment details go to them directly and are governed by their own privacy policy, not this one.",
+      "t": "Las contribuciones realizadas a través de la página de apoyo las gestiona un proveedor de pagos externo. Tus datos de pago llegan directamente a ellos y se rigen por su propia política de privacidad, no por esta."
+    },
+    "ec570bf0": {
+      "src": "Cookies & Local Storage",
+      "t": "Cookies y almacenamiento local"
+    },
+    "8eed04e7": {
+      "src": "Data Retention",
+      "t": "Conservación de datos"
+    },
+    "5804ce1c": {
+      "src": "Depending on where you live you may also have the right to complain to a data protection authority. Nothing here limits that.",
+      "t": "Según el lugar donde vivas, es posible que también tengas derecho a presentar una reclamación ante una autoridad de protección de datos. Nada de lo aquí expuesto limita ese derecho."
+    },
+    "9eaf65d0": {
+      "src": "Donation processing.",
+      "t": "Procesamiento de donaciones."
+    },
+    "60b982c1": {
+      "src": "Donation records.",
+      "t": "Registros de donaciones."
+    },
+    "08edb32c": {
+      "src": "Enquiries.",
+      "t": "Consultas."
+    },
+    "1c39419a": {
+      "src": "Google Fonts.",
+      "t": "Google Fonts."
+    },
+    "7351cd29": {
+      "src": "How Your Data Is Used",
+      "t": "Cómo se usan tus datos"
+    },
+    "2a50b76e": {
+      "src": "If you email us, we keep the correspondence for as long as it takes to deal with your question and for a reasonable period afterwards in case you follow up.",
+      "t": "Si nos escribes por correo electrónico, conservamos la correspondencia durante el tiempo que haga falta para atender tu pregunta y durante un periodo razonable después, por si vuelves a escribirnos."
+    },
+    "4b85394e": {
+      "src": "If you would rather simply stop the site remembering your language, clearing your browser’s site data for kwikfatcut.com does that immediately, with no need to contact anyone.",
+      "t": "Si prefieres simplemente que el sitio deje de recordar tu idioma, borrar los datos de sitio de kwikfatcut.com en tu navegador lo consigue de inmediato, sin necesidad de contactar con nadie."
+    },
+    "c8cc431c": {
+      "src": "Kwik Fat Cut collects no personal data for commercial use. No advertising. No product sales. No data sharing with third parties. This page sets out exactly what the platform stores, what it does not, and how to have any of it removed.",
+      "t": "Kwik Fat Cut no recopila datos personales con fines comerciales. Sin publicidad. Sin venta de productos. Sin compartir datos con terceros. Esta página expone exactamente qué almacena la plataforma, qué no almacena y cómo solicitar que se elimine cualquiera de esos datos."
+    },
+    "64062f27": {
+      "src": "Kwik Fat Cut does not collect personal data for commercial purposes. If you choose to make a donation through the support page, your name and email are used solely to process your contribution and send a receipt. We do not store payment information. We do not sell, share, or monetise any personal information provided to us.",
+      "t": "Kwik Fat Cut no recopila datos personales con fines comerciales. Si decides hacer una donación a través de la página de apoyo, tu nombre y tu correo electrónico se utilizan únicamente para procesar tu contribución y enviarte un recibo. No almacenamos información de pago. No vendemos, compartimos ni monetizamos ninguna información personal que se nos facilite."
+    },
+    "2a8c8d4f": {
+      "src": "Kwik Fat Cut runs no analytics software. There is no Google Analytics, no tag manager, no pixel, no heatmap tool, and no visitor tracking script of any kind on this site.",
+      "t": "Kwik Fat Cut no ejecuta ningún software de analítica. En este sitio no hay Google Analytics, ni gestor de etiquetas, ni píxel, ni herramienta de mapas de calor, ni ningún script de seguimiento de visitantes de ningún tipo."
+    },
+    "9de5c02a": {
+      "src": "Kwik Fat Cut sets no cookies. Nothing about your visit is written to a cookie, and nothing is used to follow you between sites.",
+      "t": "Kwik Fat Cut no instala cookies. Nada de tu visita se escribe en una cookie y nada se utiliza para seguirte entre sitios."
+    },
+    "b8fb51d0": {
+      "src": "Links out.",
+      "t": "Enlaces externos."
+    },
+    "2d46db2f": {
+      "src": "Name, email and the record of your contribution are kept for as long as financial and charitable reporting obligations require, and then deleted. Payment card details are never stored by us at any point.",
+      "t": "El nombre, el correo electrónico y el registro de tu contribución se conservan durante el tiempo que exijan las obligaciones de información financiera y benéfica, y después se eliminan. En ningún momento almacenamos los datos de la tarjeta de pago."
+    },
+    "5bcd9611": {
+      "src": "No cookies.",
+      "t": "Sin cookies."
+    },
+    "533b07a8": {
+      "src": "One setting, stored on your device.",
+      "t": "Un solo ajuste, guardado en tu dispositivo."
+    },
+    "2d2ea976": {
+      "src": "OpenStreetMap.",
+      "t": "OpenStreetMap."
+    },
+    "2df6a9e4": {
+      "src": "Our commitment.",
+      "t": "Nuestro compromiso."
+    },
+    "73dee583": {
+      "src": "Our web host keeps standard server logs, as every web host does. These record the page requested, the time, and the requesting IP address, and they exist to keep the site running and secure. They are not used to build a profile of you and are not shared.",
+      "t": "Nuestro proveedor de alojamiento web conserva registros de servidor estándar, como hace todo proveedor de alojamiento. Estos registran la página solicitada, la hora y la dirección IP que hace la solicitud, y existen para mantener el sitio en funcionamiento y seguro. No se utilizan para elaborar un perfil sobre ti y no se comparten."
+    },
+    "2526541f": {
+      "src": "Privacy Policy",
+      "t": "Política de privacidad"
+    },
+    "d35edea2": {
+      "src": "Privacy Policy: What Kwik Fat Cut Does Not Collect",
+      "t": "Política de privacidad: lo que Kwik Fat Cut no recopila"
+    },
+    "02baf189": {
+      "src": "Some pages link to YouTube and to our social accounts. Those are ordinary links, not embeds, so those platforms are not contacted until you choose to follow one. Once you do, you are on their site and under their policy.",
+      "t": "Algunas páginas enlazan a YouTube y a nuestras cuentas en redes sociales. Son enlaces corrientes, no contenidos incrustados, de modo que no se contacta con esas plataformas hasta que decides seguir uno. Una vez que lo haces, estás en su sitio y bajo su política."
+    },
+    "6e11d7a1": {
+      "src": "Start free. Understand first.",
+      "t": "Empieza gratis. Entiende primero."
+    },
+    "c838d26e": {
+      "src": "Stored on your own device until you clear it. We never hold a copy.",
+      "t": "Se guarda en tu propio dispositivo hasta que lo borres. Nosotros nunca conservamos una copia."
+    },
+    "ef8c3c2a": {
+      "src": "The About page embeds a map of Kingston from OpenStreetMap. Because it is an embedded frame rather than a link, your browser contacts OpenStreetMap when that page loads, whether or not you use the map, and your IP address is visible to them in the same way it is to Google Fonts. The map shows the general Kingston area only. It carries no address of ours, and we send no information about you with the request. It is the only embedded frame anywhere on this site.",
+      "t": "La página Acerca de incrusta un mapa de Kingston de OpenStreetMap. Como se trata de un marco incrustado y no de un enlace, tu navegador contacta con OpenStreetMap cuando se carga esa página, uses o no el mapa, y tu dirección IP queda visible para ellos del mismo modo que lo está para Google Fonts. El mapa muestra únicamente la zona general de Kingston. No contiene ninguna dirección nuestra y no enviamos ninguna información sobre ti con la solicitud. Es el único marco incrustado en todo este sitio."
+    },
+    "f20c6bfe": {
+      "src": "The short list of others",
+      "t": "La breve lista de terceros"
+    },
+    "9e945570": {
+      "src": "The site stores a single value in your browser’s local storage: your chosen language. It is saved under the key",
+      "t": "El sitio almacena un único valor en el almacenamiento local de tu navegador: el idioma que has elegido. Se guarda bajo la clave"
+    },
+    "404742b8": {
+      "src": "The site’s typefaces are loaded from Google’s font servers. Making that request means your IP address is visible to Google, as it is with any file your browser fetches from another domain. No account is needed and nothing is stored on your device by it.",
+      "t": "Las tipografías del sitio se cargan desde los servidores de fuentes de Google. Hacer esa solicitud significa que tu dirección IP queda visible para Google, igual que ocurre con cualquier archivo que tu navegador obtiene de otro dominio. No hace falta ninguna cuenta y no se almacena nada en tu dispositivo por ello."
+    },
+    "6753f359": {
+      "src": "Third-Party Services",
+      "t": "Servicios de terceros"
+    },
+    "6b2be072": {
+      "src": "We collect only what is necessary —",
+      "t": "Recopilamos solo lo necesario,"
+    },
+    "23585d47": {
+      "src": "We do not measure",
+      "t": "No te medimos"
+    },
+    "3645d5d1": {
+      "src": "We hold on to information only for as long as there is a reason to.",
+      "t": "Conservamos la información solo mientras haya un motivo para hacerlo."
+    },
+    "bf807bab": {
+      "src": "We keep as little as possible,",
+      "t": "Conservamos lo menos posible,"
+    },
+    "69f884bd": {
+      "src": "We keep outside services to a minimum. These are the only ones involved in a normal visit.",
+      "t": "Mantenemos los servicios externos al mínimo. Estos son los únicos que intervienen en una visita normal."
+    },
+    "17afbdef": {
+      "src": "What We Collect",
+      "t": "Qué recopilamos"
+    },
+    "60732a9d": {
+      "src": "Write to",
+      "t": "Escribe a"
+    },
+    "b32171f9": {
+      "src": "You can ask us what we hold about you, ask us to correct it, or ask us to delete it. You do not need to give a reason and it costs nothing.",
+      "t": "Puedes pedirnos que te digamos qué información tenemos sobre ti, pedirnos que la corrijamos o pedirnos que la eliminemos. No necesitas dar un motivo y no cuesta nada."
+    },
+    "c624a393": {
+      "src": "You can clear it at any time through your browser’s settings for site data. Clearing it simply means the site guesses your language again on your next visit.",
+      "t": "Puedes borrarlo en cualquier momento desde los ajustes de datos de sitio de tu navegador. Borrarlo significa simplemente que el sitio volverá a deducir tu idioma en tu próxima visita."
+    },
+    "1558f4c5": {
+      "src": "Your Rights",
+      "t": "Tus derechos"
+    },
+    "f5f44da0": {
+      "src": "Your information",
+      "t": "Tu información"
+    },
+    "78f0c158": {
+      "src": "Your information serves",
+      "t": "Tu información sirve"
+    },
+    "089b07da": {
+      "src": "Your language setting.",
+      "t": "Tu ajuste de idioma."
+    },
+    "57502698": {
+      "src": "Your privacy.",
+      "t": "Tu privacidad."
+    },
+    "6224cf33": {
+      "src": "and holds a short code such as",
+      "t": "y guarda un código corto como"
+    },
+    "8a11c0c1": {
+      "src": "for as short as possible.",
+      "t": "durante el menor tiempo posible."
+    },
+    "dbc60c6e": {
+      "src": "involved at all.",
+      "t": "que intervienen."
+    },
+    "87245d25": {
+      "src": "kwik@kwikfatcut.com",
+      "t": "kwik@kwikfatcut.com"
+    },
+    "267b14a3": {
+      "src": "nothing more.",
+      "t": "nada más."
+    },
+    "9d0a1581": {
+      "src": "one purpose only.",
+      "t": "a un único propósito."
+    },
+    "5d342984": {
+      "src": "or",
+      "t": "o"
+    },
+    "fefc447d": {
+      "src": "stays yours.",
+      "t": "sigue siendo tuya."
+    },
+    "b53342dc": {
+      "src": "with what you would like done. We will confirm receipt and respond as quickly as we reasonably can.",
+      "t": "indicando qué quieres que hagamos. Confirmaremos la recepción y responderemos con la mayor rapidez que razonablemente podamos."
+    },
+    "c4f08836": {
+      "src": "you.",
+      "t": "a ti."
+    },
+    "4f93230b": {
+      "src": "“Education before intervention.",
+      "t": "“La educación antes que la intervención."
+    },
+    "efa05f65": {
+      "src": "🔒 Platform Policy",
+      "t": "🔒 Política de la plataforma"
+    }
+  }
+}

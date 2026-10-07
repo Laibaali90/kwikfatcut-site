@@ -1,0 +1,95 @@
+{
+  "_note": "Page content for learn-rastafarian-diet.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "35ee5718": {
+      "src": "Alive.",
+      "t": "Vivo."
+    },
+    "979945a0": {
+      "src": "Blue Zone research, Mediterranean diet studies, and ancestral health science all confirm what Rastafarian tradition established independently, in Jamaica, decades earlier.",
+      "t": "Las investigaciones sobre las Zonas Azules, los estudios sobre la dieta mediterránea y la ciencia de la salud ancestral confirman lo que la tradición rastafari estableció por su cuenta, en Jamaica, décadas antes."
+    },
+    "12166441": {
+      "src": "Ital derives from the word vital — the removal of the 'v' to create a word that is wholly Rastafarian, wholly Jamaican. Ital food is food in its natural state: unprocessed, unrefined, grown without synthetic chemicals, and prepared without artificial additives. At its most fundamental, Ital means eating what the earth produces directly — whole grains, legumes, vegetables, fruits, roots, and herbs — and avoiding what processing, industry, and chemical intervention have altered.",
+      "t": "Ital proviene de la palabra inglesa vital: se quita la v para crear una palabra totalmente rastafari, totalmente jamaicana. La comida Ital es comida en su estado natural: sin procesar, sin refinar, cultivada sin químicos sintéticos y preparada sin aditivos artificiales. En su esencia, Ital significa comer lo que la tierra produce directamente (cereales integrales, legumbres, verduras, frutas, raíces y hierbas) y evitar lo que el procesamiento, la industria y la intervención química han alterado."
+    },
+    "f6cb3903": {
+      "src": "Ital food.",
+      "t": "Comida Ital."
+    },
+    "9300d390": {
+      "src": "Ital is not a diet programme. It is a relationship with the earth, with food, and with the body that produces measurable health outcomes.",
+      "t": "Ital no es un programa de dieta. Es una relación con la tierra, con la comida y con el cuerpo que produce resultados de salud medibles."
+    },
+    "4a96981f": {
+      "src": "Ital is not a trend. It is a fully developed food philosophy, rooted in Rastafarian tradition, practised in Jamaica since the 1930s, and confirmed by modern nutritional science as one of the most health-protective dietary approaches ever documented. This is its story.",
+      "t": "Ital no es una moda. Es una filosofía alimentaria plenamente desarrollada, arraigada en la tradición rastafari, practicada en Jamaica desde la década de 1930 y confirmada por la ciencia nutricional moderna como uno de los enfoques alimentarios más protectores de la salud jamás documentados. Esta es su historia."
+    },
+    "598f5af0": {
+      "src": "Ital wisdom meets",
+      "t": "La sabiduría Ital se encuentra con"
+    },
+    "fbdefe55": {
+      "src": "Kwik Fat Cut was founded on principles that run parallel to Ital philosophy — not by design, but because both arrive at the same conclusions from the same evidence. Education before intervention. Food as medicine. The wisdom of elders as a foundation for health. The rejection of commercial quick-fix culture. The primacy of community.",
+      "t": "Kwik Fat Cut se fundó sobre principios paralelos a la filosofía Ital, no por diseño, sino porque ambas llegan a las mismas conclusiones a partir de la misma evidencia. La educación antes que la intervención. La comida como medicina. La sabiduría de los mayores como base de la salud. El rechazo a la cultura comercial de las soluciones rápidas. La primacía de la comunidad."
+    },
+    "8bb4a898": {
+      "src": "Rastafarian Diet and the Kwik Fat Cut Approach",
+      "t": "La dieta rastafari y el enfoque de Kwik Fat Cut"
+    },
+    "a0379345": {
+      "src": "Rastafarian Diet and the Kwik Fat Cut Approach — Kwik Fat Cut",
+      "t": "La dieta rastafari y el enfoque de Kwik Fat Cut · Kwik Fat Cut"
+    },
+    "6e11d7a1": {
+      "src": "Start free. Understand first.",
+      "t": "Empieza gratis. Entiende primero."
+    },
+    "7ccb75c0": {
+      "src": "The Kwik Fat Cut Alignment",
+      "t": "La afinidad con Kwik Fat Cut"
+    },
+    "f80add48": {
+      "src": "The Rastafarian elders who established Ital practice at Pinnacle Garden under Leonard Howell in the 1940s were doing what modern nutritional science now calls a whole-food plant-based diet",
+      "t": "Los mayores rastafari que establecieron la práctica Ital en Pinnacle Garden bajo Leonard Howell en la década de 1940 estaban siguiendo lo que la ciencia nutricional moderna hoy llama una dieta integral basada en plantas"
+    },
+    "d6866d4b": {
+      "src": "The most",
+      "t": "La dieta ancestral"
+    },
+    "31928476": {
+      "src": "Vital. Natural.",
+      "t": "Vital. Natural."
+    },
+    "67561793": {
+      "src": "What Ital Means",
+      "t": "Qué significa Ital"
+    },
+    "34c5cc32": {
+      "src": "diet in Jamaica.",
+      "t": "de Jamaica."
+    },
+    "0055344a": {
+      "src": "documented ancestral",
+      "t": "más documentada"
+    },
+    "a0883f2e": {
+      "src": "modern nutritional evidence.",
+      "t": "la evidencia nutricional moderna."
+    },
+    "99bab834": {
+      "src": "— two generations before the term existed.",
+      "t": ", dos generaciones antes de que existiera el término."
+    },
+    "4f93230b": {
+      "src": "“Education before intervention.",
+      "t": "“La educación antes que la intervención."
+    },
+    "ee9817bd": {
+      "src": "🌿 Ital Living — Ancestral Wisdom",
+      "t": "🌿 Vida Ital · Sabiduría ancestral"
+    }
+  }
+}

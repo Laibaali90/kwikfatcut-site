@@ -1,0 +1,91 @@
+{
+  "_note": "Page content for learn-jamaican-cuisine.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "0912c642": {
+      "src": "Ackee and saltfish provides complete protein, healthy fats from ackee, and iodine from the saltfish. Brown stew chicken with ground provisions delivers iron, complex carbohydrates, and the anti-inflammatory benefits of thyme, garlic, and scotch bonnet. Rice and peas — gungo or red peas with coconut milk — provides complete amino acids through the grain-legume combination, and lauric acid from the coconut milk. Callaloo soup delivers iron, folate, vitamins A, C, and K.",
+      "t": "El ackee con saltfish aporta proteína completa, grasas saludables del ackee y yodo del saltfish. El brown stew chicken con víveres aporta hierro, carbohidratos complejos y los beneficios antiinflamatorios del tomillo, el ajo y el ají scotch bonnet. El rice and peas (gandules o frijoles rojos con leche de coco) aporta aminoácidos completos gracias a la combinación de cereal y legumbre, y ácido láurico de la leche de coco. La sopa de callaloo aporta hierro, folato y vitaminas A, C y K."
+    },
+    "e0033a68": {
+      "src": "Authentic,",
+      "t": "Auténtica,"
+    },
+    "df2e2a2a": {
+      "src": "Born from three continents, refined across four centuries, grown in this soil. Jamaican food is not a trend. It is a nutritional system built from West African wisdom, Taino cultivation, and Caribbean abundance — documented, proven, and worthy of deep respect.",
+      "t": "Nacida de tres continentes, refinada a lo largo de cuatro siglos, cultivada en esta tierra. La comida jamaicana no es una moda. Es un sistema nutricional construido a partir de la sabiduría de África Occidental, el cultivo taíno y la abundancia caribeña: documentado, probado y digno de un profundo respeto."
+    },
+    "3b67b5b0": {
+      "src": "Jamaican Cuisine — Authentic and Healthy",
+      "t": "Cocina jamaicana: auténtica y saludable"
+    },
+    "43b0f9bd": {
+      "src": "Jamaican Cuisine — Authentic and Healthy — Kwik Fat Cut",
+      "t": "Cocina jamaicana: auténtica y saludable · Kwik Fat Cut"
+    },
+    "b9f156bd": {
+      "src": "Jamaican cuisine is among the most diverse in the world — and that diversity is the direct result of history. The Taino people contributed cassava, sweet potato, corn, and the barbecue cooking method. West African enslaved people brought okra, callaloo, black-eyed peas, and an extraordinary knowledge of plant-based nutrition. Colonial contact introduced Asian and European cooking techniques and spices. The result is a cuisine of extraordinary nutritional depth —",
+      "t": "La cocina jamaicana está entre las más diversas del mundo, y esa diversidad es resultado directo de la historia. El pueblo taíno aportó la yuca, la batata, el maíz y el método de cocción a la barbacoa. Los africanos occidentales esclavizados trajeron la okra, el callaloo, los frijoles de ojo negro y un conocimiento extraordinario de la nutrición basada en plantas. El contacto colonial introdujo técnicas de cocina y especias asiáticas y europeas. El resultado es una cocina de extraordinaria profundidad nutricional:"
+    },
+    "5aa3385f": {
+      "src": "Jamaican cuisine.",
+      "t": "Cocina jamaicana."
+    },
+    "d28af122": {
+      "src": "Jamaican food was never the problem. The problem is how far we have drifted from it.",
+      "t": "La comida jamaicana nunca fue el problema. El problema es cuánto nos hemos alejado de ella."
+    },
+    "d6d64025": {
+      "src": "One cuisine.",
+      "t": "Una sola cocina."
+    },
+    "01638bea": {
+      "src": "Signature Dishes and Their Nutrition",
+      "t": "Platos emblemáticos y su nutrición"
+    },
+    "6e11d7a1": {
+      "src": "Start free. Understand first.",
+      "t": "Empieza gratis. Entiende primero."
+    },
+    "ba390f55": {
+      "src": "The Roots",
+      "t": "Las Raíces"
+    },
+    "f3ca6e96": {
+      "src": "Three continents.",
+      "t": "Tres continentes."
+    },
+    "2df126e0": {
+      "src": "What Jamaican food actually",
+      "t": "Lo que la comida jamaicana realmente"
+    },
+    "b4f80c32": {
+      "src": "does for the body.",
+      "t": "hace por el cuerpo."
+    },
+    "5ceea8bf": {
+      "src": "nourishing,",
+      "t": "nutritiva,"
+    },
+    "0cc404f0": {
+      "src": "ours.",
+      "t": "nuestra."
+    },
+    "52840b5a": {
+      "src": "plant-forward, spice-rich, whole-food centred",
+      "t": "basada en plantas, rica en especias y centrada en alimentos integrales,"
+    },
+    "caf92d3c": {
+      "src": "— that modern nutrition science continues to validate.",
+      "t": "algo que la ciencia de la nutrición moderna sigue confirmando."
+    },
+    "4f93230b": {
+      "src": "“Education before intervention.",
+      "t": "“La educación antes que la intervención."
+    },
+    "84491e9f": {
+      "src": "🇯🇲 Jamaican Food Traditions",
+      "t": "🇯🇲 Tradiciones alimentarias jamaicanas"
+    }
+  }
+}

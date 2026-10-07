@@ -1,0 +1,639 @@
+{
+  "_note": "Page content for foods-hub.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "12f753b4": {
+      "src": "10 min read",
+      "t": "10 min de lectura"
+    },
+    "e0915316": {
+      "src": "12 min read",
+      "t": "12 min de lectura"
+    },
+    "1f689747": {
+      "src": "13 min read",
+      "t": "13 min de lectura"
+    },
+    "d66e483f": {
+      "src": "2 min read",
+      "t": "2 min de lectura"
+    },
+    "a97ec10e": {
+      "src": "3 min read",
+      "t": "3 min de lectura"
+    },
+    "ce35de69": {
+      "src": "4 min read",
+      "t": "4 min de lectura"
+    },
+    "4052790a": {
+      "src": "7 min read",
+      "t": "7 min de lectura"
+    },
+    "f86fb455": {
+      "src": "8 min read",
+      "t": "8 min de lectura"
+    },
+    "505142a4": {
+      "src": "9 min read",
+      "t": "9 min de lectura"
+    },
+    "eadad9a7": {
+      "src": "9 min read · Ancient Wisdom · Oral Health",
+      "t": "9 min de lectura · Sabiduría Antigua · Salud Bucal"
+    },
+    "ab786c6e": {
+      "src": "Ackee — From West Africa to Jamaica’s Table",
+      "t": "Ackee, de África Occidental a la mesa de Jamaica"
+    },
+    "cb01bd95": {
+      "src": "Ackee — Jamaica national fruit originating from West Africa. Full nutritional profile, ripening guide, health benefits, and cultural significance.",
+      "t": "Ackee, la fruta nacional de Jamaica originaria de África Occidental. Perfil nutricional completo, guía de maduración, beneficios para la salud y significado cultural."
+    },
+    "e8d1978a": {
+      "src": "Ackee. From West Africa to Jamaica’s table.",
+      "t": "Ackee. De África Occidental a la mesa de Jamaica."
+    },
+    "e737c763": {
+      "src": "Across Jamaican, West African, and Ayurvedic traditions, plants were the pharmacy. What did they know that modern medicine is only now beginning to confirm?",
+      "t": "En las tradiciones jamaicana, de África Occidental y ayurvédica, las plantas eran la farmacia. ¿Qué sabían que la medicina moderna apenas ahora empieza a confirmar?"
+    },
+    "e4b708f1": {
+      "src": "Across early societies, daily habits — not products — protected the mouth. The Foods Hub traces those habits, those foods, and that wisdom back to its source.",
+      "t": "En las primeras sociedades, los hábitos diarios (no los productos) protegían la boca. El Centro de Alimentos sigue el rastro de esos hábitos, esos alimentos y esa sabiduría hasta su origen."
+    },
+    "09ca1caf": {
+      "src": "Amaranth, millet, sorghum, teff, and fonio — the ancient grains that sustained communities across Africa, the Caribbean, and the Americas before wheat became a global monoculture.",
+      "t": "Amaranto, mijo, sorgo, teff y fonio, los cereales antiguos que sostuvieron a comunidades en África, el Caribe y las Américas antes de que el trigo se convirtiera en un monocultivo global."
+    },
+    "b5b04a1d": {
+      "src": "Among the Moors, the miswak was routine — not occasional. The Aztecs ate coarse, fibrous whole foods that cleaned as they nourished.",
+      "t": "Entre los moros, el miswak era rutina, no algo ocasional. Los aztecas comían alimentos integrales toscos y fibrosos que limpiaban mientras nutrían."
+    },
+    "db995614": {
+      "src": "Among the Moors, the miswak was routine — not occasional. The Aztecs built diets around fibrous whole foods that cleaned their teeth naturally. Two civilisations, one pattern.",
+      "t": "Entre los moros, el miswak era rutina, no algo ocasional. Los aztecas construyeron sus dietas en torno a alimentos integrales fibrosos que limpiaban sus dientes de forma natural. Dos civilizaciones, un mismo patrón."
+    },
+    "539ecdc3": {
+      "src": "Beans, peas, lentils, and chickpeas appear in every Blue Zone diet. The science and the ancestral wisdom point to the same conclusion — this is foundational food.",
+      "t": "Los frijoles, los guisantes, las lentejas y los garbanzos aparecen en todas las dietas de las Zonas Azules. La ciencia y la sabiduría ancestral apuntan a la misma conclusión: este es un alimento fundamental."
+    },
+    "ce70d825": {
+      "src": "Before Modern",
+      "t": "Antes de la"
+    },
+    "64d96b1e": {
+      "src": "Before modern dentistry, oral health was not outsourced —",
+      "t": "Antes de la odontología moderna, la salud bucal no se delegaba:"
+    },
+    "d37dacf5": {
+      "src": "Before refrigeration, fermentation preserved food and seeded the gut microbiome. Traditional cultures understood this instinctively. Here is the science behind the tradition.",
+      "t": "Antes de la refrigeración, la fermentación conservaba los alimentos y sembraba el microbioma intestinal. Las culturas tradicionales lo entendían de forma instintiva. Aquí está la ciencia detrás de la tradición."
+    },
+    "c0b39dc3": {
+      "src": "Clean the Blood. The Symptoms Follow.",
+      "t": "Limpia la Sangre. Los Síntomas Vienen Detrás."
+    },
+    "39ebc423": {
+      "src": "Clean the blood. The symptoms follow.",
+      "t": "Limpia la sangre. Los síntomas vienen detrás."
+    },
+    "1e1f5afd": {
+      "src": "Coconut water. Nature's own sports drink.",
+      "t": "Agua de coco. La bebida deportiva propia de la naturaleza."
+    },
+    "d6718154": {
+      "src": "Coconut water. Used across the Caribbean for centuries.",
+      "t": "Agua de coco. Usada en todo el Caribe durante siglos."
+    },
+    "6a8a2c76": {
+      "src": "Coming to the Foods Hub",
+      "t": "Próximamente en el Centro de Alimentos"
+    },
+    "630ccb5d": {
+      "src": "Continue to the Learn hub →",
+      "t": "Continúa al centro de aprendizaje →"
+    },
+    "d219e7e8": {
+      "src": "Cultural roots.",
+      "t": "Raíces culturales."
+    },
+    "b266a3d0": {
+      "src": "Daily habits, not products, maintained balance.",
+      "t": "Los hábitos diarios, no los productos, mantenían el equilibrio."
+    },
+    "ebe20a45": {
+      "src": "Dentistry —",
+      "t": "Odontología Moderna:"
+    },
+    "e7a5e9f1": {
+      "src": "Dr. Sebi taught that the blood must be clean for the body to heal.",
+      "t": "Dr. Sebi enseñaba que la sangre debe estar limpia para que el cuerpo sane."
+    },
+    "8344a10e": {
+      "src": "Dr. Sebi, Hippocrates, Charaka, West African healers, Jamaican bush medicine. The elders across traditions all understood blood cleansing. Here is the full deep read.",
+      "t": "Dr. Sebi, Hipócrates, Charaka, los sanadores de África Occidental, la medicina de monte jamaicana. Los mayores de todas las tradiciones entendían la limpieza de la sangre. Aquí está la lectura profunda completa."
+    },
+    "fddb431b": {
+      "src": "Eating With the Earth — Seasonal & Local",
+      "t": "Comer con la tierra, de temporada y local"
+    },
+    "9b4da116": {
+      "src": "Egypt, Greece, Rome, China, India, Jamaica. Five civilisations. One convergence. 5,000 years of documented medicinal use confirmed by modern science.",
+      "t": "Egipto, Grecia, Roma, China, India, Jamaica. Cinco civilizaciones. Una convergencia. 5,000 años de uso medicinal documentado confirmado por la ciencia moderna."
+    },
+    "2d0e1c38": {
+      "src": "Every food guide",
+      "t": "Todas las guías de alimentos"
+    },
+    "55b136e2": {
+      "src": "Every food, ingredient and meal guide published so far. Start with what is already in your kitchen.",
+      "t": "Todas las guías de alimentos, ingredientes y comidas publicadas hasta ahora. Empieza con lo que ya tienes en tu cocina."
+    },
+    "7a3c73e9": {
+      "src": "Featured Deep Read",
+      "t": "Lectura Profunda Destacada"
+    },
+    "34d0f0a1": {
+      "src": "Food history.",
+      "t": "Historia de los alimentos."
+    },
+    "8de28397": {
+      "src": "Foods Hub — Explore — Kwik Fat Cut",
+      "t": "Centro de Alimentos · Explora · Kwik Fat Cut"
+    },
+    "175706f5": {
+      "src": "Fruits and nuts. Guinep, naseberry, otaheiti apple, jackfruit, soursop, june plum, star apple, breadnut, cashew.",
+      "t": "Frutas y frutos secos. Guinep, naseberry, otaheiti apple, jackfruit, guanábana, jobo, caimito, breadnut, anacardo."
+    },
+    "9b39dd95": {
+      "src": "Fruits and nuts. Jamaica's most underestimated medicines.",
+      "t": "Frutas y frutos secos. Las medicinas más subestimadas de Jamaica."
+    },
+    "a25e18f4": {
+      "src": "Full guide",
+      "t": "Guía completa"
+    },
+    "93281c01": {
+      "src": "Garlic has a long history in kitchens and in traditional medicine, and modern research suggests a small benefit for blood pressure and cholesterol.",
+      "t": "El ajo tiene una larga historia en las cocinas y en la medicina tradicional, y la investigación moderna sugiere un beneficio pequeño para la presión arterial y el colesterol."
+    },
+    "6955b222": {
+      "src": "Garlic — Humble Root. Powerful History.",
+      "t": "Ajo, raíz humilde. Historia poderosa."
+    },
+    "5eb3c58a": {
+      "src": "Garlic. Humble root. Powerful history.",
+      "t": "Ajo. Raíz humilde. Historia poderosa."
+    },
+    "25e93b6b": {
+      "src": "Ground provisions, greens, fruits, herbs, seafood, and spices. Every major Jamaican whole food with nutritional profiles, cultural significance, and preparation guidance.",
+      "t": "Víveres, verduras de hoja, frutas, hierbas, pescados y mariscos, y especias. Cada alimento integral jamaicano importante con perfiles nutricionales, significado cultural y orientación para su preparación."
+    },
+    "9a43c4e6": {
+      "src": "Ground provisions. The foundation beneath everything.",
+      "t": "Víveres. El cimiento bajo todo lo demás."
+    },
+    "1f3f5784": {
+      "src": "Ground provisions. Yam, dasheen, coco, breadfruit, cassava, sweet potato, green banana.",
+      "t": "Víveres. Ñame, dasheen, coco, fruta del pan, yuca, batata, plátano verde."
+    },
+    "3e043765": {
+      "src": "How you chew.",
+      "t": "Cómo masticas."
+    },
+    "1f64eb33": {
+      "src": "Hydroxycitric acid from Jamaican bitter orange, EGCG, apple cider vinegar, and indigenous whole foods. The complete Kwik Fat Cut approach explained.",
+      "t": "Ácido hidroxicítrico de la naranja amarga jamaicana, EGCG, vinagre de sidra de manzana y alimentos integrales autóctonos. El enfoque completo de Kwik Fat Cut explicado."
+    },
+    "2a836874": {
+      "src": "It reminds us that our power to create change begins with recognising the strength we already hold. The Foods Hub is where that memory is restored — traced back to the roots, brought forward for the next generation. ❤️💚",
+      "t": "Nos recuerda que nuestro poder para crear cambio comienza al reconocer la fuerza que ya tenemos. El Centro de Alimentos es donde se recupera esa memoria, rastreada hasta las raíces y traída adelante para la próxima generación. ❤️💚"
+    },
+    "82eaca13": {
+      "src": "Ital Is Vital — The Rastafarian Food Philosophy",
+      "t": "Ital Is Vital, la filosofía alimentaria Rastafarian"
+    },
+    "64bfd911": {
+      "src": "Ital Roots & Plant Science",
+      "t": "Raíces Ital y ciencia vegetal"
+    },
+    "7a717a51": {
+      "src": "Ital food. The most documented ancestral diet in Jamaica.",
+      "t": "Comida Ital. La dieta ancestral más documentada de Jamaica."
+    },
+    "f254862a": {
+      "src": "Jamaican Foods A to Z",
+      "t": "Alimentos jamaicanos de la A a la Z"
+    },
+    "1e88b60b": {
+      "src": "Jamaican cuisine. Authentic, nourishing, ours.",
+      "t": "La cocina jamaicana. Auténtica, nutritiva, nuestra."
+    },
+    "9ad4397a": {
+      "src": "Jamaican cuisine. Born from three continents, refined across four centuries, grown in this soil.",
+      "t": "La cocina jamaicana. Nacida de tres continentes, refinada a lo largo de cuatro siglos, cultivada en esta tierra."
+    },
+    "0711acbe": {
+      "src": "Jamaican foods A to Z — a comprehensive guide to indigenous whole foods, ground provisions, fruits, herbs, and seafood of Jamaica.",
+      "t": "Alimentos jamaicanos de la A a la Z, una guía completa de los alimentos integrales autóctonos, los víveres, las frutas, las hierbas y los pescados y mariscos de Jamaica."
+    },
+    "66627e6c": {
+      "src": "Jamaican foods A to Z.",
+      "t": "Alimentos jamaicanos de la A a la Z."
+    },
+    "2e3e924b": {
+      "src": "Jamaican seafood. From the reef to the table.",
+      "t": "Pescados y mariscos jamaicanos. Del arrecife a la mesa."
+    },
+    "380deffc": {
+      "src": "Jamaican seafood. Jamaica is an island.",
+      "t": "Pescados y mariscos jamaicanos. Jamaica es una isla."
+    },
+    "5e83a06d": {
+      "src": "Kwik Fat Cut Opian Meals — The Fat Antidote",
+      "t": "Kwik Fat Cut Opian Meals, el antídoto contra la grasa"
+    },
+    "af30e1a2": {
+      "src": "Kwik Fat Cut Opian Meals — fat reduction and natural beauty rooted in indigenous Jamaican ingredients.",
+      "t": "Kwik Fat Cut Opian Meals, reducción de grasa y belleza natural con raíces en ingredientes jamaicanos autóctonos."
+    },
+    "3ef897b7": {
+      "src": "Kwik Fat Cut Opian Meals. The rest is bewildered.",
+      "t": "Kwik Fat Cut Opian Meals. El resto está desconcertado."
+    },
+    "62669b5e": {
+      "src": "Kwik Fat Cut — Foods Hub — Education First",
+      "t": "Kwik Fat Cut, Centro de Alimentos, la educación primero"
+    },
+    "85d7b7f2": {
+      "src": "Kwik Fat Cut — The Fat Antidote",
+      "t": "Kwik Fat Cut, Kwik Fat Cut, el antídoto contra la grasa"
+    },
+    "0b9a011f": {
+      "src": "Learn first.",
+      "t": "Aprende primero."
+    },
+    "56a3e91e": {
+      "src": "Moorish diet — whole grains, olives, dates, legumes",
+      "t": "La dieta morisca: cereales integrales, aceitunas, dátiles, legumbres"
+    },
+    "4f34d900": {
+      "src": "More",
+      "t": "Más"
+    },
+    "cd8ca356": {
+      "src": "Natural, unprocessed, plant-based, organic. The Ital tradition of Rastafari is one of the most coherent ancestral nutrition philosophies in the world. Here is its foundation.",
+      "t": "Natural, sin procesar, a base de plantas, orgánico. La tradición Ital de Rastafari es una de las filosofías de nutrición ancestral más coherentes del mundo. Aquí está su fundamento."
+    },
+    "8b3dc597": {
+      "src": "Now",
+      "t": "Ya"
+    },
+    "c2483cff": {
+      "src": "Now Live",
+      "t": "Ya Disponible"
+    },
+    "0b49cdb1": {
+      "src": "Option Meals — where Rastafarian Ital tradition meets the science of strict plant-based eating. Not a diet.",
+      "t": "Option Meals, donde la tradición Ital Rastafarian se encuentra con la ciencia de la alimentación estrictamente a base de plantas. No es una dieta."
+    },
+    "5c8163be": {
+      "src": "Option meals.",
+      "t": "Option Meals."
+    },
+    "e1567c14": {
+      "src": "Oral Health Was Lived.",
+      "t": "La Salud Bucal Se Vivía."
+    },
+    "6134eba6": {
+      "src": "Origins, ripening journey, full nutritional profile, health benefits, and cultural significance. The complete guide to Jamaica’s national fruit.",
+      "t": "Orígenes, proceso de maduración, perfil nutricional completo, beneficios para la salud y significado cultural. La guía completa de la fruta nacional de Jamaica."
+    },
+    "0aa53273": {
+      "src": "Over 102% daily vitamin A. Prebiotic fibre. Anti-cancer phytochemicals. A true superfood rooted in Caribbean and African culinary tradition.",
+      "t": "Más del 102% de la vitamina A diaria. Fibra prebiótica. Fitoquímicos anticancerígenos. Un verdadero superalimento con raíces en la tradición culinaria caribeña y africana."
+    },
+    "36bee37a": {
+      "src": "Plant-Based Jamaican Meals — Kwik Fat Cut Education First. Free ancestral health education rooted in Jamaican, Caribbean and West African food wisdom.",
+      "t": "Comidas jamaicanas a base de plantas. Kwik Fat Cut, la educación primero. Educación en salud ancestral gratuita con raíces en la sabiduría alimentaria jamaicana, caribeña y de África Occidental."
+    },
+    "f7b8192a": {
+      "src": "Plant-based abrasives, salt rinses, herbal preparations",
+      "t": "Abrasivos de origen vegetal, enjuagues de sal, preparaciones herbales"
+    },
+    "f74ecf8b": {
+      "src": "Plant-based. Jamaican. Proven. Delicious.",
+      "t": "A base de plantas. Jamaicana. Comprobada. Deliciosa."
+    },
+    "074e11da": {
+      "src": "Plants as Medicine — Before the Pharmacy",
+      "t": "Las plantas como medicina, antes de la farmacia"
+    },
+    "a4f821ed": {
+      "src": "Plants as Medicine — Deep Read",
+      "t": "Las plantas como medicina, Lectura Profunda"
+    },
+    "4529fed5": {
+      "src": "Practical truth.",
+      "t": "Verdad práctica."
+    },
+    "1dd6db3d": {
+      "src": "Rastafarian Diet and the Kwik Fat Cut Approach — Kwik Fat Cut Education First.",
+      "t": "La dieta Rastafarian y el enfoque de Kwik Fat Cut. Kwik Fat Cut, la educación primero."
+    },
+    "030d7296": {
+      "src": "Raw & Living Foods — Ital Philosophy",
+      "t": "Alimentos crudos y vivos, filosofía Ital"
+    },
+    "06dbcddb": {
+      "src": "Read the full article →",
+      "t": "Lee el artículo completo →"
+    },
+    "27e1b614": {
+      "src": "Restore memory — trace the roots. The Foods Hub is where food history, cultural tradition, and practical health knowledge meet. We row. You steer.",
+      "t": "Recupera la memoria: sigue el rastro de las raíces. El Centro de Alimentos es donde se encuentran la historia de los alimentos, la tradición cultural y el conocimiento práctico de salud. Nosotros remamos. Tú diriges."
+    },
+    "f67dff7d": {
+      "src": "Restore memory. Trace the roots. We row. You steer.",
+      "t": "Recupera la memoria. Sigue el rastro de las raíces. Nosotros remamos. Tú diriges."
+    },
+    "ece3aaf7": {
+      "src": "Start free.",
+      "t": "Empieza gratis."
+    },
+    "e2dcf892": {
+      "src": "Stay seated.",
+      "t": "Quédate sentado."
+    },
+    "ec87e652": {
+      "src": "Straight Mixes — raw, unprocessed combinations of whole plants where every moment of eating is a medicinal act.",
+      "t": "Straight Mixes, combinaciones crudas y sin procesar de plantas enteras donde cada momento de comer es un acto medicinal."
+    },
+    "0f3ab7b7": {
+      "src": "Straight mixes. Moment is medicine.",
+      "t": "Straight Mixes. El momento es medicina."
+    },
+    "d967f06e": {
+      "src": "Sweet potato. Over 100% of the daily vitamin A in one serving, a good source of fibre, and phytochemicals under active study.",
+      "t": "Batata. Más del 100% de la vitamina A diaria en una porción, una buena fuente de fibra y fitoquímicos bajo estudio activo."
+    },
+    "3b3a6b66": {
+      "src": "That power is already within us. ❤️💚",
+      "t": "Ese poder ya está dentro de nosotros. ❤️💚"
+    },
+    "6f80e25c": {
+      "src": "The Aztecs & fibrous whole foods",
+      "t": "Los aztecas y los alimentos integrales fibrosos"
+    },
+    "2e14d15f": {
+      "src": "The Foods Hub goes deeper than recipes and nutrients. It traces the ancestral, historical, and cultural foundations of food — exploring what different civilisations understood about eating, oral health, digestion, and nourishment long before modern wellness arrived to complicate it.",
+      "t": "El Centro de Alimentos va más allá de las recetas y los nutrientes. Sigue el rastro de los cimientos ancestrales, históricos y culturales de la comida, explorando lo que distintas civilizaciones entendían sobre el comer, la salud bucal, la digestión y la nutrición mucho antes de que el bienestar moderno llegara a complicarlo."
+    },
+    "85874c07": {
+      "src": "The Foods Hub is free. The Learn library is free. Everything at Kwik Fat Cut begins with education.",
+      "t": "El Centro de Alimentos es gratuito. La biblioteca de Aprende es gratuita. Todo en Kwik Fat Cut comienza con la educación."
+    },
+    "835bb596": {
+      "src": "The Foods Hub is the place where we document that evidence and make it accessible to everyone.",
+      "t": "El Centro de Alimentos es el lugar donde documentamos esa evidencia y la hacemos accesible para todos."
+    },
+    "937c6228": {
+      "src": "The Grains That Built Civilisations",
+      "t": "Los cereales que construyeron civilizaciones"
+    },
+    "e25ece9d": {
+      "src": "The Library — Foods Hub",
+      "t": "La Biblioteca · Centro de Alimentos"
+    },
+    "d2c61266": {
+      "src": "The Library — Kwik Fat Cut Foods Hub — Education First",
+      "t": "La Biblioteca · Centro de Alimentos de Kwik Fat Cut · La educación primero"
+    },
+    "8f97eae5": {
+      "src": "The Lost Art of Fermented Foods",
+      "t": "El arte perdido de los alimentos fermentados"
+    },
+    "82ec89f4": {
+      "src": "The Moors & the miswak — routine, not occasional",
+      "t": "Los moros y el miswak: rutina, no algo ocasional"
+    },
+    "d96adc04": {
+      "src": "The Root",
+      "t": "La Raíz"
+    },
+    "173340b3": {
+      "src": "The Sweet Potato — What Makes It So Special?",
+      "t": "La batata, ¿qué la hace tan especial?"
+    },
+    "826f77b5": {
+      "src": "The first Foods Hub deep read is available now. Stay seated — this one goes further back.",
+      "t": "La primera lectura profunda del Centro de Alimentos ya está disponible. Quédate sentado, esta va aún más atrás."
+    },
+    "111fa175": {
+      "src": "The four-point pattern that holds across both civilisations",
+      "t": "El patrón de cuatro puntos que se repite en ambas civilizaciones"
+    },
+    "8eed17f1": {
+      "src": "The full index",
+      "t": "El índice completo"
+    },
+    "4efae9ff": {
+      "src": "The mouth",
+      "t": "La boca"
+    },
+    "cd228d74": {
+      "src": "The mouth remembers — the power already within us",
+      "t": "La boca recuerda: el poder que ya está dentro de nosotros"
+    },
+    "1e99502f": {
+      "src": "The mouth remembers.",
+      "t": "La boca recuerda."
+    },
+    "0f487e93": {
+      "src": "The sweet potato. What makes it so special?",
+      "t": "La batata. ¿Qué la hace tan especial?"
+    },
+    "699f2a3b": {
+      "src": "These foods were made to nourish. They still do.",
+      "t": "These foods were made to nourish. They still do."
+    },
+    "9e274b53": {
+      "src": "Two civilisations, separated by an ocean, arrived at the same truth.",
+      "t": "Dos civilizaciones, separadas por un océano, llegaron a la misma verdad."
+    },
+    "323a5431": {
+      "src": "We go",
+      "t": "Vamos"
+    },
+    "82bfd573": {
+      "src": "We take feedback like yours seriously. If Kwik Fat Cut opened your eyes or gave someone you love a new perspective — pass it on. Tell a friend to tell a friend.",
+      "t": "Tomamos en serio comentarios como el tuyo. Si Kwik Fat Cut te abrió los ojos o le dio una nueva perspectiva a alguien que quieres, pásalo. Dile a un amigo que le diga a un amigo."
+    },
+    "29bb35df": {
+      "src": "What This Is",
+      "t": "Qué Es Esto"
+    },
+    "ef9af95d": {
+      "src": "What this article covers",
+      "t": "Lo que cubre este artículo"
+    },
+    "9fac1bb0": {
+      "src": "What you eat.",
+      "t": "Lo que comes."
+    },
+    "09829c8a": {
+      "src": "What you eat. How you chew. What you repeat daily.”",
+      "t": "Lo que comes. Cómo masticas. Lo que repites a diario.”"
+    },
+    "8047e32c": {
+      "src": "What you repeat daily.",
+      "t": "Lo que repites a diario."
+    },
+    "ca32b02a": {
+      "src": "Why Legumes Are Found in Every Long-Lived Culture",
+      "t": "Por qué las legumbres aparecen en todas las culturas longevas"
+    },
+    "a1fccc81": {
+      "src": "Why seasonal eating aligned the body with its environment. How industrial food broke that cycle — and how to find your way back to it, wherever you live.",
+      "t": "Por qué comer de temporada alineaba el cuerpo con su entorno. Cómo la comida industrial rompió ese ciclo y cómo volver a encontrar el camino de regreso, vivas donde vivas."
+    },
+    "d8df87a6": {
+      "src": "Why the Family Tree begins in behaviour, not the clinic",
+      "t": "Por qué el Árbol Genealógico comienza en el comportamiento, no en la clínica"
+    },
+    "2e4c804e": {
+      "src": "behaviour.",
+      "t": "el comportamiento."
+    },
+    "11635753": {
+      "src": "being traced.",
+      "t": "por rastrear."
+    },
+    "be1ec6ec": {
+      "src": "deep reads.",
+      "t": "lecturas profundas."
+    },
+    "310a64be": {
+      "src": "further back.",
+      "t": "más atrás."
+    },
+    "c4edbf6f": {
+      "src": "it was lived.",
+      "t": "se vivía."
+    },
+    "fff50013": {
+      "src": "live.",
+      "t": "disponible."
+    },
+    "11535897": {
+      "src": "remembers.",
+      "t": "recuerda."
+    },
+    "245d5f02": {
+      "src": "roots",
+      "t": "raíces"
+    },
+    "6b454c69": {
+      "src": "“The Family Tree does not begin in the clinic. It begins in",
+      "t": "“El Árbol Genealógico no comienza en la clínica. Comienza en"
+    },
+    "973c7cf5": {
+      "src": "→",
+      "t": "→"
+    },
+    "48094f59": {
+      "src": "☀️ Sun, Soil & Seasons",
+      "t": "☀️ Sol, suelo y estaciones"
+    },
+    "c1404066": {
+      "src": "🇯🇲 Comprehensive Guide",
+      "t": "🇯🇲 Guía completa"
+    },
+    "61c24444": {
+      "src": "🇯🇲 Jamaica — Comprehensive Food Guide",
+      "t": "🇯🇲 Jamaica, guía completa de alimentos"
+    },
+    "84491e9f": {
+      "src": "🇯🇲 Jamaican Food Traditions",
+      "t": "🇯🇲 Tradiciones alimentarias jamaicanas"
+    },
+    "729dc768": {
+      "src": "🇯🇲 Jamaica’s National Fruit",
+      "t": "🇯🇲 La fruta nacional de Jamaica"
+    },
+    "eb86084c": {
+      "src": "🇯🇲 Kwik Fat Cut Product",
+      "t": "🇯🇲 Producto Kwik Fat Cut"
+    },
+    "e4843877": {
+      "src": "🌱 Jamaican Foods",
+      "t": "🌱 Alimentos jamaicanos"
+    },
+    "61d5b85e": {
+      "src": "🌺 Ital & Rastafari",
+      "t": "🌺 Ital y Rastafari"
+    },
+    "4aa75c84": {
+      "src": "🌾 Ancestral Grains",
+      "t": "🌾 Cereales ancestrales"
+    },
+    "9ce194b9": {
+      "src": "🌿 Ground Provisions",
+      "t": "🌿 Víveres"
+    },
+    "1d0a016a": {
+      "src": "🌿 Ground Provisions — Superfood",
+      "t": "🌿 Víveres, superalimento"
+    },
+    "2edfbffa": {
+      "src": "🌿 Herbal Medicine",
+      "t": "🌿 Medicina herbal"
+    },
+    "df90fec9": {
+      "src": "🌿 Ital Living",
+      "t": "🌿 Vida Ital"
+    },
+    "976b5d84": {
+      "src": "🌿 Jamaican Plant Foods",
+      "t": "🌿 Alimentos vegetales jamaicanos"
+    },
+    "a8efe822": {
+      "src": "🌿 Plants as Medicine",
+      "t": "🌿 Las plantas como medicina"
+    },
+    "98a24720": {
+      "src": "🍊 Jamaican Foods",
+      "t": "🍊 Alimentos jamaicanos"
+    },
+    "fb3a8fb8": {
+      "src": "🍵 Fermentation",
+      "t": "🍵 Fermentación"
+    },
+    "171e94ea": {
+      "src": "🏛️ Deep Read — Ancient Wisdom",
+      "t": "🏛️ Lectura Profunda, Sabiduría Antigua"
+    },
+    "caa7530a": {
+      "src": "🐟 Jamaican Foods",
+      "t": "🐟 Alimentos jamaicanos"
+    },
+    "8f1fc62a": {
+      "src": "🥥 Foods Hub",
+      "t": "🥥 Centro de Alimentos"
+    },
+    "3ec1ebfd": {
+      "src": "🧄 Ancient Medicine",
+      "t": "🧄 Medicina antigua"
+    },
+    "7fb2b126": {
+      "src": "🧄 Ancient Medicine — Modern Science",
+      "t": "🧄 Medicina antigua, ciencia moderna"
+    },
+    "06c811a0": {
+      "src": "🫘 Legumes & Longevity",
+      "t": "🫘 Legumbres y longevidad"
+    }
+  }
+}

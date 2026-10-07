@@ -1,0 +1,851 @@
+{
+  "_note": "Page content for learn-blood.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "456fc43c": {
+      "src": "(from animal sources — meat, fish, poultry) is absorbed at approximately 15–35% efficiency regardless of other dietary factors.",
+      "t": "(de fuentes animales: carne, pescado, aves) se absorbe con una eficacia de entre el 15 y el 35%, sin importar otros factores de la dieta."
+    },
+    "6b4b9a55": {
+      "src": "(from plant sources — leafy greens, legumes, seeds, fortified foods) is absorbed at 2–20% efficiency, significantly influenced by other dietary factors.",
+      "t": "(de fuentes vegetales: verduras de hoja, legumbres, semillas, alimentos enriquecidos) se absorbe con una eficacia de entre el 2 y el 20%, y depende mucho de otros factores de la dieta."
+    },
+    "52f82945": {
+      "src": "(the life force). Ibn Sina devoted entire volumes of the Canon of Medicine to blood’s properties and how food either improved or degraded its quality.",
+      "t": "(la fuerza vital). Ibn Sina dedicó volúmenes enteros del Canon de medicina a las propiedades de la sangre y a cómo la comida mejoraba o empeoraba su calidad."
+    },
+    "d764bb11": {
+      "src": ", carrying proteins (albumin, clotting factors, immunoglobulins), nutrients (glucose, amino acids, fatty acids), hormones, electrolytes, and waste products. Plasma is the river; the cells are what flows in it. Without adequate hydration, plasma volume falls and blood becomes more viscous — forcing the heart to work harder for every beat.",
+      "t": ", que transporta proteínas (albúmina, factores de coagulación, inmunoglobulinas), nutrientes (glucosa, aminoácidos, ácidos grasos), hormonas, electrolitos y desechos. El plasma es el río; las células son lo que fluye por él. Sin una hidratación suficiente, el volumen de plasma baja y la sangre se vuelve más viscosa, lo que obliga al corazón a trabajar más en cada latido."
+    },
+    "a9e27091": {
+      "src": ", containing billions of cells, hundreds of proteins, dissolved gases, hormones, nutrients, waste products, and immune agents — all working in coordinated precision.",
+      "t": ", con miles de millones de células, cientos de proteínas, gases disueltos, hormonas, nutrientes, desechos y agentes inmunitarios, todos trabajando con una precisión coordinada."
+    },
+    "328b9d97": {
+      "src": ". This blood travels through",
+      "t": ". Esta sangre recorre"
+    },
+    "8ba1fdbd": {
+      "src": "100,000 kilometres of blood vessels",
+      "t": "100.000 kilómetros de vasos sanguíneos"
+    },
+    "b658e733": {
+      "src": "100k km",
+      "t": "100.000 km"
+    },
+    "520abfaa": {
+      "src": "12 min",
+      "t": "12 min"
+    },
+    "76a4fa96": {
+      "src": "25tn",
+      "t": "25 billones"
+    },
+    "2d39d170": {
+      "src": "44%",
+      "t": "44%"
+    },
+    "fdb767ae": {
+      "src": "5 litres of blood",
+      "t": "5 litros de sangre"
+    },
+    "61c7ac46": {
+      "src": "5 litres. 25 trillion red blood cells. 100,000 kilometres of vessels. 100,000 heartbeats every day. Without rest. Without pause.",
+      "t": "5 litros. 25 billones de glóbulos rojos. 100.000 kilómetros de vasos. 100.000 latidos cada día. Sin descanso. Sin pausa."
+    },
+    "d4a4e5ae": {
+      "src": "55%",
+      "t": "55%"
+    },
+    "3fe0d594": {
+      "src": "5L",
+      "t": "5 L"
+    },
+    "c408e6e0": {
+      "src": "60 seconds.",
+      "t": "60 segundos."
+    },
+    "7d018946": {
+      "src": "8%",
+      "t": "8%"
+    },
+    "a11e6f7c": {
+      "src": "90% water",
+      "t": "un 90% agua"
+    },
+    "a813bdc1": {
+      "src": "<1%",
+      "t": "<1%"
+    },
+    "fff64671": {
+      "src": "A deficiency in any one of them produces measurable health consequences.",
+      "t": "La carencia de cualquiera de ellos tiene consecuencias medibles para la salud."
+    },
+    "50fbccdf": {
+      "src": "A deficiency in more than one compounds those consequences exponentially.",
+      "t": "La carencia de más de uno multiplica esas consecuencias de forma exponencial."
+    },
+    "a9c413f0": {
+      "src": "A handful daily provides the mineral foundation for healthy blood production.",
+      "t": "Un puñado al día da la base mineral para producir una sangre sana."
+    },
+    "a6d772bd": {
+      "src": "Alcohol",
+      "t": "El alcohol"
+    },
+    "73711e98": {
+      "src": "An average adult human body contains approximately 4.5–5.5 litres of blood, representing about 7–8% of total body weight. This blood circulates continuously through a vascular network of arteries, veins, and capillaries with a combined length of approximately 100,000 kilometres.",
+      "t": "El cuerpo de un adulto medio contiene aproximadamente entre 4,5 y 5,5 litros de sangre, alrededor del 7 al 8% del peso corporal total. Esta sangre circula sin parar por una red vascular de arterias, venas y capilares con una longitud total de unos 100.000 kilómetros."
+    },
+    "ec9b9310": {
+      "src": "Ancient Egypt (Ebers Papyrus, c.1550 BCE):",
+      "t": "Antiguo Egipto (papiro Ebers, hacia 1550 a. C.):"
+    },
+    "02303f0c": {
+      "src": "Ancient knowledge of blood",
+      "t": "El saber antiguo sobre la sangre"
+    },
+    "14f8838e": {
+      "src": "Average blood volume. Circulates completely once per minute. 100,000 complete circuits every day.",
+      "t": "Volumen medio de sangre. Da una vuelta completa por minuto. 100.000 circuitos completos cada día."
+    },
+    "82ccd617": {
+      "src": "B6 is required for haemoglobin synthesis — it activates the enzyme that builds the haem component of haemoglobin. Potassium maintains plasma electrolyte balance. Folate supports new red blood cell production.",
+      "t": "La B6 es necesaria para sintetizar la hemoglobina: activa la enzima que construye el grupo hemo. El potasio mantiene el equilibrio de electrolitos del plasma. El folato apoya la producción de nuevos glóbulos rojos."
+    },
+    "50917f26": {
+      "src": "Blood & Circulatory Health",
+      "t": "Salud de la sangre y la circulación"
+    },
+    "771b93ab": {
+      "src": "Blood absorbs heat from metabolically active tissues (muscles during exercise, the liver during digestion) and distributes it, preventing localised overheating while maintaining core temperature. The blood vessels in the skin dilate during heat exposure to release excess heat — and constrict during cold to conserve it.",
+      "t": "La sangre absorbe el calor de los tejidos con mucha actividad metabólica (los músculos durante el ejercicio, el hígado durante la digestión) y lo reparte, evitando que se sobrecalienten zonas concretas y manteniendo la temperatura central. Los vasos sanguíneos de la piel se dilatan con el calor para liberar el exceso y se contraen con el frío para conservarlo."
+    },
+    "0eaeb862": {
+      "src": "Blood as proportion of total body weight. A 70kg person carries approximately 5.6 litres of blood.",
+      "t": "Proporción de sangre en el peso corporal total. Una persona de 70 kg lleva unos 5,6 litros de sangre."
+    },
+    "4be7593c": {
+      "src": "Blood is a living tissue. Not a liquid in the simple sense — but a complex, dynamic biological tissue that circulates through the body in liquid form, performing more simultaneous functions than any pharmaceutical ever developed.",
+      "t": "La sangre es un tejido vivo. No es un líquido en el sentido simple, sino un tejido biológico complejo y dinámico que circula por el cuerpo en forma líquida y cumple más funciones a la vez que cualquier fármaco jamás creado."
+    },
+    "92e0ada4": {
+      "src": "Blood is composed of four distinct components, each produced in different locations, performing different functions, and requiring different nutritional inputs to maintain at optimal levels.",
+      "t": "La sangre está formada por cuatro componentes distintos, cada uno producido en un lugar diferente, con funciones diferentes y con necesidades nutricionales diferentes para mantenerse en niveles óptimos."
+    },
+    "50ebff85": {
+      "src": "Blood is life",
+      "t": "La sangre es vida"
+    },
+    "d4e9c142": {
+      "src": "Blood is the body’s central heating and cooling system.",
+      "t": "La sangre es la calefacción y el aire acondicionado central del cuerpo."
+    },
+    "90fcfe21": {
+      "src": "Blood performs its functions continuously — not in scheduled episodes, not when prompted, not when conditions are convenient.",
+      "t": "La sangre cumple sus funciones de forma continua: no en momentos programados, no cuando se lo piden, no cuando las condiciones son cómodas."
+    },
+    "2d6dee18": {
+      "src": "Blood vessels",
+      "t": "de vasos sanguíneos"
+    },
+    "c238bd7a": {
+      "src": "Blood — The Body's Living River — Kwik Fat Cut",
+      "t": "La sangre, el río vivo del cuerpo · Kwik Fat Cut"
+    },
+    "90fb1b4b": {
+      "src": "Blood — The Living River",
+      "t": "La sangre, el río vivo"
+    },
+    "a515d4ab": {
+      "src": "Blood.",
+      "t": "La sangre."
+    },
+    "4b36e486": {
+      "src": "Callaloo provides it daily.",
+      "t": "El callaloo la aporta cada día."
+    },
+    "8c77feda": {
+      "src": "Carbon dioxide removal:",
+      "t": "Eliminación del dióxido de carbono:"
+    },
+    "d10406fd": {
+      "src": "Choose whole foods. Eat iron-rich plants. Combine them with vitamin C. Drink clean water. Respect the system.",
+      "t": "Elige alimentos integrales. Come plantas ricas en hierro. Combínalas con vitamina C. Bebe agua limpia. Respeta el sistema."
+    },
+    "1b42a15b": {
+      "src": "Consuming non-haem iron with vitamin C-rich foods increases absorption by up to 67% (Journal of Nutrition, 1998).",
+      "t": "Tomar hierro no hemo junto con alimentos ricos en vitamina C aumenta su absorción hasta en un 67% (Journal of Nutrition, 1998)."
+    },
+    "509b5eca": {
+      "src": "Conversely, drinking adequate water — particularly mineral-rich water, coconut water, or the water from whole plant foods — directly supports plasma volume, blood pressure regulation, kidney function, and the efficiency of every function blood performs.",
+      "t": "Por el contrario, beber suficiente agua, sobre todo agua rica en minerales, agua de coco o el agua de los alimentos vegetales integrales, apoya directamente el volumen de plasma, la regulación de la presión arterial, la función renal y la eficacia de cada función que cumple la sangre."
+    },
+    "83c60dbc": {
+      "src": "Conversely, when food quality is high — when the diet provides the full spectrum of iron, folate, vitamin B12, vitamin C, vitamin K, zinc, copper, and adequate water that blood production requires — the blood performs at its highest functional capacity. Energy is higher. Immunity is stronger. Cognitive function is sharper. Recovery from illness and exercise is faster.",
+      "t": "Por el contrario, cuando la calidad de la comida es alta, cuando la dieta aporta todo el espectro de hierro, folato, vitamina B12, vitamina C, vitamina K, zinc, cobre y el agua suficiente que requiere la producción de sangre, la sangre funciona al máximo de su capacidad. Hay más energía. La inmunidad es más fuerte. La mente está más despierta. La recuperación de las enfermedades y del ejercicio es más rápida."
+    },
+    "d549daf4": {
+      "src": "Deep Research",
+      "t": "Investigación profunda"
+    },
+    "21fa4a85": {
+      "src": "Dehydration is not a hydration problem. It is a blood quality problem.",
+      "t": "La deshidratación no es un problema de hidratación. Es un problema de calidad de la sangre."
+    },
+    "4a0e5736": {
+      "src": "Drink adequate water daily. Eat callaloo, red peas, moringa, and pumpkin seeds for iron and blood-building minerals. Combine iron-rich plant foods with vitamin C-rich foods at the same meal. Drink cerasee and moringa teas. Avoid excess refined sugar, excess sodium, and processed oils that degrade blood vessel walls.",
+      "t": "Bebe suficiente agua cada día. Come callaloo, frijoles rojos, moringa y semillas de calabaza para obtener hierro y minerales que forman sangre. Combina en la misma comida alimentos vegetales ricos en hierro con alimentos ricos en vitamina C. Toma tés de cerasee y de moringa. Evita el exceso de azúcar refinada, el exceso de sodio y los aceites procesados que dañan las paredes de los vasos sanguíneos."
+    },
+    "d2bc4249": {
+      "src": "Each indispensable.",
+      "t": "Todos indispensables."
+    },
+    "9dc30a43": {
+      "src": "Each red blood cell contains approximately 270 million haemoglobin molecules, each capable of carrying four oxygen molecules. RBCs live ~120 days, requiring constant replacement. Iron is the central atom of haemoglobin — without it, oxygen delivery fails.",
+      "t": "Cada glóbulo rojo contiene unos 270 millones de moléculas de hemoglobina, y cada una puede transportar cuatro moléculas de oxígeno. Los glóbulos rojos viven unos 120 días y necesitan reemplazarse constantemente. El hierro es el átomo central de la hemoglobina: sin él, el transporte de oxígeno falla."
+    },
+    "522f8a63": {
+      "src": "Eaten across Jamaica daily. Their blood-building role is rarely recognised.",
+      "t": "Se comen a diario en toda Jamaica. Su papel en la formación de la sangre rara vez se reconoce."
+    },
+    "6aa96931": {
+      "src": "Eaten with brown rice: complete blood-building nutrition.",
+      "t": "Con arroz integral: una nutrición completa para formar sangre."
+    },
+    "0d25b7b5": {
+      "src": "Egyptian physicians prescribed iron-rich foods — including lentils and dark leafy vegetables — for conditions we would now classify as anaemia. The Ebers Papyrus documents the use of ferrous compounds (iron-bearing substances) for “weakness of the body.” The connection between pale skin, fatigue, and the need for specific foods was documented 3,500 years before haemoglobin was named.",
+      "t": "Los médicos egipcios recetaban alimentos ricos en hierro, como las lentejas y las verduras de hoja oscura, para afecciones que hoy clasificaríamos como anemia. El papiro Ebers documenta el uso de compuestos ferrosos (sustancias con hierro) para la “debilidad del cuerpo”. La relación entre la piel pálida, el cansancio y la necesidad de alimentos concretos se documentó 3.500 años antes de que se nombrara la hemoglobina."
+    },
+    "e0a80bb8": {
+      "src": "Every Second",
+      "t": "Cada segundo"
+    },
+    "c7fd858f": {
+      "src": "Every breath you take is translated into cellular energy through blood.",
+      "t": "Cada respiración que haces se convierte en energía celular gracias a la sangre."
+    },
+    "c38e7786": {
+      "src": "Every drop of blood is a complete biological system",
+      "t": "Cada gota de sangre es un sistema biológico completo"
+    },
+    "06705f10": {
+      "src": "Every health consequence of dehydration is, at the mechanistic level, a consequence of reduced blood volume and increased blood viscosity.",
+      "t": "Todas las consecuencias de la deshidratación para la salud son, a nivel de mecanismo, consecuencias de un menor volumen de sangre y una mayor viscosidad sanguínea."
+    },
+    "9df6c59c": {
+      "src": "Every hormone produced by the endocrine system — insulin, cortisol, oestrogen, testosterone, thyroid hormones, adrenaline — travels through the blood to reach its target tissues. The blood is the communication network of the entire body.",
+      "t": "Cada hormona que produce el sistema endocrino (insulina, cortisol, estrógeno, testosterona, hormonas tiroideas, adrenalina) viaja por la sangre hasta sus tejidos de destino. La sangre es la red de comunicación de todo el cuerpo."
+    },
+    "46dcd9f2": {
+      "src": "Every major ancient medical tradition devoted significant attention to blood — because every observant healer understood that the quality of blood determined the quality of health. The specific mechanisms were not yet named, but the observations were accurate.",
+      "t": "Todas las grandes tradiciones médicas antiguas prestaron mucha atención a la sangre, porque todo sanador observador entendía que la calidad de la sangre determinaba la calidad de la salud. Los mecanismos concretos aún no tenían nombre, pero las observaciones eran precisas."
+    },
+    "1730d933": {
+      "src": "Every major ancient medical tradition understood that blood was not simply a fluid — it was the medium through which health was maintained or lost.",
+      "t": "Todas las grandes tradiciones médicas antiguas entendían que la sangre no era un simple fluido: era el medio a través del cual se mantenía o se perdía la salud."
+    },
+    "965f7ea4": {
+      "src": "Every minute. Every hour. Every day of your life. Without rest. Without pause. Without error.",
+      "t": "Cada minuto. Cada hora. Cada día de tu vida. Sin descanso. Sin pausa. Sin error."
+    },
+    "6a6f6c05": {
+      "src": "Every nutrient absorbed from food enters the bloodstream and is distributed to cells throughout the body. Glucose to the brain (which requires a constant supply). Amino acids to muscle cells for repair. Fatty acids to cells requiring energy. Vitamins and minerals to the enzymatic systems that depend on them.",
+      "t": "Cada nutriente que se absorbe de la comida entra en la sangre y se reparte a las células de todo el cuerpo. Glucosa para el cerebro (que necesita un suministro constante). Aminoácidos para reparar las células musculares. Ácidos grasos para las células que necesitan energía. Vitaminas y minerales para los sistemas enzimáticos que dependen de ellos."
+    },
+    "b6305b4c": {
+      "src": "Every second of every day from the moment of first heartbeat to the moment of last, blood is performing all of the following simultaneously.",
+      "t": "Cada segundo de cada día, desde el primer latido hasta el último, la sangre está haciendo todo lo siguiente a la vez."
+    },
+    "6e74a6a9": {
+      "src": "Everything you eat",
+      "t": "Todo lo que comes"
+    },
+    "1658a4bf": {
+      "src": "Excess refined sugar",
+      "t": "El exceso de azúcar refinada"
+    },
+    "c2d11a91": {
+      "src": "Excess sodium",
+      "t": "El exceso de sodio"
+    },
+    "5e7bd250": {
+      "src": "Fatigue that will not resolve with rest. Difficulty concentrating. Breathlessness on mild exertion. Pale skin and pale mucous membranes. Cold hands and feet.",
+      "t": "Un cansancio que no se va con el descanso. Dificultad para concentrarse. Falta de aire con esfuerzos leves. Piel y mucosas pálidas. Manos y pies fríos."
+    },
+    "cce83a84": {
+      "src": "Feed it well.",
+      "t": "Aliméntala bien."
+    },
+    "27fc423e": {
+      "src": "Five distinct types: neutrophils (attack bacteria), lymphocytes (produce antibodies and destroy cancer cells), monocytes (consume pathogens), eosinophils (target parasites), basophils (mediate inflammation). Nutritional deficiencies — particularly zinc, vitamin C, and vitamin A — measurably impair white blood cell production and function.",
+      "t": "Cinco tipos distintos: neutrófilos (atacan bacterias), linfocitos (producen anticuerpos y destruyen células cancerosas), monocitos (devoran patógenos), eosinófilos (atacan parásitos) y basófilos (median la inflamación). Las carencias nutricionales, sobre todo de zinc, vitamina C y vitamina A, reducen de forma medible la producción y la función de los glóbulos blancos."
+    },
+    "9c4599a5": {
+      "src": "Folate: 47% daily value — essential for red blood cell production. Vitamin K: critical for clotting factor synthesis.",
+      "t": "Folato: 47% del valor diario, esencial para producir glóbulos rojos. Vitamina K: fundamental para sintetizar los factores de coagulación."
+    },
+    "d80c7ce8": {
+      "src": "Folate: 64% daily value. Copper: required for iron metabolism and red blood cell formation. Plant protein providing all essential amino acids for haemoglobin protein synthesis.",
+      "t": "Folato: 64% del valor diario. Cobre: necesario para el metabolismo del hierro y la formación de glóbulos rojos. Proteína vegetal con todos los aminoácidos esenciales para sintetizar la proteína de la hemoglobina."
+    },
+    "f4988b37": {
+      "src": "Food becomes blood becomes function. The chain is unbroken.",
+      "t": "La comida se convierte en sangre, y la sangre en función. La cadena no se rompe."
+    },
+    "57f20fbf": {
+      "src": "Four components.",
+      "t": "Cuatro componentes."
+    },
+    "3ef8e9e7": {
+      "src": "Guinep contains vitamin C, iron, and phosphorus. Eating citrus with iron-rich plant foods is among the most evidence-backed dietary practices for preventing iron-deficiency anaemia.",
+      "t": "La quenepa contiene vitamina C, hierro y fósforo. Comer cítricos con alimentos vegetales ricos en hierro está entre las prácticas alimentarias con más respaldo científico para prevenir la anemia por falta de hierro."
+    },
+    "d08ccfee": {
+      "src": "Haem iron",
+      "t": "El hierro hemo"
+    },
+    "df5f62f4": {
+      "src": "Haem vs non-haem iron — the critical distinction:",
+      "t": "Hierro hemo frente a hierro no hemo: la diferencia clave:"
+    },
+    "1011b82d": {
+      "src": "Haemoglobin in red blood cells binds oxygen in the lungs (where oxygen concentration is high) and releases it in the tissues (where oxygen concentration is low). The precision of this binding-release mechanism — governed by pH, temperature, and CO₂ concentration — is among the most elegant biochemical systems in nature.",
+      "t": "La hemoglobina de los glóbulos rojos se une al oxígeno en los pulmones (donde la concentración de oxígeno es alta) y lo libera en los tejidos (donde es baja). La precisión de este mecanismo de unión y liberación, regulado por el pH, la temperatura y la concentración de CO₂, está entre los sistemas bioquímicos más elegantes de la naturaleza."
+    },
+    "e34c7396": {
+      "src": "Heat distribution and temperature regulation:",
+      "t": "Reparto del calor y regulación de la temperatura:"
+    },
+    "b9140a6f": {
+      "src": "Hormone distribution:",
+      "t": "Reparto de hormonas:"
+    },
+    "53b44a23": {
+      "src": "How food builds or breaks blood",
+      "t": "Cómo la comida construye o daña la sangre"
+    },
+    "d8a4013e": {
+      "src": "Ibn Sina (Canon of Medicine, 1025 CE):",
+      "t": "Ibn Sina (Canon de medicina, 1025 d. C.):"
+    },
+    "930bab59": {
+      "src": "Ibn Sina classified blood as one of the four humours — not in the metaphorical sense that is often misunderstood today, but as a recognition that blood composition varied and that its quality could be improved or degraded through diet. He prescribed specific foods for “thin blood” (anaemia), “thick blood” (high viscosity states), and “hot blood” (inflammatory conditions) — all corresponding to conditions modern haematology recognises and treats.",
+      "t": "Ibn Sina clasificaba la sangre como uno de los cuatro humores, no en el sentido metafórico que hoy a menudo se malinterpreta, sino como un reconocimiento de que la composición de la sangre variaba y de que su calidad podía mejorar o empeorar con la dieta. Recetaba alimentos concretos para la “sangre fina” (anemia), la “sangre espesa” (estados de alta viscosidad) y la “sangre caliente” (afecciones inflamatorias), todas correspondientes a afecciones que la hematología moderna reconoce y trata."
+    },
+    "4039ca43": {
+      "src": "If water is the fluid of life, blood is life in motion. It carries oxygen to every cell. It delivers nutrients from every meal. It fights every infection. It repairs every wound. It is the most complex fluid the human body produces — and everything you eat and drink either nourishes it or burdens it.",
+      "t": "Si el agua es el fluido de la vida, la sangre es la vida en movimiento. Lleva oxígeno a cada célula. Reparte los nutrientes de cada comida. Combate cada infección. Repara cada herida. Es el fluido más complejo que produce el cuerpo humano, y todo lo que comes y bebes la nutre o la sobrecarga."
+    },
+    "de65d0b0": {
+      "src": "If water is the fluid of life, blood is life itself — in motion, in purpose, in tireless service to every cell of the body it sustains.",
+      "t": "Si el agua es el fluido de la vida, la sangre es la vida misma: en movimiento, con propósito, al servicio incansable de cada célula del cuerpo que sostiene."
+    },
+    "633e218d": {
+      "src": "Immune surveillance:",
+      "t": "Vigilancia inmunitaria:"
+    },
+    "3c181f33": {
+      "src": "In the adult body",
+      "t": "en el cuerpo adulto"
+    },
+    "b5d89db4": {
+      "src": "In the human body at any moment. Each lives approximately 120 days before being replaced. The bone marrow produces 2 million new ones every second.",
+      "t": "en el cuerpo humano en cualquier momento. Cada uno vive unos 120 días antes de ser reemplazado. La médula ósea produce 2 millones de glóbulos nuevos cada segundo."
+    },
+    "1cd6cafc": {
+      "src": "Iron is the central atom of haemoglobin — the protein in red blood cells that binds, carries, and releases oxygen.",
+      "t": "El hierro es el átomo central de la hemoglobina, la proteína de los glóbulos rojos que se une al oxígeno, lo transporta y lo libera."
+    },
+    "6f8ae82f": {
+      "src": "Iron —",
+      "t": "El hierro:"
+    },
+    "50857be1": {
+      "src": "Iron — blood’s most critical mineral",
+      "t": "El hierro: el mineral más importante de la sangre"
+    },
+    "dc4d109e": {
+      "src": "Iron-deficiency anaemia affects 1.6 billion people globally.",
+      "t": "La anemia por falta de hierro afecta a 1.600 millones de personas en el mundo."
+    },
+    "606773b9": {
+      "src": "Iron-deficiency anaemia is the most common nutritional deficiency on earth, affecting an estimated 1.6 billion people globally according to the World Health Organization — approximately 20% of the world’s population. It disproportionately affects women of reproductive age, children under five, and populations with limited access to animal products or iron-rich plant foods.",
+      "t": "La anemia por falta de hierro es la carencia nutricional más común del planeta: según la Organización Mundial de la Salud, afecta a unos 1.600 millones de personas, aproximadamente el 20% de la población mundial. Afecta sobre todo a las mujeres en edad reproductiva, a los niños menores de cinco años y a las poblaciones con poco acceso a productos animales o a alimentos vegetales ricos en hierro."
+    },
+    "780d792e": {
+      "src": "Iron: 3mg/100g. Vitamin C: enhances its own iron absorption.",
+      "t": "Hierro: 3 mg/100 g. Vitamina C: mejora la absorción de su propio hierro."
+    },
+    "f6171af2": {
+      "src": "Iron: 4mg/100g fresh leaves.",
+      "t": "Hierro: 4 mg/100 g de hojas frescas."
+    },
+    "97aef17e": {
+      "src": "Iron: 5mg per cup cooked.",
+      "t": "Hierro: 5 mg por taza cocida."
+    },
+    "6fa163da": {
+      "src": "Iron: 8mg/100g — among the highest plant sources.",
+      "t": "Hierro: 8 mg/100 g, entre las fuentes vegetales más altas."
+    },
+    "4da273e0": {
+      "src": "Jamaica grows some of the most blood-supportive foods on earth. The nutrients required for haemoglobin production, plasma maintenance, white blood cell function, and clotting factor synthesis are abundantly available in the island’s indigenous food tradition.",
+      "t": "Jamaica cultiva algunos de los alimentos que más favorecen la sangre en el planeta. Los nutrientes necesarios para producir hemoglobina, mantener el plasma, apoyar la función de los glóbulos blancos y sintetizar los factores de coagulación abundan en la tradición alimentaria indígena de la isla."
+    },
+    "a5091347": {
+      "src": "Jamaican bush medicine:",
+      "t": "Medicina tradicional jamaicana:"
+    },
+    "b803fcf9": {
+      "src": "Jamaican foods that build blood",
+      "t": "Alimentos jamaicanos que forman sangre"
+    },
+    "c06079f4": {
+      "src": "Jamaican grandmothers were optimising iron absorption through food combination long before nutritional science had a name for the mechanism.",
+      "t": "Las abuelas jamaicanas optimizaban la absorción del hierro combinando alimentos mucho antes de que la ciencia de la nutrición le pusiera nombre al mecanismo."
+    },
+    "aabb1bb5": {
+      "src": "Jamaica’s Blood-Building Foods",
+      "t": "Los alimentos de Jamaica que forman sangre"
+    },
+    "105227ee": {
+      "src": "Knowing these interactions transforms how you eat.",
+      "t": "Conocer estas interacciones cambia tu forma de comer."
+    },
+    "1792cbe4": {
+      "src": "Modern haematology has confirmed every significant observation they made.",
+      "t": "La hematología moderna ha confirmado cada una de sus observaciones importantes."
+    },
+    "adc44201": {
+      "src": "Movements are medicines. We row. You steer. 🇯🇲",
+      "t": "Los movimientos son medicina. Nosotros remamos. Tú diriges. 🇯🇲"
+    },
+    "75665d6f": {
+      "src": "No hormone reaches its receptor without blood as the medium.",
+      "t": "Ninguna hormona llega a su receptor sin la sangre como medio."
+    },
+    "15e4abb4": {
+      "src": "Non-haem iron",
+      "t": "El hierro no hemo"
+    },
+    "396842ae": {
+      "src": "Not as supplements. As food.",
+      "t": "No como suplementos. Como comida."
+    },
+    "04759dfa": {
+      "src": "Nutrient distribution:",
+      "t": "Reparto de nutrientes:"
+    },
+    "b4c7f05c": {
+      "src": "Of body weight",
+      "t": "del peso corporal"
+    },
+    "2d9c1edd": {
+      "src": "Oxygen delivery specialists.",
+      "t": "Especialistas en llevar oxígeno."
+    },
+    "46c2c823": {
+      "src": "Oxygen delivery:",
+      "t": "Transporte de oxígeno:"
+    },
+    "5349f03f": {
+      "src": "Plasma",
+      "t": "Plasma"
+    },
+    "e7c01871": {
+      "src": "Platelets (Thrombocytes)",
+      "t": "Plaquetas (trombocitos)"
+    },
+    "7bc2a144": {
+      "src": "Platelets aggregate at wound sites within seconds, forming the initial plug that stops bleeding. They then trigger the clotting cascade involving 13 clotting factors, all requiring specific nutrients (vitamin K, calcium, vitamin C) to function.",
+      "t": "Las plaquetas se agrupan en las heridas en cuestión de segundos y forman el primer tapón que detiene el sangrado. Luego ponen en marcha la cascada de coagulación, en la que intervienen 13 factores de coagulación que necesitan nutrientes concretos (vitamina K, calcio, vitamina C) para funcionar."
+    },
+    "2b9279f0": {
+      "src": "Read the companion",
+      "t": "Lee el artículo"
+    },
+    "a4059941": {
+      "src": "Red Blood Cells (Erythrocytes)",
+      "t": "Glóbulos rojos (eritrocitos)"
+    },
+    "1e83ebc1": {
+      "src": "Red blood cells",
+      "t": "de glóbulos rojos"
+    },
+    "78f25130": {
+      "src": "Smile for me, Jamaica. The knowledge of how to care for your blood has always been here — in the callaloo, the red peas, the cerasee, the moringa, the Jamaican foods that ancient West African and Caribbean tradition understood as blood-building long before modern haematology gave the mechanism its name.",
+      "t": "Sonríe para mí, Jamaica. El saber sobre cómo cuidar tu sangre siempre ha estado aquí: en el callaloo, en los frijoles rojos, en el cerasee, en la moringa, en los alimentos jamaicanos que la antigua tradición de África Occidental y del Caribe entendía como formadores de sangre mucho antes de que la hematología moderna le pusiera nombre al mecanismo."
+    },
+    "0f8f2850": {
+      "src": "Tannins in tea and coffee (drink them between meals, not with iron-rich foods). Calcium in dairy (consumes the same absorption pathway). Phytates in unsoaked legumes (reduced by soaking and cooking).",
+      "t": "Los taninos del té y el café (tómalos entre comidas, no con alimentos ricos en hierro). El calcio de los lácteos (usa la misma vía de absorción). Los fitatos de las legumbres sin remojar (se reducen al remojarlas y cocinarlas)."
+    },
+    "a6795fbd": {
+      "src": "The Ancient Record",
+      "t": "El registro antiguo"
+    },
+    "fc7ffd57": {
+      "src": "The Architecture",
+      "t": "La arquitectura"
+    },
+    "91c77cd0": {
+      "src": "The Food Connection",
+      "t": "La conexión con la comida"
+    },
+    "b9d49b8e": {
+      "src": "The Inseparable Partnership",
+      "t": "Una alianza inseparable"
+    },
+    "01053601": {
+      "src": "The Living Fluid",
+      "t": "El fluido vivo"
+    },
+    "74bb243a": {
+      "src": "The Most Critical Mineral",
+      "t": "El mineral más importante"
+    },
+    "33b38367": {
+      "src": "The ancient Egyptians called blood the “river of life.” The Yoruba called it the carrier of",
+      "t": "Los antiguos egipcios llamaban a la sangre el “río de la vida”. Los yoruba la llamaban la portadora del"
+    },
+    "46ce9252": {
+      "src": "The bitter plant compounds that “clean the blood” in traditional medicine are antioxidants and anti-inflammatories in the language of modern biochemistry.",
+      "t": "Los compuestos de las plantas amargas que “limpian la sangre” en la medicina tradicional son antioxidantes y antiinflamatorios en el lenguaje de la bioquímica moderna."
+    },
+    "3068158b": {
+      "src": "The blockers of iron absorption:",
+      "t": "Lo que bloquea la absorción del hierro:"
+    },
+    "7f3c741d": {
+      "src": "The blood-cleansing function of bitter herbs — bitter leaf, moringa, soursop leaf — was documented across Yoruba, Igbo, and Akan healing traditions. These plants were prescribed for “impure blood” conditions (fevers, skin conditions, fatigue) now understood to represent inflammatory states, elevated oxidative stress, or immune activation.",
+      "t": "La función limpiadora de la sangre de las hierbas amargas (hoja amarga, moringa, hoja de guanábana) está documentada en las tradiciones de sanación yoruba, igbo y akan. Estas plantas se recetaban para afecciones de “sangre impura” (fiebres, problemas de piel, cansancio) que hoy se entienden como estados inflamatorios, estrés oxidativo elevado o activación inmunitaria."
+    },
+    "959cb388": {
+      "src": "The body’s",
+      "t": "El río vivo"
+    },
+    "4676762c": {
+      "src": "The combination is the medicine.",
+      "t": "La combinación es la medicina."
+    },
+    "d67d236f": {
+      "src": "The emergency repair crew.",
+      "t": "El equipo de reparación de emergencia."
+    },
+    "21248629": {
+      "src": "The extraordinary number",
+      "t": "El número extraordinario"
+    },
+    "fbbdd3dc": {
+      "src": "The four components",
+      "t": "Los cuatro componentes"
+    },
+    "5775cbe4": {
+      "src": "The heart pumps this entire volume around the body once every 60 seconds — 100,000 times per day, without stopping, for an entire human lifetime.",
+      "t": "El corazón bombea todo este volumen por el cuerpo una vez cada 60 segundos: 100.000 veces al día, sin detenerse, durante toda una vida humana."
+    },
+    "fe79cea9": {
+      "src": "The human body contains approximately",
+      "t": "El cuerpo humano contiene aproximadamente"
+    },
+    "ff0a52a0": {
+      "src": "The immune army.",
+      "t": "El ejército inmunitario."
+    },
+    "74bc8e6c": {
+      "src": "The key enhancer: vitamin C.",
+      "t": "El potenciador clave: la vitamina C."
+    },
+    "f57edb57": {
+      "src": "The liquid component —",
+      "t": "El componente líquido:"
+    },
+    "cdc0be6e": {
+      "src": "The moment a blood vessel is breached, platelets aggregate at the site within 3–5 seconds, forming the initial haemostatic plug. The coagulation cascade then deploys 13 clotting factors in a precise sequence, producing fibrin — the fibrous protein that creates the structural scaffold of a blood clot. The entire process, from injury to stable clot, takes less than 10 minutes in healthy individuals.",
+      "t": "En cuanto se rompe un vaso sanguíneo, las plaquetas se agrupan en el lugar en 3 a 5 segundos y forman el primer tapón hemostático. Después, la cascada de coagulación activa 13 factores de coagulación en una secuencia precisa y produce fibrina, la proteína fibrosa que forma el andamiaje del coágulo. Todo el proceso, desde la lesión hasta un coágulo estable, dura menos de 10 minutos en personas sanas."
+    },
+    "324f2435": {
+      "src": "The most complete blood-supporting plant documented in West African tradition. Grown in Jamaica. Use it.",
+      "t": "La planta de apoyo a la sangre más completa documentada en la tradición de África Occidental. Se cultiva en Jamaica. Úsala."
+    },
+    "f790c23c": {
+      "src": "The practical conclusion:",
+      "t": "La conclusión práctica:"
+    },
+    "1d7bbcd9": {
+      "src": "The quality of blood is directly and measurably determined by the quality of what is eaten and drunk. This is not a metaphor.",
+      "t": "La calidad de la sangre depende de forma directa y medible de la calidad de lo que se come y se bebe. No es una metáfora."
+    },
+    "79559ebf": {
+      "src": "The same red blood cells that deliver oxygen carry CO₂ — the waste product of cellular respiration — back to the lungs for exhalation. Approximately 70% is transported as bicarbonate dissolved in plasma; 23% bound to haemoglobin; 7% dissolved directly in plasma. This is a precisely calibrated system that maintains blood pH within the narrow range of 7.35–7.45. A deviation of 0.2 units in either direction is life-threatening.",
+      "t": "Los mismos glóbulos rojos que llevan el oxígeno transportan el CO₂, el desecho de la respiración celular, de vuelta a los pulmones para exhalarlo. Aproximadamente el 70% viaja como bicarbonato disuelto en el plasma; el 23%, unido a la hemoglobina; el 7%, disuelto directamente en el plasma. Es un sistema calibrado con precisión que mantiene el pH de la sangre en el estrecho rango de 7,35 a 7,45. Una desviación de 0,2 unidades en cualquier sentido pone en peligro la vida."
+    },
+    "ce9add7a": {
+      "src": "The single most complete blood-building plant food available in Jamaica.",
+      "t": "El alimento vegetal formador de sangre más completo que hay en Jamaica."
+    },
+    "537da2ed": {
+      "src": "The specific nutrients required to produce red blood cells, maintain plasma volume, support white blood cell function, and enable clotting are all obtained exclusively from food.",
+      "t": "Los nutrientes concretos que se necesitan para producir glóbulos rojos, mantener el volumen de plasma, apoyar la función de los glóbulos blancos y permitir la coagulación se obtienen exclusivamente de la comida."
+    },
+    "a03b78a5": {
+      "src": "The symptoms of iron deficiency are not dramatic at first.",
+      "t": "Los síntomas de la falta de hierro no son llamativos al principio."
+    },
+    "cb096a03": {
+      "src": "The tradition of “blood teas” — cerasee, moringa, search-mi-heart, and other preparations — for conditions described as “bad blood” directly corresponds to the West African tradition brought across the Atlantic. These preparations are not superstition. They are phytochemistry applied before phytochemistry had a name, by people who observed outcomes carefully and transmitted their findings with precision.",
+      "t": "La tradición de los “tés para la sangre” (cerasee, moringa, search-mi-heart y otras preparaciones) para afecciones descritas como “mala sangre” corresponde directamente a la tradición de África Occidental que cruzó el Atlántico. Estas preparaciones no son superstición. Son fitoquímica aplicada antes de que la fitoquímica tuviera nombre, por personas que observaban los resultados con cuidado y transmitían sus hallazgos con precisión."
+    },
+    "7726c209": {
+      "src": "The two articles — water and blood — are one subject.",
+      "t": "Los dos artículos, el del agua y el de la sangre, son un mismo tema."
+    },
+    "304f867d": {
+      "src": "These are not complex instructions. They are not expensive. They do not require a prescription or a specialist.",
+      "t": "No son instrucciones complicadas. No son caras. No necesitan receta ni especialista."
+    },
+    "f7f977d5": {
+      "src": "These are the body’s early signals that oxygen delivery is compromised — and they are frequently attributed to stress, overwork, or ageing rather than their actual nutritional cause.",
+      "t": "Son las primeras señales del cuerpo de que el transporte de oxígeno está comprometido, y a menudo se atribuyen al estrés, al exceso de trabajo o a la edad en lugar de a su verdadera causa nutricional."
+    },
+    "62bec33f": {
+      "src": "They require knowledge — the kind that Kwik Fat Cut exists to provide, freely, to everyone, without exception.",
+      "t": "Necesitan conocimiento: el que Kwik Fat Cut existe para dar, gratis, a todos, sin excepción."
+    },
+    "ec801343": {
+      "src": "This immune surveillance system is active every moment you are alive.",
+      "t": "Este sistema de vigilancia inmunitaria está activo cada momento que estás vivo."
+    },
+    "a405d3db": {
+      "src": "This is why the ancestral Jamaican tradition of eating callaloo (iron-rich) with scotch bonnet pepper or lime juice (vitamin C-rich) is nutritionally precise.",
+      "t": "Por eso la tradición ancestral jamaicana de comer callaloo (rico en hierro) con ají scotch bonnet o jugo de limón (ricos en vitamina C) es nutricionalmente precisa."
+    },
+    "72151969": {
+      "src": "Total length of the human circulatory system. Enough to circle the Earth two and a half times.",
+      "t": "Longitud total del sistema circulatorio humano. Suficiente para dar dos veces y media la vuelta a la Tierra."
+    },
+    "10f1059a": {
+      "src": "Trans fats and oxidised oils",
+      "t": "Las grasas trans y los aceites oxidados"
+    },
+    "bc09ef40": {
+      "src": "Vitamin B6: 33% daily value.",
+      "t": "Vitamina B6: 33% del valor diario."
+    },
+    "c3be7b0c": {
+      "src": "Vitamin C: 51mg/100g (enhancing its own iron absorption). Vitamin A: supports white blood cell production. Copper: essential for red blood cell maturation.",
+      "t": "Vitamina C: 51 mg/100 g (mejora la absorción de su propio hierro). Vitamina A: apoya la producción de glóbulos blancos. Cobre: esencial para la maduración de los glóbulos rojos."
+    },
+    "720400e2": {
+      "src": "Vitamin C: dramatically increases non-haem iron absorption.",
+      "t": "Vitamina C: aumenta muchísimo la absorción del hierro no hemo."
+    },
+    "0ce8acf6": {
+      "src": "Vitamin K from leafy greens is essential for blood clotting.",
+      "t": "La vitamina K de las verduras de hoja es esencial para la coagulación de la sangre."
+    },
+    "0cec115a": {
+      "src": "Water and blood are not two separate health concerns. They are a single integrated system. Blood plasma is 90% water. Blood volume — the total amount of blood in circulation — is directly determined by hydration status.",
+      "t": "El agua y la sangre no son dos asuntos de salud separados. Son un único sistema integrado. El plasma sanguíneo es un 90% agua. El volumen de sangre, la cantidad total de sangre en circulación, depende directamente del nivel de hidratación."
+    },
+    "b33e4691": {
+      "src": "Water and blood —",
+      "t": "El agua y la sangre:"
+    },
+    "c79e6d8b": {
+      "src": "Water and blood — inseparable",
+      "t": "El agua y la sangre: inseparables"
+    },
+    "90500cfe": {
+      "src": "Water — Is it truly the fluid of life?",
+      "t": "El agua: ¿es de verdad el fluido de la vida?"
+    },
+    "e10d4dae": {
+      "src": "Water — The Fluid of Life",
+      "t": "El agua, el fluido de la vida"
+    },
+    "c6743486": {
+      "src": "Water →",
+      "t": "El agua →"
+    },
+    "11874081": {
+      "src": "West African healing traditions:",
+      "t": "Tradiciones de sanación de África Occidental:"
+    },
+    "59e8994d": {
+      "src": "What ancient medicine",
+      "t": "Lo que la medicina antigua"
+    },
+    "7945ac68": {
+      "src": "What blood actually is",
+      "t": "Qué es realmente la sangre"
+    },
+    "ee0b86a4": {
+      "src": "What blood actually is —",
+      "t": "Qué es realmente la sangre,"
+    },
+    "e1fb66a8": {
+      "src": "What blood does",
+      "t": "Lo que hace la sangre"
+    },
+    "d8452809": {
+      "src": "What blood does every second",
+      "t": "Lo que hace la sangre cada segundo"
+    },
+    "134f179c": {
+      "src": "What degrades blood quality (documented):",
+      "t": "Lo que empeora la calidad de la sangre (documentado):"
+    },
+    "8b966c7f": {
+      "src": "What grows here",
+      "t": "Lo que crece aquí"
+    },
+    "b7095ce9": {
+      "src": "What you eat today becomes the blood that serves you tomorrow.",
+      "t": "Lo que comes hoy se convierte en la sangre que te sirve mañana."
+    },
+    "bb6f5542": {
+      "src": "What you eat today becomes the blood that serves you tomorrow. Every meal is a decision about the quality of the river that runs through you.",
+      "t": "Lo que comes hoy se convierte en la sangre que te sirve mañana. Cada comida es una decisión sobre la calidad del río que corre por ti."
+    },
+    "4cd8b6c9": {
+      "src": "When food quality is poor, blood quality follows.",
+      "t": "Cuando la calidad de la comida es mala, la de la sangre también."
+    },
+    "b60d23bd": {
+      "src": "When you are dehydrated, plasma volume falls. Blood becomes thicker. The heart must generate more pressure to move it through the vessels. Blood pressure rises. Capillary blood flow slows. Oxygen and nutrient delivery to cells falls. Waste product removal slows. Cognitive function declines.",
+      "t": "Cuando estás deshidratado, el volumen de plasma baja. La sangre se espesa. El corazón tiene que generar más presión para moverla por los vasos. La presión arterial sube. El flujo de sangre en los capilares se frena. Llega menos oxígeno y menos nutrientes a las células. La eliminación de desechos se ralentiza. La función cognitiva baja."
+    },
+    "f4fd9a7a": {
+      "src": "White Blood Cells (Leukocytes)",
+      "t": "Glóbulos blancos (leucocitos)"
+    },
+    "fac16caa": {
+      "src": "White blood cells patrol the bloodstream continuously, identifying and destroying pathogens, cancerous cells, and damaged tissue. Natural killer cells — a type of lymphocyte — detect and eliminate cells displaying abnormal surface proteins (a characteristic of both virus-infected and cancer cells) within hours of their first appearance.",
+      "t": "Los glóbulos blancos patrullan la sangre sin descanso, identificando y destruyendo patógenos, células cancerosas y tejido dañado. Las células asesinas naturales, un tipo de linfocito, detectan y eliminan en pocas horas las células que muestran proteínas anómalas en su superficie (algo propio tanto de las células infectadas por virus como de las cancerosas)."
+    },
+    "1c240aca": {
+      "src": "Without iron, haemoglobin cannot be formed. Without haemoglobin, red blood cells cannot carry oxygen. Without oxygen delivery, every cell in the body begins to fail.",
+      "t": "Sin hierro, no se puede formar hemoglobina. Sin hemoglobina, los glóbulos rojos no pueden llevar oxígeno. Sin oxígeno, todas las células del cuerpo empiezan a fallar."
+    },
+    "fd878095": {
+      "src": "Wound repair:",
+      "t": "Reparación de heridas:"
+    },
+    "399771f9": {
+      "src": "Your blood is the river that carries your life forward.",
+      "t": "Tu sangre es el río que lleva tu vida hacia adelante."
+    },
+    "24d02b34": {
+      "src": "Zinc: 7.8mg/100g, critical for white blood cell production and immune function. Copper: 1.4mg/100g, essential for haemoglobin synthesis.",
+      "t": "Zinc: 7,8 mg/100 g, fundamental para la producción de glóbulos blancos y la función inmunitaria. Cobre: 1,4 mg/100 g, esencial para sintetizar la hemoglobina."
+    },
+    "5cf13ecf": {
+      "src": "and why it is unlike any other substance.",
+      "t": "y por qué no se parece a ninguna otra sustancia."
+    },
+    "4ec7e055": {
+      "src": "article.",
+      "t": "complementario."
+    },
+    "14bce502": {
+      "src": "becomes blood or burdens it.",
+      "t": "se convierte en sangre o la sobrecarga."
+    },
+    "0cb5bd7f": {
+      "src": "builds the blood that serves you.",
+      "t": "forma la sangre que te sirve."
+    },
+    "878ad1ba": {
+      "src": "emi",
+      "t": "emi"
+    },
+    "ce1f80fa": {
+      "src": "in motion.",
+      "t": "en movimiento."
+    },
+    "1b4604e4": {
+      "src": "living river.",
+      "t": "del cuerpo."
+    },
+    "ed1607c5": {
+      "src": "the element at the centre of every breath you take.",
+      "t": "el elemento en el centro de cada respiración."
+    },
+    "87212539": {
+      "src": "two fluids. One system.",
+      "t": "dos fluidos. Un solo sistema."
+    },
+    "4fc136b1": {
+      "src": "understood about blood.",
+      "t": "entendía sobre la sangre."
+    },
+    "e94062d5": {
+      "src": "while you sleep, work, breathe, and live.",
+      "t": "mientras duermes, trabajas, respiras y vives."
+    },
+    "7f72bcff": {
+      "src": "— draws water from cells into the bloodstream, increasing plasma volume and raising blood pressure. Sustained high blood pressure damages arterial walls, creating the inflammation that initiates atherosclerotic plaque formation — the leading cause of heart attack and stroke.",
+      "t": ": saca agua de las células hacia la sangre, aumenta el volumen de plasma y eleva la presión arterial. La presión alta mantenida daña las paredes de las arterias y crea la inflamación que inicia la formación de placas de ateroesclerosis, la principal causa de infartos y derrames cerebrales."
+    },
+    "1c10d4b3": {
+      "src": "— elevates blood glucose, triggers glycation (the binding of glucose to proteins including haemoglobin), and produces advanced glycation end-products (AGEs) that stiffen blood vessel walls and impair red blood cell flexibility. HbA1c — the diagnostic marker for diabetes — is literally a measure of how much glucose has attached to haemoglobin.",
+      "t": ": eleva la glucosa en sangre, provoca la glicación (la unión de la glucosa a proteínas como la hemoglobina) y produce productos finales de glicación avanzada (AGE) que endurecen las paredes de los vasos sanguíneos y restan flexibilidad a los glóbulos rojos. La HbA1c, el marcador para diagnosticar la diabetes, es literalmente una medida de cuánta glucosa se ha unido a la hemoglobina."
+    },
+    "6e95a3ed": {
+      "src": "— enough to circle the earth two and a half times. The heart pumps it all the way around the body in",
+      "t": ", suficiente para dar dos veces y media la vuelta a la Tierra. El corazón la bombea por todo el cuerpo en"
+    },
+    "e30357db": {
+      "src": "— increase LDL cholesterol, promote oxidative damage to blood vessel walls, and impair the flexibility of red blood cell membranes — reducing their ability to deform through narrow capillaries and deliver oxygen efficiently to peripheral tissues.",
+      "t": ": aumentan el colesterol LDL, favorecen el daño oxidativo en las paredes de los vasos sanguíneos y restan flexibilidad a las membranas de los glóbulos rojos, lo que reduce su capacidad de deformarse para pasar por los capilares estrechos y llevar oxígeno con eficacia a los tejidos periféricos."
+    },
+    "9e269d94": {
+      "src": "— suppresses red blood cell and platelet production in the bone marrow, impairs folate absorption (critical for new blood cell production), and directly damages the liver enzymes responsible for producing clotting factors.",
+      "t": ": frena la producción de glóbulos rojos y plaquetas en la médula ósea, dificulta la absorción del folato (fundamental para producir nuevas células sanguíneas) y daña directamente las enzimas del hígado que producen los factores de coagulación."
+    },
+    "70eeb4f9": {
+      "src": "“If water is the foundation of life, blood is life itself — in motion, in purpose, in service to every cell of the body simultaneously.",
+      "t": "“Si el agua es la base de la vida, la sangre es la vida misma: en movimiento, con propósito, al servicio de cada célula del cuerpo a la vez."
+    },
+    "42529667": {
+      "src": "← Companion article",
+      "t": "← Artículo complementario"
+    },
+    "e8c33e18": {
+      "src": "🇯🇲❤️💚",
+      "t": "🇯🇲❤️💚"
+    },
+    "082d2527": {
+      "src": "🌿 Callaloo",
+      "t": "🌿 Callaloo"
+    },
+    "f6d22945": {
+      "src": "🌿 Moringa",
+      "t": "🌿 Moringa"
+    },
+    "ab8f7319": {
+      "src": "🍊 Citrus & Guinep",
+      "t": "🍊 Cítricos y quenepa"
+    },
+    "a560c9b7": {
+      "src": "🍌 Banana & Plantain",
+      "t": "🍌 Banana y plátano"
+    },
+    "932621a5": {
+      "src": "🥜 Pumpkin Seeds",
+      "t": "🥜 Semillas de calabaza"
+    },
+    "a18a16da": {
+      "src": "🩸 Blood Science — Deep Research — The Body’s Living River",
+      "t": "🩸 Ciencia de la Sangre, Investigación Profunda, El Río Vivo del Cuerpo"
+    },
+    "eaf4a63b": {
+      "src": "🫘 Red Peas",
+      "t": "🫘 Frijoles rojos"
+    }
+  }
+}

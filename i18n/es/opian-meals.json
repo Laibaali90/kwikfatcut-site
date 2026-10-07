@@ -1,0 +1,503 @@
+{
+  "_note": "Page content for opian-meals.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "fc5dd615": {
+      "src": ", high in monounsaturated fats, vitamin E, and lutein, supports skin, eye, and heart health simultaneously.",
+      "t": ", rico en grasas monoinsaturadas, vitamina E y luteína, apoya a la vez la salud de la piel, los ojos y el corazón."
+    },
+    "c643813e": {
+      "src": ", reduces refined carbs, and includes iron-rich plant proteins like callaloo and yams, as well as other greens like parsley and lentils. Nuts such as peanuts and pumpkin seeds fit well. Seafood choices include",
+      "t": ", reduce los carbohidratos refinados e incluye proteínas vegetales ricas en hierro, como el callaloo y el ñame, además de otras verduras como el perejil y las lentejas. Los frutos secos, como el maní y las semillas de calabaza, encajan bien. Entre los pescados están"
+    },
+    "e9c744ae": {
+      "src": ", rich in monounsaturated fats and polyphenols, helps reduce inflammation and lower cardiovascular risk.",
+      "t": ", rico en grasas monoinsaturadas y polifenoles, ayuda a reducir la inflamación y el riesgo cardiovascular."
+    },
+    "5d7c97e8": {
+      "src": ", rooted in natural, indigenous ingredients. It helps burn stubborn fat and reveals radiant, glowing skin — not through chemicals or synthetic shortcuts, but through the kind of plant intelligence that ancestral traditions have relied on for generations.",
+      "t": ", con raíces en ingredientes naturales e indígenas. Ayuda a quemar la grasa difícil y revela una piel radiante y luminosa, no con químicos ni atajos sintéticos, sino con la inteligencia vegetal en la que las tradiciones ancestrales han confiado durante generaciones."
+    },
+    "d6422243": {
+      "src": ", works on two fronts: appetite suppression and digestive enhancement. It regulates hunger hormones including ghrelin, reducing caloric intake naturally. Simultaneously, it improves digestion by stimulating gastric motility and enzyme activity — ensuring nutrients are absorbed and waste eliminated efficiently.",
+      "t": ", actúa en dos frentes: la supresión del apetito y la mejora de la digestión. Regula las hormonas del hambre, como la grelina, y reduce la ingesta calórica de forma natural. Al mismo tiempo, mejora la digestión al estimular la motilidad gástrica y la actividad de las enzimas, para que los nutrientes se absorban y los desechos se eliminen con eficacia."
+    },
+    "952cdf07": {
+      "src": ". A balanced diet combined with regular exercise can boost self-esteem, improve appearance, and enhance mental health by reducing stress and anxiety.",
+      "t": ". Una dieta equilibrada combinada con ejercicio regular puede aumentar la autoestima, mejorar la apariencia y la salud mental al reducir el estrés y la ansiedad."
+    },
+    "62235261": {
+      "src": ". A balanced diet, physical activity, and proper hydration support these changes safely and effectively.",
+      "t": ". Una dieta equilibrada, la actividad física y una hidratación adecuada apoyan estos cambios de forma segura y eficaz."
+    },
+    "a001e757": {
+      "src": ". Start shaping a healthier you today — with confidence and pride.",
+      "t": ". Empieza hoy a construir una versión más sana de ti, con confianza y orgullo."
+    },
+    "95cf3da0": {
+      "src": "10 min",
+      "t": "10 min"
+    },
+    "2447038d": {
+      "src": "Also known as Swible Orange in Jamaica — source of hydroxycitric acid (HCA)",
+      "t": "También conocida en Jamaica como Swible Orange, fuente de ácido hidroxicítrico (HCA)"
+    },
+    "f1337b1f": {
+      "src": "Ancestrally grounded.",
+      "t": "Arraigado en lo ancestral."
+    },
+    "ff9165ad": {
+      "src": "Anti-inflammatory, adaptogenic. Supports blood sugar regulation and digestive comfort.",
+      "t": "Antiinflamatoria y adaptógena. Favorece la regulación del azúcar en sangre y el bienestar digestivo."
+    },
+    "5f91b12e": {
+      "src": "Apple Cider Vinegar",
+      "t": "Vinagre de sidra de manzana"
+    },
+    "13125141": {
+      "src": "Apple cider vinegar, high in",
+      "t": "El vinagre de sidra de manzana, rico en"
+    },
+    "ed68f4d9": {
+      "src": "Approach",
+      "t": "Enfoque"
+    },
+    "e8383eda": {
+      "src": "Avocado oil",
+      "t": "El aceite de aguacate"
+    },
+    "b7ff9506": {
+      "src": "Bold flavours.",
+      "t": "Sabores intensos."
+    },
+    "332091e6": {
+      "src": "Chainyroot Tea Extract",
+      "t": "Extracto de té Chainyroot"
+    },
+    "acd03f1b": {
+      "src": "Chainyroot tea extract is rich in catechins, particularly",
+      "t": "El extracto de té Chainyroot es rico en catequinas, en particular"
+    },
+    "51608c81": {
+      "src": "Clinical significance:",
+      "t": "Importancia clínica:"
+    },
+    "876eb583": {
+      "src": "Coconut water",
+      "t": "El agua de coco"
+    },
+    "8f2e3997": {
+      "src": "Cold-pressed coconut oil",
+      "t": "El aceite de coco prensado en frío"
+    },
+    "91db07e8": {
+      "src": "Contains rosmarinic acid and thymol — powerful antimicrobial and antioxidant compounds.",
+      "t": "Contiene ácido rosmarínico y timol, potentes compuestos antimicrobianos y antioxidantes."
+    },
+    "8b4fd868": {
+      "src": "Cooking Oils",
+      "t": "Aceites de cocina"
+    },
+    "0b21f948": {
+      "src": "Cooking oils",
+      "t": "Aceites de cocina"
+    },
+    "cc3b1b8b": {
+      "src": "EGCG has been shown in multiple peer-reviewed studies to increase fat oxidation, support metabolic rate, and provide antioxidant protection against cellular damage. It works synergistically with the body's natural fat-burning processes.",
+      "t": "Varios estudios revisados por pares han demostrado que la EGCG aumenta la oxidación de grasas, apoya la tasa metabólica y ofrece protección antioxidante contra el daño celular. Actúa en sinergia con los procesos naturales del cuerpo para quemar grasa."
+    },
+    "8923bc28": {
+      "src": "Evidence-based.",
+      "t": "Basado en la evidencia."
+    },
+    "e20f298e": {
+      "src": "Experience Jamaica’s spicy, bold flavours — allspice, pimento, Scotch bonnet peppers, and ginger — that energise and promote overall well-being.",
+      "t": "Disfruta de los sabores intensos y picantes de Jamaica (pimienta de Jamaica, pimento, ají scotch bonnet y jengibre) que dan energía y favorecen el bienestar general."
+    },
+    "c07a4527": {
+      "src": "Explore the",
+      "t": "Descubre el"
+    },
+    "414e20a2": {
+      "src": "Extra-virgin olive oil",
+      "t": "El aceite de oliva extra virgen"
+    },
+    "c8dd4c2d": {
+      "src": "Foods Hub.",
+      "t": "Centro de Alimentos."
+    },
+    "50270f33": {
+      "src": "HCA has been studied across multiple trials for its role in weight management. Its mechanism is distinct from stimulant-based fat burners — it works at the enzymatic level without elevating heart rate or creating dependency.",
+      "t": "El HCA se ha estudiado en varios ensayos por su papel en el control del peso. Su mecanismo es distinto al de los quemadores de grasa estimulantes: actúa a nivel enzimático sin elevar la frecuencia cardíaca ni crear dependencia."
+    },
+    "6caf5ef4": {
+      "src": "High in acetic acid — appetite regulation and digestive support",
+      "t": "Rico en ácido acético: regulación del apetito y apoyo digestivo"
+    },
+    "b0ff7854": {
+      "src": "High in lignans and healthy fats. Hormonal balance, inflammation reduction, cardiovascular support.",
+      "t": "Ricas en lignanos y grasas saludables. Equilibrio hormonal, reducción de la inflamación, apoyo cardiovascular."
+    },
+    "5a2683af": {
+      "src": "High in monounsaturated fats, vitamin E, and lutein. Skin, eye, and heart health.",
+      "t": "Rico en grasas monoinsaturadas, vitamina E y luteína. Salud de la piel, los ojos y el corazón."
+    },
+    "7aee1d6b": {
+      "src": "Hydroxycitric acid (HCA) derived from Jamaican bitter orange",
+      "t": "El ácido hidroxicítrico (HCA) obtenido de la naranja agria jamaicana"
+    },
+    "785930a3": {
+      "src": "In medicine, health, fitness, natural beauty, and weight loss, it is more than just a number on the scale. It involves a complex process of losing excess fluids, fat, or even muscle mass —",
+      "t": "En medicina, salud, fitness, belleza natural y pérdida de peso, es más que un número en la báscula. Implica un proceso complejo de pérdida de líquidos, grasa o incluso masa muscular en exceso,"
+    },
+    "dedd3117": {
+      "src": "Indigenous & Plant-Based",
+      "t": "Indígena y basado en plantas"
+    },
+    "f8a7f70a": {
+      "src": "Indigenous at its core.",
+      "t": "Indígena en su esencia."
+    },
+    "35bf963d": {
+      "src": "It encourages a break from old habits and the adoption of healthier routines that",
+      "t": "Anima a romper con los viejos hábitos y a adoptar rutinas más saludables que"
+    },
+    "4bb8218d": {
+      "src": "Jamaican Bitter Orange",
+      "t": "Naranja agria jamaicana"
+    },
+    "28c1c12c": {
+      "src": "Jamaican foods",
+      "t": "Alimentos jamaicanos"
+    },
+    "1838cf95": {
+      "src": "Jamaica’s Culinary Heritage",
+      "t": "La herencia culinaria de Jamaica"
+    },
+    "32379638": {
+      "src": "Jamaica’s cuisine is lively and authentic, featuring dishes that celebrate the island’s rich culinary Rasta traditions. These traditions align with the Kwik Fat Cut approach — supporting weight management, encouraging natural skin beauty, and fostering long-term healthy eating habits.",
+      "t": "La cocina de Jamaica es vibrante y auténtica, con platos que celebran las ricas tradiciones culinarias rasta de la isla. Estas tradiciones coinciden con el enfoque de Kwik Fat Cut: apoyan el control del peso, favorecen la belleza natural de la piel y fomentan hábitos de alimentación saludable a largo plazo."
+    },
+    "03a2834b": {
+      "src": "Join Jamaica’s journey",
+      "t": "Únete al camino de Jamaica"
+    },
+    "b6244ac8": {
+      "src": "Kwik Fat Cut Opian Meals is a",
+      "t": "Kwik Fat Cut Opian Meals es una"
+    },
+    "d007d751": {
+      "src": "Kwik Fat Cut Opian Meals.",
+      "t": "Kwik Fat Cut Opian Meals."
+    },
+    "3684378b": {
+      "src": "Kwik Fat Cut employs a scientific, evidence-based method focused on",
+      "t": "Kwik Fat Cut emplea un método científico y basado en la evidencia, centrado en"
+    },
+    "912d4903": {
+      "src": "Kwik Fat Cut is here to help you get there.",
+      "t": "Kwik Fat Cut está aquí para ayudarte a llegar."
+    },
+    "2fc92c0a": {
+      "src": "Kwik Fat Cut — Education First — Start Free. Understand First.",
+      "t": "Kwik Fat Cut · La educación primero · Empieza gratis. Entiende primero."
+    },
+    "0de9d235": {
+      "src": "Kwik Fat Cut — Opian Meals.",
+      "t": "Kwik Fat Cut · Opian Meals."
+    },
+    "85d7b7f2": {
+      "src": "Kwik Fat Cut — The Fat Antidote",
+      "t": "Kwik Fat Cut, Kwik Fat Cut, el antídoto contra la grasa"
+    },
+    "2fdd74ca": {
+      "src": "More deep reads on ancestral ingredients, Jamaican foods, and natural health.",
+      "t": "Más lecturas profundas sobre ingredientes ancestrales, alimentos jamaicanos y salud natural."
+    },
+    "ff822530": {
+      "src": "Natural. Indigenous. Complete.",
+      "t": "Natural. Indígena. Completo."
+    },
+    "2b415376": {
+      "src": "Nourishing roots.",
+      "t": "Raíces que nutren."
+    },
+    "5e91cd36": {
+      "src": "Opian Meals",
+      "t": "Opian Meals"
+    },
+    "31c38e84": {
+      "src": "Opian Meals & Nutrition",
+      "t": "Opian Meals y nutrición"
+    },
+    "3921fbe3": {
+      "src": "Opian Meals — Kwik Fat Cut",
+      "t": "Opian Meals · Kwik Fat Cut"
+    },
+    "38240668": {
+      "src": "Organic ingredients that form the backbone of the Kwik Fat Cut approach include:",
+      "t": "Entre los ingredientes orgánicos que forman la base del enfoque de Kwik Fat Cut están:"
+    },
+    "bf56cc67": {
+      "src": "Rich in antioxidants, vitamins C and K, and compounds that support kidney function and metabolism.",
+      "t": "Rico en antioxidantes, vitaminas C y K, y compuestos que apoyan la función renal y el metabolismo."
+    },
+    "62ab9799": {
+      "src": "Rich in catechins including EGCG — epigallocatechin gallate",
+      "t": "Rico en catequinas, incluida la EGCG (galato de epigalocatequina)"
+    },
+    "28f2ae22": {
+      "src": "Rich in omega-3 fatty acids and fibre. Supports satiety, gut health, and sustained energy.",
+      "t": "Ricas en ácidos grasos omega-3 y fibra. Favorecen la saciedad, la salud intestinal y una energía sostenida."
+    },
+    "8abba276": {
+      "src": "Rooted in indigenous wisdom. Validated by science. Built for everyone.",
+      "t": "Con raíces en la sabiduría indígena. Validado por la ciencia. Hecho para todos."
+    },
+    "142c3142": {
+      "src": "Scientifically supported.",
+      "t": "Respaldado por la ciencia."
+    },
+    "3ee377ea": {
+      "src": "Studies have demonstrated acetic acid's role in improving insulin sensitivity, reducing post-meal blood glucose spikes, and supporting healthy gut pH — all of which contribute to more effective weight management.",
+      "t": "Los estudios han demostrado el papel del ácido acético en la mejora de la sensibilidad a la insulina, la reducción de los picos de glucosa después de comer y el mantenimiento de un pH intestinal saludable, todo lo cual contribuye a un control del peso más eficaz."
+    },
+    "bc6bc74b": {
+      "src": "Switching to healthier cooking oils provides nutritional benefits that extend well beyond the cooking process itself.",
+      "t": "Cambiar a aceites de cocina más saludables aporta beneficios nutricionales que van mucho más allá del propio proceso de cocción."
+    },
+    "653db80f": {
+      "src": "The Fat Antidote.",
+      "t": "El antídoto contra la grasa."
+    },
+    "db73551e": {
+      "src": "The Kwik Fat Cut Method",
+      "t": "El método Kwik Fat Cut"
+    },
+    "914b6667": {
+      "src": "The Kwik Fat Cut approach",
+      "t": "El enfoque de Kwik Fat Cut"
+    },
+    "98ee24b9": {
+      "src": "The Kwik Fat Cut diet emphasises",
+      "t": "La dieta de Kwik Fat Cut da prioridad a"
+    },
+    "edc2b334": {
+      "src": "The Science Behind the Roots",
+      "t": "La ciencia detrás de las raíces"
+    },
+    "5a069269": {
+      "src": "The Whole Picture",
+      "t": "El panorama completo"
+    },
+    "5556579b": {
+      "src": "The key ingredients",
+      "t": "Los ingredientes clave"
+    },
+    "14e35aa1": {
+      "src": "The product includes scientifically supported natural ingredients, each chosen for its documented role in supporting metabolism, fat reduction, and skin health. Every component has been analysed in the lab and validated through peer-reviewed research — and every component has roots in indigenous food traditions.",
+      "t": "El producto incluye ingredientes naturales respaldados por la ciencia, cada uno elegido por su papel documentado en el apoyo al metabolismo, la reducción de grasa y la salud de la piel. Cada componente ha sido analizado en laboratorio y validado mediante investigaciones revisadas por pares, y cada componente tiene raíces en las tradiciones alimentarias indígenas."
+    },
+    "d01fb31a": {
+      "src": "The rest is",
+      "t": "El resto está"
+    },
+    "cc2722c0": {
+      "src": "These ingredients have undergone clinical testing to confirm their safety and effectiveness across all age groups, including children, adults, and seniors. Each component supports skin health by addressing",
+      "t": "Estos ingredientes se han sometido a pruebas clínicas para confirmar su seguridad y eficacia en todos los grupos de edad, incluidos niños, adultos y personas mayores. Cada componente apoya la salud de la piel al atender"
+    },
+    "d7d2430b": {
+      "src": "This journey can greatly enhance well-being by improving metabolic health, increasing energy, and",
+      "t": "Este camino puede mejorar mucho el bienestar al mejorar la salud metabólica, aumentar la energía y"
+    },
+    "df8d4f3b": {
+      "src": "True confidence",
+      "t": "La verdadera confianza"
+    },
+    "31b41e6c": {
+      "src": "True confidence stems from a holistic sense of well-being that includes",
+      "t": "La verdadera confianza nace de una sensación integral de bienestar que incluye"
+    },
+    "ecf6c6a0": {
+      "src": "What It Is",
+      "t": "Qué es"
+    },
+    "3ab00a3e": {
+      "src": "What Opian Meals is",
+      "t": "Qué es Opian Meals"
+    },
+    "32986c10": {
+      "src": "What you cook",
+      "t": "Importa con qué"
+    },
+    "0c11a712": {
+      "src": "With the Enhanced Kwik Fat Cut — the ultimate Fat Antidote — burn fat, release the old, and welcome the new you.",
+      "t": "Con el Kwik Fat Cut mejorado, el antídoto definitivo contra la grasa, quema grasa, suelta lo viejo y da la bienvenida al nuevo tú."
+    },
+    "5b3c2ec0": {
+      "src": "With the new you, Kwik Fat Cut Opian Meals is your ultimate partner in transforming your body and boosting confidence — rooted in natural, indigenous ingredients. Not a quick fix. A complete education in what your body was always designed to receive.",
+      "t": "Con el nuevo tú, Kwik Fat Cut Opian Meals es tu mejor aliado para transformar tu cuerpo y aumentar tu confianza, con raíces en ingredientes naturales e indígenas. No es una solución rápida. Es una educación completa sobre lo que tu cuerpo siempre estuvo diseñado para recibir."
+    },
+    "8a7c1382": {
+      "src": "Your health is your most valuable asset.",
+      "t": "Tu salud es tu activo más valioso."
+    },
+    "3480b72f": {
+      "src": "accelerate fat loss while enhancing skin vitality",
+      "t": "aceleran la pérdida de grasa y mejoran la vitalidad de la piel"
+    },
+    "2ea63039": {
+      "src": "acetic acid",
+      "t": "ácido acético"
+    },
+    "98638634": {
+      "src": "bewildered.",
+      "t": "desconcertado."
+    },
+    "16de4dc0": {
+      "src": "boosting self-esteem",
+      "t": "reforzar la autoestima"
+    },
+    "6b41c5bb": {
+      "src": "changing overall body composition",
+      "t": "que cambia la composición corporal general"
+    },
+    "9aadcfcd": {
+      "src": "complete solution for fat reduction and beauty enhancement",
+      "t": "solución completa para reducir grasa y realzar la belleza"
+    },
+    "4f2b8dbe": {
+      "src": "contains medium-chain triglycerides (MCTs), which boost metabolism, support weight management, and promote healthier skin and hair due to antioxidants.",
+      "t": "contiene triglicéridos de cadena media (MCT), que activan el metabolismo, apoyan el control del peso y favorecen una piel y un cabello más sanos gracias a sus antioxidantes."
+    },
+    "7f259c84": {
+      "src": "epigallocatechin gallate (EGCG)",
+      "t": "el galato de epigalocatequina (EGCG)"
+    },
+    "82b152b2": {
+      "src": "holistic.",
+      "t": "integral."
+    },
+    "5c6c08b6": {
+      "src": "hydration, elasticity, and barrier function",
+      "t": "la hidratación, la elasticidad y la función de barrera"
+    },
+    "3e1a1ef1": {
+      "src": "indigenous, whole, plant-based foods",
+      "t": "alimentos indígenas, integrales y basados en plantas"
+    },
+    "8bc16aa1": {
+      "src": "inhibits citrate lyase",
+      "t": "inhibe la citrato liasa"
+    },
+    "4e388f15": {
+      "src": "is",
+      "t": "es"
+    },
+    "7afd186a": {
+      "src": "parrotfish, Red Snapper, goatfish, and Welshman",
+      "t": "el pez loro, el pargo rojo, el salmonete y el welshman"
+    },
+    "031c384e": {
+      "src": "physical health, mental resilience, and emotional stability",
+      "t": "la salud física, la resiliencia mental y la estabilidad emocional"
+    },
+    "456cbf20": {
+      "src": "physical health, mental resilience, and emotional stability.",
+      "t": "la salud física, la resiliencia mental y la estabilidad emocional."
+    },
+    "06136db8": {
+      "src": "progress.",
+      "t": "progreso."
+    },
+    "dee69e3a": {
+      "src": "supports heart health, helps regulate blood sugar, and maintains proper hydration — rich in vitamin C, potassium, and electrolytes essential for water balance and muscle function.",
+      "t": "favorece la salud del corazón, ayuda a regular el azúcar en sangre y mantiene una hidratación adecuada, gracias a su riqueza en vitamina C, potasio y electrolitos esenciales para el equilibrio de líquidos y la función muscular."
+    },
+    "6f73095e": {
+      "src": "tailored to each demographic.",
+      "t": "según las necesidades de cada grupo."
+    },
+    "ac078621": {
+      "src": "to promote fat reduction and improve nutrition naturally. This is not a supplement that replaces food. It works with food — specifically the ancestral foods that have always supported the body best.",
+      "t": ", para favorecer la reducción de grasa y mejorar la nutrición de forma natural. No es un suplemento que sustituya a la comida. Funciona con la comida, en concreto con los alimentos ancestrales que siempre han sido los que mejor apoyan al cuerpo."
+    },
+    "f728828e": {
+      "src": "toward",
+      "t": "hacia el"
+    },
+    "e250abaa": {
+      "src": "whole grains such as wild oats and brown rice",
+      "t": "los cereales integrales, como la avena silvestre y el arroz integral"
+    },
+    "31e3f897": {
+      "src": "with matters.",
+      "t": "cocinas."
+    },
+    "ec9ad26f": {
+      "src": "— all rich in omega-3 fatty acids that support heart and brain health.",
+      "t": ", todos ricos en ácidos grasos omega-3 que apoyan la salud del corazón y del cerebro."
+    },
+    "3b2226e2": {
+      "src": "— leaving you feeling refreshed, confident, and fully yourself.",
+      "t": ", para que te sientas renovado, seguro y plenamente tú."
+    },
+    "e9e83c3d": {
+      "src": "— one of the most studied natural thermogenic compounds known to science. It boosts thermogenesis: the process by which the body generates heat, leading to a sustained increase in metabolism and calorie burn even at rest.",
+      "t": ", uno de los compuestos termogénicos naturales más estudiados por la ciencia. Estimula la termogénesis, el proceso por el cual el cuerpo genera calor, lo que produce un aumento sostenido del metabolismo y del gasto calórico incluso en reposo."
+    },
+    "48156423": {
+      "src": "— the enzyme responsible for converting excess carbohydrates into stored fat. By blocking this conversion pathway, HCA helps reduce fat accumulation at the metabolic level, not just through calorie restriction.",
+      "t": ", la enzima responsable de convertir el exceso de carbohidratos en grasa almacenada. Al bloquear esta vía de conversión, el HCA ayuda a reducir la acumulación de grasa a nivel metabólico, no solo mediante la restricción de calorías."
+    },
+    "5e97fd02": {
+      "src": "“True confidence stems from a holistic sense of well-being that includes",
+      "t": "“La verdadera confianza nace de una sensación integral de bienestar que incluye"
+    },
+    "c716b6b3": {
+      "src": "“You’re the best version of yourself — constantly evolving, improving, and striving toward your full potential.",
+      "t": "“Eres la mejor versión de ti mismo: en constante evolución, mejorando y avanzando hacia todo tu potencial."
+    },
+    "f30831b6": {
+      "src": "🇯🇲",
+      "t": "🇯🇲"
+    },
+    "42f290e1": {
+      "src": "🌱 Chia Seeds",
+      "t": "🌱 Semillas de chía"
+    },
+    "76fc5cac": {
+      "src": "🌾 Flaxseeds",
+      "t": "🌾 Semillas de linaza"
+    },
+    "95e192cb": {
+      "src": "🌿 Basil",
+      "t": "🌿 Albahaca"
+    },
+    "15263697": {
+      "src": "🌿 Oregano",
+      "t": "🌿 Orégano"
+    },
+    "93a422ea": {
+      "src": "🌿 Parsley",
+      "t": "🌿 Perejil"
+    },
+    "a72f11a3": {
+      "src": "🍊",
+      "t": "🍊"
+    },
+    "ab2f17ef": {
+      "src": "🍎",
+      "t": "🍎"
+    },
+    "842eda8a": {
+      "src": "🍵",
+      "t": "🍵"
+    },
+    "aa016ca1": {
+      "src": "🥑 Avocado Oil",
+      "t": "🥑 Aceite de aguacate"
+    }
+  }
+}

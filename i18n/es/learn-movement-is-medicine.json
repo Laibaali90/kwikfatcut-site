@@ -1,0 +1,703 @@
+{
+  "_note": "Page content for learn-movement-is-medicine.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "a70e7ba7": {
+      "src": "(University of Exeter, 2013). Natural performance enhancement.",
+      "t": "(University of Exeter, 2013). Un potenciador natural del rendimiento."
+    },
+    "305e128a": {
+      "src": "(University of Missouri, 2016). Standing or walking for two minutes every 30 minutes restores it fully.",
+      "t": "(University of Missouri, 2016). Ponerse de pie o caminar dos minutos cada 30 minutos lo restablece por completo."
+    },
+    "0fa83a54": {
+      "src": "1 in 4 adults globally",
+      "t": "1 de cada 4 adultos en el mundo"
+    },
+    "d74ce6d4": {
+      "src": "10yrs",
+      "t": "10 años"
+    },
+    "09ff3687": {
+      "src": "11 min",
+      "t": "11 min"
+    },
+    "9800fe68": {
+      "src": "150 minutes",
+      "t": "150 minutos"
+    },
+    "db2eaec2": {
+      "src": "200+",
+      "t": "Más de 200"
+    },
+    "1adb145f": {
+      "src": "25%",
+      "t": "25%"
+    },
+    "be52ee44": {
+      "src": "31%",
+      "t": "31%"
+    },
+    "9d2ff464": {
+      "src": "40%",
+      "t": "40%"
+    },
+    "2098915f": {
+      "src": "50%",
+      "t": "50%"
+    },
+    "221dea7f": {
+      "src": "90%.",
+      "t": "90%."
+    },
+    "b3198609": {
+      "src": "A 2017 study in the New England Journal of Medicine found dancing reduced dementia risk by 76% — the highest of any activity tested, physical or cognitive. It combines cardiovascular exercise, coordination, memory, social connection, and joy simultaneously.",
+      "t": "Un estudio de 2017 en el New England Journal of Medicine encontró que bailar reducía el riesgo de demencia en un 76%, la mayor reducción de todas las actividades analizadas, físicas o cognitivas. Combina a la vez ejercicio cardiovascular, coordinación, memoria, conexión social y alegría."
+    },
+    "37a8e9d2": {
+      "src": "A 30-minute daily walk reduces cardiovascular disease risk by 35%, reduces dementia risk by 40%, and improves insulin sensitivity by 25%.",
+      "t": "Una caminata diaria de 30 minutos reduce el riesgo de enfermedad cardiovascular en un 35%, reduce el riesgo de demencia en un 40% y mejora la sensibilidad a la insulina en un 25%."
+    },
+    "25db5dad": {
+      "src": "After age 30, adults lose 3-5% of muscle mass per decade without resistance training.",
+      "t": "A partir de los 30 años, los adultos pierden entre un 3 y un 5% de su masa muscular por década si no hacen entrenamiento de fuerza."
+    },
+    "a7184e7f": {
+      "src": "All articles free. No subscription. The knowledge tree keeps growing.",
+      "t": "Todos los artículos son gratis. Sin suscripción. El árbol del conocimiento sigue creciendo."
+    },
+    "daf076e6": {
+      "src": "Always has.",
+      "t": "Siempre lo ha hecho."
+    },
+    "ee9daa97": {
+      "src": "Ancestral Wisdom",
+      "t": "Sabiduría Ancestral"
+    },
+    "3bc0c410": {
+      "src": "Ancestral movement wisdom",
+      "t": "La sabiduría ancestral del movimiento"
+    },
+    "672a181b": {
+      "src": "And it is completely free.",
+      "t": "Y es completamente gratis."
+    },
+    "05812236": {
+      "src": "Anti-inflammatory recovery.",
+      "t": "Recuperación antiinflamatoria."
+    },
+    "4018d37e": {
+      "src": "BDNF — Brain-Derived Neurotrophic Factor",
+      "t": "BDNF (factor neurotrófico derivado del cerebro)"
+    },
+    "ab12791f": {
+      "src": "Blood flow to the prefrontal cortex — the seat of decision-making, emotional regulation, and creativity —",
+      "t": "El flujo de sangre a la corteza prefrontal, sede de la toma de decisiones, la regulación emocional y la creatividad,"
+    },
+    "3f71d9ee": {
+      "src": "Blood pools in the lower extremities. Venous return decreases. The heart works less efficiently. Over years of sedentary behaviour,",
+      "t": "La sangre se acumula en las extremidades inferiores. El retorno venoso disminuye. El corazón trabaja con menos eficiencia. Tras años de sedentarismo,"
+    },
+    "ba21d059": {
+      "src": "Brain perfusion decreases",
+      "t": "Disminuye el riego sanguíneo del cerebro"
+    },
+    "6e9592a9": {
+      "src": "Callaloo, kale, spinach convert to nitric oxide in the body —",
+      "t": "El callaloo, la col rizada y la espinaca se convierten en óxido nítrico en el cuerpo,"
+    },
+    "076eca04": {
+      "src": "Cardiovascular pressure changes",
+      "t": "Cambios en la presión cardiovascular"
+    },
+    "a54706e2": {
+      "src": "Complex carbohydrates for long, steady fuel release. Beta-carotene reducing exercise-induced oxidative stress. The athlete’s ancestral food.",
+      "t": "Carbohidratos complejos que liberan energía de forma larga y constante. Betacaroteno que reduce el estrés oxidativo provocado por el ejercicio. El alimento ancestral del atleta."
+    },
+    "51cba6d7": {
+      "src": "Conditions",
+      "t": "afecciones"
+    },
+    "3b9f1e88": {
+      "src": "Continue the series",
+      "t": "Continúa la serie"
+    },
+    "3658817a": {
+      "src": "Dance — the complete medicine",
+      "t": "El baile: la medicina completa"
+    },
+    "d549daf4": {
+      "src": "Deep Research",
+      "t": "Investigación profunda"
+    },
+    "81a75162": {
+      "src": "Difference",
+      "t": "de diferencia"
+    },
+    "51655e21": {
+      "src": "Embrace Healthy Living — 1 of 3",
+      "t": "Abraza la vida sana · 1 de 3"
+    },
+    "1df0a80b": {
+      "src": "Embrace Healthy Living — Part 1 of 3 — Physical",
+      "t": "Abraza la Vida Sana, Parte 1 de 3, Físico"
+    },
+    "567d95e7": {
+      "src": "Every single one of these structures exists, in its entirety, to facilitate movement.",
+      "t": "Cada una de estas estructuras existe, por completo, para hacer posible el movimiento."
+    },
+    "7c4c998d": {
+      "src": "Fascia — the connective tissue that wraps every muscle, organ, and nerve in the body — communicates throughout the entire physical structure.",
+      "t": "La fascia, el tejido conectivo que envuelve cada músculo, órgano y nervio del cuerpo, se comunica a través de toda la estructura física."
+    },
+    "68de3372": {
+      "src": "Gentle daily stretching releases fascial restriction and communicates safety to the nervous system. This is why stretching reduces anxiety — it signals the body to downregulate threat responses.",
+      "t": "Estirar suavemente cada día libera las restricciones de la fascia y le transmite seguridad al sistema nervioso. Por eso estirar reduce la ansiedad: le indica al cuerpo que baje sus respuestas de amenaza."
+    },
+    "39e91f11": {
+      "src": "How our ancestors",
+      "t": "Cómo se movían"
+    },
+    "1e845768": {
+      "src": "In Jamaica, before urban centres and sedentary work, daily life involved farming, fishing, walking long distances between communities, carrying provisions, building, cooking over open fires.",
+      "t": "En Jamaica, antes de los centros urbanos y del trabajo sedentario, la vida diaria incluía cultivar, pescar, caminar largas distancias entre comunidades, cargar víveres, construir y cocinar al fuego abierto."
+    },
+    "94068bee": {
+      "src": "In all-cause mortality with 150 minutes of moderate movement per week (WHO, 2020)",
+      "t": "en la mortalidad por todas las causas con 150 minutos de movimiento moderado a la semana (OMS, 2020)"
+    },
+    "a844e71f": {
+      "src": "In biological age between the most active and least active adults — measured by telomere length (BYU Study, 2017)",
+      "t": "en la edad biológica entre los adultos más activos y los menos activos, medida por la longitud de los telómeros (estudio de BYU, 2017)"
+    },
+    "f6ade750": {
+      "src": "In breast cancer risk associated with regular physical activity (American Cancer Society, multiple studies)",
+      "t": "en el riesgo de cáncer de mama asociado a la actividad física regular (American Cancer Society, varios estudios)"
+    },
+    "00771c79": {
+      "src": "In depression symptoms with 30 minutes of aerobic movement, 3 times per week (Duke University, 1999)",
+      "t": "en los síntomas de depresión con 30 minutos de movimiento aeróbico, 3 veces por semana (Duke University, 1999)"
+    },
+    "938377fa": {
+      "src": "In type 2 diabetes risk with regular walking — greater than metformin in some trials (NEJM, 2002)",
+      "t": "en el riesgo de diabetes tipo 2 caminando con regularidad, más que la metformina en algunos ensayos (NEJM, 2002)"
+    },
+    "c1d3cc48": {
+      "src": "It moves the lymphatic system, pumps cerebrospinal fluid, and stimulates the vagus nerve — the body’s primary rest-and-repair pathway. The simplest, most ancient, most documented medicine available.",
+      "t": "Mueve el sistema linfático, bombea el líquido cefalorraquídeo y estimula el nervio vago, la principal vía de descanso y reparación del cuerpo. La medicina más sencilla, más antigua y más documentada que existe."
+    },
+    "f0db702e": {
+      "src": "Jamaica is 4,244 square miles. It has produced more world-class sprinters per capita than any nation on earth. Usain Bolt. Shelly-Ann Fraser-Pryce. Merlene Ottey. Asafa Powell.",
+      "t": "Jamaica tiene 4.244 millas cuadradas. Ha producido más velocistas de talla mundial por habitante que cualquier otra nación del planeta. Usain Bolt. Shelly-Ann Fraser-Pryce. Merlene Ottey. Asafa Powell."
+    },
+    "092b9a73": {
+      "src": "Jamaica moves",
+      "t": "Jamaica se mueve"
+    },
+    "cca40067": {
+      "src": "Jamaica moves.",
+      "t": "Jamaica se mueve."
+    },
+    "9e1a54ce": {
+      "src": "Jamaica’s coastline is not just beautiful. It is medicinal.",
+      "t": "La costa de Jamaica no solo es hermosa. Es medicinal."
+    },
+    "489d85a2": {
+      "src": "Jamaica’s physical culture is medicine.",
+      "t": "La cultura física de Jamaica es medicina."
+    },
+    "7cbc89cd": {
+      "src": "Joy is medicine.",
+      "t": "La alegría es medicina."
+    },
+    "1db531b2": {
+      "src": "Leg muscles go electrically silent during sitting. Without muscular contraction,",
+      "t": "Los músculos de las piernas quedan eléctricamente en silencio al estar sentado. Sin contracción muscular,"
+    },
+    "eb1e80db": {
+      "src": "Lipoprotein lipase shuts down",
+      "t": "La lipoproteína lipasa se apaga"
+    },
+    "4f30ae4f": {
+      "src": "Monounsaturated fats reduce exercise-induced inflammation. Magnesium supports over 300 muscle and nerve functions. Potassium restores electrolytes.",
+      "t": "Las grasas monoinsaturadas reducen la inflamación provocada por el ejercicio. El magnesio apoya más de 300 funciones musculares y nerviosas. El potasio repone los electrolitos."
+    },
+    "96e422e4": {
+      "src": "Move with understanding.",
+      "t": "Muévete con comprensión."
+    },
+    "e27f8f78": {
+      "src": "Movement",
+      "t": "El movimiento"
+    },
+    "4e7c5df0": {
+      "src": "Movement Is Medicine",
+      "t": "El movimiento es medicina"
+    },
+    "4b0b678a": {
+      "src": "Movement Is Medicine — Physical Health — Kwik Fat Cut",
+      "t": "El movimiento es medicina: salud física · Kwik Fat Cut"
+    },
+    "15aa65b5": {
+      "src": "Movement is not simply burning calories. That understanding is too shallow and has done enormous damage — reducing exercise to a punishment for eating, rather than understanding it as a fundamental biological need. Here is what movement actually does at the physiological level.",
+      "t": "El movimiento no es simplemente quemar calorías. Esa idea es demasiado superficial y ha hecho un daño enorme: ha convertido el ejercicio en un castigo por comer, en lugar de entenderlo como una necesidad biológica fundamental. Esto es lo que el movimiento hace realmente a nivel fisiológico."
+    },
+    "be40cb2b": {
+      "src": "Movement is only as effective as the fuel that powers it. Whole plant foods provide everything the active body needs — without the inflammatory burden of processed foods or the saturated fat load that slows recovery after physical activity.",
+      "t": "El movimiento solo es tan eficaz como el combustible que lo impulsa. Los alimentos vegetales integrales aportan todo lo que necesita un cuerpo activo, sin la carga inflamatoria de los alimentos procesados ni el exceso de grasas saturadas que frena la recuperación después de la actividad física."
+    },
+    "6ee277a8": {
+      "src": "Movement triggers the release of",
+      "t": "El movimiento provoca la liberación del"
+    },
+    "dc0fe952": {
+      "src": "Muscle electrical activity falls to zero",
+      "t": "La actividad eléctrica de los músculos cae a cero"
+    },
+    "a576d664": {
+      "src": "Muscle mass is the primary metabolic organ of the body. It determines how efficiently glucose is managed, how well the body maintains temperature, and how robustly it responds to illness.",
+      "t": "La masa muscular es el principal órgano metabólico del cuerpo. Determina con qué eficacia se gestiona la glucosa, qué tan bien mantiene el cuerpo su temperatura y con qué fuerza responde a la enfermedad."
+    },
+    "292f3714": {
+      "src": "Natural electrolyte replacement.",
+      "t": "Reposición natural de electrolitos."
+    },
+    "a67689d0": {
+      "src": "Natural sugars for immediate energy. Potassium to prevent muscle cramps. Vitamin B6 supporting neuromuscular coordination. The original sports food.",
+      "t": "Azúcares naturales para energía inmediata. Potasio para prevenir los calambres. Vitamina B6, que apoya la coordinación neuromuscular. El alimento deportivo original."
+    },
+    "7223a024": {
+      "src": "Nitrate conversion.",
+      "t": "Conversión de nitratos."
+    },
+    "3296059e": {
+      "src": "Not all movement is the same medicine. Each type addresses different systems of the body. The ideal practice combines them — not as rigid programming, but as intuitive responsiveness to what the body is asking for.",
+      "t": "No todo el movimiento es la misma medicina. Cada tipo actúa sobre sistemas distintos del cuerpo. La práctica ideal los combina, no como una programación rígida, sino como una respuesta intuitiva a lo que el cuerpo pide."
+    },
+    "90c59bf5": {
+      "src": "Not repetitive gym movement — diverse, functional, whole-body movement embedded in the acts of survival and community.",
+      "t": "No el movimiento repetitivo del gimnasio, sino un movimiento diverso, funcional y de todo el cuerpo, integrado en los actos de supervivencia y de comunidad."
+    },
+    "20de3d88": {
+      "src": "Part 1 — Movement Is Medicine (Physical)",
+      "t": "Parte 1 · El movimiento es medicina (física)"
+    },
+    "9841c8dc": {
+      "src": "Part 1 — Physical",
+      "t": "Parte 1 · Física"
+    },
+    "02166847": {
+      "src": "Part 2 — Mental",
+      "t": "Parte 2 · Mental"
+    },
+    "60b4ea0b": {
+      "src": "Part 2 — Stillness Is Medicine (Mental Health)",
+      "t": "Parte 2 · La quietud es medicina (salud mental)"
+    },
+    "52083965": {
+      "src": "Part 2 — Stillness Is Medicine (Mental)",
+      "t": "Parte 2 · La quietud es medicina (mental)"
+    },
+    "1689173b": {
+      "src": "Part 3 — Spirit Is the Root (Spiritual)",
+      "t": "Parte 3 · El espíritu es la raíz (espiritual)"
+    },
+    "ba1f4044": {
+      "src": "Part 3 — Spiritual",
+      "t": "Parte 3 · Espiritual"
+    },
+    "45e13a8d": {
+      "src": "Plant Fuels for Movement",
+      "t": "Combustible vegetal para el movimiento"
+    },
+    "e0437fd5": {
+      "src": "Plant foods that fuel movement",
+      "t": "Alimentos vegetales que impulsan el movimiento"
+    },
+    "a7b09beb": {
+      "src": "Potassium, sodium, magnesium in natural ratios. Studies show it as effective as commercial sports drinks for post-exercise rehydration — without artificial additives.",
+      "t": "Potasio, sodio y magnesio en proporciones naturales. Los estudios muestran que es tan eficaz como las bebidas deportivas comerciales para rehidratarse después del ejercicio, sin aditivos artificiales."
+    },
+    "39575e1a": {
+      "src": "Pre-movement fuel.",
+      "t": "Combustible antes de moverte."
+    },
+    "aec4fce6": {
+      "src": "Preserved in its athletes, in its farmers, in its coast-swimmers, in its dancers. Kwik Fat Cut exists to document that medicine and make it accessible to everyone who carries those roots, wherever in the world they now live.",
+      "t": "Se conserva en sus atletas, en sus agricultores, en quienes nadan en su costa, en sus bailarines. Kwik Fat Cut existe para documentar esa medicina y ponerla al alcance de todos los que llevan esas raíces, vivan donde vivan hoy."
+    },
+    "94e51642": {
+      "src": "Read Part 2 →",
+      "t": "Lee la Parte 2 →"
+    },
+    "241f16a5": {
+      "src": "Recovery protein.",
+      "t": "Proteína para la recuperación."
+    },
+    "67e7618a": {
+      "src": "Red peas, gungo peas, lentils — plant protein for muscle repair without the inflammation that animal protein can trigger. Paired with rice for complete amino acids.",
+      "t": "Frijoles rojos, gandules, lentejas: proteína vegetal para reparar el músculo sin la inflamación que puede provocar la proteína animal. Combinadas con arroz, dan aminoácidos completos."
+    },
+    "941d9ab2": {
+      "src": "Reduction",
+      "t": "Reducción"
+    },
+    "3e80de6d": {
+      "src": "Reggae. Dancehall. Kumina. Mento. Jamaica has always known that",
+      "t": "Reggae. Dancehall. Kumina. Mento. Jamaica siempre ha sabido que"
+    },
+    "c0462fb2": {
+      "src": "Resistance and strength — the longevity medicine",
+      "t": "Resistencia y fuerza: la medicina de la longevidad"
+    },
+    "239e84d6": {
+      "src": "Sardinian shepherds walk 8 miles daily tending flocks. Okinawan elders sit on the floor throughout the day, rising and lowering dozens of times — one of the single greatest predictors of longevity discovered in the famous sitting-rising test.",
+      "t": "Los pastores de Cerdeña caminan 8 millas (unos 13 km) al día cuidando sus rebaños. Los ancianos de Okinawa se sientan en el suelo a lo largo del día y se levantan y se agachan decenas de veces, uno de los mayores predictores de longevidad que se hayan descubierto, según la famosa prueba de sentarse y levantarse."
+    },
+    "78f67b7d": {
+      "src": "Sedentary behaviour — not merely the absence of exercise, but prolonged sitting — has been classified by leading researchers as an independent risk factor for mortality. The landmark Annals of Internal Medicine study (2017) found that",
+      "t": "El sedentarismo (no solo la falta de ejercicio, sino pasar mucho tiempo sentado) ha sido clasificado por investigadores de referencia como un factor de riesgo de mortalidad independiente. El estudio de referencia de Annals of Internal Medicine (2017) encontró que"
+    },
+    "159c3950": {
+      "src": "Smile for Me Jamaica",
+      "t": "Sonríe para mí, Jamaica"
+    },
+    "51ecefae": {
+      "src": "Smile for me, Jamaica. The body was not designed to sit still. Every step is a dose. Every stretch is a prescription. Every breath drawn during movement is the body reminding itself that it is alive — and capable of far more than we ask of it.",
+      "t": "Sonríe para mí, Jamaica. El cuerpo no fue diseñado para quedarse quieto. Cada paso es una dosis. Cada estiramiento es una receta. Cada respiración durante el movimiento es el cuerpo recordándose que está vivo, y que es capaz de mucho más de lo que le pedimos."
+    },
+    "ece3aaf7": {
+      "src": "Start free.",
+      "t": "Empieza gratis."
+    },
+    "5cd92d75": {
+      "src": "Stretching and flexibility — the communication medicine",
+      "t": "Estiramientos y flexibilidad: la medicina de la comunicación"
+    },
+    "96331b1d": {
+      "src": "Sustained energy.",
+      "t": "Energía sostenida."
+    },
+    "95722db4": {
+      "src": "Swimming and water movement — the joint medicine",
+      "t": "Natación y movimiento en el agua: la medicina de las articulaciones"
+    },
+    "d302eed9": {
+      "src": "That regular movement has been shown to prevent or improve — including heart disease, arthritis, anxiety, and dementia",
+      "t": "que el movimiento regular ha demostrado prevenir o mejorar, entre ellas las enfermedades cardíacas, la artritis, la ansiedad y la demencia"
+    },
+    "c70b4ce9": {
+      "src": "The Architecture of the Body",
+      "t": "La arquitectura del cuerpo"
+    },
+    "3c43e5b2": {
+      "src": "The Blue Zones — the five regions of the world with the highest concentrations of centenarians — all share one movement characteristic:",
+      "t": "Las Zonas Azules, las cinco regiones del mundo con mayor concentración de centenarios, comparten un rasgo de movimiento:"
+    },
+    "6e5b9705": {
+      "src": "The Crisis",
+      "t": "La crisis"
+    },
+    "22e1462c": {
+      "src": "The Medicine Cabinet",
+      "t": "El botiquín"
+    },
+    "4aa09129": {
+      "src": "The Physiology",
+      "t": "La fisiología"
+    },
+    "c4f0bcf6": {
+      "src": "The Rastafarian and Ital tradition understands this instinctively. Work the land. Walk the hills. Engage the body in the rhythms of natural life. Movement was never separate from existence —",
+      "t": "La tradición rastafari e Ital lo entiende por instinto. Trabajar la tierra. Caminar las colinas. Poner el cuerpo en los ritmos de la vida natural. El movimiento nunca estuvo separado de la existencia:"
+    },
+    "3bd63b39": {
+      "src": "The body designed to move",
+      "t": "El cuerpo diseñado para moverse"
+    },
+    "6ea8dd59": {
+      "src": "The body moves because it is alive. The body heals because it moves. Smile for me, Jamaica — and then go outside.",
+      "t": "El cuerpo se mueve porque está vivo. El cuerpo sana porque se mueve. Sonríe para mí, Jamaica, y luego sal a la calle."
+    },
+    "bfab206d": {
+      "src": "The body was",
+      "t": "El cuerpo fue"
+    },
+    "ef64a669": {
+      "src": "The body was in constant, varied, purposeful movement.",
+      "t": "El cuerpo estaba en movimiento constante, variado y con propósito."
+    },
+    "b230a1ad": {
+      "src": "The distinction matters enormously.",
+      "t": "La diferencia importa muchísimo."
+    },
+    "9af01751": {
+      "src": "The heart is a muscle. The lungs expand and contract with every breath. The lymphatic system — the body's waste removal network — has no pump. It moves only when the body moves.",
+      "t": "El corazón es un músculo. Los pulmones se expanden y se contraen con cada respiración. El sistema linfático, la red de eliminación de desechos del cuerpo, no tiene bomba. Solo se mueve cuando el cuerpo se mueve."
+    },
+    "ea8894e6": {
+      "src": "The hills of St. Andrew — Honey Ras’s parish — are not gentle. They demand physical engagement. The market women who carry baskets on their heads develop core strength, posture, and balance that physiotherapists spend careers trying to teach. The farmers who work the land in St. Elizabeth develop cardiovascular fitness through purposeful, joyful, connected labour.",
+      "t": "Las colinas de St. Andrew, la parroquia de Honey Ras, no son suaves. Exigen esfuerzo físico. Las vendedoras del mercado que cargan cestas en la cabeza desarrollan una fuerza del tronco, una postura y un equilibrio que los fisioterapeutas pasan carreras enteras intentando enseñar. Los agricultores que trabajan la tierra en St. Elizabeth desarrollan su forma cardiovascular con un trabajo con propósito, alegre y conectado."
+    },
+    "819ff0c3": {
+      "src": "The human body was shaped by 2.5 million years of walking, running, climbing, lifting, swimming, and dancing. The Hadza people of Tanzania — one of the last remaining hunter-gatherer societies — walk an average of 11 kilometres per day. Archaeological studies of pre-agricultural skeletons show bone density and joint health dramatically superior to modern humans.",
+      "t": "El cuerpo humano se formó a lo largo de 2,5 millones de años de caminar, correr, trepar, cargar, nadar y bailar. Los hadza de Tanzania, una de las últimas sociedades de cazadores y recolectores, caminan una media de 11 kilómetros al día. Los estudios arqueológicos de esqueletos anteriores a la agricultura muestran una densidad ósea y una salud articular muy superiores a las de los humanos modernos."
+    },
+    "08d9911a": {
+      "src": "The human skeleton contains 206 bones, 360 joints, and over 600 skeletal muscles.",
+      "t": "El esqueleto humano tiene 206 huesos, 360 articulaciones y más de 600 músculos esqueléticos."
+    },
+    "2e1908f5": {
+      "src": "The indigenous and ancestral communities that maintained the best health outcomes across history did not “exercise.” They",
+      "t": "Las comunidades indígenas y ancestrales que tuvieron la mejor salud a lo largo de la historia no “hacían ejercicio”. Ellas"
+    },
+    "3cfa33b2": {
+      "src": "The sedentary crisis",
+      "t": "La crisis del sedentarismo"
+    },
+    "42b7931a": {
+      "src": "This Series",
+      "t": "Esta serie"
+    },
+    "42a58e07": {
+      "src": "This is not accident. This is culture, food, environment, and the living tradition of a people who have always understood that the body in motion is the body in health.",
+      "t": "No es casualidad. Es cultura, comida, entorno y la tradición viva de un pueblo que siempre ha entendido que el cuerpo en movimiento es el cuerpo con salud."
+    },
+    "48d04ba6": {
+      "src": "This is not inevitable — it is a choice. Resistance training twice per week is sufficient to reverse it entirely.",
+      "t": "No es inevitable: es una elección. Entrenar la fuerza dos veces por semana basta para revertirlo por completo."
+    },
+    "08bbfb7a": {
+      "src": "Tight, inflexible fascia compresses nerves, restricts blood flow, and generates pain signals.",
+      "t": "Una fascia tensa y rígida comprime los nervios, limita el flujo sanguíneo y genera señales de dolor."
+    },
+    "cc5033cf": {
+      "src": "Triglycerides accumulate in the bloodstream. This is not about fitness — it is about the body’s moment-to-moment metabolic management switching off.",
+      "t": "Los triglicéridos se acumulan en la sangre. No es una cuestión de forma física: es que la gestión metabólica del cuerpo, momento a momento, se apaga."
+    },
+    "c39c0f50": {
+      "src": "Types of movement",
+      "t": "Tipos de movimiento"
+    },
+    "269d7740": {
+      "src": "Types of movement as medicine",
+      "t": "Tipos de movimiento como medicina"
+    },
+    "82201479": {
+      "src": "Walking is the movement the human body is most precisely designed for.",
+      "t": "Caminar es el movimiento para el que el cuerpo humano está diseñado con más precisión."
+    },
+    "4284e8f3": {
+      "src": "Walking — the foundational medicine",
+      "t": "Caminar: la medicina fundamental"
+    },
+    "fe4ee218": {
+      "src": "Water movement provides full-body resistance without joint impact",
+      "t": "El movimiento en el agua da resistencia a todo el cuerpo sin impacto en las articulaciones"
+    },
+    "cb2973bd": {
+      "src": "We did not evolve for chairs.",
+      "t": "No evolucionamos para las sillas."
+    },
+    "ee392b57": {
+      "src": "What happens physiologically during prolonged sitting:",
+      "t": "Lo que pasa en el cuerpo cuando pasas mucho tiempo sentado:"
+    },
+    "a711b770": {
+      "src": "What movement",
+      "t": "Lo que el movimiento"
+    },
+    "d2c4e8ba": {
+      "src": "What movement actually does",
+      "t": "Lo que realmente hace el movimiento"
+    },
+    "57427aae": {
+      "src": "What stillness",
+      "t": "Lo que hace la quietud"
+    },
+    "4df62ebd": {
+      "src": "What the body needs",
+      "t": "Lo que el cuerpo necesita"
+    },
+    "fa31bf2c": {
+      "src": "Within 60-90 minutes of sitting, the enzyme that processes blood fats drops by",
+      "t": "A los 60 a 90 minutos de estar sentado, la enzima que procesa las grasas de la sangre cae un"
+    },
+    "758d66d9": {
+      "src": "actually does.",
+      "t": "hace realmente."
+    },
+    "db89d25e": {
+      "src": "arterial stiffness increases measurably",
+      "t": "la rigidez arterial aumenta de forma medible"
+    },
+    "7b528d78": {
+      "src": "as specific medicines.",
+      "t": "como medicinas específicas."
+    },
+    "bf0afc88": {
+      "src": "dance is one of the most sophisticated physical medicines available.",
+      "t": "el baile es una de las medicinas físicas más sofisticadas que existen."
+    },
+    "c70d392c": {
+      "src": "decreases by approximately 20% during prolonged sitting",
+      "t": "disminuye aproximadamente un 20% al estar sentado mucho tiempo"
+    },
+    "5237a846": {
+      "src": "designed to move.",
+      "t": "diseñado para moverse."
+    },
+    "934c1860": {
+      "src": "do not reach this threshold. The medicine is free. The barrier is knowledge.",
+      "t": "no alcanza ese umbral. La medicina es gratis. La barrera es el conocimiento."
+    },
+    "6724f88f": {
+      "src": "even people who exercised regularly but sat for extended periods had significantly elevated mortality risk.",
+      "t": "incluso las personas que hacían ejercicio con regularidad pero pasaban mucho tiempo sentadas tenían un riesgo de mortalidad significativamente mayor."
+    },
+    "20b8bd3a": {
+      "src": "glucose cannot be efficiently transported into cells",
+      "t": "la glucosa no puede transportarse con eficacia a las células"
+    },
+    "7b1b6356": {
+      "src": "improving blood flow to muscles by up to 16%",
+      "t": "lo que mejora el flujo sanguíneo a los músculos hasta en un 16%"
+    },
+    "4e388f15": {
+      "src": "is",
+      "t": "es"
+    },
+    "10457959": {
+      "src": "it was existence.",
+      "t": "era la existencia."
+    },
+    "83499171": {
+      "src": "lived physically.",
+      "t": "vivían de forma física."
+    },
+    "0fdcca49": {
+      "src": "medicine.",
+      "t": "medicina."
+    },
+    "84277575": {
+      "src": "more sophisticated physical medicine",
+      "t": "una medicina física más sofisticada"
+    },
+    "e3f7df8a": {
+      "src": "moved — and why it worked.",
+      "t": "nuestros antepasados, y por qué funcionaba."
+    },
+    "864b1176": {
+      "src": "natural, embedded daily movement rather than structured exercise.",
+      "t": "un movimiento diario natural e integrado, en lugar de ejercicio estructurado."
+    },
+    "e86f3ace": {
+      "src": "of moderate movement per week reduces all-cause mortality by 31%. Yet the WHO estimates",
+      "t": "de movimiento moderado a la semana reducen la mortalidad por todas las causas en un 31%. Sin embargo, la OMS calcula que"
+    },
+    "10e4c7c9": {
+      "src": "of the wrong kind does.",
+      "t": "del tipo equivocado."
+    },
+    "5f2c96cd": {
+      "src": "than any gym programme. The body knows what it is doing.”",
+      "t": "que cualquier programa de gimnasio. El cuerpo sabe lo que hace.”"
+    },
+    "c768a5ad": {
+      "src": "the expression of the spirit. How you move it is how you honour what lives inside it.”",
+      "t": "la expresión del espíritu. Cómo lo mueves es cómo honras lo que vive dentro de él.”"
+    },
+    "3e554947": {
+      "src": "to move well.",
+      "t": "para moverse bien."
+    },
+    "fbf13864": {
+      "src": "— a precursor to hypertension and cardiovascular disease.",
+      "t": ", un paso previo a la hipertensión y a las enfermedades cardiovasculares."
+    },
+    "e63fd3b9": {
+      "src": "— a protein that promotes the growth and survival of neurons. It is sometimes called “Miracle-Gro for the brain.” Exercise is, in clinical terms, the most powerful neurological maintenance tool available to any human being, at any age, at any fitness level.",
+      "t": ", una proteína que favorece el crecimiento y la supervivencia de las neuronas. A veces se le llama “abono milagroso para el cerebro”. En términos clínicos, el ejercicio es la herramienta de mantenimiento neurológico más poderosa que existe para cualquier ser humano, a cualquier edad y con cualquier nivel de forma física."
+    },
+    "84df1d25": {
+      "src": "— blood sugar rises and insulin sensitivity falls, even in people who are not diabetic.",
+      "t": ": el azúcar en sangre sube y la sensibilidad a la insulina baja, incluso en personas que no son diabéticas."
+    },
+    "9a30439d": {
+      "src": "— making it the most accessible form of vigorous exercise for people with joint pain, arthritis, or injury. Salt water’s buoyancy and mineral content additionally support skin health and nervous system regulation through cold exposure and pressure.",
+      "t": ", lo que lo convierte en la forma de ejercicio intenso más accesible para personas con dolor articular, artritis o lesiones. La flotabilidad y el contenido mineral del agua salada favorecen además la salud de la piel y la regulación del sistema nervioso gracias a la exposición al frío y a la presión."
+    },
+    "39657652": {
+      "src": "“Movement is not exercise. Exercise is a modern word for something ancient.",
+      "t": "“El movimiento no es ejercicio. Ejercicio es una palabra moderna para algo antiguo."
+    },
+    "b7dd08d1": {
+      "src": "“The Jamaican farmer climbing a hillside with a basket of produce on their head demonstrates",
+      "t": "“El agricultor jamaicano que sube una ladera con una cesta de productos en la cabeza demuestra"
+    },
+    "c1763087": {
+      "src": "“The body is not a container for the spirit. The body",
+      "t": "“El cuerpo no es un recipiente para el espíritu. El cuerpo"
+    },
+    "ef80ca06": {
+      "src": "🍌 Banana",
+      "t": "🍌 Banana"
+    },
+    "6c857288": {
+      "src": "🍠 Sweet Potato",
+      "t": "🍠 Batata"
+    },
+    "272e4823": {
+      "src": "🏊",
+      "t": "🏊"
+    },
+    "4e2f6cf1": {
+      "src": "💃",
+      "t": "💃"
+    },
+    "252f2c66": {
+      "src": "💪",
+      "t": "💪"
+    },
+    "41327e7a": {
+      "src": "🚶",
+      "t": "🚶"
+    },
+    "8c0bef91": {
+      "src": "🥑 Avocado",
+      "t": "🥑 Aguacate"
+    },
+    "ae5641e4": {
+      "src": "🥥 Coconut Water",
+      "t": "🥥 Agua de coco"
+    },
+    "295d1ac2": {
+      "src": "🥬 Dark Leafy Greens",
+      "t": "🥬 Verduras de hoja oscura"
+    },
+    "b02bbdfc": {
+      "src": "🦵",
+      "t": "🦵"
+    },
+    "152c5cfb": {
+      "src": "🧘",
+      "t": "🧘"
+    },
+    "dd2c04d3": {
+      "src": "🧠",
+      "t": "🧠"
+    },
+    "7526a81b": {
+      "src": "🩸",
+      "t": "🩸"
+    },
+    "fd277e33": {
+      "src": "🫀",
+      "t": "🫀"
+    },
+    "795bc601": {
+      "src": "🫘 Legumes",
+      "t": "🫘 Legumbres"
+    }
+  }
+}

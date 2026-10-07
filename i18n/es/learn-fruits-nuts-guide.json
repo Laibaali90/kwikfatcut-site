@@ -1,0 +1,115 @@
+{
+  "_note": "Page content for learn-fruits-nuts-guide.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "5381341c": {
+      "src": "Atkinson FS et al, International Tables of Glycemic Index and Glycemic Load Values",
+      "t": "Atkinson FS et al, International Tables of Glycemic Index and Glycemic Load Values"
+    },
+    "96a24dd0": {
+      "src": "Breadnut (the seed of the breadfruit tree, also called chataigne) provides complete protein, omega-3 fatty acids, and significant iron — roasted or boiled, it is one of the most nutritionally complete plant foods available in Jamaica. Cashew apple, the fruit attached to the cashew nut, is a good source of vitamin C. Published measurements range widely, from about the same as an orange to around five times as much, depending on variety and where it is grown. It is widely available in Jamaica yet rarely discussed in nutritional terms. Pumpkin seeds, widely available across the island, are a strong source of iron. Shelled kernels provide about 8.8mg per 100g, while seeds eaten whole in the shell provide about 3.3mg. Sesame seeds and soybeans carry more iron still, but pumpkin kernels stand out for magnesium, at about 590mg per 100g, and for zinc.",
+      "t": "El breadnut (la semilla del árbol del pan, también llamada chataigne) aporta proteína completa, ácidos grasos omega-3 y una cantidad significativa de hierro. Asado o hervido, es uno de los alimentos vegetales más completos desde el punto de vista nutricional que hay en Jamaica. La manzana de marañón, la fruta unida a la nuez de cajú, es una buena fuente de vitamina C. Las mediciones publicadas varían mucho, desde aproximadamente lo mismo que una naranja hasta unas cinco veces más, según la variedad y el lugar donde se cultiva. Está muy disponible en Jamaica y, sin embargo, rara vez se habla de ella en términos nutricionales. Las semillas de calabaza, muy disponibles en toda la isla, son una fuente importante de hierro. Las pepitas sin cáscara aportan unos 8,8mg por 100g, mientras que las semillas que se comen enteras con cáscara aportan unos 3,3mg. Las semillas de sésamo y la soya contienen aún más hierro, pero las pepitas de calabaza destacan por el magnesio, con unos 590mg por 100g, y por el zinc."
+    },
+    "03551582": {
+      "src": "Eaten here. Documented everywhere.",
+      "t": "Se comen aquí. Documentadas en todas partes."
+    },
+    "9b6a0167": {
+      "src": "Every fruit a function.",
+      "t": "Cada fruta, una función."
+    },
+    "f4b8972e": {
+      "src": "Every function documented.",
+      "t": "Cada función, documentada."
+    },
+    "57f9c044": {
+      "src": "Fruits and Nuts — The Jamaican Health Guide",
+      "t": "Frutas y frutos secos, la guía jamaicana de salud"
+    },
+    "697d15d9": {
+      "src": "Fruits and Nuts — The Jamaican Health Guide — Kwik Fat Cut",
+      "t": "Frutas y frutos secos, la guía jamaicana de salud · Kwik Fat Cut"
+    },
+    "a132ebd9": {
+      "src": "Fruits and nuts.",
+      "t": "Frutas y frutos secos."
+    },
+    "296bb194": {
+      "src": "Grown here.",
+      "t": "Se cultivan aquí."
+    },
+    "79f8ebc0": {
+      "src": "Guinep, naseberry, otaheiti apple, jackfruit, soursop, june plum, star apple, breadnut, cashew — these are not just fruits. They carry vitamins, fibre and plant compounds, and several of them have barely been studied at all. Where the numbers exist we have given them. Where they do not, we say so. They grow here. They are available here. They are ours.",
+      "t": "Guinep, naseberry, otaheiti apple, yaca, guanábana, jobo, caimito, breadnut, marañón: no son solo frutas. Aportan vitaminas, fibra y compuestos vegetales, y varias de ellas apenas se han estudiado. Donde existen las cifras, las hemos dado. Donde no existen, lo decimos. Crecen aquí. Están disponibles aquí. Son nuestras."
+    },
+    "d0fc26d6": {
+      "src": "Jamaica's most",
+      "t": "Las medicinas más"
+    },
+    "2b97289e": {
+      "src": "Nuts and Seeds",
+      "t": "Frutos secos y semillas"
+    },
+    "b1568a64": {
+      "src": "Soursop (Annona muricata) contains acetogenins — compounds studied extensively for their biological activity. It is also rich in vitamin C, B vitamins, and fibre. Naseberry (sapodilla) is a good source of dietary fibre, about 5.3g per 100g, and supplies useful copper along with smaller amounts of iron, folate and niacin. Like most whole fruit it delivers its sugars with fibre rather than on their own, though its glycaemic effect has not been directly measured. Guinep is a small, intensely flavoured fruit and a traditional favourite across Jamaica. It has not been analysed in the major nutrient databases, so we cannot yet put numbers to what it contains. Star apple is a juicy, low fat fruit that contributes small amounts of calcium, vitamin C and fibre. It is not in the USDA nutrient database and the published figures for it are modest, so it is best enjoyed for its flavour rather than for any single nutrient.",
+      "t": "La guanábana (Annona muricata) contiene acetogeninas, compuestos ampliamente estudiados por su actividad biológica. También es rica en vitamina C, vitaminas del grupo B y fibra. El naseberry (zapote) es una buena fuente de fibra dietética, unos 5,3g por 100g, y aporta una cantidad útil de cobre junto con cantidades menores de hierro, folato y niacina. Como la mayoría de la fruta entera, entrega sus azúcares acompañados de fibra en lugar de solos, aunque su efecto glucémico no se ha medido directamente. El guinep es una fruta pequeña de sabor intenso y un favorito tradicional en toda Jamaica. No se ha analizado en las principales bases de datos de nutrientes, así que todavía no podemos poner cifras a lo que contiene. El caimito es una fruta jugosa y baja en grasa que aporta pequeñas cantidades de calcio, vitamina C y fibra. No figura en la base de datos de nutrientes del USDA y las cifras publicadas sobre él son modestas, así que conviene disfrutarlo por su sabor más que por ningún nutriente concreto."
+    },
+    "6e11d7a1": {
+      "src": "Start free. Understand first.",
+      "t": "Empieza gratis. Entiende primero."
+    },
+    "8f639707": {
+      "src": "The Jamaican food environment is an extraordinary natural pharmacy. The knowledge required to use it is what this platform exists to restore.",
+      "t": "El entorno alimentario jamaicano es una farmacia natural extraordinaria. El conocimiento necesario para usarlo es lo que esta plataforma existe para restaurar."
+    },
+    "fae7f7cb": {
+      "src": "The diversity of Jamaican tropical fruit represents a nutritional spectrum that no supplement programme replicates.",
+      "t": "La diversidad de la fruta tropical jamaicana representa un espectro nutricional que ningún programa de suplementos reproduce."
+    },
+    "6a9d064d": {
+      "src": "The health claims on this page were checked against the sources below. Where a claim could not be supported it was softened or removed rather than given a citation that did not fit. This page is general information about food, not medical advice, and no food prevents or treats disease.",
+      "t": "Las afirmaciones de salud de esta página se verificaron con las fuentes que aparecen abajo. Cuando una afirmación no se pudo respaldar, se atenuó o se eliminó en lugar de darle una cita que no correspondía. Esta página es información general sobre alimentos, no consejo médico, y ningún alimento previene ni trata enfermedades."
+    },
+    "56b82c7d": {
+      "src": "Tropical Fruits and Documented Benefits",
+      "t": "Frutas tropicales y beneficios documentados"
+    },
+    "b540b1c6": {
+      "src": "USDA FoodData Central, oranges raw (FDC 169097)",
+      "t": "USDA FoodData Central, oranges raw (FDC 169097)"
+    },
+    "81b79e64": {
+      "src": "USDA FoodData Central, pumpkin and squash seed kernels dried (FDC 170556)",
+      "t": "USDA FoodData Central, pumpkin and squash seed kernels dried (FDC 170556)"
+    },
+    "2eab5b93": {
+      "src": "USDA FoodData Central, sapodilla raw (FDC 167759)",
+      "t": "USDA FoodData Central, sapodilla raw (FDC 167759)"
+    },
+    "4161401c": {
+      "src": "Where this",
+      "t": "De dónde viene"
+    },
+    "f590ee38": {
+      "src": "comes from.",
+      "t": "esto."
+    },
+    "de246b4c": {
+      "src": "medicines.",
+      "t": "de Jamaica."
+    },
+    "05854641": {
+      "src": "underestimated",
+      "t": "subestimadas"
+    },
+    "4f93230b": {
+      "src": "“Education before intervention.",
+      "t": "“La educación antes que la intervención."
+    },
+    "66b56d9a": {
+      "src": "🍊 Jamaican Foods — Fruits and Nuts",
+      "t": "🍊 Alimentos jamaicanos, frutas y frutos secos"
+    }
+  }
+}

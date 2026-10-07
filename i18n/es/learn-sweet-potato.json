@@ -1,0 +1,499 @@
+{
+  "_note": "Page content for learn-sweet-potato.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "b11cf6c3": {
+      "src": ", about 8,500 micrograms per 100g raw and about 11,500 micrograms baked in the skin, which puts it alongside carrots and well ahead of spinach or kale. The body converts beta-carotene to vitamin A as it needs it. Unlike preformed vitamin A from animal foods and supplements, beta-carotene from food is not known to cause vitamin A toxicity. Very high intakes can turn the skin a harmless yellow orange, which fades when intake drops.",
+      "t": ", unos 8,500 microgramos por cada 100g en crudo y unos 11,500 microgramos horneada con piel, lo que la sitúa a la altura de las zanahorias y muy por delante de la espinaca o la col rizada. El cuerpo convierte el betacaroteno en vitamina A a medida que la necesita. A diferencia de la vitamina A preformada de los alimentos de origen animal y de los suplementos, no se sabe que el betacaroteno de los alimentos cause toxicidad por vitamina A. Las ingestas muy altas pueden dar a la piel un tono amarillo anaranjado inofensivo, que desaparece cuando baja la ingesta."
+    },
+    "66a070e6": {
+      "src": ", celebrated across cultures for its vitamins A, C, fibre, and antioxidants. Historically used in traditional medicine to treat digestive issues including diarrhoea, constipation, indigestion, and bloating — the sweet potato was understood as medicine long before science gave it a profile.",
+      "t": ", celebrado en muchas culturas por sus vitaminas A y C, su fibra y sus antioxidantes. Usada históricamente en la medicina tradicional para tratar problemas digestivos como la diarrea, el estreñimiento, la indigestión y la hinchazón, la batata se entendió como medicina mucho antes de que la ciencia le diera un perfil."
+    },
+    "84096db5": {
+      "src": ", so we cannot say that science has confirmed them. What we can say is that sweet potato is a good source of fibre, and that fibre supports normal digestion.",
+      "t": ", así que no podemos decir que la ciencia los haya confirmado. Lo que sí podemos decir es que la batata es una buena fuente de fibra y que la fibra favorece la digestión normal."
+    },
+    "23e7db5b": {
+      "src": "0.07 g",
+      "t": "0,07 g"
+    },
+    "245252de": {
+      "src": "102%+ Daily Value",
+      "t": "102%+ del valor diario"
+    },
+    "2645f8fe": {
+      "src": "112 kcal",
+      "t": "112 kcal"
+    },
+    "6d0f70d8": {
+      "src": "2 g",
+      "t": "2 g"
+    },
+    "c626cc14": {
+      "src": "26 g",
+      "t": "26 g"
+    },
+    "1e048226": {
+      "src": "3.9 g",
+      "t": "3,9 g"
+    },
+    "855a8437": {
+      "src": "8 min",
+      "t": "8 min"
+    },
+    "bf8796a2": {
+      "src": "A baked medium sweet potato provides about 3.8g of dietary fibre. Fibre adds bulk and is fermented by bacteria in the large intestine. Laboratory studies using sweet potato fibre have shown it can be fermented by gut bacteria including Lactobacillus and Bifidobacterium, though that work has been done in test tubes and in animals rather than in people.",
+      "t": "Una batata mediana horneada aporta unos 3,8g de fibra dietética. La fibra da volumen y las bacterias del intestino grueso la fermentan. Estudios de laboratorio con fibra de batata han demostrado que pueden fermentarla bacterias intestinales como Lactobacillus y Bifidobacterium, aunque ese trabajo se ha hecho en tubos de ensayo y en animales, no en personas."
+    },
+    "d9cc2186": {
+      "src": "A medium sweet potato (~130g) provides",
+      "t": "Una batata mediana (~130g) aporta"
+    },
+    "bc3b6a44": {
+      "src": "A medium sweet potato weighing approximately 130g provides a remarkable nutritional range for a single whole food. Every number below represents something the body can use.",
+      "t": "Una batata mediana de aproximadamente 130g aporta un rango nutricional notable para un solo alimento integral. Cada cifra que aparece más abajo representa algo que el cuerpo puede aprovechar."
+    },
+    "346b0448": {
+      "src": "A prebiotic that",
+      "t": "Un prebiótico que"
+    },
+    "16e3625f": {
+      "src": "A superfood",
+      "t": "Un superalimento"
+    },
+    "6d820317": {
+      "src": "Add it to your plate. Eat it regularly. Understand what it is doing for you.",
+      "t": "Ponla en tu plato. Cómela con regularidad. Entiende lo que está haciendo por ti."
+    },
+    "6e28956f": {
+      "src": "All articles free. The knowledge tree keeps growing.",
+      "t": "Todos los artículos son gratuitos. El árbol del conocimiento sigue creciendo."
+    },
+    "8f4d746a": {
+      "src": "Ancient superfood.",
+      "t": "Superalimento ancestral."
+    },
+    "bb7da288": {
+      "src": "Anthocyanins",
+      "t": "Antocianinas"
+    },
+    "0458f4eb": {
+      "src": "Beta-carotene",
+      "t": "Betacaroteno"
+    },
+    "1fd078cd": {
+      "src": "Beyond vitamins, sweet potatoes contain an array of phytonutrients — compounds that plants produce for their own defence, but which benefit human health when consumed.",
+      "t": "Más allá de las vitaminas, la batata contiene una gran variedad de fitonutrientes, compuestos que las plantas producen para su propia defensa, pero que benefician la salud humana cuando se consumen."
+    },
+    "8b97dbc5": {
+      "src": "Boosting the body’s",
+      "t": "Impulsar las defensas"
+    },
+    "49ba92fd": {
+      "src": "Broad class of anti-inflammatory, antioxidant compounds that protect blood vessels and support cardiovascular health.",
+      "t": "Amplia clase de compuestos antiinflamatorios y antioxidantes que protegen los vasos sanguíneos y apoyan la salud cardiovascular."
+    },
+    "c40b1c74": {
+      "src": "Calcium, Phosphorus, Zinc",
+      "t": "Calcio, fósforo, zinc"
+    },
+    "a66a34e1": {
+      "src": "Calories",
+      "t": "Calorías"
+    },
+    "ff174e5e": {
+      "src": "Carbohydrates",
+      "t": "Carbohidratos"
+    },
+    "3ed59306": {
+      "src": "Complete nutritional profile",
+      "t": "Perfil nutricional completo"
+    },
+    "2b839c67": {
+      "src": "Dietary Fibre",
+      "t": "Fibra dietética"
+    },
+    "a02d9905": {
+      "src": "Digestion",
+      "t": "Digestión"
+    },
+    "d9d5bf5a": {
+      "src": "Digestion support",
+      "t": "Apoyo a la digestión"
+    },
+    "51673326": {
+      "src": "Eat it as part of a varied diet built on vegetables, fruit and whole foods. That pattern, rather than any single food, is what the evidence supports.",
+      "t": "Cómela como parte de una dieta variada basada en verduras, fruta y alimentos integrales. Es ese patrón, y no ningún alimento concreto, lo que respalda la evidencia."
+    },
+    "218447b4": {
+      "src": "Fat",
+      "t": "Grasa"
+    },
+    "7fbfb128": {
+      "src": "Flavonoids",
+      "t": "Flavonoides"
+    },
+    "c8dd4c2d": {
+      "src": "Foods Hub.",
+      "t": "Centro de Alimentos."
+    },
+    "d3bd8504": {
+      "src": "Foundation",
+      "t": "Fundamentos"
+    },
+    "ef00d9aa": {
+      "src": "Ground Provisions",
+      "t": "Víveres"
+    },
+    "49824d29": {
+      "src": "Ground provision.",
+      "t": "Víveres."
+    },
+    "626bc7b7": {
+      "src": "Immunity",
+      "t": "Inmunidad"
+    },
+    "5e8cbc3c": {
+      "src": "Immunity boost",
+      "t": "Impulso a la inmunidad"
+    },
+    "09f9d087": {
+      "src": "In Jamaica and across the Caribbean, sweet potato is a ground provision — a staple of the ancestral diet that has sustained communities for generations.",
+      "t": "En Jamaica y en todo el Caribe, la batata es uno de los víveres, un alimento básico de la dieta ancestral que ha sostenido a comunidades durante generaciones."
+    },
+    "55bfbf39": {
+      "src": "It has not been tested in people, and results in cells and animals often do not carry over to humans.",
+      "t": "No se ha probado en personas, y los resultados obtenidos en células y en animales a menudo no se trasladan a los seres humanos."
+    },
+    "68bab206": {
+      "src": "It is not an exotic health food. It is home food.",
+      "t": "No es un alimento saludable exótico. Es comida de casa."
+    },
+    "62669b5e": {
+      "src": "Kwik Fat Cut — Foods Hub — Education First",
+      "t": "Kwik Fat Cut, Centro de Alimentos, la educación primero"
+    },
+    "ed37f896": {
+      "src": "Lutein",
+      "t": "Luteína"
+    },
+    "6331606e": {
+      "src": "Macronutrients — Per medium sweet potato (~130g)",
+      "t": "Macronutrientes, por batata mediana (~130g)"
+    },
+    "140c5c8f": {
+      "src": "Magnesium",
+      "t": "Magnesio"
+    },
+    "77d17ce1": {
+      "src": "Modern nutrition science can now describe what our grandmothers worked out by feeding people well.",
+      "t": "La ciencia moderna de la nutrición ya puede describir lo que nuestras abuelas resolvieron alimentando bien a la gente."
+    },
+    "26359feb": {
+      "src": "More from the",
+      "t": "Más del"
+    },
+    "dec4b1c6": {
+      "src": "NIH Office of Dietary Supplements, Vitamin A",
+      "t": "NIH Office of Dietary Supplements, Vitamin A"
+    },
+    "dcc4aea0": {
+      "src": "NIH Office of Dietary Supplements, Vitamin C",
+      "t": "NIH Office of Dietary Supplements, Vitamin C"
+    },
+    "fc3b82eb": {
+      "src": "National Cancer Institute, Antioxidants and Cancer Prevention",
+      "t": "National Cancer Institute, Antioxidants and Cancer Prevention"
+    },
+    "a378207b": {
+      "src": "Nothing here means sweet potato prevents or treats cancer, and no food does.",
+      "t": "Nada de lo que aquí se dice significa que la batata prevenga o trate el cáncer, y ningún alimento lo hace."
+    },
+    "fc450dcc": {
+      "src": "Nutrients Per Serving",
+      "t": "Nutrientes por porción"
+    },
+    "8f9ea20c": {
+      "src": "Nutrients per serving",
+      "t": "Nutrientes por porción"
+    },
+    "991ad314": {
+      "src": "Over 100% of the daily vitamin A in a single serving. A good source of fibre. Phytochemicals that researchers are still studying. Steady energy rather than a spike and a crash. This is not a trend food. It is one of the oldest staples on earth.",
+      "t": "Más del 100% de la vitamina A diaria en una sola porción. Una buena fuente de fibra. Fitoquímicos que los investigadores todavía están estudiando. Energía estable en lugar de un pico y una caída. No es un alimento de moda. Es uno de los alimentos básicos más antiguos de la tierra."
+    },
+    "01421083": {
+      "src": "Phytonutrients",
+      "t": "Fitonutrientes"
+    },
+    "9a4d2e56": {
+      "src": "Phytonutrients are the frontier of nutritional science — compounds identified in the last few decades that traditional and ancestral diets have delivered for millennia. Sweet potato is rich in all of them.",
+      "t": "Los fitonutrientes son la frontera de la ciencia de la nutrición: compuestos identificados en las últimas décadas que las dietas tradicionales y ancestrales han aportado durante milenios. La batata es rica en todos ellos."
+    },
+    "de8eaf52": {
+      "src": "Potassium",
+      "t": "Potasio"
+    },
+    "e193fd12": {
+      "src": "Precursor to vitamin A. Antioxidant. Orange pigment — the deeper the colour, the higher the concentration.",
+      "t": "Precursor de la vitamina A. Antioxidante. Pigmento naranja: cuanto más intenso es el color, mayor es la concentración."
+    },
+    "5d52d536": {
+      "src": "Predominantly in purple fleshed varieties. Studied in the laboratory for antioxidant and anti-inflammatory activity.",
+      "t": "Presentes sobre todo en las variedades de pulpa morada. Estudiadas en el laboratorio por su actividad antioxidante y antiinflamatoria."
+    },
+    "d160028c": {
+      "src": "Present",
+      "t": "Presentes"
+    },
+    "36d612a7": {
+      "src": "Protects the eyes from oxidative damage. Associated with reduced risk of macular degeneration and cataracts.",
+      "t": "Protege los ojos del daño oxidativo. Se asocia con un menor riesgo de degeneración macular y de cataratas."
+    },
+    "cbf5b9a0": {
+      "src": "Protein",
+      "t": "Proteína"
+    },
+    "ffa5f8a7": {
+      "src": "Purple fleshed sweet potato varieties are rich in anthocyanins, the pigments that give purple and red produce their colour. In laboratory work, isolated sweet potato anthocyanins have slowed the growth of cancer cells grown in dishes, including breast, stomach and colon cell lines.",
+      "t": "Las variedades de batata de pulpa morada son ricas en antocianinas, los pigmentos que dan su color a los productos morados y rojos. En trabajos de laboratorio, antocianinas aisladas de batata han ralentizado el crecimiento de células cancerosas cultivadas en placas, incluidas líneas celulares de mama, estómago y colon."
+    },
+    "029bb016": {
+      "src": "Read: Ackee",
+      "t": "Leer: ackee"
+    },
+    "5caeb9ec": {
+      "src": "Research",
+      "t": "Investigación"
+    },
+    "d1dddf9c": {
+      "src": "Small amounts, no vitamin D",
+      "t": "Cantidades pequeñas, sin vitamina D"
+    },
+    "e011057a": {
+      "src": "Support gut health and have antimicrobial properties. Work synergistically with fibre to support the intestinal barrier.",
+      "t": "Apoyan la salud intestinal y tienen propiedades antimicrobianas. Actúan en sinergia con la fibra para sostener la barrera intestinal."
+    },
+    "622b416a": {
+      "src": "Sweet Potato",
+      "t": "Batata"
+    },
+    "8347a813": {
+      "src": "Sweet Potato — The Superfood Root — Kwik Fat Cut",
+      "t": "La batata, la raíz superalimento · Kwik Fat Cut"
+    },
+    "64164df5": {
+      "src": "Sweet potato has a long history in traditional medicine for digestive complaints including diarrhoea, constipation, indigestion and bloating.",
+      "t": "La batata tiene una larga historia en la medicina tradicional para las molestias digestivas, entre ellas la diarrea, el estreñimiento, la indigestión y la hinchazón."
+    },
+    "31c0491c": {
+      "src": "Sweet potato is one of the richest everyday sources of beta-carotene",
+      "t": "La batata es una de las fuentes cotidianas más ricas en betacaroteno"
+    },
+    "0db8d395": {
+      "src": "Sweet potatoes contain high levels of dietary fibre, acting as a",
+      "t": "Las batatas contienen altos niveles de fibra dietética y actúan como un"
+    },
+    "b36441fa": {
+      "src": "Tannins",
+      "t": "Taninos"
+    },
+    "7eef86af": {
+      "src": "That is the Kwik Fat Cut way. 🌿🇯🇲",
+      "t": "Así se hacen las cosas en Kwik Fat Cut. 🌿🇯🇲"
+    },
+    "27e1ce25": {
+      "src": "The Foundation",
+      "t": "La base"
+    },
+    "5d8499c3": {
+      "src": "The National Cancer Institute notes that randomised trials of antioxidant supplements have not shown a benefit for preventing cancer, and explains why laboratory results often do not transfer to people. It is also worth knowing that most Caribbean sweet potato is white, cream or orange fleshed and contains little anthocyanin, so this research is not about the sweet potato most of us eat.",
+      "t": "El National Cancer Institute señala que los ensayos aleatorizados con suplementos antioxidantes no han mostrado ningún beneficio para prevenir el cáncer, y explica por qué los resultados de laboratorio a menudo no se trasladan a las personas. También conviene saber que la mayor parte de la batata del Caribe es de pulpa blanca, crema o naranja y contiene poca antocianina, de modo que esta investigación no trata sobre la batata que la mayoría de nosotros comemos."
+    },
+    "4efeb446": {
+      "src": "The compounds",
+      "t": "Los compuestos"
+    },
+    "6a9d064d": {
+      "src": "The health claims on this page were checked against the sources below. Where a claim could not be supported it was softened or removed rather than given a citation that did not fit. This page is general information about food, not medical advice, and no food prevents or treats disease.",
+      "t": "Las afirmaciones de salud de esta página se contrastaron con las fuentes que figuran a continuación. Cuando una afirmación no pudo respaldarse, se suavizó o se eliminó en lugar de asignarle una cita que no encajaba. Esta página ofrece información general sobre alimentación, no consejo médico, y ningún alimento previene ni trata enfermedades."
+    },
+    "c48cecaa": {
+      "src": "The immune-supporting profile of sweet potato is multi-layered. Vitamin A maintains the integrity of mucosal surfaces — the body’s first-line physical barriers against pathogens. Vitamin C supports the production and function of white blood cells.",
+      "t": "El perfil de apoyo inmunitario de la batata tiene varias capas. La vitamina A mantiene la integridad de las superficies mucosas, las primeras barreras físicas del cuerpo frente a los patógenos. La vitamina C apoya la producción y el funcionamiento de los glóbulos blancos."
+    },
+    "0092abd1": {
+      "src": "The sweet potato does not need a marketing campaign. It has been growing from the earth, feeding communities, and protecting bodies for thousands of years.",
+      "t": "La batata no necesita una campaña de marketing. Lleva miles de años creciendo desde la tierra, alimentando comunidades y protegiendo cuerpos."
+    },
+    "7675c04e": {
+      "src": "The sweet potato is a",
+      "t": "La batata es un"
+    },
+    "e0e3c2f7": {
+      "src": "The sweet potato.",
+      "t": "La batata."
+    },
+    "2b11e356": {
+      "src": "These are compounds that cannot be replicated in a supplement because they work synergistically with each other and with the food matrix they come from.",
+      "t": "Son compuestos que no se pueden reproducir en un suplemento porque actúan en sinergia entre sí y con la matriz alimentaria de la que proceden."
+    },
+    "72c04546": {
+      "src": "These traditional uses have not been tested in clinical trials",
+      "t": "Estos usos tradicionales no se han probado en ensayos clínicos"
+    },
+    "f03d40d2": {
+      "src": "This is early stage laboratory research.",
+      "t": "Esta es una investigación de laboratorio en una etapa temprana."
+    },
+    "573ecced": {
+      "src": "Together, they create a comprehensive immune defence",
+      "t": "Juntas crean una defensa inmunitaria completa"
+    },
+    "a484c31f": {
+      "src": "USDA FoodData Central, sweet potato baked in skin (FDC 168483)",
+      "t": "USDA FoodData Central, sweet potato baked in skin (FDC 168483)"
+    },
+    "30360ff9": {
+      "src": "USDA FoodData Central, sweet potato raw (FDC 168482)",
+      "t": "USDA FoodData Central, sweet potato raw (FDC 168482)"
+    },
+    "1a0e41b1": {
+      "src": "Vitamin A (from beta-carotene)",
+      "t": "Vitamina A (del betacaroteno)"
+    },
+    "634a251d": {
+      "src": "Vitamin A is critical for good eyesight, immune defences, and organ function.",
+      "t": "La vitamina A es fundamental para una buena vista, para las defensas inmunitarias y para el funcionamiento de los órganos."
+    },
+    "adfe6216": {
+      "src": "Vitamin C (baked in skin)",
+      "t": "Vitamina C (horneada con piel)"
+    },
+    "429c3789": {
+      "src": "Vitamins E and K",
+      "t": "Vitaminas E y K"
+    },
+    "5aa37f93": {
+      "src": "What is well established is simpler:",
+      "t": "Lo que sí está bien establecido es más sencillo:"
+    },
+    "34924038": {
+      "src": "What laboratory",
+      "t": "Lo que la investigación"
+    },
+    "1f799b49": {
+      "src": "What makes it",
+      "t": "¿Qué la hace"
+    },
+    "f97dbfd2": {
+      "src": "What makes it special",
+      "t": "Qué la hace especial"
+    },
+    "a39903c6": {
+      "src": "What one medium",
+      "t": "Lo que aporta una"
+    },
+    "e26e3177": {
+      "src": "What the laboratory research looks at",
+      "t": "Qué examina la investigación de laboratorio"
+    },
+    "4161401c": {
+      "src": "Where this",
+      "t": "De dónde viene"
+    },
+    "9cb74268": {
+      "src": "Works with lutein for eye health. Also has anti-inflammatory properties throughout the body.",
+      "t": "Trabaja junto con la luteína para la salud ocular. También tiene propiedades antiinflamatorias en todo el cuerpo."
+    },
+    "73b984f1": {
+      "src": "Zeaxanthin",
+      "t": "Zeaxantina"
+    },
+    "84ea369a": {
+      "src": "celebrated across time.",
+      "t": "celebrado a lo largo del tiempo."
+    },
+    "f590ee38": {
+      "src": "comes from.",
+      "t": "esta información."
+    },
+    "f1c557f3": {
+      "src": "eating more fibre from whole plant foods supports normal bowel function.",
+      "t": "comer más fibra procedente de alimentos vegetales integrales favorece el funcionamiento normal del intestino."
+    },
+    "7163e1b9": {
+      "src": "feeds your gut.",
+      "t": "alimenta tu intestino."
+    },
+    "c67a4da7": {
+      "src": "from a single whole food.",
+      "t": "a partir de un solo alimento integral."
+    },
+    "246edaa6": {
+      "src": "high nutrient density “superfood”",
+      "t": "“superalimento” de alta densidad de nutrientes"
+    },
+    "60297913": {
+      "src": "meal after meal.",
+      "t": "comida tras comida."
+    },
+    "27e01713": {
+      "src": "natural defences.",
+      "t": "naturales del cuerpo."
+    },
+    "be3cb18e": {
+      "src": "over 102% of the daily recommended vitamin A intake",
+      "t": "más del 102% de la ingesta diaria recomendada de vitamina A"
+    },
+    "100100d4": {
+      "src": "prebiotic",
+      "t": "prebiótico"
+    },
+    "5f2953e0": {
+      "src": "research is looking at.",
+      "t": "de laboratorio está examinando."
+    },
+    "47312511": {
+      "src": "science is still learning.",
+      "t": "que la ciencia aún está descubriendo."
+    },
+    "6ac9adcd": {
+      "src": "so special?",
+      "t": "tan especial?"
+    },
+    "79130a5a": {
+      "src": "sweet potato delivers.",
+      "t": "batata mediana."
+    },
+    "396db36a": {
+      "src": "that promotes beneficial gut bacteria — specifically Lactobacillus and Bifidobacterium. These bacteria are among the most studied and health-supportive in the human microbiome.",
+      "t": "que favorece las bacterias intestinales beneficiosas, en concreto Lactobacillus y Bifidobacterium. Estas bacterias están entre las más estudiadas y las más favorables para la salud dentro del microbioma humano."
+    },
+    "a1705226": {
+      "src": "through beta-carotene — critical for eyesight, immune defences, and organ function.",
+      "t": "a través del betacaroteno, fundamental para la vista, las defensas inmunitarias y el funcionamiento de los órganos."
+    },
+    "7b197cd5": {
+      "src": "~22 mg, 25% Daily Value",
+      "t": "~22 mg, 25% del valor diario"
+    },
+    "4e9fdb85": {
+      "src": "~33 mg",
+      "t": "~33 mg"
+    },
+    "ba20f183": {
+      "src": "~438 mg raw, ~541 mg baked",
+      "t": "~438 mg cruda, ~541 mg horneada"
+    },
+    "7d7ed192": {
+      "src": "“High nutrient density makes sweet potatoes a superfood — celebrated for vitamins A, C, fibre, and antioxidants that the body can actually use,",
+      "t": "“La alta densidad de nutrientes convierte a la batata en un superalimento, celebrado por sus vitaminas A y C, su fibra y sus antioxidantes, que el cuerpo sí puede aprovechar,"
+    },
+    "1d0a016a": {
+      "src": "🌿 Ground Provisions — Superfood",
+      "t": "🌿 Víveres, superalimento"
+    }
+  }
+}

@@ -1,0 +1,535 @@
+{
+  "_note": "Page content for learn-digestion-food-safety.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "855a8437": {
+      "src": "8 min",
+      "t": "8 min"
+    },
+    "872d071b": {
+      "src": "Abdominal pain or discomfort",
+      "t": "Dolor o molestias abdominales"
+    },
+    "2b6272ee": {
+      "src": "Be aware",
+      "t": "Ten en cuenta"
+    },
+    "fbb68513": {
+      "src": "Beef, mutton, pork (rare/medium)",
+      "t": "Res, carnero, cerdo (poco hechos o al punto)"
+    },
+    "87010a27": {
+      "src": "Bloating",
+      "t": "Hinchazón"
+    },
+    "a32c379a": {
+      "src": "But crushed, cracked, or regularly consumed seeds from these fruits can accumulate to harmful levels",
+      "t": "Pero las semillas trituradas, partidas o consumidas con regularidad pueden acumularse hasta niveles dañinos"
+    },
+    "998aaed7": {
+      "src": "Can signal inflammation, infection, intolerances, or poor transit. Persistent pain always warrants professional assessment.",
+      "t": "Pueden indicar inflamación, infección, intolerancias o un tránsito deficiente. El dolor persistente siempre requiere una evaluación profesional."
+    },
+    "4295de77": {
+      "src": "Certain foods carry",
+      "t": "Ciertos alimentos implican"
+    },
+    "5f429243": {
+      "src": "Certain foods, whether chewed properly or not, can pose serious health risks when contaminated with harmful bacteria, viruses, or parasites — or when prepared improperly.",
+      "t": "Ciertos alimentos, se mastiquen bien o no, pueden suponer riesgos serios para la salud cuando están contaminados con bacterias, virus o parásitos dañinos, o cuando se preparan de forma inadecuada."
+    },
+    "c141a2ed": {
+      "src": "Cherries, apples, apricots, and peaches contain seeds or pits that harbour",
+      "t": "Las cerezas, las manzanas, los albaricoques y los duraznos contienen semillas o huesos que albergan"
+    },
+    "136f33d2": {
+      "src": "Chew",
+      "t": "Mastica"
+    },
+    "42109496": {
+      "src": "Chewing food thoroughly and breaking it into smaller, manageable pieces is essential for proper digestion. It allows saliva — containing enzymes such as",
+      "t": "Masticar bien la comida y dividirla en trozos más pequeños y manejables es esencial para una buena digestión. Permite que la saliva, que contiene enzimas como la"
+    },
+    "ee9ea0e0": {
+      "src": "Chewing thoroughly. Enzymes working. Nutrients absorbed. When this system is disrupted — by poor chewing, contaminated food, or unsafe preparation — the body sends a signal. Understanding that signal is where education begins.",
+      "t": "Masticar bien. Enzimas en acción. Nutrientes absorbidos. Cuando este sistema se altera, ya sea por masticar mal, por comida contaminada o por una preparación insegura, el cuerpo envía una señal. Entender esa señal es donde empieza la educación."
+    },
+    "71d7322f": {
+      "src": "Constipation or diarrhoea are both signals of disrupted digestion — often related to fibre intake, hydration, and food quality.",
+      "t": "El estreñimiento y la diarrea son señales de una digestión alterada, a menudo relacionadas con el consumo de fibra, la hidratación y la calidad de la comida."
+    },
+    "a6625ae4": {
+      "src": "Cook thoroughly. Pork especially requires full cooking.",
+      "t": "Cocinar bien. Sobre todo el cerdo, que necesita cocción completa."
+    },
+    "b07a841f": {
+      "src": "Cook to full internal temperature. No pink flesh.",
+      "t": "Cocinar hasta alcanzar la temperatura interna completa. Sin carne rosada."
+    },
+    "f8dfe70f": {
+      "src": "Cook yolks fully. Refrigerate properly. Check freshness.",
+      "t": "Cocinar bien las yemas. Refrigerar correctamente. Comprobar que estén frescos."
+    },
+    "4b1efa49": {
+      "src": "Digestion & Food Safety",
+      "t": "Digestión y Seguridad Alimentaria"
+    },
+    "d8e17f1a": {
+      "src": "Digestion is not a passive process. It is a cascade. Each stage depends on the one before it. When the first stage is done well, everything that follows is easier. When it is rushed, the entire system carries the burden.",
+      "t": "La digestión no es un proceso pasivo. Es una cascada. Cada etapa depende de la anterior. Cuando la primera etapa se hace bien, todo lo que sigue es más fácil. Cuando se hace con prisa, todo el sistema carga con el peso."
+    },
+    "f3d797f6": {
+      "src": "E. coli, Trichinella",
+      "t": "E. coli, Trichinella"
+    },
+    "a5ccc4a1": {
+      "src": "Educate yourself first. Start free. Understand first.",
+      "t": "Infórmate primero. Empieza gratis. Entiende primero."
+    },
+    "cf787224": {
+      "src": "Educational only.",
+      "t": "Solo con fines educativos."
+    },
+    "68eb204c": {
+      "src": "Eggs (undercooked or poorly stored)",
+      "t": "Huevos (poco cocidos o mal conservados)"
+    },
+    "598684c6": {
+      "src": "Every article free. No subscription. No pressure. Just understanding.",
+      "t": "Todos los artículos son gratis. Sin suscripción. Sin presión. Solo comprensión."
+    },
+    "bd7cbfe9": {
+      "src": "Food",
+      "t": "Alimento"
+    },
+    "75a51bed": {
+      "src": "Food Safety",
+      "t": "Seguridad alimentaria"
+    },
+    "b9eb4fd1": {
+      "src": "Food safety risks",
+      "t": "Riesgos de seguridad alimentaria"
+    },
+    "d3bd8504": {
+      "src": "Foundation",
+      "t": "Fundamento"
+    },
+    "96e2aed9": {
+      "src": "Giardia, E. coli, pesticide residue",
+      "t": "Giardia, E. coli, residuos de pesticidas"
+    },
+    "f2fdcf35": {
+      "src": "Health education is free at Kwik Fat Cut. No subscription required for the fundamentals. We row. You steer. 🇯🇲",
+      "t": "La educación en salud es gratuita en Kwik Fat Cut. No hace falta suscripción para lo fundamental. Nosotros remamos. Tú diriges. 🇯🇲"
+    },
+    "e19bd091": {
+      "src": "Hidden Dangers",
+      "t": "Peligros ocultos"
+    },
+    "99a0a031": {
+      "src": "If you are experiencing persistent digestive symptoms, consult a qualified health professional.",
+      "t": "Si tienes síntomas digestivos persistentes, consulta a un profesional de la salud cualificado."
+    },
+    "5a9cf4c8": {
+      "src": "Inadequately broken-down food limits enzyme access. Poor chewing upstream becomes poor nutrition downstream. Good digestion also supports oxygen absorption in the small intestine — key to maintaining energy and vitality.",
+      "t": "La comida mal descompuesta limita el acceso de las enzimas. Masticar mal al principio se traduce en una peor nutrición después. Una buena digestión también favorece la absorción de oxígeno en el intestino delgado, clave para mantener la energía y la vitalidad."
+    },
+    "fd3dd8a0": {
+      "src": "Indigestion",
+      "t": "Indigestión"
+    },
+    "8dd41378": {
+      "src": "Iron, B12, vitamin D, and magnesium deficiencies are commonly linked to digestive dysfunction — not just dietary absence.",
+      "t": "Las carencias de hierro, B12, vitamina D y magnesio suelen estar relacionadas con problemas digestivos, no solo con su falta en la dieta."
+    },
+    "86a77da1": {
+      "src": "Irregular bowel movements",
+      "t": "Evacuaciones irregulares"
+    },
+    "15302367": {
+      "src": "It All Starts With Your Stomach — Kwik Fat Cut",
+      "t": "Todo empieza con tu estómago · Kwik Fat Cut"
+    },
+    "693e0fd8": {
+      "src": "It all starts",
+      "t": "Todo empieza"
+    },
+    "4a2e7ca9": {
+      "src": "It all starts with your stomach hurting.",
+      "t": "Todo empieza con el dolor de estómago."
+    },
+    "0a99e957": {
+      "src": "It all starts with your stomach hurting. But it does not have to stay that way.",
+      "t": "Todo empieza con el dolor de estómago. Pero no tiene por qué seguir así."
+    },
+    "a792a619": {
+      "src": "Kwik Fat Cut emphasises learning before acting.",
+      "t": "Kwik Fat Cut pone el aprendizaje antes que la acción."
+    },
+    "2fc92c0a": {
+      "src": "Kwik Fat Cut — Education First — Start Free. Understand First.",
+      "t": "Kwik Fat Cut · La educación primero · Empieza gratis. Entiende primero."
+    },
+    "b86b0892": {
+      "src": "Large intestine — Elimination",
+      "t": "Intestino grueso: eliminación"
+    },
+    "883a717c": {
+      "src": "Learn more.",
+      "t": "Aprende más."
+    },
+    "d936a849": {
+      "src": "Listen when your",
+      "t": "Escucha cuando tu"
+    },
+    "4080389b": {
+      "src": "More Articles",
+      "t": "Más Artículos"
+    },
+    "a0352d5b": {
+      "src": "Most nutrients enter the bloodstream here.",
+      "t": "La mayoría de los nutrientes pasa aquí a la sangre."
+    },
+    "7a5fa346": {
+      "src": "Mouth — Where it begins",
+      "t": "Boca: donde empieza todo"
+    },
+    "745f09cf": {
+      "src": "Norovirus, Vibrio, Hepatitis A",
+      "t": "Norovirus, Vibrio, hepatitis A"
+    },
+    "722d2ee7": {
+      "src": "Nutrient deficiencies",
+      "t": "Carencias de nutrientes"
+    },
+    "c3704722": {
+      "src": "Often a direct result of rushed eating, poor chewing, or foods that disrupt stomach acid balance. Frequently preventable through habit changes.",
+      "t": "Suele ser consecuencia directa de comer con prisa, masticar mal o de alimentos que alteran el equilibrio del ácido estomacal. A menudo se puede prevenir cambiando hábitos."
+    },
+    "76da07a5": {
+      "src": "Often caused by fermentation of undigested food in the gut. Can indicate food intolerances, poor chewing, or enzyme insufficiency.",
+      "t": "Suele deberse a la fermentación de comida mal digerida en el intestino. Puede indicar intolerancias alimentarias, mala masticación o falta de enzimas."
+    },
+    "a3c7f7a3": {
+      "src": "Pepsin and hydrochloric acid break down proteins. The stomach works significantly harder when large, poorly chewed pieces arrive — reducing efficiency and increasing transit time.",
+      "t": "La pepsina y el ácido clorhídrico descomponen las proteínas. El estómago trabaja mucho más cuando llegan trozos grandes y mal masticados, lo que reduce la eficiencia y alarga el tiempo de tránsito."
+    },
+    "d3b651b9": {
+      "src": "Persistent fatigue",
+      "t": "Cansancio persistente"
+    },
+    "2b1da786": {
+      "src": "Poor nutrient absorption leaves cells under-resourced. If digestion is compromised, energy production suffers regardless of how much is eaten.",
+      "t": "Una mala absorción de nutrientes deja a las células sin recursos suficientes. Si la digestión está comprometida, la producción de energía se resiente, sin importar cuánto se coma."
+    },
+    "97158968": {
+      "src": "Prepare food",
+      "t": "Prepara la comida"
+    },
+    "4379eb6d": {
+      "src": "Prevention",
+      "t": "Prevención"
+    },
+    "c1745b60": {
+      "src": "Raw or undercooked poultry",
+      "t": "Aves crudas o poco cocidas"
+    },
+    "646753d4": {
+      "src": "Raw shellfish & seafood",
+      "t": "Mariscos y pescados crudos"
+    },
+    "ad7ca913": {
+      "src": "Risk / Pathogen",
+      "t": "Riesgo / patógeno"
+    },
+    "d5a8baca": {
+      "src": "Rushing it shortens every stage that follows.",
+      "t": "Apresurarla acorta cada etapa que viene después."
+    },
+    "d706c44d": {
+      "src": "Salmonella",
+      "t": "Salmonella"
+    },
+    "eb7b77c7": {
+      "src": "Salmonella, Campylobacter",
+      "t": "Salmonella, Campylobacter"
+    },
+    "d527baf5": {
+      "src": "Seeds & hidden dangers",
+      "t": "Semillas y peligros ocultos"
+    },
+    "4bb77c5f": {
+      "src": "Seeds & pits",
+      "t": "Las semillas y los huesos"
+    },
+    "cde78de8": {
+      "src": "Signals the Body Sends",
+      "t": "Las señales que envía el cuerpo"
+    },
+    "d1ea6fd7": {
+      "src": "Small intestine — Nutrient absorption",
+      "t": "Intestino delgado: absorción de nutrientes"
+    },
+    "b2b7b240": {
+      "src": "Some fruits contain seeds or pits that release toxic substances when metabolised. This is not widely known — but it is important, particularly for families with young children.",
+      "t": "Algunas frutas contienen semillas o huesos que liberan sustancias tóxicas al metabolizarse. No es algo muy conocido, pero es importante, sobre todo para las familias con niños pequeños."
+    },
+    "d79d3faf": {
+      "src": "Source from reputable suppliers. Cook unless certified safe raw.",
+      "t": "Comprar a proveedores de confianza. Cocinar salvo que estén certificados como seguros para comer crudos."
+    },
+    "ece3aaf7": {
+      "src": "Start free.",
+      "t": "Empieza gratis."
+    },
+    "20809a00": {
+      "src": "Stomach — Acid & enzyme breakdown",
+      "t": "Estómago: descomposición por ácido y enzimas"
+    },
+    "87718d21": {
+      "src": "Symptoms",
+      "t": "Síntomas"
+    },
+    "a4b4dd41": {
+      "src": "Symptoms like bloating, irregular bowel movements, abdominal pain, or discomfort often indicate underlying digestive problems. These are not minor inconveniences. They are the body communicating clearly.",
+      "t": "Síntomas como la hinchazón, las evacuaciones irregulares, el dolor abdominal o las molestias suelen indicar problemas digestivos de fondo. No son pequeñas molestias. Son el cuerpo comunicándose con claridad."
+    },
+    "9335b3c3": {
+      "src": "Symptoms to recognise",
+      "t": "Síntomas que hay que reconocer"
+    },
+    "0c1b1091": {
+      "src": "Teeth break food mechanically. Saliva introduces amylase, beginning carbohydrate digestion.",
+      "t": "Los dientes trituran la comida de forma mecánica. La saliva aporta amilasa y empieza la digestión de los carbohidratos."
+    },
+    "13779c66": {
+      "src": "The Starting Point",
+      "t": "El punto de partida"
+    },
+    "3a035749": {
+      "src": "The Takeaway",
+      "t": "La conclusión"
+    },
+    "b9fa1829": {
+      "src": "The effects are cumulative. Nutrient deficiencies develop silently. The body is fed in calories but starved in vitamins, minerals, and the compounds it needs to repair and protect itself.",
+      "t": "Los efectos son acumulativos. Las carencias de nutrientes se desarrollan en silencio. El cuerpo recibe calorías, pero pasa hambre de vitaminas, minerales y de los compuestos que necesita para repararse y protegerse."
+    },
+    "c4d3a9fd": {
+      "src": "The fruit flesh itself is safe and nutritious. Simply avoid consuming or crushing the seeds and pits.",
+      "t": "La pulpa de la fruta en sí es segura y nutritiva. Simplemente evita comer o triturar las semillas y los huesos."
+    },
+    "597eb429": {
+      "src": "The takeaway",
+      "t": "La conclusión"
+    },
+    "eab66407": {
+      "src": "This is why education about digestion is foundational — not optional.",
+      "t": "Por eso la educación sobre la digestión es fundamental, no opcional."
+    },
+    "7b11f0f5": {
+      "src": "This stage sets the entire cascade in motion.",
+      "t": "Esta etapa pone en marcha toda la cascada."
+    },
+    "0b4230b1": {
+      "src": "Understand first.",
+      "t": "Entiende primero."
+    },
+    "471f1943": {
+      "src": "Understanding digestion",
+      "t": "Entender la digestión"
+    },
+    "eaed22bc": {
+      "src": "Understanding is the first medicine.",
+      "t": "Entender es la primera medicina."
+    },
+    "40351f03": {
+      "src": "Understanding which foods require extra care is basic, essential knowledge.",
+      "t": "Saber qué alimentos requieren un cuidado especial es un conocimiento básico y esencial."
+    },
+    "2330b288": {
+      "src": "Undigested food can cause serious disruption by",
+      "t": "La comida mal digerida puede causar trastornos serios al"
+    },
+    "55628bbb": {
+      "src": "Unwashed fruits & vegetables",
+      "t": "Frutas y verduras sin lavar"
+    },
+    "98c8b24f": {
+      "src": "Wash thoroughly under running water before eating or preparing.",
+      "t": "Lavar bien bajo el chorro de agua antes de comer o preparar."
+    },
+    "69cfd623": {
+      "src": "Water is reabsorbed. Fibre feeds beneficial gut bacteria. What arrives here reflects everything that happened upstream. A healthy large intestine depends on a healthy process from the very first bite.",
+      "t": "Se reabsorbe el agua. La fibra alimenta a las bacterias intestinales beneficiosas. Lo que llega aquí refleja todo lo que pasó antes. Un intestino grueso sano depende de un proceso sano desde el primer bocado."
+    },
+    "4ce9d5f1": {
+      "src": "We take feedback like yours seriously. If Kwik Fat Cut helped you understand your body better — pass it on. Tell a friend to tell a friend.",
+      "t": "Tomamos muy en serio comentarios como el tuyo. Si Kwik Fat Cut te ayudó a entender mejor tu cuerpo, compártelo. Dile a un amigo que le diga a otro."
+    },
+    "e6506b1d": {
+      "src": "What undigested food",
+      "t": "Lo que la comida mal digerida"
+    },
+    "c62159e2": {
+      "src": "What undigested food does",
+      "t": "Qué hace la comida mal digerida"
+    },
+    "e222d637": {
+      "src": "When large food particles reach the intestines intact, they cannot be broken down efficiently — and consequences build over time.",
+      "t": "Cuando partículas grandes de comida llegan intactas al intestino, no se pueden descomponer con eficacia, y las consecuencias se acumulan con el tiempo."
+    },
+    "3b7649d3": {
+      "src": "When the System Breaks Down",
+      "t": "Cuando el sistema falla"
+    },
+    "6d95a2fc": {
+      "src": "When you understand what happens inside the body after every meal, food decisions become clearer, symptoms become meaningful, and health becomes something you participate in rather than simply hope for.",
+      "t": "Cuando entiendes lo que pasa dentro del cuerpo después de cada comida, las decisiones sobre la comida se vuelven más claras, los síntomas cobran sentido y la salud se convierte en algo en lo que participas, en lugar de algo que solo esperas."
+    },
+    "d0921690": {
+      "src": "Why chewing",
+      "t": "Por qué importa"
+    },
+    "324f49e2": {
+      "src": "Why chewing matters",
+      "t": "Por qué importa masticar"
+    },
+    "7c57c757": {
+      "src": "amygdalin",
+      "t": "amigdalina"
+    },
+    "8b7edcf5": {
+      "src": "amylase",
+      "t": "amilasa"
+    },
+    "283351c4": {
+      "src": "blocking enzymes from functioning properly.",
+      "t": "impedir que las enzimas funcionen correctamente."
+    },
+    "af42d9db": {
+      "src": "changes everything.",
+      "t": "lo cambia todo."
+    },
+    "72c282bc": {
+      "src": "conceal.",
+      "t": "esconden."
+    },
+    "cb913fd0": {
+      "src": "does to the body.",
+      "t": "le hace al cuerpo."
+    },
+    "08047798": {
+      "src": "if handled",
+      "t": "si se manipulan"
+    },
+    "de2c64cf": {
+      "src": "incorrectly.",
+      "t": "de forma incorrecta."
+    },
+    "3c0281ea": {
+      "src": "less nutrition.",
+      "t": "menos nutrición."
+    },
+    "7bc45ae8": {
+      "src": "pepsin",
+      "t": "pepsina,"
+    },
+    "8c980901": {
+      "src": "real risks",
+      "t": "riesgos reales"
+    },
+    "e8709043": {
+      "src": "safely.",
+      "t": "de forma segura."
+    },
+    "a6ed8a68": {
+      "src": "some fruits",
+      "t": "que algunas frutas"
+    },
+    "92f972bd": {
+      "src": "stomach hurting.",
+      "t": "de estómago."
+    },
+    "0dc207a9": {
+      "src": "stomach speaks.",
+      "t": "estómago te hable."
+    },
+    "8f3bab6c": {
+      "src": "thoroughly matters.",
+      "t": "masticar bien."
+    },
+    "de784db2": {
+      "src": "thoroughly.",
+      "t": "bien."
+    },
+    "e2c3f4f9": {
+      "src": "to break down nutrients more effectively, directly aiding absorption.",
+      "t": "descompongan los nutrientes con más eficacia, lo que favorece directamente su absorción."
+    },
+    "3b007a25": {
+      "src": "to recognise.",
+      "t": "que hay que reconocer."
+    },
+    "c1efada8": {
+      "src": "with your",
+      "t": "con el dolor"
+    },
+    "c642785d": {
+      "src": "— a compound that, when metabolised, can produce cyanide in the body. In small amounts, accidental ingestion of a single seed is unlikely to cause serious harm.",
+      "t": ", un compuesto que, al metabolizarse, puede producir cianuro en el cuerpo. En pequeñas cantidades, tragar por accidente una sola semilla difícilmente causará un daño serio."
+    },
+    "187009eb": {
+      "src": "— and stomach enzymes such as",
+      "t": ", y las enzimas del estómago, como la"
+    },
+    "250f753a": {
+      "src": "— causing constipation, diarrhoea, nausea, and in significant quantities, more serious toxicity.",
+      "t": ", y causar estreñimiento, diarrea, náuseas y, en cantidades importantes, una toxicidad más grave."
+    },
+    "876671db": {
+      "src": "“Good digestion helps your body absorb nutrients more efficiently. Poor digestion means eating more food — and getting",
+      "t": "“Una buena digestión ayuda a tu cuerpo a absorber los nutrientes con más eficacia. Una mala digestión significa comer más comida y obtener"
+    },
+    "4c94970f": {
+      "src": "♻️",
+      "t": "♻️"
+    },
+    "a43afe6c": {
+      "src": "⚡",
+      "t": "⚡"
+    },
+    "f12f8621": {
+      "src": "🌀",
+      "t": "🌀"
+    },
+    "8f2e4044": {
+      "src": "👄",
+      "t": "👄"
+    },
+    "cf2d1204": {
+      "src": "🔄",
+      "t": "🔄"
+    },
+    "7da61648": {
+      "src": "😮‍💨",
+      "t": "😮‍💨"
+    },
+    "e92c17b7": {
+      "src": "🧬",
+      "t": "🧬"
+    },
+    "a626f53e": {
+      "src": "🪫",
+      "t": "🪫"
+    },
+    "fe277fc6": {
+      "src": "🫃",
+      "t": "🫃"
+    },
+    "e22753b2": {
+      "src": "🫧",
+      "t": "🫧"
+    }
+  }
+}

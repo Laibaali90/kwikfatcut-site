@@ -1,0 +1,539 @@
+{
+  "_note": "Page content for learn-garlic.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "f0575a8f": {
+      "src": ", garlic is a bulbous plant with cloves encased in papery skins, belonging to the Allium family alongside Welsh onions, shallots, leeks, chives, and Chinese onions. Native to the Black Sea region, it now grows worldwide in temperate areas with rich, well-drained soils.",
+      "t": ", el ajo es una planta bulbosa con dientes envueltos en pieles papiráceas, perteneciente a la familia Allium junto con la cebolleta, los chalotes, los puerros, el cebollino y la cebolla china. Originario de la región del mar Negro, hoy crece en todo el mundo en zonas templadas con suelos ricos y bien drenados."
+    },
+    "5e63cd4f": {
+      "src": ", garlic’s primary active compound, was not isolated by science until the 20th century. Ayurveda understood its effects for millennia before that.",
+      "t": ", el principal compuesto activo del ajo, no fue aislada por la ciencia hasta el siglo XX. El Ayurveda entendió sus efectos durante milenios antes de eso."
+    },
+    "8e1c01a5": {
+      "src": ", so it is an addition to good care and not a replacement for it.",
+      "t": ", así que es un añadido a una buena atención médica y no un sustituto de ella."
+    },
+    "855a8437": {
+      "src": "8 min",
+      "t": "8 min"
+    },
+    "604959f2": {
+      "src": "A carefully run six month trial at Stanford gave 192 adults raw garlic, a powdered supplement or an aged garlic extract, and found no effect on LDL cholesterol at all.",
+      "t": "Un ensayo de seis meses realizado con rigor en Stanford dio a 192 adultos ajo crudo, un suplemento en polvo o un extracto de ajo envejecido, y no encontró ningún efecto sobre el colesterol LDL."
+    },
+    "5214f1ef": {
+      "src": "A cholesterol-",
+      "t": "Un agente que reduce"
+    },
+    "e9e49227": {
+      "src": "Ajoene",
+      "t": "Ajoeno"
+    },
+    "6e28956f": {
+      "src": "All articles free. The knowledge tree keeps growing.",
+      "t": "Todos los artículos son gratuitos. El árbol del conocimiento sigue creciendo."
+    },
+    "e39431b3": {
+      "src": "Allicin",
+      "t": "La alicina"
+    },
+    "37b16dcc": {
+      "src": "Allium sativum",
+      "t": "Allium sativum"
+    },
+    "84b44d50": {
+      "src": "Ancient Egypt",
+      "t": "Antiguo Egipto"
+    },
+    "5ad98a02": {
+      "src": "Ancient Greece",
+      "t": "Antigua Grecia"
+    },
+    "8538079c": {
+      "src": "Ancient Rome",
+      "t": "Antigua Roma"
+    },
+    "cefddade": {
+      "src": "Ayurvedic Medicine — India",
+      "t": "Medicina ayurvédica (India)"
+    },
+    "1fd6b0c6": {
+      "src": "Ayurvedic texts classify garlic as a",
+      "t": "Los textos ayurvédicos clasifican el ajo como un"
+    },
+    "ef4ab17e": {
+      "src": "Before you take garlic supplements",
+      "t": "Antes de tomar suplementos de ajo"
+    },
+    "1eb45069": {
+      "src": "Blood & Herbs",
+      "t": "Sangre y hierbas"
+    },
+    "02875262": {
+      "src": "Blood pressure",
+      "t": "Presión arterial"
+    },
+    "d137f540": {
+      "src": "Blood pressure &",
+      "t": "La presión arterial y"
+    },
+    "bf41a6e3": {
+      "src": "Borrelli F et al, Garlic adverse effects and drug interactions in humans",
+      "t": "Borrelli F et al, Garlic adverse effects and drug interactions in humans"
+    },
+    "8e6eca2b": {
+      "src": "But the story of garlic is not botanical.",
+      "t": "Pero la historia del ajo no es botánica."
+    },
+    "2c948454": {
+      "src": "Cardiovascular Health",
+      "t": "Salud cardiovascular"
+    },
+    "2a870fda": {
+      "src": "Caribbean & African Tradition",
+      "t": "Tradición caribeña y africana"
+    },
+    "350d36c6": {
+      "src": "Chinese medicine has used garlic for over 3,000 years. Classical texts describe its role in",
+      "t": "La medicina china lleva más de 3,000 años usando el ajo. Los textos clásicos describen su papel en"
+    },
+    "371ead17": {
+      "src": "Cholesterol",
+      "t": "Colesterol"
+    },
+    "61141df3": {
+      "src": "Cochrane Review, Garlic for the common cold",
+      "t": "Cochrane Review, Garlic for the common cold"
+    },
+    "b802cea0": {
+      "src": "Community health",
+      "t": "Salud comunitaria"
+    },
+    "45d5804a": {
+      "src": "Crush it. Chop it. Let it rest for ten minutes before cooking",
+      "t": "Machácalo. Pícalo. Déjalo reposar diez minutos antes de cocinarlo"
+    },
+    "f70170dc": {
+      "src": "Egypt. Greece. Rome. China. India. Five great civilisations across thousands of years, independently discovering the same truth about a small bulbous plant that grows from the earth. This is not a health trend. This is the most documented medicinal food in human history.",
+      "t": "Egipto. Grecia. Roma. China. India. Cinco grandes civilizaciones a lo largo de miles de años, que descubrieron de forma independiente la misma verdad sobre una pequeña planta bulbosa que crece de la tierra. Esto no es una moda de salud. Es el alimento medicinal más documentado de la historia de la humanidad."
+    },
+    "2db3b10a": {
+      "src": "Exactly as every civilisation that understood health has always recommended.",
+      "t": "Exactamente como siempre lo ha recomendado toda civilización que entendió la salud."
+    },
+    "b8db0118": {
+      "src": "Extraordinary legacy.",
+      "t": "Legado extraordinario."
+    },
+    "1cbb0317": {
+      "src": "Five Civilisations. One Truth.",
+      "t": "Cinco civilizaciones. Una verdad."
+    },
+    "5e025fb8": {
+      "src": "Five civilisations",
+      "t": "Cinco civilizaciones"
+    },
+    "415220d1": {
+      "src": "Five of the greatest civilisations in human history, working independently across thousands of years, all arrived at the same conclusion about this plant.",
+      "t": "Cinco de las civilizaciones más grandes de la historia de la humanidad, trabajando de forma independiente a lo largo de miles de años, llegaron todas a la misma conclusión sobre esta planta."
+    },
+    "7c4384be": {
+      "src": "Flexible stem, multiple layers of cloves, longer shelf life. Milder flavour. This is the variety typically found in supermarkets. Suited to warmer climates. Braided for storage.",
+      "t": "Tallo flexible, varias capas de dientes, mayor duración de almacenamiento. Sabor más suave. Es la variedad que se encuentra normalmente en los supermercados. Apta para climas más cálidos. Se trenza para guardarla."
+    },
+    "08360eef": {
+      "src": "Garlic",
+      "t": "Ajo"
+    },
+    "383329be": {
+      "src": "Garlic and",
+      "t": "El ajo y"
+    },
+    "7dde1885": {
+      "src": "Garlic appears in the Ebers Papyrus, an Egyptian medical text from around 1550 BC, among the remedies recorded for a range of complaints. Tradition holds that the labourers building the pyramids were given garlic to keep up their strength, though that reaches us as a long standing story rather than as a documented record.",
+      "t": "El ajo aparece en el Papiro Ebers, un texto médico egipcio de alrededor del año 1550 a. C., entre los remedios registrados para diversas dolencias. La tradición sostiene que a los obreros que construyeron las pirámides se les daba ajo para mantener sus fuerzas, aunque eso nos llega como un relato de larga tradición y no como un registro documentado."
+    },
+    "022744ef": {
+      "src": "Garlic has not been shown to prevent heart attacks or strokes, which is what blood pressure medication is prescribed to do",
+      "t": "No se ha demostrado que el ajo prevenga infartos ni accidentes cerebrovasculares, que es para lo que se receta la medicación para la presión arterial"
+    },
+    "32a04aec": {
+      "src": "Garlic is among the better studied foods for blood pressure. When researchers pool the randomised trials, garlic supplements lower systolic blood pressure by roughly 5 to 8 mmHg on average in people whose blood pressure is already raised, with a smaller effect on diastolic pressure. That is a real but modest change, the trials are small, and the researchers who run these analyses say larger and better designed studies are still needed.",
+      "t": "El ajo está entre los alimentos mejor estudiados en relación con la presión arterial. Cuando los investigadores agrupan los ensayos aleatorizados, los suplementos de ajo bajan la presión arterial sistólica en torno a 5 a 8 mmHg de media en personas cuya presión arterial ya está elevada, con un efecto menor sobre la presión diastólica. Es un cambio real pero modesto, los ensayos son pequeños, y los investigadores que realizan estos análisis dicen que todavía hacen falta estudios más grandes y mejor diseñados."
+    },
+    "0ebad19d": {
+      "src": "Garlic is not a health trend. It is the most documented medicinal food in human history.",
+      "t": "El ajo no es una moda de salud. Es el alimento medicinal más documentado de la historia de la humanidad."
+    },
+    "eba4919e": {
+      "src": "Garlic may modestly support blood pressure and cholesterol, and its long history across Egypt, Greece, Rome, China, India, and the Caribbean makes it a humble and worthwhile food.",
+      "t": "El ajo puede favorecer de forma modesta la presión arterial y el colesterol, y su larga historia en Egipto, Grecia, Roma, China, India y el Caribe lo convierte en un alimento humilde y valioso."
+    },
+    "75a739ed": {
+      "src": "Garlic supplements are not a replacement for prescribed medication, and they are not free of side effects. They can cause breath and body odour, stomach pain, wind, nausea and allergic reactions, and they can increase the risk of bleeding.",
+      "t": "Los suplementos de ajo no sustituyen a la medicación recetada, y no están libres de efectos secundarios. Pueden causar mal olor del aliento y del cuerpo, dolor de estómago, gases, náuseas y reacciones alérgicas, y pueden aumentar el riesgo de sangrado."
+    },
+    "d1b31cf0": {
+      "src": "Garlic supplements may lower total and LDL (“bad”) cholesterol by a small amount in people whose cholesterol is already raised. Pooled trial evidence found falls of roughly 17 mg/dL in total cholesterol and 9 mg/dL in LDL after more than two months of use, with HDL (“good”) cholesterol barely moving.",
+      "t": "Los suplementos de ajo pueden bajar un poco el colesterol total y el LDL (el “malo”) en personas cuyo colesterol ya está elevado. La evidencia agrupada de los ensayos encontró descensos de aproximadamente 17 mg/dL en el colesterol total y 9 mg/dL en el LDL tras más de dos meses de uso, mientras que el colesterol HDL (el “bueno”) apenas se movió."
+    },
+    "3857f25a": {
+      "src": "Garlic was eaten by Roman soldiers and sailors, who valued it for strength and endurance on campaign. Dioscorides, a Greek physician who served with the Roman army, wrote that garlic cleans the arteries, and recorded its use for bites and for the chest. Ancient writers did not mean by that what a doctor would mean today.",
+      "t": "Los soldados y marineros romanos comían ajo, y lo valoraban por la fuerza y la resistencia en campaña. Dioscórides, un médico griego que sirvió con el ejército romano, escribió que el ajo limpia las arterias, y registró su uso para las mordeduras y para el pecho. Los autores antiguos no querían decir con eso lo que querría decir hoy un médico."
+    },
+    "04354151": {
+      "src": "Garlic — Ancient Medicine, Modern Science — Kwik Fat Cut",
+      "t": "El ajo, medicina antigua y ciencia moderna · Kwik Fat Cut"
+    },
+    "ae1939d3": {
+      "src": "Garlic.",
+      "t": "Ajo."
+    },
+    "bab57d17": {
+      "src": "Garlic’s immune-boosting properties are primarily driven by",
+      "t": "Las propiedades del ajo que refuerzan el sistema inmunitario se deben principalmente a"
+    },
+    "a0305709": {
+      "src": "Greek Olympians consumed garlic before competition for stamina and endurance. Hippocrates — the father of Western medicine — prescribed it for pulmonary complaints, parasites, and digestive disorders.",
+      "t": "Los olímpicos griegos consumían ajo antes de competir para ganar vigor y resistencia. Hipócrates, el padre de la medicina occidental, lo prescribía para dolencias pulmonares, parásitos y trastornos digestivos."
+    },
+    "426f9c06": {
+      "src": "Gupta N, Porter TD, Garlic compounds inhibit human squalene monooxygenase",
+      "t": "Gupta N, Porter TD, Garlic compounds inhibit human squalene monooxygenase"
+    },
+    "6bcaaa47": {
+      "src": "Hardneck Garlic",
+      "t": "Ajo de cuello duro"
+    },
+    "76237ba4": {
+      "src": "He called it a “natural cleanser.”",
+      "t": "Lo llamó un “limpiador natural”."
+    },
+    "8332aad7": {
+      "src": "Higher allicin content",
+      "t": "Mayor contenido de alicina"
+    },
+    "7d96597f": {
+      "src": "History",
+      "t": "Historia"
+    },
+    "6afc8081": {
+      "src": "How garlic might affect cholesterol is still not settled. Animal feeding studies have reported changes in several of the enzymes the body uses to make cholesterol, and laboratory work on human liver cells points mainly to an enzyme called squalene monooxygenase rather than to HMG-CoA reductase, the enzyme that statin medicines block.",
+      "t": "Cómo podría afectar el ajo al colesterol sigue sin estar resuelto. Los estudios de alimentación en animales han informado de cambios en varias de las enzimas que el cuerpo usa para fabricar colesterol, y el trabajo de laboratorio con células hepáticas humanas apunta sobre todo a una enzima llamada escualeno monooxigenasa, y no a la HMG-CoA reductasa, la enzima que bloquean los medicamentos con estatinas."
+    },
+    "8aaf6f50": {
+      "src": "Humble root.",
+      "t": "Raíz humilde."
+    },
+    "4112e97d": {
+      "src": "If you take warfarin or another blood thinner, aspirin, medication for blood pressure or cholesterol, or HIV medication, or if you are due to have surgery, speak to your doctor or pharmacist before taking garlic supplements.",
+      "t": "Si tomas warfarina u otro anticoagulante, aspirina, medicación para la presión arterial o el colesterol, o medicación para el VIH, o si te van a operar, habla con tu médico o tu farmacéutico antes de tomar suplementos de ajo."
+    },
+    "95eb021b": {
+      "src": "Immune Support",
+      "t": "Apoyo inmunitario"
+    },
+    "6aea3e24": {
+      "src": "Immune booster",
+      "t": "Refuerzo inmunitario"
+    },
+    "652fd2c1": {
+      "src": "In Jamaican and West African cooking traditions, garlic has always been more than flavour. Used in bush medicine preparations for fever, infection, and digestive complaints — it arrived in the Caribbean through the same culinary traditions that carried so much ancestral wisdom across the Atlantic.",
+      "t": "En las tradiciones culinarias jamaicanas y de África Occidental, el ajo siempre ha sido más que sabor. Usado en preparaciones de medicina de monte para la fiebre, las infecciones y las molestias digestivas, llegó al Caribe a través de las mismas tradiciones culinarias que llevaron tanta sabiduría ancestral al otro lado del Atlántico."
+    },
+    "399634b9": {
+      "src": "In that same trial, once a cold had started it took about as long to clear in both groups. Garlic is a good food to eat every day. It is not a proven cold remedy.",
+      "t": "En ese mismo ensayo, una vez que el resfriado había comenzado, tardó aproximadamente lo mismo en desaparecer en ambos grupos. El ajo es un buen alimento para comer a diario. No es un remedio comprobado para el resfriado."
+    },
+    "b2f2d16c": {
+      "src": "It is a story of convergence.",
+      "t": "Es una historia de convergencia."
+    },
+    "bd503ee4": {
+      "src": "It was both food and pharmacy.",
+      "t": "Era a la vez alimento y farmacia."
+    },
+    "89fd1e6a": {
+      "src": "Its long history and its promise make it a humble and worthwhile food.",
+      "t": "Su larga historia y su promesa lo convierten en un alimento humilde y valioso."
+    },
+    "76575d98": {
+      "src": "Kwik Fat Cut — Foods Hub — Plants as Medicine — Education First",
+      "t": "Kwik Fat Cut, Centro de Alimentos, las plantas como medicina, la educación primero"
+    },
+    "7cec5d09": {
+      "src": "More complex flavour.",
+      "t": "Sabor más complejo."
+    },
+    "bd227170": {
+      "src": "More from",
+      "t": "Más contenido del"
+    },
+    "63d2d4b7": {
+      "src": "NIH National Center for Complementary and Integrative Health, Garlic",
+      "t": "NIH National Center for Complementary and Integrative Health, Garlic"
+    },
+    "2fa78f77": {
+      "src": "Never stop or reduce a prescribed medication in favour of a food or a supplement. Garlic in cooking, in normal amounts, is a different matter and is fine for most people.",
+      "t": "Nunca dejes ni reduzcas una medicación recetada en favor de un alimento o un suplemento. El ajo en la cocina, en cantidades normales, es otra cosa y no supone ningún problema para la mayoría de las personas."
+    },
+    "ad85de3b": {
+      "src": "None of this has been confirmed in people, so garlic should not be described as working like a statin.",
+      "t": "Nada de esto se ha confirmado en personas, así que no se debe decir que el ajo actúa como una estatina."
+    },
+    "c4149b03": {
+      "src": "Not a supplement. Not an extract.",
+      "t": "No un suplemento. No un extracto."
+    },
+    "f06ca19d": {
+      "src": "One small clinical trial, 146 adults over 12 weeks, found that people taking a daily garlic supplement reported fewer colds than people taking a dummy capsule. That is a single study, and its author was affiliated with a commercial garlic organisation.",
+      "t": "Un pequeño ensayo clínico, con 146 adultos durante 12 semanas, encontró que las personas que tomaban un suplemento diario de ajo declararon menos resfriados que las personas que tomaban una cápsula de placebo. Es un solo estudio, y su autor estaba afiliado a una organización comercial del ajo."
+    },
+    "a0bf58a3": {
+      "src": "Plants as Medicine",
+      "t": "Las plantas como medicina"
+    },
+    "3269bd11": {
+      "src": "Powerful history.",
+      "t": "Historia poderosa."
+    },
+    "57922717": {
+      "src": "Quercetin",
+      "t": "Quercetina"
+    },
+    "551b6f35": {
+      "src": "Researchers are still studying garlic, and some questions remain open.",
+      "t": "Los investigadores siguen estudiando el ajo, y algunas preguntas siguen abiertas."
+    },
+    "006ea72e": {
+      "src": "Ried K et al, Effect of garlic on blood pressure, a systematic review and meta-analysis",
+      "t": "Ried K et al, Effect of garlic on blood pressure, a systematic review and meta-analysis"
+    },
+    "4679b52e": {
+      "src": "Rivlin RS, Historical Perspective on the Use of Garlic",
+      "t": "Rivlin RS, Historical Perspective on the Use of Garlic"
+    },
+    "076ccdaf": {
+      "src": "Scientifically known as",
+      "t": "Conocido científicamente como"
+    },
+    "9cc6a9e6": {
+      "src": "Selenium & manganese",
+      "t": "Selenio y manganeso"
+    },
+    "9782cc3e": {
+      "src": "Softneck & hardneck —",
+      "t": "Cuello blando y cuello duro,"
+    },
+    "0273d878": {
+      "src": "Softneck Garlic",
+      "t": "Ajo de cuello blando"
+    },
+    "9b549fad": {
+      "src": "Softneck vs hardneck",
+      "t": "Cuello blando frente a cuello duro"
+    },
+    "1808ce4b": {
+      "src": "Stiff central stem, fewer but larger cloves, shorter shelf life. Preferred by cooks and herbalists for its intensity. Grows best in cooler climates.",
+      "t": "Tallo central rígido, dientes menos numerosos pero más grandes, menor duración de almacenamiento. Preferido por cocineros y herbolarios por su intensidad. Crece mejor en climas más fríos."
+    },
+    "c6f5a232": {
+      "src": "The Athlete’s Herb",
+      "t": "La hierba del atleta"
+    },
+    "b90938ee": {
+      "src": "The Bigger Picture",
+      "t": "La imagen completa"
+    },
+    "63413969": {
+      "src": "The Blood Mover",
+      "t": "El movilizador de la sangre"
+    },
+    "d856c679": {
+      "src": "The Builder’s Food",
+      "t": "El alimento del constructor"
+    },
+    "b272ed5f": {
+      "src": "The Cochrane review of garlic for the common cold looked at all the available research and concluded there is not enough evidence to say whether garlic prevents or treats colds.",
+      "t": "La revisión Cochrane sobre el ajo para el resfriado común examinó toda la investigación disponible y concluyó que no hay suficiente evidencia para decir si el ajo previene o trata los resfriados."
+    },
+    "291b6329": {
+      "src": "The Kitchen Healer",
+      "t": "El sanador de la cocina"
+    },
+    "8c89e229": {
+      "src": "The Rejuvenator",
+      "t": "El rejuvenecedor"
+    },
+    "f09eccb8": {
+      "src": "The Soldier’s Companion",
+      "t": "El compañero del soldado"
+    },
+    "bd01551b": {
+      "src": "The Two Types",
+      "t": "Los dos tipos"
+    },
+    "ff553278": {
+      "src": "The evidence is not consistent.",
+      "t": "La evidencia no es consistente."
+    },
+    "6a9d064d": {
+      "src": "The health claims on this page were checked against the sources below. Where a claim could not be supported it was softened or removed rather than given a citation that did not fit. This page is general information about food, not medical advice, and no food prevents or treats disease.",
+      "t": "Las afirmaciones de salud de esta página se contrastaron con las fuentes que figuran a continuación. Cuando una afirmación no se pudo respaldar, se matizó o se eliminó, en lugar de darle una cita que no encajaba. Esta página es información general sobre alimentos, no consejo médico, y ningún alimento previene ni trata enfermedades."
+    },
+    "ee4bd4c3": {
+      "src": "The kitchen was the pharmacy.",
+      "t": "La cocina era la farmacia."
+    },
+    "4988292c": {
+      "src": "The mechanism involves garlic’s ability to",
+      "t": "El mecanismo tiene que ver con la capacidad del ajo de"
+    },
+    "333af7fa": {
+      "src": "The most common type.",
+      "t": "El tipo más común."
+    },
+    "d5f53a76": {
+      "src": "The whole clove, grown from the earth, prepared with care.",
+      "t": "El diente entero, cultivado en la tierra, preparado con cuidado."
+    },
+    "2bc39a17": {
+      "src": "There are two main types of garlic, softneck and hardneck, differing in flavour, storage ability, and growing habits. Understanding the difference helps you choose and use garlic most effectively.",
+      "t": "Hay dos tipos principales de ajo, el de cuello blando y el de cuello duro, que se diferencian en el sabor, la capacidad de conservación y los hábitos de cultivo. Entender la diferencia te ayuda a elegir y usar el ajo de la forma más eficaz."
+    },
+    "42cfca4f": {
+      "src": "These accounts show how highly garlic has been valued for a very long time. They are not evidence of what it does in the body.",
+      "t": "Estos relatos muestran lo mucho que se ha valorado el ajo desde hace muchísimo tiempo. No son evidencia de lo que hace en el cuerpo."
+    },
+    "0c773097": {
+      "src": "This overview highlights garlic’s role in community health through education and collective effort.",
+      "t": "Esta descripción general destaca el papel del ajo en la salud comunitaria a través de la educación y el esfuerzo colectivo."
+    },
+    "de9b5fdb": {
+      "src": "Traditional Chinese Medicine",
+      "t": "Medicina tradicional china"
+    },
+    "d9bad3d5": {
+      "src": "Valued for",
+      "t": "Valorado durante"
+    },
+    "fed75c1d": {
+      "src": "What is already clear is that garlic is a flavourful, inexpensive food with a long history and a modest, well tolerated place in a healthy diet.",
+      "t": "Lo que ya está claro es que el ajo es un alimento sabroso y barato, con una larga historia y un lugar modesto y bien tolerado en una dieta saludable."
+    },
+    "4161401c": {
+      "src": "Where this",
+      "t": "De dónde viene"
+    },
+    "4ae97355": {
+      "src": "Xiong XJ et al, Garlic for hypertension, a systematic review and meta-analysis",
+      "t": "Xiong XJ et al, Garlic for hypertension, a systematic review and meta-analysis"
+    },
+    "b2e9c313": {
+      "src": "allicin",
+      "t": "la alicina"
+    },
+    "f590ee38": {
+      "src": "comes from.",
+      "t": "todo esto."
+    },
+    "16a6c522": {
+      "src": "in blood vessel walls. Nitric oxide relaxes the smooth muscle lining of arteries, widening the vessels and reducing resistance — the same fundamental mechanism targeted by many blood pressure medications.",
+      "t": "en las paredes de los vasos sanguíneos. El óxido nítrico relaja la capa de músculo liso de las arterias, ensanchando los vasos y reduciendo la resistencia, el mismo mecanismo fundamental al que se dirigen muchos medicamentos para la presión arterial."
+    },
+    "02e795d5": {
+      "src": "in many varieties.",
+      "t": "en muchas variedades."
+    },
+    "b5638764": {
+      "src": "increase nitric oxide production",
+      "t": "aumentar la producción de óxido nítrico"
+    },
+    "311b4dcb": {
+      "src": "lowering agent.",
+      "t": "el colesterol."
+    },
+    "898dd111": {
+      "src": "moving blood, warming the stomach, and detoxifying",
+      "t": "mover la sangre, calentar el estómago y desintoxicar"
+    },
+    "15e964ff": {
+      "src": "rasayana",
+      "t": "rasayana"
+    },
+    "eb68c37c": {
+      "src": "the Foods Hub.",
+      "t": "Centro de Alimentos."
+    },
+    "51752176": {
+      "src": "the body. It was prescribed for digestive complaints, respiratory infections, and worms — all conditions now confirmed by modern research.",
+      "t": "el cuerpo. Se prescribía para molestias digestivas, infecciones respiratorias y lombrices, todas ellas afecciones ahora confirmadas por la investigación moderna."
+    },
+    "f0686342": {
+      "src": "the heart.",
+      "t": "el corazón."
+    },
+    "ac5b6dac": {
+      "src": "the immune system.",
+      "t": "el sistema inmunitario."
+    },
+    "5c23da3b": {
+      "src": "thousands of years of use",
+      "t": "miles de años de uso"
+    },
+    "3d8337fb": {
+      "src": "thousands of years.",
+      "t": "miles de años."
+    },
+    "07b6e076": {
+      "src": "through education.",
+      "t": "a través de la educación."
+    },
+    "5c783091": {
+      "src": "to maximise allicin activation. Eat it often. Understand what it is doing for you, and what it is not.",
+      "t": "para maximizar la activación de la alicina. Cómelo a menudo. Entiende lo que hace por ti, y lo que no."
+    },
+    "8f0936cc": {
+      "src": "what’s the difference?",
+      "t": "¿cuál es la diferencia?"
+    },
+    "d053f533": {
+      "src": "— a rejuvenating substance that promotes longevity. It was prescribed for heart disease, arthritis, digestive weakness, and as a general tonic.",
+      "t": ", una sustancia rejuvenecedora que promueve la longevidad. Se prescribía para enfermedades del corazón, artritis, debilidad digestiva y como tónico general."
+    },
+    "3dfa1c45": {
+      "src": "— a sulphur compound released when garlic is crushed or chopped. Allicin has documented antimicrobial activity against bacteria, viruses, and fungi, including strains resistant to conventional antibiotics.",
+      "t": ", un compuesto de azufre que se libera cuando el ajo se machaca o se pica. La alicina tiene actividad antimicrobiana documentada contra bacterias, virus y hongos, incluidas cepas resistentes a los antibióticos convencionales."
+    },
+    "cc09e767": {
+      "src": "— anti-clotting compound that improves blood fluidity and reduces risk of cardiovascular events.",
+      "t": ": compuesto anticoagulante que mejora la fluidez de la sangre y reduce el riesgo de eventos cardiovasculares."
+    },
+    "2fd1b276": {
+      "src": "— anti-inflammatory flavonoid that modulates immune responses and reduces histamine release.",
+      "t": ": flavonoide antiinflamatorio que modula las respuestas inmunitarias y reduce la liberación de histamina."
+    },
+    "12834f75": {
+      "src": "— antimicrobial against bacteria, viruses, fungi. Activated by crushing or chopping. Destroyed by high heat — use raw or lightly cooked for maximum effect.",
+      "t": ": antimicrobiana contra bacterias, virus y hongos. Se activa al machacar o picar. Se destruye con el calor fuerte, úsalo crudo o poco cocinado para obtener el máximo efecto."
+    },
+    "4ca140ba": {
+      "src": "— trace minerals that support antioxidant enzyme production, protecting cells from oxidative stress.",
+      "t": ": minerales traza que favorecen la producción de enzimas antioxidantes, protegiendo a las células del estrés oxidativo."
+    },
+    "ad5b7119": {
+      "src": "“Five civilisations. Thousands of years. One convergence.",
+      "t": "“Cinco civilizaciones. Miles de años. Una convergencia."
+    },
+    "954ba9ea": {
+      "src": "“Garlic may modestly support blood pressure and cholesterol, and it has been valued in kitchens and in medicine for thousands of years.",
+      "t": "“El ajo puede favorecer de forma modesta la presión arterial y el colesterol, y se ha valorado en las cocinas y en la medicina durante miles de años."
+    },
+    "7fb2b126": {
+      "src": "🧄 Ancient Medicine — Modern Science",
+      "t": "🧄 Medicina antigua, ciencia moderna"
+    }
+  }
+}

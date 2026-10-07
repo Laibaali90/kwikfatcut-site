@@ -1,0 +1,723 @@
+{
+  "_note": "Page content for learn-option-meals.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "95cf3da0": {
+      "src": "10 min",
+      "t": "10 min"
+    },
+    "6c3d982e": {
+      "src": "Abundant in vegetables, legumes, fruits — counteracts sodium",
+      "t": "Abundante en verduras, legumbres y frutas; contrarresta el sodio"
+    },
+    "d944aa1e": {
+      "src": "Across the largest and longest nutritional studies ever conducted — including the Adventist Health Studies, the EPIC-Oxford study, and the China Study — strict plant-based diets consistently show lower rates of heart disease, type 2 diabetes, certain cancers, hypertension, and obesity.",
+      "t": "En los estudios nutricionales más grandes y largos jamás realizados, como los Adventist Health Studies, el estudio EPIC-Oxford y el China Study, las dietas estrictamente basadas en plantas muestran de forma constante menores tasas de enfermedad cardíaca, diabetes tipo 2, ciertos tipos de cáncer, hipertensión y obesidad."
+    },
+    "a7184e7f": {
+      "src": "All articles free. No subscription. The knowledge tree keeps growing.",
+      "t": "Todos los artículos son gratis. Sin suscripción. El árbol del conocimiento sigue creciendo."
+    },
+    "00e8a20f": {
+      "src": "An Option Meal does not require perfection. It does not require a complete dietary overhaul overnight. It requires",
+      "t": "Una Option Meal no exige perfección. No exige cambiar toda tu dieta de la noche a la mañana. Exige"
+    },
+    "5354f8a0": {
+      "src": "An Option Meal is not a fixed recipe. It is not a meal plan you subscribe to or a product you purchase. It is a",
+      "t": "Una Option Meal no es una receta fija. No es un plan de comidas al que te suscribes ni un producto que compras. Es una"
+    },
+    "cf3aa1e1": {
+      "src": "Ancestral & Evidence-Based",
+      "t": "Ancestral y basado en la evidencia"
+    },
+    "03e1687f": {
+      "src": "And it receives these compounds in the form they are most bioavailable — inside the whole food matrix, with all the co-factors nature designed to help absorb them.",
+      "t": "Y recibe estos compuestos en la forma en que son más biodisponibles: dentro de la matriz del alimento entero, con todos los cofactores que la naturaleza diseñó para ayudar a absorberlos."
+    },
+    "acb4b8b2": {
+      "src": "Anti-inflammatory, antioxidant, anti-cancer compounds only in plants",
+      "t": "Compuestos antiinflamatorios, antioxidantes y anticancerígenos que solo están en las plantas"
+    },
+    "9b388399": {
+      "src": "Antioxidants",
+      "t": "Antioxidantes"
+    },
+    "ed68f4d9": {
+      "src": "Approach",
+      "t": "Enfoque"
+    },
+    "53e09226": {
+      "src": "Blood pressure regulation, heart rhythm",
+      "t": "Regulación de la presión arterial, ritmo cardíaco"
+    },
+    "1833bd9e": {
+      "src": "Body benefit",
+      "t": "Beneficio para el cuerpo"
+    },
+    "deb9b2e4": {
+      "src": "Brown rice or wild rice",
+      "t": "Arroz integral o arroz salvaje"
+    },
+    "86d6572e": {
+      "src": "Callaloo & Provision Breakfast",
+      "t": "Desayuno de callaloo y víveres"
+    },
+    "a987f789": {
+      "src": "Cellular protection, reduced disease risk",
+      "t": "Protección celular, menor riesgo de enfermedad"
+    },
+    "60342e23": {
+      "src": "Cerasee tea after the meal",
+      "t": "Té de cerasee después de comer"
+    },
+    "3cc64f03": {
+      "src": "Coconut milk base (natural, unsweetened)",
+      "t": "Base de leche de coco (natural, sin azúcar)"
+    },
+    "95d9e4b6": {
+      "src": "Complete amino acid profiles when varied legumes and grains are combined",
+      "t": "Perfil completo de aminoácidos al combinar distintas legumbres y cereales"
+    },
+    "4f31947b": {
+      "src": "Complete plant protein, prebiotic fibre, anti-inflammatory compounds, magnesium, zinc. Full amino acid profile from peas and rice together.",
+      "t": "Proteína vegetal completa, fibra prebiótica, compuestos antiinflamatorios, magnesio y zinc. Un perfil completo de aminoácidos al combinar los frijoles con el arroz."
+    },
+    "079093ae": {
+      "src": "Connection to the land",
+      "t": "Conexión con la tierra"
+    },
+    "49d980a7": {
+      "src": "Daily practice",
+      "t": "Práctica diaria"
+    },
+    "834dc1c7": {
+      "src": "Dietary fibre",
+      "t": "Fibra dietética"
+    },
+    "8372d5da": {
+      "src": "Different language. Identical conclusion.",
+      "t": "Distinto lenguaje. La misma conclusión."
+    },
+    "b7ea6807": {
+      "src": "Digestive enzymes from papaya & mango, vitamin C, natural electrolytes from coconut water, healthy fats and protein from seeds. Maximum living nutrition.",
+      "t": "Enzimas digestivas de la papaya y el mango, vitamina C, electrolitos naturales del agua de coco, grasas saludables y proteína de las semillas. El máximo de nutrición viva."
+    },
+    "5eb95379": {
+      "src": "Eat with understanding.",
+      "t": "Come con comprensión."
+    },
+    "91ac17d6": {
+      "src": "Energy, sleep, nerve function, blood sugar",
+      "t": "Energía, sueño, función nerviosa, azúcar en sangre"
+    },
+    "1736574c": {
+      "src": "Evening — Ital Stew",
+      "t": "Noche · Guiso Ital"
+    },
+    "791f31c7": {
+      "src": "Every time you choose a whole food over a processed one, you are practising Ital. Every time you reach for callaloo instead of a chemical-laden convenience food, you are honouring ancestral wisdom and doing what the science confirms.",
+      "t": "Cada vez que eliges un alimento integral en lugar de uno procesado, estás practicando Ital. Cada vez que tomas callaloo en lugar de una comida rápida cargada de químicos, estás honrando la sabiduría ancestral y haciendo lo que la ciencia confirma."
+    },
+    "6a75317c": {
+      "src": "Excess sodium is understood as a burden on the kidneys and blood pressure",
+      "t": "El exceso de sodio se entiende como una carga para los riñones y la presión arterial"
+    },
+    "cdce04c0": {
+      "src": "Feeds gut bacteria, slows sugar absorption, binds cholesterol",
+      "t": "Alimenta las bacterias intestinales, frena la absorción del azúcar, atrapa el colesterol"
+    },
+    "bfef6859": {
+      "src": "Fever grass (lemongrass) tea",
+      "t": "Té de fever grass (hierba de limón)"
+    },
+    "f4b41fb1": {
+      "src": "Food should come from the earth in its closest-to-original form.",
+      "t": "La comida debe venir de la tierra en la forma más cercana a la original."
+    },
+    "8f9bf9f6": {
+      "src": "Found in dark leafy greens, seeds, legumes — involved in 300+ body processes",
+      "t": "Presente en las verduras de hoja oscura, las semillas y las legumbres; participa en más de 300 procesos del cuerpo"
+    },
+    "5fd9b68a": {
+      "src": "Fresh coconut water to drink",
+      "t": "Agua de coco fresca para beber"
+    },
+    "b5aba3c5": {
+      "src": "Fresh lime & sea salt (minimal)",
+      "t": "Limón fresco y sal marina (poca)"
+    },
+    "a7a74607": {
+      "src": "Fresh thyme, allspice & scotch bonnet",
+      "t": "Tomillo fresco, pimienta de Jamaica y ají scotch bonnet"
+    },
+    "52d6ca86": {
+      "src": "Green banana & plantain",
+      "t": "Guineo verde y plátano"
+    },
+    "53d9b9c7": {
+      "src": "Guinep or star apple (seasonal)",
+      "t": "Quenepa o caimito (según la temporada)"
+    },
+    "08fe53cd": {
+      "src": "Gut health, stable energy, lower cholesterol",
+      "t": "Salud intestinal, energía estable, colesterol más bajo"
+    },
+    "08d3862f": {
+      "src": "Here is why:",
+      "t": "Por qué:"
+    },
+    "d03ba450": {
+      "src": "How it works",
+      "t": "Cómo actúa"
+    },
+    "abdbd530": {
+      "src": "If it was not grown, it is not Ital.",
+      "t": "Si no se cultivó, no es Ital."
+    },
+    "0fc90561": {
+      "src": "Iron, vitamins A & C, complex carbohydrates, healthy fats, digestive support. Sustained energy without blood sugar spike.",
+      "t": "Hierro, vitaminas A y C, carbohidratos complejos, grasas saludables y apoyo digestivo. Energía sostenida sin picos de azúcar en sangre."
+    },
+    "1ea18100": {
+      "src": "It is not the absence of meat that protects them. It is the presence of plant abundance.",
+      "t": "No es la ausencia de carne lo que los protege. Es la presencia de abundancia vegetal."
+    },
+    "205b873d": {
+      "src": "Ital",
+      "t": "Ital"
+    },
+    "e9d01ffd": {
+      "src": "Ital & Plant-Based Living",
+      "t": "Vida Ital y basada en plantas"
+    },
+    "64bfd911": {
+      "src": "Ital Roots & Plant Science",
+      "t": "Raíces Ital y ciencia vegetal"
+    },
+    "e8dd176d": {
+      "src": "Ital eating is inherently local and seasonal.",
+      "t": "Comer Ital es, por naturaleza, local y de temporada."
+    },
+    "acc19c21": {
+      "src": "Ital is vital. The land provides. The choice is yours.",
+      "t": "Ital es vital. La tierra provee. La decisión es tuya."
+    },
+    "7838053f": {
+      "src": "Ital tradition &",
+      "t": "La tradición Ital y"
+    },
+    "4bf5efc9": {
+      "src": "Ital —",
+      "t": "Ital,"
+    },
+    "41817857": {
+      "src": "Ital — the foundation",
+      "t": "Ital: la base"
+    },
+    "020b05e3": {
+      "src": "Jamaican Vegetable Rundown",
+      "t": "Rundown jamaicano de verduras"
+    },
+    "6064b562": {
+      "src": "Kwik Fat Cut is here to make sure that choice is always an informed one. 🌿🇯🇲❤️💚",
+      "t": "Kwik Fat Cut está aquí para asegurarse de que esa decisión sea siempre informada. 🌿🇯🇲❤️💚"
+    },
+    "fcb57c46": {
+      "src": "Kwik Fat Cut — Education First — We row. You steer.",
+      "t": "Kwik Fat Cut. La educación primero. Nosotros remamos. Tú diriges."
+    },
+    "769df100": {
+      "src": "Legume & Grain Power Bowl",
+      "t": "Bowl energético de legumbres y cereales"
+    },
+    "fd743792": {
+      "src": "Let understanding do the work that discipline alone cannot.",
+      "t": "Deja que la comprensión haga el trabajo que la disciplina por sí sola no puede hacer."
+    },
+    "59374bcd": {
+      "src": "Light Meal — Raw Option",
+      "t": "Comida ligera · Opción cruda"
+    },
+    "6d878853": {
+      "src": "Lime & a pinch of cayenne",
+      "t": "Limón y una pizca de cayena"
+    },
+    "d7241f51": {
+      "src": "Living Fruit & Seed Plate",
+      "t": "Plato vivo de frutas y semillas"
+    },
+    "c5f67f05": {
+      "src": "Living It",
+      "t": "Vivirlo"
+    },
+    "1ed988ce": {
+      "src": "MCTs from coconut, complex carbohydrates, potassium, fibre, digestive enzymes. Cerasee supports blood sugar regulation post-meal.",
+      "t": "MCT del coco, carbohidratos complejos, potasio, fibra y enzimas digestivas. El cerasee ayuda a regular el azúcar en sangre después de comer."
+    },
+    "140c5c8f": {
+      "src": "Magnesium",
+      "t": "Magnesio"
+    },
+    "1005bd2c": {
+      "src": "Mango, papaya & soursop",
+      "t": "Mango, papaya y guanábana"
+    },
+    "7f8c2171": {
+      "src": "Many Ital practitioners avoid all meat. Others include fish. The underlying principle:",
+      "t": "Muchas personas que practican Ital evitan toda la carne. Otras incluyen pescado. El principio de fondo:"
+    },
+    "68e7322a": {
+      "src": "Midday — Plant Science",
+      "t": "Mediodía · Ciencia vegetal"
+    },
+    "8b7bfd1c": {
+      "src": "Minimal or no salt",
+      "t": "Poca o ninguna sal"
+    },
+    "a33435ec": {
+      "src": "Morning — Ital Roots",
+      "t": "Mañana · Raíces Ital"
+    },
+    "18c4df49": {
+      "src": "Muscle, repair, enzyme function without saturated fat",
+      "t": "Músculo, reparación y función enzimática sin grasas saturadas"
+    },
+    "6ce50b12": {
+      "src": "Natural and unprocessed",
+      "t": "Natural y sin procesar"
+    },
+    "5bc8b443": {
+      "src": "No artificial additives, no chemical preservatives, no synthetic flavourings.",
+      "t": "Sin aditivos artificiales, sin conservantes químicos, sin saborizantes sintéticos."
+    },
+    "06a3fd2e": {
+      "src": "No flesh foods for strict practitioners",
+      "t": "Sin carne para quienes lo practican de forma estricta"
+    },
+    "3e477757": {
+      "src": "No synthetic containers",
+      "t": "Sin recipientes sintéticos"
+    },
+    "e98aa064": {
+      "src": "Not a diet. An",
+      "t": "No es una dieta. Es"
+    },
+    "3d376b34": {
+      "src": "Not a programme. A",
+      "t": "No es un programa. Es una"
+    },
+    "0f4781de": {
+      "src": "Not a restriction. An",
+      "t": "No es una restricción. Es una"
+    },
+    "3449a31c": {
+      "src": "Not restrictions. Not guilt. Not pressure. When you understand what each food does, every meal becomes a choice you make knowingly — for your body, your energy, your clarity, and your longevity.",
+      "t": "No restricciones. No culpa. No presión. Cuando entiendes lo que hace cada alimento, cada comida se convierte en una decisión que tomas a sabiendas: por tu cuerpo, tu energía, tu claridad y tu longevidad."
+    },
+    "7bbf2f9f": {
+      "src": "Not what you’re",
+      "t": "No lo que"
+    },
+    "f3bb5f1a": {
+      "src": "One important note for strict plant-based eaters:",
+      "t": "Una nota importante para quienes comen de forma estrictamente vegetal:"
+    },
+    "17245cb4": {
+      "src": "Option",
+      "t": "Option"
+    },
+    "8ce1f2e0": {
+      "src": "Option Meal?",
+      "t": "Option Meal?"
+    },
+    "d8e26a84": {
+      "src": "Option Meals",
+      "t": "Option Meals"
+    },
+    "07cce1e9": {
+      "src": "Option Meals — Ital Roots & Plant Science — Kwik Fat Cut",
+      "t": "Option Meals: raíces Ital y ciencia vegetal · Kwik Fat Cut"
+    },
+    "d31b6f6f": {
+      "src": "Option Meals. Gathered together. Rooted in the earth. Built for the body. Free to understand. 🌳",
+      "t": "Option Meals. Reunidas. Con raíces en la tierra. Hechas para el cuerpo. Libres de entender. 🌳"
+    },
+    "150c140e": {
+      "src": "Option meal examples",
+      "t": "Ejemplos de Option Meals"
+    },
+    "7e9ddc24": {
+      "src": "Option meals",
+      "t": "Option Meals"
+    },
+    "6eaf196f": {
+      "src": "Over time, the choices become natural. The body responds. Energy changes. Clarity changes. The relationship with food changes from one of habit to one of intention.",
+      "t": "Con el tiempo, las elecciones se vuelven naturales. El cuerpo responde. La energía cambia. La claridad cambia. La relación con la comida pasa de ser un hábito a ser una intención."
+    },
+    "a0b226be": {
+      "src": "Phytochemicals",
+      "t": "Fitoquímicos"
+    },
+    "8d2ade75": {
+      "src": "Plant protein",
+      "t": "Proteína vegetal"
+    },
+    "de8eaf52": {
+      "src": "Potassium",
+      "t": "Potasio"
+    },
+    "3174eb87": {
+      "src": "Practical Examples",
+      "t": "Ejemplos prácticos"
+    },
+    "07dd07af": {
+      "src": "Pumpkin seeds & fresh herbs",
+      "t": "Semillas de calabaza y hierbas frescas"
+    },
+    "11d4eaae": {
+      "src": "Pumpkin seeds & shelled peanuts",
+      "t": "Semillas de calabaza y maní pelado"
+    },
+    "5c17e1d8": {
+      "src": "Reduced oxidative stress, slower ageing, cancer protection",
+      "t": "Menos estrés oxidativo, envejecimiento más lento, protección contra el cáncer"
+    },
+    "5c81a150": {
+      "src": "Roasted breadfruit or boiled yam",
+      "t": "Fruta del pan asada o ñame hervido"
+    },
+    "30da6fb1": {
+      "src": "Sliced avocado (pear)",
+      "t": "Aguacate en rodajas (pear)"
+    },
+    "cc759bcc": {
+      "src": "Slow-cooked red peas or gungo peas",
+      "t": "Frijoles rojos o gandules cocidos a fuego lento"
+    },
+    "ece3aaf7": {
+      "src": "Start free.",
+      "t": "Empieza gratis."
+    },
+    "793656ac": {
+      "src": "Start with one Ital-inspired meal a day. Learn what it contains. Learn what it does.",
+      "t": "Empieza con una comida al día inspirada en Ital. Aprende qué contiene. Aprende qué hace."
+    },
+    "4e4bc641": {
+      "src": "Steamed callaloo with onion, thyme & scotch bonnet",
+      "t": "Callaloo al vapor con cebolla, tomillo y ají scotch bonnet"
+    },
+    "7a6035e5": {
+      "src": "Steamed kale or pak choi",
+      "t": "Col rizada o pak choi al vapor"
+    },
+    "13f6cd8e": {
+      "src": "Strict vegetarian science",
+      "t": "La ciencia vegetariana estricta"
+    },
+    "689482cc": {
+      "src": "Sweet potato, dasheen & cho cho",
+      "t": "Batata, dasheen y chayote"
+    },
+    "7b70483a": {
+      "src": "That is the Kwik Fat Cut way.”",
+      "t": "Esa es la manera de Kwik Fat Cut.”"
+    },
+    "48ca933b": {
+      "src": "That is the wrong frame entirely.",
+      "t": "Ese enfoque es completamente equivocado."
+    },
+    "2bfb2228": {
+      "src": "The Concept",
+      "t": "El concepto"
+    },
+    "7bb574f4": {
+      "src": "The Ital practitioner avoids processed food because the spirit does not thrive on dead things. The nutritional scientist avoids processed food because it carries no phytochemicals, depletes gut bacteria, and drives inflammation.",
+      "t": "Quien practica Ital evita la comida procesada porque el espíritu no prospera con cosas muertas. El científico de la nutrición evita la comida procesada porque no aporta fitoquímicos, empobrece las bacterias intestinales y alimenta la inflamación."
+    },
+    "29900806": {
+      "src": "The Jamaican earth provides callaloo, ackee, breadfruit, yam, sweet potato, guinep, soursop — each adapted to the bodies that live alongside them.",
+      "t": "La tierra jamaicana da callaloo, ackee, fruta del pan, ñame, batata, quenepa, guanábana: cada uno adaptado a los cuerpos que viven junto a él."
+    },
+    "f2a6f24c": {
+      "src": "The Option Meal conversation is about what you are adding. What you are giving the body that it has been waiting for.",
+      "t": "La conversación sobre las Option Meals trata de lo que añades. De lo que le das al cuerpo y que llevaba tiempo esperando."
+    },
+    "27825539": {
+      "src": "The Option Meal is where these two traditions are gathered together. It draws from Ital’s spiritual clarity and its deep connection to Jamaican and West African food heritage. And it draws from the science of strict plant-based eating — the clinical evidence for what whole plant foods do inside the body at the cellular level.",
+      "t": "La Option Meal es el lugar donde se reúnen estas dos tradiciones. Toma de Ital su claridad espiritual y su profunda conexión con la herencia alimentaria de Jamaica y África Occidental. Y toma de la ciencia de la alimentación estrictamente vegetal la evidencia clínica de lo que los alimentos vegetales integrales hacen dentro del cuerpo a nivel celular."
+    },
+    "c032bbe7": {
+      "src": "The Rastafarian Foundation",
+      "t": "La base rastafari"
+    },
+    "25bee7ee": {
+      "src": "The Science",
+      "t": "La ciencia"
+    },
+    "27fd73ea": {
+      "src": "The body responds to plant-based whole foods in ways that animal products and processed foods cannot replicate.",
+      "t": "El cuerpo responde a los alimentos integrales de origen vegetal de maneras que los productos animales y los alimentos procesados no pueden igualar."
+    },
+    "298c8e86": {
+      "src": "The conversation around plant-based eating is too often framed around what is removed — no meat, no dairy, no this, no that.",
+      "t": "La conversación sobre la alimentación basada en plantas se plantea demasiado a menudo en torno a lo que se quita: nada de carne, nada de lácteos, nada de esto, nada de aquello."
+    },
+    "ed73edf4": {
+      "src": "The core Ital principles have been practised in Jamaica and the Caribbean for generations. Long before nutritional science had language for what they were doing, Ital practitioners were eating in ways that modern research now confirms as among the most health-protective patterns on earth.",
+      "t": "Los principios básicos Ital se practican en Jamaica y el Caribe desde hace generaciones. Mucho antes de que la ciencia nutricional tuviera palabras para lo que hacían, quienes practicaban Ital comían de formas que la investigación moderna hoy confirma como algunos de los patrones más protectores de la salud del planeta."
+    },
+    "18575b67": {
+      "src": "The seed is",
+      "t": "La semilla"
+    },
+    "0a734ef2": {
+      "src": "The vessel matters as much as the contents",
+      "t": "El recipiente importa tanto como el contenido"
+    },
+    "c41eb5dc": {
+      "src": "The word",
+      "t": "La palabra"
+    },
+    "d433b087": {
+      "src": "The word “option” is deliberate.",
+      "t": "La palabra “option” (opción) es deliberada."
+    },
+    "1be4a733": {
+      "src": "There is no separating the food from the life.”",
+      "t": "No se puede separar la comida de la vida.”"
+    },
+    "a65d45e2": {
+      "src": "These are not prescriptions. They are illustrations — showing how Ital tradition and plant science combine naturally in a single meal. Each one is built around whole, indigenous, largely Jamaican ingredients.",
+      "t": "No son recetas médicas. Son ejemplos que muestran cómo la tradición Ital y la ciencia vegetal se combinan de forma natural en una sola comida. Cada uno se basa en ingredientes integrales, indígenas y, en su mayoría, jamaicanos."
+    },
+    "88f4aac1": {
+      "src": "These two things have always been the same thing.",
+      "t": "Estas dos cosas siempre han sido la misma."
+    },
+    "1ebc095c": {
+      "src": "This is not ideology. This is data from hundreds of thousands of people tracked over decades.",
+      "t": "No es ideología. Son datos de cientos de miles de personas seguidas durante décadas."
+    },
+    "83e2004f": {
+      "src": "This is not judgement of those who eat differently. It is a personal covenant.",
+      "t": "No es un juicio sobre quienes comen de otra manera. Es un compromiso personal."
+    },
+    "d4114357": {
+      "src": "This is why communities that have eaten this way for generations — Ital Rastafarians, Seventh-day Adventists, traditional Mediterranean communities, Okinawan elders — consistently show lower chronic disease rates and longer healthy lifespans.",
+      "t": "Por eso las comunidades que han comido así durante generaciones (rastafaris Ital, adventistas del séptimo día, comunidades mediterráneas tradicionales, ancianos de Okinawa) muestran de forma constante menores tasas de enfermedades crónicas y vidas sanas más largas."
+    },
+    "39358fc9": {
+      "src": "Those avoiding all animal products should supplement B12 or include B12-fortified foods. This is not a weakness of the diet — it is simply biology, and the honest thing to say.",
+      "t": "Quienes evitan todos los productos animales deben tomar un suplemento de B12 o incluir alimentos enriquecidos con B12. No es una debilidad de la dieta: es simplemente biología, y lo honesto es decirlo."
+    },
+    "9313d421": {
+      "src": "Together, they form something more powerful than either alone.",
+      "t": "Juntas forman algo más poderoso que cualquiera de las dos por separado."
+    },
+    "7ded81ec": {
+      "src": "Traditional Ital avoids cooking in aluminium or synthetic materials. Clay pots, cast iron, and natural vessels are preferred.",
+      "t": "La tradición Ital evita cocinar en aluminio o en materiales sintéticos. Se prefieren las ollas de barro, el hierro fundido y los recipientes naturales."
+    },
+    "bee0b0c0": {
+      "src": "Traditional Ital uses sea salt sparingly or natural herbs for flavour.",
+      "t": "La cocina Ital tradicional usa la sal marina con moderación o hierbas naturales para dar sabor."
+    },
+    "01635d90": {
+      "src": "Turmeric and ginger dressing",
+      "t": "Aliño de cúrcuma y jengibre"
+    },
+    "5fba348d": {
+      "src": "Two paths. One destination.",
+      "t": "Dos caminos. Un mismo destino."
+    },
+    "847f6e22": {
+      "src": "Vitamin B12 is not reliably found in plant foods.",
+      "t": "La vitamina B12 no se encuentra de forma fiable en los alimentos vegetales."
+    },
+    "5379f974": {
+      "src": "Vitamins C, E, beta-carotene, polyphenols — neutralise free radicals",
+      "t": "Vitaminas C y E, betacaroteno, polifenoles: neutralizan los radicales libres"
+    },
+    "8b1fe20a": {
+      "src": "We just needed the language to say it clearly.",
+      "t": "Solo necesitábamos el lenguaje para decirlo con claridad."
+    },
+    "7766e3aa": {
+      "src": "What an Option Meal is",
+      "t": "Qué es una Option Meal"
+    },
+    "9551aa3c": {
+      "src": "What grows here, grows for us.",
+      "t": "Lo que crece aquí, crece para nosotros."
+    },
+    "393e25f4": {
+      "src": "What is an",
+      "t": "¿Qué es una"
+    },
+    "20893577": {
+      "src": "What is extraordinary about Ital eating is that its intuitions — developed through spiritual practice and generational observation in Jamaica — map almost perfectly onto what decades of nutritional science have now confirmed.",
+      "t": "Lo extraordinario de la alimentación Ital es que sus intuiciones, desarrolladas mediante la práctica espiritual y la observación de generaciones en Jamaica, encajan casi a la perfección con lo que décadas de ciencia nutricional han confirmado."
+    },
+    "c2abeb1a": {
+      "src": "What plants provide",
+      "t": "Lo que aportan las plantas"
+    },
+    "637ac647": {
+      "src": "What strict plant-based",
+      "t": "Lo que confirma la alimentación"
+    },
+    "6d73c0a8": {
+      "src": "What the Body Gains",
+      "t": "Lo que gana el cuerpo"
+    },
+    "9c56aea8": {
+      "src": "What the body gains",
+      "t": "Lo que gana el cuerpo"
+    },
+    "dd7ec87c": {
+      "src": "What you put in the body is what the body has to work with.",
+      "t": "Lo que le das al cuerpo es aquello con lo que el cuerpo tiene que trabajar."
+    },
+    "bd8c6617": {
+      "src": "When the body consistently receives whole plant foods it gains:",
+      "t": "Cuando el cuerpo recibe de forma constante alimentos vegetales integrales, gana:"
+    },
+    "fd2c1d81": {
+      "src": "When you know what food does, choosing becomes natural.",
+      "t": "Cuando sabes lo que hace la comida, elegir se vuelve natural."
+    },
+    "b03397d1": {
+      "src": "Where Rastafarian Ital tradition meets the science of strict plant-based eating. Not a diet. Not a programme. A way of understanding what the body was always designed to receive — and choosing, with full awareness, what goes in.",
+      "t": "Donde la tradición Ital rastafari se encuentra con la ciencia de la alimentación estrictamente basada en plantas. No es una dieta. No es un programa. Es una forma de entender lo que el cuerpo siempre estuvo diseñado para recibir, y de elegir, con plena conciencia, lo que entra en él."
+    },
+    "813ddd91": {
+      "src": "Where They Meet",
+      "t": "Dónde se encuentran"
+    },
+    "8938f291": {
+      "src": "Where they meet",
+      "t": "Dónde se encuentran"
+    },
+    "dc96950a": {
+      "src": "You have options.",
+      "t": "Tienes opciones."
+    },
+    "8356d6a7": {
+      "src": "already planted.",
+      "t": "ya está plantada."
+    },
+    "563294ce": {
+      "src": "as a daily practice.",
+      "t": "como práctica diaria."
+    },
+    "49cc25ae": {
+      "src": "confirms.",
+      "t": "basada en plantas."
+    },
+    "ca21cb58": {
+      "src": "conscious choice",
+      "t": "elección consciente"
+    },
+    "2eae84fd": {
+      "src": "derives from “vital” — life force, energy, the animating principle of living things. In Rastafarian tradition, Ital eating is not a diet trend. It is a spiritual and physical commitment to consuming food that carries life force rather than diminishing it.",
+      "t": "viene de “vital”: la fuerza de vida, la energía, el principio que anima a los seres vivos. En la tradición rastafari, comer Ital no es una moda dietética. Es un compromiso espiritual y físico de consumir alimentos que llevan fuerza de vida en lugar de restarla."
+    },
+    "f1fe9ddb": {
+      "src": "eating",
+      "t": "estrictamente"
+    },
+    "b76f5522": {
+      "src": "giving up.",
+      "t": "dejas atrás."
+    },
+    "ec7ed98b": {
+      "src": "in practice.",
+      "t": "en la práctica."
+    },
+    "642e1ddf": {
+      "src": "meals.",
+      "t": "Meals."
+    },
+    "dcd07504": {
+      "src": "more fibre than it can get from any other eating pattern. More phytochemicals. More antioxidants. More potassium. More magnesium. More folate.",
+      "t": "más fibra de la que puede obtener con cualquier otro patrón de alimentación. Más fitoquímicos. Más antioxidantes. Más potasio. Más magnesio. Más folato."
+    },
+    "ae769ae7": {
+      "src": "one conscious choice at a time",
+      "t": "una elección consciente a la vez"
+    },
+    "1c0bd0f8": {
+      "src": "one convergence.",
+      "t": "un mismo punto de encuentro."
+    },
+    "c22825ce": {
+      "src": "option.",
+      "t": "opción."
+    },
+    "5a37f530": {
+      "src": "plant science —",
+      "t": "la ciencia vegetal:"
+    },
+    "f5d649fa": {
+      "src": "practice.",
+      "t": "práctica."
+    },
+    "80609cbc": {
+      "src": "the body is a temple, and what enters it should honour that.",
+      "t": "el cuerpo es un templo, y lo que entra en él debe honrarlo."
+    },
+    "8540cd79": {
+      "src": "understanding.",
+      "t": "comprensión."
+    },
+    "bd76c701": {
+      "src": "vital by nature.",
+      "t": "vital por naturaleza."
+    },
+    "b07085bf": {
+      "src": "— a position now supported by extensive cardiovascular research.",
+      "t": ", una postura que hoy respalda una amplia investigación cardiovascular."
+    },
+    "b113c778": {
+      "src": "— a principle now echoed in growing research on microplastic contamination.",
+      "t": ", un principio que hoy se repite en la creciente investigación sobre la contaminación por microplásticos."
+    },
+    "272c2460": {
+      "src": "— guided by understanding rather than willpower, by knowledge rather than restriction.",
+      "t": ", guiada por la comprensión y no por la fuerza de voluntad, por el conocimiento y no por la restricción."
+    },
+    "86d90c36": {
+      "src": "— one made with full understanding of what food does to the body, rooted in two of the most nutritionally coherent traditions ever documented: Rastafarian Ital eating and strict plant-based nutrition science.",
+      "t": ", hecha con plena comprensión de lo que la comida le hace al cuerpo, y con raíces en dos de las tradiciones nutricionalmente más coherentes jamás documentadas: la alimentación Ital rastafari y la ciencia de la nutrición estrictamente basada en plantas."
+    },
+    "fcf1f787": {
+      "src": "“An Option Meal begins where understanding begins.",
+      "t": "“Una Option Meal empieza donde empieza la comprensión."
+    },
+    "e4f61bd3": {
+      "src": "“Ital is vital.",
+      "t": "“Ital es vital."
+    },
+    "ec2f7e42": {
+      "src": "🌍",
+      "t": "🌍"
+    },
+    "c02f38fe": {
+      "src": "🌱",
+      "t": "🌱"
+    },
+    "a32f0b57": {
+      "src": "🍖",
+      "t": "🍖"
+    },
+    "f72dfc93": {
+      "src": "🏺",
+      "t": "🏺"
+    },
+    "ff2c3a59": {
+      "src": "🧂",
+      "t": "🧂"
+    }
+  }
+}

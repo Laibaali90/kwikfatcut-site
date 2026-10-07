@@ -1,0 +1,451 @@
+{
+  "_note": "Page content for our-roots.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "0e48330d": {
+      "src": "A Promise",
+      "t": "Una Promesa"
+    },
+    "0d1b8bda": {
+      "src": "A man high in the branches of a fruiting ackee tree, picking pods that have opened on the tree.",
+      "t": "Un hombre en lo alto de las ramas de un árbol de ackee con fruto, recogiendo las vainas que se han abierto en el árbol."
+    },
+    "27b6e903": {
+      "src": "A powerful health education movement rooted in ancestral wisdom, cultural dignity, and a profound respect for the land — and the generations who understood nourishment long before modern misconceptions took hold.",
+      "t": "Un poderoso movimiento de educación en salud con raíces en la sabiduría ancestral, la dignidad cultural y un profundo respeto por la tierra, y por las generaciones que comprendieron la nutrición mucho antes de que arraigaran las ideas erróneas modernas."
+    },
+    "d68e546c": {
+      "src": "A recognition of where we come from — the history, the culture, the people whose knowledge and resilience made this movement possible.",
+      "t": "Un reconocimiento de dónde venimos: la historia, la cultura, las personas cuyo conocimiento y resiliencia hicieron posible este movimiento."
+    },
+    "9cfb547e": {
+      "src": "A space to learn without shame. Where tradition and science unite. Where the next generation can rediscover what their ancestors already understood.",
+      "t": "Un espacio para aprender sin vergüenza. Donde la tradición y la ciencia se unen. Donde la próxima generación puede redescubrir lo que sus ancestros ya entendían."
+    },
+    "2b25bf89": {
+      "src": "Ackee can meet essential ital food needs and carry everyday meals, alongside traditional Jamaican bush teas. It also works well in ital stew, with little need for store-bought food.",
+      "t": "El ackee puede cubrir necesidades esenciales de la comida ital y sostener las comidas de cada día, junto con los tés tradicionales de hierbas jamaicanas. También funciona bien en el guiso ital, sin depender mucho de la comida comprada."
+    },
+    "c185820b": {
+      "src": "African culinary heritage",
+      "t": "Herencia culinaria africana"
+    },
+    "f23be63d": {
+      "src": "An education-first movement rooted in roots and resilience. No judgment. No body-shaming.",
+      "t": "Un movimiento que pone la educación primero, con raíces en las raíces y en la resiliencia. Sin juzgar a nadie. Sin criticar el cuerpo de nadie."
+    },
+    "ee9daa97": {
+      "src": "Ancestral Wisdom",
+      "t": "Sabiduría Ancestral"
+    },
+    "2b043744": {
+      "src": "Black",
+      "t": "Negro"
+    },
+    "0cd82ddc": {
+      "src": "Black. Red. Gold. Green.",
+      "t": "Negro. Rojo. Dorado. Verde."
+    },
+    "b79c046c": {
+      "src": "Body shaming.",
+      "t": "Criticar el cuerpo de nadie."
+    },
+    "d44610bb": {
+      "src": "Breath is the most fundamental act of life. Clean air, deep breathing, and time in natural environments are foundational to cellular health and mental clarity.",
+      "t": "La respiración es el acto más fundamental de la vida. El aire limpio, la respiración profunda y el tiempo en entornos naturales son la base de la salud celular y de la claridad mental."
+    },
+    "7c311e32": {
+      "src": "Built to last.",
+      "t": "Hecho para durar."
+    },
+    "87cc05dd": {
+      "src": "Centred in the Kwik Fat Cut logo are four colours, each carrying profound cultural significance. Together they honour the resilience, endurance, and creativity of African and Caribbean cultures — especially within Jamaica’s Rastafarian communities.",
+      "t": "En el centro del logo de Kwik Fat Cut hay cuatro colores, cada uno con un profundo significado cultural. Juntos honran la resiliencia, la fortaleza y la creatividad de las culturas africanas y caribeñas, en especial dentro de las comunidades Rastafarian de Jamaica."
+    },
+    "87c77328": {
+      "src": "Climb the ackee tree.",
+      "t": "Trepa al árbol de ackee."
+    },
+    "6a8d7fcf": {
+      "src": "Confidence, health, and knowledge develop gradually — and when properly rooted, they become unstoppable. This emblem signifies exactly that: strength, resilience, and steady growth.",
+      "t": "La confianza, la salud y el conocimiento se desarrollan poco a poco, y cuando están bien enraizados se vuelven imparables. Este emblema significa exactamente eso: fuerza, resiliencia y crecimiento constante."
+    },
+    "3dbded69": {
+      "src": "Each colour carries weight.",
+      "t": "Cada color tiene su peso."
+    },
+    "08d21619": {
+      "src": "Education Before Intervention — We row. You steer.",
+      "t": "La Educación Antes Que la Intervención. Nosotros remamos. Tú diriges."
+    },
+    "2e39edf1": {
+      "src": "Every element of the Kwik Fat Cut emblem is deliberate. The shield, the spiral trunk, the green and red leaves, the sunset behind the canopy, the deep roots reaching into the earth — each one carries meaning.",
+      "t": "Cada elemento del emblema de Kwik Fat Cut es deliberado. El escudo, el tronco en espiral, las hojas verdes y rojas, el atardecer detrás de la copa, las raíces profundas que se hunden en la tierra: cada uno lleva un significado."
+    },
+    "56ec7668": {
+      "src": "Foods grown from the earth",
+      "t": "Alimentos que crecen de la tierra"
+    },
+    "b640a40f": {
+      "src": "Fresh Air",
+      "t": "Aire Fresco"
+    },
+    "6c94b6b3": {
+      "src": "Gold",
+      "t": "Dorado"
+    },
+    "a953c75c": {
+      "src": "Green",
+      "t": "Verde"
+    },
+    "7390f432": {
+      "src": "Ground provisions, ackee, callaloo, breadfruit, plantain, legumes, and herbs —",
+      "t": "Los víveres, el ackee, el callaloo, la fruta del pan, el plátano, las legumbres y las hierbas:"
+    },
+    "e8d662c3": {
+      "src": "Health knowledge should not require struggle. But those who built the traditions we honour paid a price for their wisdom. We carry it forward.",
+      "t": "El conocimiento sobre la salud no debería exigir sufrimiento. Pero quienes construyeron las tradiciones que honramos pagaron un precio por su sabiduría. Nosotros la llevamos adelante."
+    },
+    "353fdf7f": {
+      "src": "Heritage, identity, strength.",
+      "t": "Herencia, identidad, fuerza."
+    },
+    "f83777cc": {
+      "src": "How to pick and prepare ackee safely",
+      "t": "Cómo recoger y preparar el ackee de forma segura"
+    },
+    "685be748": {
+      "src": "How to start an ital diet?",
+      "t": "¿Cómo empezar una dieta ital?"
+    },
+    "23bb29c8": {
+      "src": "It reminds us that health is about harmony, not punishment. About understanding, not shame. About growth that is steady, rooted, and unstoppable.",
+      "t": "Nos recuerda que la salud se trata de armonía, no de castigo. De comprensión, no de vergüenza. De un crecimiento constante, enraizado e imparable."
+    },
+    "2e36e610": {
+      "src": "Ital food, ital stew, and ital recipes.",
+      "t": "Comida ital, guiso ital y recetas ital."
+    },
+    "49eee898": {
+      "src": "Ital living explained",
+      "t": "La vida ital, explicada"
+    },
+    "cfdf81e0": {
+      "src": "Its roots represent the fundamental elements of human vitality — fresh air, pure mineral water, sunlight, movement, nourishing foods, and restful sleep. These are not trends. These are the key rhythms the body has always needed, understood by our ancestors long before they were named by science.",
+      "t": "Sus raíces representan los elementos fundamentales de la vitalidad humana: aire fresco, agua mineral pura, luz solar, movimiento, alimentos nutritivos y sueño reparador. No son modas. Son los ritmos esenciales que el cuerpo siempre ha necesitado, comprendidos por nuestros ancestros mucho antes de que la ciencia les pusiera nombre."
+    },
+    "d65ec3f1": {
+      "src": "Jamaican & West Indian tradition",
+      "t": "Tradición jamaicana y antillana"
+    },
+    "f86925cd": {
+      "src": "Judgment.",
+      "t": "Juzgar."
+    },
+    "1c5177b8": {
+      "src": "Just truth.",
+      "t": "Solo la verdad."
+    },
+    "42807990": {
+      "src": "Kwik Fat Cut",
+      "t": "Kwik Fat Cut"
+    },
+    "0d133cb8": {
+      "src": "Kwik Fat Cut is a living archive — a space where",
+      "t": "Kwik Fat Cut es un archivo vivo, un espacio donde"
+    },
+    "a3e66e0a": {
+      "src": "Life, growth, renewal.",
+      "t": "Vida, crecimiento, renovación."
+    },
+    "5588a3ba": {
+      "src": "Like a resilient tree,",
+      "t": "Como un árbol resistente,"
+    },
+    "25149ba1": {
+      "src": "Many modern food systems have distanced communities from their traditional foods. Kwik Fat Cut is committed to reversing that — not with nostalgia, but with knowledge, dignity, and practical understanding.",
+      "t": "Muchos sistemas alimentarios modernos han alejado a las comunidades de sus alimentos tradicionales. Kwik Fat Cut se compromete a revertir eso, no con nostalgia, sino con conocimiento, dignidad y comprensión práctica."
+    },
+    "8f0b0086": {
+      "src": "Meet the Founder",
+      "t": "Conoce al Fundador"
+    },
+    "e27f8f78": {
+      "src": "Movement",
+      "t": "Movimiento"
+    },
+    "9354e171": {
+      "src": "No conditions. No pressure. No body shaming. Just begin.",
+      "t": "Sin condiciones. Sin presión. Sin criticar el cuerpo de nadie. Solo empieza."
+    },
+    "35084ec0": {
+      "src": "Nourishing Foods",
+      "t": "Alimentos Nutritivos"
+    },
+    "cff7fc91": {
+      "src": "Our Roots: Six Foundations of Caribbean Wellbeing",
+      "t": "Nuestras raíces: seis fundamentos del bienestar caribeño"
+    },
+    "d09e401b": {
+      "src": "Photograph supplied by Kwik Fat Cut.",
+      "t": "Fotografía proporcionada por Kwik Fat Cut."
+    },
+    "d0d91784": {
+      "src": "Pressure.",
+      "t": "Presionar."
+    },
+    "afefcf61": {
+      "src": "Prosperity, dignity, wisdom.",
+      "t": "Prosperidad, dignidad, sabiduría."
+    },
+    "f9722da6": {
+      "src": "Pure Mineral Water",
+      "t": "Agua Mineral Pura"
+    },
+    "0684e5ca": {
+      "src": "Reconnecting",
+      "t": "Reconectando"
+    },
+    "a37f187c": {
+      "src": "Red",
+      "t": "Rojo"
+    },
+    "adfab7b9": {
+      "src": "Resistance, courage, sacrifice.",
+      "t": "Resistencia, valor, sacrificio."
+    },
+    "ec3c41a1": {
+      "src": "Restful Sleep",
+      "t": "Sueño Reparador"
+    },
+    "9d4d979b": {
+      "src": "Rooted in",
+      "t": "Con raíces en la"
+    },
+    "89066f50": {
+      "src": "Sleep is when the body repairs itself — not idle time, but essential work. Understanding your body’s rest cycle is part of understanding your health.",
+      "t": "El sueño es cuando el cuerpo se repara a sí mismo: no es tiempo ocioso, sino un trabajo esencial. Entender el ciclo de descanso de tu cuerpo es parte de entender tu salud."
+    },
+    "eb47ebb5": {
+      "src": "Start wherever",
+      "t": "Empieza donde"
+    },
+    "03b330eb": {
+      "src": "Sunlight",
+      "t": "Luz Solar"
+    },
+    "5c6aa057": {
+      "src": "Sunlight regulates sleep cycles, supports vitamin D production, and influences mood and immune function. Traditional communities understood its role in daily rhythm.",
+      "t": "La luz solar regula los ciclos del sueño, favorece la producción de vitamina D e influye en el estado de ánimo y en la función inmunitaria. Las comunidades tradicionales comprendían su papel en el ritmo diario."
+    },
+    "7f3067b1": {
+      "src": "The Colours",
+      "t": "Los Colores"
+    },
+    "6acd643f": {
+      "src": "The Kwik Fat Cut commitment is to",
+      "t": "El compromiso de Kwik Fat Cut es"
+    },
+    "19608fa1": {
+      "src": "The Kwik Fat Cut family tree stands as a",
+      "t": "El árbol genealógico de Kwik Fat Cut se alza como un"
+    },
+    "ba390f55": {
+      "src": "The Roots",
+      "t": "Las Raíces"
+    },
+    "18a9f570": {
+      "src": "The Symbol",
+      "t": "El Símbolo"
+    },
+    "018b8052": {
+      "src": "The body is designed to move — not to train for performance, but to walk, work, stretch, and engage with the physical world as part of everyday life.",
+      "t": "El cuerpo está diseñado para moverse, no para entrenar por rendimiento, sino para caminar, trabajar, estirarse y relacionarse con el mundo físico como parte de la vida diaria."
+    },
+    "2dbf8ce9": {
+      "src": "The colour of the earth, of plants, of food that nourishes. A reminder that health is a living, growing thing — not a destination, but a continuous unfolding.",
+      "t": "El color de la tierra, de las plantas, de la comida que nutre. Un recordatorio de que la salud es algo vivo que crece, no un destino, sino un despliegue continuo."
+    },
+    "92b7489c": {
+      "src": "The family",
+      "t": "El árbol"
+    },
+    "0c34ab5d": {
+      "src": "The next generation",
+      "t": "La próxima generación"
+    },
+    "ca3f166e": {
+      "src": "The roots honour",
+      "t": "Las raíces honran"
+    },
+    "c4b6e2f5": {
+      "src": "The roots of the Kwik Fat Cut tree are not abstract. They represent specific, daily, foundational elements of human vitality that traditional wisdom has always understood — and that modern life has often forgotten.",
+      "t": "Las raíces del árbol de Kwik Fat Cut no son abstractas. Representan elementos específicos, diarios y fundamentales de la vitalidad humana que la sabiduría tradicional siempre ha comprendido, y que la vida moderna a menudo ha olvidado."
+    },
+    "699f2a3b": {
+      "src": "These foods were made to nourish. They still do.",
+      "t": "These foods were made to nourish. They still do."
+    },
+    "ffc7a91d": {
+      "src": "They celebrate Jamaican and West Indian African culinary traditions — foods that have sustained generations long before modern misconceptions about diet took hold. These are not recipes from the past. They are living wisdom.",
+      "t": "Celebran las tradiciones culinarias africanas de Jamaica y las Antillas, alimentos que han sostenido generaciones mucho antes de que arraigaran las ideas erróneas modernas sobre la dieta. No son recetas del pasado. Son sabiduría viva."
+    },
+    "bb29dfae": {
+      "src": "They were diminished by it.",
+      "t": "Los empobreció."
+    },
+    "66a54abe": {
+      "src": "They were not improved by industrialisation.",
+      "t": "La industrialización no los mejoró."
+    },
+    "4b275320": {
+      "src": "This tree embodies a core principle deeply revered in Rastafarian tradition —",
+      "t": "Este árbol encarna un principio fundamental profundamente venerado en la tradición Rastafarian:"
+    },
+    "1b210b79": {
+      "src": "True wealth is understanding — of your body, your food, your heritage. Dignity is the right of every person, regardless of shape, size, or starting point.",
+      "t": "La verdadera riqueza es la comprensión: de tu cuerpo, de tu comida, de tu herencia. La dignidad es el derecho de toda persona, sin importar su forma, su talla o su punto de partida."
+    },
+    "22925380": {
+      "src": "Water is not simply hydration. Mineral-rich water supports cellular function, digestion, and the body’s ability to absorb nutrients effectively. Quality matters.",
+      "t": "El agua no es simplemente hidratación. El agua rica en minerales favorece la función celular, la digestión y la capacidad del cuerpo de absorber nutrientes de manera eficaz. La calidad importa."
+    },
+    "01a602c7": {
+      "src": "We are what we eat.",
+      "t": "Somos lo que comemos."
+    },
+    "403350e6": {
+      "src": "We keep moving forward. We row together. You steer. You lead the way.",
+      "t": "Seguimos avanzando. Nosotros remamos juntos. Tú diriges. Tú marcas el camino."
+    },
+    "a6e4eedf": {
+      "src": "West African foodways — built on whole grains, leafy greens, legumes, fermented foods, and natural fats — are among the most nutritionally sophisticated on earth.",
+      "t": "Las tradiciones alimentarias de África Occidental, construidas sobre granos integrales, hojas verdes, legumbres, alimentos fermentados y grasas naturales, están entre las más sofisticadas del mundo en términos nutricionales."
+    },
+    "ba5f1554": {
+      "src": "What the",
+      "t": "Sobre qué"
+    },
+    "3026042f": {
+      "src": "Where tradition and science unite, and where that knowledge is shared freely, without shame.",
+      "t": "Donde la tradición y la ciencia se unen, y donde ese conocimiento se comparte libremente, sin vergüenza."
+    },
+    "5e275d8c": {
+      "src": "Whole foods, ancestral recipes, food grown from the earth and prepared with care. These are not restrictions — they are the original language of nourishment.",
+      "t": "Alimentos integrales, recetas ancestrales, comida cultivada en la tierra y preparada con cuidado. No son restricciones: son el idioma original de la nutrición."
+    },
+    "cac1ce31": {
+      "src": "a profound respect for the Creator, the body, the land, and ancestral heritage.",
+      "t": "un profundo respeto por el Creador, el cuerpo, la tierra y la herencia ancestral."
+    },
+    "754076ce": {
+      "src": "and carry nutrients that modern processed alternatives cannot replicate. They are not old-fashioned. They are precise.",
+      "t": "y aportan nutrientes que las alternativas procesadas modernas no pueden replicar. No son anticuados. Son precisos."
+    },
+    "d20f77d9": {
+      "src": "are.",
+      "t": "estés."
+    },
+    "30e7f054": {
+      "src": "bold symbol of life itself.",
+      "t": "símbolo audaz de la vida misma."
+    },
+    "9da449ce": {
+      "src": "communities with",
+      "t": "a las comunidades con"
+    },
+    "f968f006": {
+      "src": "culinary peace.",
+      "t": "paz culinaria."
+    },
+    "dd89bf67": {
+      "src": "indigenous foods, cultural identity, and a deep respect for the land and ancestors.",
+      "t": "los alimentos indígenas, la identidad cultural y un profundo respeto por la tierra y los ancestros."
+    },
+    "353aa5a6": {
+      "src": "living archive",
+      "t": "archivo vivo"
+    },
+    "a98e075c": {
+      "src": "logo.",
+      "t": "del logo."
+    },
+    "ad2385f7": {
+      "src": "of ancestral knowledge, cultural dignity, and practical health wisdom.”",
+      "t": "de conocimiento ancestral, dignidad cultural y sabiduría práctica en salud.”"
+    },
+    "03278cda": {
+      "src": "on.",
+      "t": "árbol."
+    },
+    "9d043c0a": {
+      "src": "reconnect people with food that comes from the ground, prepared with care, shared with dignity",
+      "t": "reconectar a las personas con la comida que viene de la tierra, preparada con cuidado y compartida con dignidad"
+    },
+    "81f32918": {
+      "src": "the next generation can rediscover what their ancestors already understood.",
+      "t": "la próxima generación puede redescubrir lo que sus ancestros ya entendían."
+    },
+    "00a0c6a5": {
+      "src": "their food.",
+      "t": "su comida."
+    },
+    "d0e41bd2": {
+      "src": "these foods sustained generations",
+      "t": "estos alimentos sostuvieron generaciones"
+    },
+    "0f66b563": {
+      "src": "tradition.",
+      "t": "tradición."
+    },
+    "6d8b34d5": {
+      "src": "tree",
+      "t": "genealógico"
+    },
+    "0cc219de": {
+      "src": "tree stands",
+      "t": "se sostiene el"
+    },
+    "a16d1f47": {
+      "src": "true change demands time, persistence, and unwavering progress.",
+      "t": "el verdadero cambio exige tiempo, persistencia y un avance inquebrantable."
+    },
+    "50b8d09c": {
+      "src": "you",
+      "t": "tú"
+    },
+    "ae31fa04": {
+      "src": "— not as a diet plan, but as a way of understanding what the body was always designed to receive.",
+      "t": ", no como un plan de dieta, sino como una forma de entender lo que el cuerpo siempre estuvo diseñado para recibir."
+    },
+    "46cb3d07": {
+      "src": "“More than a food education platform — Kwik Fat Cut is a",
+      "t": "“Más que una plataforma de educación alimentaria, Kwik Fat Cut es un"
+    },
+    "4c866430": {
+      "src": "☀️",
+      "t": "☀️"
+    },
+    "d82f5ec6": {
+      "src": "🌙",
+      "t": "🌙"
+    },
+    "7c17890e": {
+      "src": "🌬️",
+      "t": "🌬️"
+    },
+    "ba2f2f8c": {
+      "src": "🌿",
+      "t": "🌿"
+    },
+    "322f40dd": {
+      "src": "💧",
+      "t": "💧"
+    },
+    "41327e7a": {
+      "src": "🚶",
+      "t": "🚶"
+    }
+  }
+}

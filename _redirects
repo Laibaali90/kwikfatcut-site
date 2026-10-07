@@ -1,0 +1,10 @@
+# Cloudflare Pages redirects.
+#
+# Cloudflare already serves HTTPS and can force it in the dashboard under
+# SSL/TLS, Edge Certificates, Always Use HTTPS. That switch is the real fix
+# for the HTTPS item on the SEO list and it cannot be set from the repo.
+#
+# What this file does handle is one canonical hostname, so www and apex do not
+# compete as two copies of the same site.
+
+https://www.kwikfatcut.com/*  https://kwikfatcut.com/:splat  301!

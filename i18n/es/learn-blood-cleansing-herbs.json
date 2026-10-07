@@ -1,0 +1,963 @@
+{
+  "_note": "Page content for learn-blood-cleansing-herbs.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "bbfe6742": {
+      "src": "(blood purification) and the use of bitter, diuretic herbs to support what it called",
+      "t": "(purificación de la sangre) y al uso de hierbas amargas y diuréticas para apoyar lo que llamaba"
+    },
+    "64683e67": {
+      "src": "(blood tissue).",
+      "t": "(tejido sanguíneo)."
+    },
+    "75f8d30c": {
+      "src": ") was one of the herbs most consistently referenced in Dr. Sebi’s nutritional guide. It is not a trendy wellness ingredient.",
+      "t": ") fue una de las hierbas que el Dr. Sebi mencionaba con más constancia en su guía nutricional. No es un ingrediente de moda en el mundo del bienestar."
+    },
+    "6533d10d": {
+      "src": "), moringa, and African basil",
+      "t": "), la moringa y la albahaca africana"
+    },
+    "6cc21092": {
+      "src": "), soursop leaf, fever grass (lemongrass), and search-mi-heart",
+      "t": "), la hoja de guanábana, el fever grass (hierba de limón) y el search-mi-heart"
+    },
+    "8afb724f": {
+      "src": ", a lignan compound with documented anti-inflammatory and antioxidant activity.",
+      "t": ", un lignano con actividad antiinflamatoria y antioxidante documentada."
+    },
+    "64173feb": {
+      "src": ". Ayurvedic medicine calls it",
+      "t": ". La medicina ayurvédica lo llama"
+    },
+    "961272bf": {
+      "src": ". The language differs. The observation is the same.",
+      "t": ". El lenguaje cambia. La observación es la misma."
+    },
+    "dc0206cd": {
+      "src": ". Traditional Chinese medicine calls it",
+      "t": ". La medicina tradicional china lo llama"
+    },
+    "520abfaa": {
+      "src": "12 min",
+      "t": "12 min"
+    },
+    "ef1589ca": {
+      "src": "1933 — 2016",
+      "t": "1933 · 2016"
+    },
+    "dbfc9d82": {
+      "src": "A compromised bloodstream means compromised nutrition",
+      "t": "Una sangre comprometida significa una nutrición comprometida"
+    },
+    "d69a1222": {
+      "src": "A teaching that goes",
+      "t": "Una enseñanza que se remonta"
+    },
+    "be7cbac1": {
+      "src": "Acidic foods, processed sugars, and stress all push the body toward acidity",
+      "t": "Los alimentos ácidos, los azúcares procesados y el estrés empujan al cuerpo hacia la acidez"
+    },
+    "97da8a03": {
+      "src": "Across West Africa — from which the Caribbean diaspora draws its deepest roots — blood cleansing was understood as a seasonal practice.",
+      "t": "En toda África Occidental, de donde la diáspora caribeña toma sus raíces más profundas, la limpieza de la sangre se entendía como una práctica estacional."
+    },
+    "ce907908": {
+      "src": "Adequate water intake — ideally spring or mineral water as Dr. Sebi recommended — is the most basic form of blood cleansing.",
+      "t": "Beber suficiente agua, idealmente de manantial o mineral, como recomendaba el Dr. Sebi, es la forma más básica de limpiar la sangre."
+    },
+    "66c7be7f": {
+      "src": "Alfredo Darrington Bowman — Herbalist, healer, teacher",
+      "t": "Alfredo Darrington Bowman · Herbolario, sanador, maestro"
+    },
+    "12360194": {
+      "src": "All articles free. No subscription. The knowledge tree keeps growing. 🌿",
+      "t": "Todos los artículos son gratis. Sin suscripción. El árbol del conocimiento sigue creciendo. 🌿"
+    },
+    "724bad0c": {
+      "src": "Arctium lappa",
+      "t": "Arctium lappa"
+    },
+    "af4d2d82": {
+      "src": "Arctium lappa — used across Europe, Asia, and the Americas for centuries",
+      "t": "Arctium lappa: usada en Europa, Asia y América durante siglos"
+    },
+    "7e722fc5": {
+      "src": "Before we understand what it means to clean the blood, we need to understand what blood is actually doing — because most people have never been taught this in plain language.",
+      "t": "Antes de entender qué significa limpiar la sangre, tenemos que entender qué hace realmente la sangre, porque a la mayoría de la gente nunca se lo han explicado en un lenguaje sencillo."
+    },
+    "c1164137": {
+      "src": "Begin the day with burdock root, dandelion, or cerasee tea before eating. This stimulates the liver and kidneys before the digestive system is activated —",
+      "t": "Empieza el día con un té de raíz de bardana, diente de león o cerasee antes de comer. Esto estimula el hígado y los riñones antes de que se active el sistema digestivo,"
+    },
+    "0785a058": {
+      "src": "Bitter greens daily",
+      "t": "Verduras amargas cada día"
+    },
+    "d37767d9": {
+      "src": "Bitter leaf (",
+      "t": "La hoja amarga ("
+    },
+    "1eb45069": {
+      "src": "Blood & Herbs",
+      "t": "Sangre y hierbas"
+    },
+    "a2353bbf": {
+      "src": "Blood Cleansing Herbs in Caribbean Tradition",
+      "t": "Hierbas que limpian la sangre en la tradición caribeña"
+    },
+    "a83e31c7": {
+      "src": "Blood burdened with waste delivers less oxygen to cells. Less oxygen means less energy at the cellular level — no supplement can compensate for a compromised delivery system.",
+      "t": "Una sangre cargada de desechos lleva menos oxígeno a las células. Menos oxígeno significa menos energía a nivel celular: ningún suplemento puede compensar un sistema de transporte comprometido."
+    },
+    "63714cac": {
+      "src": "Blood carries metabolic waste products — urea, carbon dioxide, cellular debris — to the kidneys, liver, and lungs for elimination.",
+      "t": "La sangre transporta los productos de desecho del metabolismo (urea, dióxido de carbono, restos celulares) a los riñones, el hígado y los pulmones para eliminarlos."
+    },
+    "f0761cfe": {
+      "src": "Blood cleansing in ancestral traditions was never a once-a-year detox. It was woven into daily life — through food choices, seasonal herbs, and consistent habits.",
+      "t": "En las tradiciones ancestrales, limpiar la sangre nunca fue una desintoxicación una vez al año. Estaba integrado en la vida diaria: en las elecciones de comida, las hierbas de temporada y los hábitos constantes."
+    },
+    "d9ace509": {
+      "src": "Blood purification via kidney & liver support",
+      "t": "Purificación de la sangre mediante el apoyo a los riñones y el hígado"
+    },
+    "5cb8d323": {
+      "src": "Brain fog",
+      "t": "Niebla mental"
+    },
+    "92b6eaa7": {
+      "src": "Burdock Root",
+      "t": "Raíz de bardana"
+    },
+    "fc127dc7": {
+      "src": "Burdock root",
+      "t": "La raíz de bardana"
+    },
+    "616393f7": {
+      "src": "Burdock root (",
+      "t": "La raíz de bardana ("
+    },
+    "91a04627": {
+      "src": "Burdock root was central to Dr. Sebi’s teaching — but it was never alone. The elders across traditions understood that the blood benefits from a range of plant allies, each working through different pathways to support the same outcome.",
+      "t": "La raíz de bardana era central en la enseñanza del Dr. Sebi, pero nunca estuvo sola. Los mayores de distintas tradiciones entendían que la sangre se beneficia de toda una variedad de aliados vegetales, cada uno actuando por vías distintas para lograr el mismo resultado."
+    },
+    "15158df2": {
+      "src": "Burdock root works primarily through the",
+      "t": "La raíz de bardana actúa principalmente a través de"
+    },
+    "85316ca3": {
+      "src": "Burdock root —",
+      "t": "La raíz de bardana:"
+    },
+    "bbc7dcea": {
+      "src": "Burdock, sarsaparilla, elderberry, dandelion, and yellow dock",
+      "t": "La bardana, la zarzaparrilla, el saúco, el diente de león y la romaza"
+    },
+    "1580a90d": {
+      "src": "Callaloo, dandelion greens, arugula, bitter melon — bitter foods stimulate bile production and liver function.",
+      "t": "Callaloo, hojas de diente de león, rúcula, melón amargo: los alimentos amargos estimulan la producción de bilis y la función del hígado."
+    },
+    "9f635a97": {
+      "src": "Cerasee (",
+      "t": "El cerasee ("
+    },
+    "b61d7be9": {
+      "src": "Cerasee (Bitter Melon)",
+      "t": "Cerasee (melón amargo)"
+    },
+    "c3be74b6": {
+      "src": "Charaka — Author of the Charaka Samhita, foundational Ayurvedic text",
+      "t": "Charaka · Autor del Charaka Samhita, texto fundacional del Ayurveda"
+    },
+    "47261ac0": {
+      "src": "Charaka — India, approximately 300 BC",
+      "t": "Charaka · India, hacia el 300 a. C."
+    },
+    "c12f73fc": {
+      "src": "Chronic fatigue",
+      "t": "Cansancio crónico"
+    },
+    "30ce60f9": {
+      "src": "Clean the",
+      "t": "Limpia la"
+    },
+    "d3521646": {
+      "src": "Clean the blood and watch the body remember how to heal.",
+      "t": "Limpia la sangre y verás cómo el cuerpo recuerda cómo sanar."
+    },
+    "8eac3a61": {
+      "src": "Clean the blood.",
+      "t": "Limpia la sangre."
+    },
+    "39ebc423": {
+      "src": "Clean the blood. The symptoms follow.",
+      "t": "Limpia la sangre. Los síntomas vienen detrás."
+    },
+    "55ade483": {
+      "src": "Cleansing those fluids was the treatment.",
+      "t": "Limpiar esos fluidos era el tratamiento."
+    },
+    "c7a336c4": {
+      "src": "Curcuma longa — 4,000 years of anti-inflammatory use",
+      "t": "Curcuma longa: 4.000 años de uso antiinflamatorio"
+    },
+    "49d980a7": {
+      "src": "Daily practice",
+      "t": "Práctica diaria"
+    },
+    "08b68043": {
+      "src": "Daily practice —",
+      "t": "Práctica diaria:"
+    },
+    "85eb1473": {
+      "src": "Dandelion Root",
+      "t": "Raíz de diente de león"
+    },
+    "7633ced7": {
+      "src": "Dandelion root is one of the most gentle yet effective liver stimulants known",
+      "t": "La raíz de diente de león es uno de los estimulantes del hígado más suaves y a la vez más eficaces que se conocen"
+    },
+    "0e788e3d": {
+      "src": "Deep Read",
+      "t": "Lectura profunda"
+    },
+    "00e7c9e6": {
+      "src": "Dismissed as a garden weed in the modern world. Revered as a blood and liver tonic across Europe, China, and the Americas for centuries.",
+      "t": "Despreciado como mala hierba en el mundo moderno. Venerado como tónico de la sangre y del hígado en Europa, China y América durante siglos."
+    },
+    "ee808572": {
+      "src": "Dr. Sebi (Alfredo Darrington Bowman)",
+      "t": "Dr. Sebi (Alfredo Darrington Bowman)"
+    },
+    "2c2c3239": {
+      "src": "Dr. Sebi placed enormous emphasis on alkalinity. The blood maintains a very narrow pH range (7.35–7.45).",
+      "t": "El Dr. Sebi daba una enorme importancia a la alcalinidad. La sangre mantiene un rango de pH muy estrecho (7,35 a 7,45)."
+    },
+    "2d33a8c4": {
+      "src": "Dr. Sebi said it. Hippocrates said it before him. The elders of West Africa, India, Jamaica, and the Americas said it in their own languages, in their own time, independently of one another.",
+      "t": "Lo dijo el Dr. Sebi. Lo dijo Hipócrates antes que él. Los mayores de África Occidental, la India, Jamaica y América lo dijeron en sus propias lenguas, en su propio tiempo, sin conocerse entre sí."
+    },
+    "9a32b063": {
+      "src": "Dr. Sebi stood in a long line of teachers. What he taught about blood and herbs had roots that stretched back centuries across multiple continents. The elders — in their different languages, their different lands — were observing the same truth.",
+      "t": "El Dr. Sebi formaba parte de una larga línea de maestros. Lo que enseñaba sobre la sangre y las hierbas tenía raíces que se remontaban siglos atrás en varios continentes. Los mayores, en sus distintas lenguas y tierras, observaban la misma verdad."
+    },
+    "178c636c": {
+      "src": "Dr. Sebi understood this lineage. He did not invent it.",
+      "t": "El Dr. Sebi entendía este linaje. No lo inventó."
+    },
+    "eafaf08e": {
+      "src": "Dr. Sebi — Honduras / USA, 1933–2016",
+      "t": "Dr. Sebi · Honduras / EE. UU., 1933 a 2016"
+    },
+    "f84cf020": {
+      "src": "Dr. Sebi — as taught in his lectures on cellular nutrition",
+      "t": "Dr. Sebi, según lo enseñaba en sus charlas sobre nutrición celular"
+    },
+    "95ca6f2d": {
+      "src": "Dr. Sebi — born Alfredo Darrington Bowman in Honduras in 1933, raised in the traditions of African and Caribbean herbalism — spent his life teaching one foundational truth:",
+      "t": "El Dr. Sebi, nacido como Alfredo Darrington Bowman en Honduras en 1933 y criado en las tradiciones herbolarias africanas y caribeñas, pasó su vida enseñando una verdad fundamental:"
+    },
+    "2a94228c": {
+      "src": "Dr. Sebi's teaching on mucus centred here — excess mucous membrane production as the body's attempt to protect itself from acidic, irritating compounds in the bloodstream.",
+      "t": "La enseñanza del Dr. Sebi sobre el moco se centraba aquí: el exceso de producción de las mucosas como intento del cuerpo de protegerse de los compuestos ácidos e irritantes de la sangre."
+    },
+    "2f589d56": {
+      "src": "Dr. Sebi’s entire methodology was built around alkalising the body and cleaning the blood through specific African and indigenous herbs.",
+      "t": "Todo el método del Dr. Sebi se basaba en alcalinizar el cuerpo y limpiar la sangre con hierbas africanas e indígenas concretas."
+    },
+    "f7729248": {
+      "src": "Dr. Sebi’s nutritional guide was not about restriction for its own sake. It was about reducing the burden so the body could do what it was designed to do.",
+      "t": "La guía nutricional del Dr. Sebi no trataba de restringir por restringir. Trataba de reducir la carga para que el cuerpo pudiera hacer aquello para lo que fue diseñado."
+    },
+    "20467a55": {
+      "src": "Every organ, every tissue, every thought depends on this function.",
+      "t": "Cada órgano, cada tejido, cada pensamiento depende de esta función."
+    },
+    "38197501": {
+      "src": "Forms used",
+      "t": "Formas de uso"
+    },
+    "d649d414": {
+      "src": "He remembered it, lived it, and taught it to anyone who would listen.",
+      "t": "Lo recordó, lo vivió y lo enseñó a cualquiera que quisiera escuchar."
+    },
+    "4cdf6ddd": {
+      "src": "Here is how to carry that tradition forward.",
+      "t": "Así puedes llevar adelante esa tradición."
+    },
+    "19471da0": {
+      "src": "High blood pressure",
+      "t": "Presión arterial alta"
+    },
+    "7de265fa": {
+      "src": "Hippocrates — Father of Western medicine",
+      "t": "Hipócrates · Padre de la medicina occidental"
+    },
+    "693b988c": {
+      "src": "Hippocrates — Greece, 460–370 BC",
+      "t": "Hipócrates · Grecia, 460 a 370 a. C."
+    },
+    "5116b654": {
+      "src": "Hydration as blood support",
+      "t": "Hidratación como apoyo a la sangre"
+    },
+    "3a73c465": {
+      "src": "Immune surveillance",
+      "t": "Vigilancia inmunitaria"
+    },
+    "7eb2a7c3": {
+      "src": "In Jamaica, cerasee tea is one of the most trusted traditional remedies.",
+      "t": "En Jamaica, el té de cerasee es uno de los remedios tradicionales más confiables."
+    },
+    "87eeab3d": {
+      "src": "Inulin, arctigenin, quercetin, mucilage",
+      "t": "Inulina, arctigenina, quercetina, mucílago"
+    },
+    "defd8939": {
+      "src": "It binds to endotoxins in the gut and bloodstream",
+      "t": "Se une a las endotoxinas del intestino y de la sangre"
+    },
+    "b6875f9e": {
+      "src": "It is drunk for blood cleansing, fever reduction, skin conditions, and digestive complaints.",
+      "t": "Se toma para limpiar la sangre, bajar la fiebre y tratar afecciones de la piel y problemas digestivos."
+    },
+    "8f35ae17": {
+      "src": "It is one of the most documented blood-supporting herbs in human history",
+      "t": "Es una de las hierbas de apoyo a la sangre más documentadas de la historia humana"
+    },
+    "aae7c04e": {
+      "src": "It moves only through body movement.",
+      "t": "Solo se mueve con el movimiento del cuerpo."
+    },
+    "79e50bfd": {
+      "src": "It reduces inflammatory cytokines in the blood, supports liver detoxification, and crosses the blood-brain barrier",
+      "t": "Reduce las citocinas inflamatorias en la sangre, apoya la desintoxicación del hígado y atraviesa la barrera hematoencefálica"
+    },
+    "17791307": {
+      "src": "Jamaican Bush Medicine",
+      "t": "Medicina tradicional jamaicana (bush medicine)"
+    },
+    "e42713a5": {
+      "src": "Jamaican bush medicine — a synthesis of West African, Taino indigenous, and Caribbean plant knowledge — has always included blood-cleansing preparations.",
+      "t": "La medicina tradicional jamaicana, una síntesis del conocimiento vegetal de África Occidental, de los taínos y del Caribe, siempre ha incluido preparaciones para limpiar la sangre."
+    },
+    "ae42d400": {
+      "src": "Jamaican traditional bush medicine — oral tradition, passed through generations",
+      "t": "Medicina tradicional jamaicana · Tradición oral transmitida de generación en generación"
+    },
+    "2211f00e": {
+      "src": "Joint pain & swelling",
+      "t": "Dolor e hinchazón en las articulaciones"
+    },
+    "555cbe68": {
+      "src": "Keep",
+      "t": "Sigue"
+    },
+    "ef9a5d36": {
+      "src": "Key compounds",
+      "t": "Compuestos clave"
+    },
+    "76575d98": {
+      "src": "Kwik Fat Cut — Foods Hub — Plants as Medicine — Education First",
+      "t": "Kwik Fat Cut, Centro de Alimentos, las plantas como medicina, la educación primero"
+    },
+    "820008b2": {
+      "src": "Living the Teaching",
+      "t": "Vivir la enseñanza"
+    },
+    "9dcfe890": {
+      "src": "Modern research has documented its hypoglycaemic (blood sugar lowering) effects and its charantin compound’s role in improving insulin sensitivity — validating what generations of Jamaican grandmothers already knew.",
+      "t": "La investigación moderna ha documentado sus efectos hipoglucemiantes (reduce el azúcar en sangre) y el papel de su compuesto charantina en la mejora de la sensibilidad a la insulina, lo que valida lo que generaciones de abuelas jamaicanas ya sabían."
+    },
+    "f13783c5": {
+      "src": "Momordica charantia",
+      "t": "Momordica charantia"
+    },
+    "ce8c9892": {
+      "src": "Momordica charantia — Jamaica's most beloved blood herb",
+      "t": "Momordica charantia: la hierba para la sangre más querida de Jamaica"
+    },
+    "bb343041": {
+      "src": "Morning herbal tea",
+      "t": "Té de hierbas por la mañana"
+    },
+    "517efedd": {
+      "src": "Most people are chronically under-hydrated, slowing elimination significantly.",
+      "t": "La mayoría de la gente está crónicamente deshidratada, lo que frena mucho la eliminación."
+    },
+    "b85faeff": {
+      "src": "Movement as circulation",
+      "t": "El movimiento como circulación"
+    },
+    "9bfe7620": {
+      "src": "Neem, turmeric, manjistha, and guduchi were prescribed",
+      "t": "El neem, la cúrcuma, la manjistha y la guduchi se recetaban"
+    },
+    "452e165b": {
+      "src": "Nutrient transport",
+      "t": "Transporte de nutrientes"
+    },
+    "a183c5ec": {
+      "src": "One of Dr. Sebi’s most frequently referenced herbs. Sarsaparilla was used by indigenous peoples of Central and South America for centuries before it was studied by Western science.",
+      "t": "Una de las hierbas que el Dr. Sebi mencionaba con más frecuencia. Los pueblos indígenas de Centroamérica y Sudamérica usaron la zarzaparrilla durante siglos antes de que la estudiara la ciencia occidental."
+    },
+    "0ad66c41": {
+      "src": "Other blood herbs",
+      "t": "Otras hierbas para la sangre"
+    },
+    "0c9e5182": {
+      "src": "Other herbs the",
+      "t": "Otras hierbas en las que"
+    },
+    "c96c790b": {
+      "src": "Oxygen delivery",
+      "t": "Transporte de oxígeno"
+    },
+    "ffffacab": {
+      "src": "Perhaps most importantly for Dr. Sebi’s teaching: burdock root is one of the few herbs documented to help reduce uric acid levels in the blood — directly addressing the compound most associated with joint pain and gout.",
+      "t": "Quizá lo más importante para la enseñanza del Dr. Sebi: la raíz de bardana es una de las pocas hierbas documentadas que ayudan a reducir el ácido úrico en la sangre, lo que actúa directamente sobre el compuesto más asociado al dolor articular y a la gota."
+    },
+    "a0bf58a3": {
+      "src": "Plants as Medicine",
+      "t": "Las plantas como medicina"
+    },
+    "a4f821ed": {
+      "src": "Plants as Medicine — Deep Read",
+      "t": "Las plantas como medicina, Lectura Profunda"
+    },
+    "8680edb9": {
+      "src": "Primary action",
+      "t": "Acción principal"
+    },
+    "ed00801a": {
+      "src": "Rakta dhatu",
+      "t": "Rakta dhatu"
+    },
+    "5167009c": {
+      "src": "Raktashodhana",
+      "t": "Raktashodhana"
+    },
+    "f604facc": {
+      "src": "Red blood cells carry oxygen from the lungs to every cell in the body.",
+      "t": "Los glóbulos rojos llevan el oxígeno de los pulmones a cada célula del cuerpo."
+    },
+    "dfef1d3c": {
+      "src": "Reduce the",
+      "t": "Reduce la"
+    },
+    "752ea9b1": {
+      "src": "Reduce what burdens the blood",
+      "t": "Reduce lo que sobrecarga la sangre"
+    },
+    "b8e2177b": {
+      "src": "Refined sugar, alcohol, processed seed oils, artificial additives —",
+      "t": "El azúcar refinada, el alcohol, los aceites de semillas procesados, los aditivos artificiales:"
+    },
+    "761dbd0e": {
+      "src": "Respiratory congestion",
+      "t": "Congestión respiratoria"
+    },
+    "374f4179": {
+      "src": "Root tea, tincture, capsule, food (root cooked whole)",
+      "t": "Té de la raíz, tintura, cápsula, alimento (la raíz entera cocinada)"
+    },
+    "e6f21956": {
+      "src": "Sarsaparilla",
+      "t": "Zarzaparrilla"
+    },
+    "6ad07a3a": {
+      "src": "Skin conditions",
+      "t": "Afecciones de la piel"
+    },
+    "0b3c48fe": {
+      "src": "Skin conditions, joint pain, liver support, inflammation",
+      "t": "Afecciones de la piel, dolor articular, apoyo al hígado, inflamación"
+    },
+    "24189c0f": {
+      "src": "Smilax ornata — used by Dr. Sebi as a primary blood herb",
+      "t": "Smilax ornata: usada por el Dr. Sebi como hierba principal para la sangre"
+    },
+    "903d4393": {
+      "src": "Support the",
+      "t": "Apoya a los"
+    },
+    "5453e24e": {
+      "src": "Taraxacum officinale — the humble blood tonic",
+      "t": "Taraxacum officinale: el humilde tónico de la sangre"
+    },
+    "69ff4248": {
+      "src": "That knowledge belongs to everyone. It always has.",
+      "t": "Ese conocimiento es de todos. Siempre lo ha sido."
+    },
+    "f51cca9f": {
+      "src": "The Accumulation",
+      "t": "La acumulación"
+    },
+    "10299bcb": {
+      "src": "The Biology",
+      "t": "La biología"
+    },
+    "682a91ed": {
+      "src": "The Charaka Samhita — one of Ayurveda’s oldest foundational texts — dedicates entire chapters to",
+      "t": "El Charaka Samhita, uno de los textos fundacionales más antiguos del Ayurveda, dedica capítulos enteros al"
+    },
+    "af8734a3": {
+      "src": "The Elders Speak",
+      "t": "Hablan los mayores"
+    },
+    "27e1ce25": {
+      "src": "The Foundation",
+      "t": "El Fundamento"
+    },
+    "17061e87": {
+      "src": "The Full Toolkit",
+      "t": "El botiquín completo"
+    },
+    "c4da7c48": {
+      "src": "The Jamaican tradition of callaloo is not just cultural — it is medicinal.",
+      "t": "La tradición jamaicana del callaloo no es solo cultural: es medicinal."
+    },
+    "d96adc04": {
+      "src": "The Root",
+      "t": "La Raíz"
+    },
+    "a5329726": {
+      "src": "The bitterness is the medicine.",
+      "t": "El amargor es la medicina."
+    },
+    "1cfff4ac": {
+      "src": "The body was designed",
+      "t": "El cuerpo fue diseñado"
+    },
+    "8b21e0a2": {
+      "src": "The brain is one of the most blood-hungry organs in the body. When blood quality declines, cognitive function follows — concentration, memory, and clarity all suffer.",
+      "t": "El cerebro es uno de los órganos que más sangre necesita. Cuando la calidad de la sangre baja, la función cognitiva también: la concentración, la memoria y la claridad se resienten."
+    },
+    "2e77c4ed": {
+      "src": "The convergence of that wisdom is not coincidence. It is confirmation.",
+      "t": "Que esa sabiduría coincida no es casualidad. Es una confirmación."
+    },
+    "4e8e5282": {
+      "src": "The elders across traditions described the same phenomenon — what happens when the body’s elimination systems cannot keep pace with what is being put in. Dr. Sebi called it",
+      "t": "Los mayores de distintas tradiciones describían el mismo fenómeno: lo que pasa cuando los sistemas de eliminación del cuerpo no dan abasto con lo que se les mete. El Dr. Sebi lo llamaba"
+    },
+    "74d8e7a3": {
+      "src": "The elders speak",
+      "t": "Hablan los mayores"
+    },
+    "9586ba3d": {
+      "src": "The heart pumps harder when blood is thickened by excess waste, cholesterol deposits, or inflammatory compounds. The pressure is the body working overtime to maintain circulation.",
+      "t": "El corazón bombea con más fuerza cuando la sangre se espesa por el exceso de desechos, los depósitos de colesterol o los compuestos inflamatorios. La presión es el cuerpo trabajando horas extra para mantener la circulación."
+    },
+    "e1735c8d": {
+      "src": "The herbs are not magic. The body is. The herbs simply give it the tools it was always meant to have.",
+      "t": "Las hierbas no son magia. El cuerpo sí. Las hierbas simplemente le dan las herramientas que siempre debió tener."
+    },
+    "66d9df58": {
+      "src": "The kidneys cannot filter what the blood cannot deliver to them.",
+      "t": "Los riñones no pueden filtrar lo que la sangre no les lleva."
+    },
+    "756f46a2": {
+      "src": "The language has changed. The observation has not.",
+      "t": "El lenguaje ha cambiado. La observación no."
+    },
+    "7dcfe6df": {
+      "src": "The lymphatic system — which supports blood filtration — has no pump of its own.",
+      "t": "El sistema linfático, que apoya la filtración de la sangre, no tiene bomba propia."
+    },
+    "f2436869": {
+      "src": "The root is rich in",
+      "t": "La raíz es rica en"
+    },
+    "77b82b37": {
+      "src": "The skin is the body's third kidney. Eczema, psoriasis, acne, and rashes often indicate the liver and kidneys are overloaded — the body pushes toxins out through the skin instead.",
+      "t": "La piel es el tercer riñón del cuerpo. El eccema, la psoriasis, el acné y las erupciones suelen indicar que el hígado y los riñones están sobrecargados, y el cuerpo expulsa las toxinas por la piel."
+    },
+    "f0cdfb7c": {
+      "src": "The symptoms",
+      "t": "Los síntomas"
+    },
+    "dd0ef3ad": {
+      "src": "The symptoms follow.",
+      "t": "Los síntomas vienen detrás."
+    },
+    "2dde29f7": {
+      "src": "The teaching",
+      "t": "La enseñanza"
+    },
+    "0eec6f3c": {
+      "src": "The teaching of Dr. Sebi — as understood in ancestral tradition",
+      "t": "La enseñanza del Dr. Sebi, tal como se entiende en la tradición ancestral"
+    },
+    "794de0e3": {
+      "src": "This is what the elders called “dirty blood.”",
+      "t": "Es lo que los mayores llamaban “sangre sucia”."
+    },
+    "729db414": {
+      "src": "This was not a new idea when Dr. Sebi taught it. It was a restoration. Ancient Egyptian medical papyri described the blood as the carrier of vitality. West African healers spoke of the blood as the seat of health for generations before colonial medicine arrived. Ayurvedic texts written over 3,000 years ago described blood purification —",
+      "t": "No era una idea nueva cuando el Dr. Sebi la enseñó. Era una restauración. Los papiros médicos del antiguo Egipto describían la sangre como portadora de la vitalidad. Los sanadores de África Occidental hablaron de la sangre como la sede de la salud durante generaciones antes de que llegara la medicina colonial. Textos ayurvédicos escritos hace más de 3.000 años describían la purificación de la sangre,"
+    },
+    "ec0844d1": {
+      "src": "Traditional use",
+      "t": "Uso tradicional"
+    },
+    "106b2d64": {
+      "src": "Turmeric",
+      "t": "Cúrcuma"
+    },
+    "023fd0eb": {
+      "src": "Two and a half thousand years before modern pharmacology, Hippocrates documented the use of bitter herbs — including burdock — for “purifying the humours.” In the humoral tradition, disease was understood as an imbalance in the body’s fluids.",
+      "t": "Dos mil quinientos años antes de la farmacología moderna, Hipócrates documentó el uso de hierbas amargas, entre ellas la bardana, para “purificar los humores”. En la tradición humoral, la enfermedad se entendía como un desequilibrio de los fluidos del cuerpo."
+    },
+    "dcade547": {
+      "src": "Uric acid and inflammatory compounds deposited in joint tissue. The body inflames the area in an attempt to flush it. Gout is the most extreme expression of this.",
+      "t": "Ácido úrico y compuestos inflamatorios depositados en el tejido articular. El cuerpo inflama la zona para intentar limpiarla. La gota es la expresión más extrema de esto."
+    },
+    "dce2a895": {
+      "src": "Used in Ayurvedic medicine for over 4,000 years as a blood purifier, turmeric’s active compound curcumin is now one of the most studied natural anti-inflammatory compounds in the world.",
+      "t": "Usada en la medicina ayurvédica durante más de 4.000 años como purificadora de la sangre, la curcumina, el compuesto activo de la cúrcuma, es hoy uno de los antiinflamatorios naturales más estudiados del mundo."
+    },
+    "0607d4f2": {
+      "src": "Vernonia amygdalina",
+      "t": "Vernonia amygdalina"
+    },
+    "3667dac9": {
+      "src": "Vitamins, minerals, amino acids, and glucose all travel through the blood to the organs and tissues that need them.",
+      "t": "Las vitaminas, los minerales, los aminoácidos y la glucosa viajan por la sangre hasta los órganos y tejidos que los necesitan."
+    },
+    "1c6c1210": {
+      "src": "Walking, stretching, and physical work were not separate from health for the elders. They were the same thing.",
+      "t": "Para los mayores, caminar, estirarse y el trabajo físico no estaban separados de la salud. Eran lo mismo."
+    },
+    "7a08ada9": {
+      "src": "Waste removal",
+      "t": "Eliminación de desechos"
+    },
+    "82bfd573": {
+      "src": "We take feedback like yours seriously. If Kwik Fat Cut opened your eyes or gave someone you love a new perspective — pass it on. Tell a friend to tell a friend.",
+      "t": "Tomamos en serio comentarios como el tuyo. Si Kwik Fat Cut te abrió los ojos o le dio una nueva perspectiva a alguien que quieres, pásalo. Dile a un amigo que le diga a un amigo."
+    },
+    "8f1d43c8": {
+      "src": "West African Healing Tradition",
+      "t": "Tradición de sanación de África Occidental"
+    },
+    "39615d6b": {
+      "src": "West African proverb — traditional herbalist tradition",
+      "t": "Proverbio de África Occidental · Tradición herbolaria tradicional"
+    },
+    "bdd9f15f": {
+      "src": "What blood",
+      "t": "Lo que la sangre"
+    },
+    "8c49daa5": {
+      "src": "What blood actually does",
+      "t": "Lo que realmente hace la sangre"
+    },
+    "08e1aaf8": {
+      "src": "What shows up as symptoms is the body trying to protect its vital systems from that accumulation.",
+      "t": "Lo que aparece como síntomas es el cuerpo intentando proteger sus sistemas vitales de esa acumulación."
+    },
+    "a94691d1": {
+      "src": "What the traditions",
+      "t": "Lo que las tradiciones"
+    },
+    "74c27193": {
+      "src": "When elimination is impaired, waste recirculates.",
+      "t": "Cuando la eliminación falla, los desechos vuelven a circular."
+    },
+    "68bf8e97": {
+      "src": "When metabolic waste and dietary toxins accumulate in the blood faster than they can be eliminated, the body deposits them in tissues — joints, skin, organs.",
+      "t": "Cuando los desechos metabólicos y las toxinas de la dieta se acumulan en la sangre más rápido de lo que se pueden eliminar, el cuerpo los deposita en los tejidos: las articulaciones, la piel, los órganos."
+    },
+    "32a8c8d3": {
+      "src": "When the blood is burdened with toxins, this surveillance is compromised.",
+      "t": "Cuando la sangre está cargada de toxinas, esta vigilancia se ve comprometida."
+    },
+    "84691c45": {
+      "src": "When waste builds up",
+      "t": "Cuando se acumulan los desechos"
+    },
+    "cca87961": {
+      "src": "When waste stays",
+      "t": "Cuando los desechos se quedan"
+    },
+    "877af5a4": {
+      "src": "White blood cells patrol the bloodstream constantly, identifying and neutralising pathogens, damaged cells, and foreign material.",
+      "t": "Los glóbulos blancos patrullan la sangre sin descanso, identificando y neutralizando patógenos, células dañadas y material extraño."
+    },
+    "1d2e386f": {
+      "src": "Without clean, oxygenated blood, cells begin to deteriorate.",
+      "t": "Sin una sangre limpia y oxigenada, las células empiezan a deteriorarse."
+    },
+    "149fd8b1": {
+      "src": "a practice documented across Jamaican, West African, and Ayurvedic morning routines.",
+      "t": "una práctica documentada en las rutinas matutinas jamaicanas, de África Occidental y ayurvédicas."
+    },
+    "758d66d9": {
+      "src": "actually does.",
+      "t": "hace realmente."
+    },
+    "2c27b1b6": {
+      "src": "ama",
+      "t": "ama"
+    },
+    "93c756c9": {
+      "src": "arctigenin",
+      "t": "arctigenina"
+    },
+    "5bb421a2": {
+      "src": "back",
+      "t": "mucho"
+    },
+    "b7ba978b": {
+      "src": "blood.",
+      "t": "sangre."
+    },
+    "7b47f481": {
+      "src": "burden.",
+      "t": "carga."
+    },
+    "3cc55b8f": {
+      "src": "dampness and stagnation",
+      "t": "humedad y estancamiento"
+    },
+    "f7c806cc": {
+      "src": "elders",
+      "t": "los mayores"
+    },
+    "d7753804": {
+      "src": "every processed food is additional work for the kidneys and liver.",
+      "t": "cada alimento procesado es trabajo extra para los riñones y el hígado."
+    },
+    "4980f0fa": {
+      "src": "follow.",
+      "t": "vienen detrás."
+    },
+    "8eedd704": {
+      "src": "formed the backbone of his cell food approach — all chosen for their ability to support kidney and liver function.",
+      "t": "formaban la base de su enfoque de alimentos para las células, todas elegidas por su capacidad de apoyar la función de los riñones y el hígado."
+    },
+    "b8aa4ea6": {
+      "src": "further than we think.",
+      "t": "más atrás de lo que creemos."
+    },
+    "8eb7ac3b": {
+      "src": "have always known.",
+      "t": "siempre han sabido."
+    },
+    "0382b5e8": {
+      "src": "heal itself.",
+      "t": "sanarse a sí mismo."
+    },
+    "76ea237c": {
+      "src": "in ancient India for the same purposes that Dr. Sebi prescribed burdock and sarsaparilla millennia later.",
+      "t": "en la antigua India con los mismos fines con que el Dr. Sebi recetaba la bardana y la zarzaparrilla milenios después."
+    },
+    "22e3b7e1": {
+      "src": "in the blood —",
+      "t": "en la sangre,"
+    },
+    "cc11942c": {
+      "src": "inulin",
+      "t": "inulina"
+    },
+    "58c2daf0": {
+      "src": "it speaks loudly.",
+      "t": "se hacen notar."
+    },
+    "8e7bd603": {
+      "src": "kidneys and liver",
+      "t": "los riñones y el hígado"
+    },
+    "dba175a0": {
+      "src": "kidneys.",
+      "t": "riñones."
+    },
+    "e639bd9f": {
+      "src": "learning.",
+      "t": "aprendiendo."
+    },
+    "554b4688": {
+      "src": "mucus",
+      "t": "moco"
+    },
+    "f7c4fb1b": {
+      "src": "pH regulation",
+      "t": "Regulación del pH"
+    },
+    "7e9867c7": {
+      "src": "the blood is the river of life, and when that river is polluted, the whole body suffers.",
+      "t": "la sangre es el río de la vida, y cuando ese río está contaminado, todo el cuerpo sufre."
+    },
+    "e73063b7": {
+      "src": "the blood’s oldest ally.",
+      "t": "la aliada más antigua de la sangre."
+    },
+    "42454824": {
+      "src": "to",
+      "t": "para"
+    },
+    "07706056": {
+      "src": "trusted.",
+      "t": "confiaban."
+    },
+    "a4f413e9": {
+      "src": "were used in decoctions to cleanse the blood after periods of heavy eating, before planting seasons, and as part of spiritual preparation. The body and the earth were seen as one system.",
+      "t": "se usaban en decocciones para limpiar la sangre después de épocas de comer en exceso, antes de las temporadas de siembra y como parte de la preparación espiritual. El cuerpo y la tierra se veían como un mismo sistema."
+    },
+    "c16964e7": {
+      "src": "were used in teas and baths for exactly the purposes Dr. Sebi described. These were not folk remedies waiting for science to validate them. They were observations refined over generations.",
+      "t": "se usaban en tés y baños exactamente para los fines que describía el Dr. Sebi. No eran remedios populares esperando a que la ciencia los validara. Eran observaciones perfeccionadas a lo largo de generaciones."
+    },
+    "f5aff5d2": {
+      "src": "what the elders did.",
+      "t": "lo que hacían los mayores."
+    },
+    "40231c4a": {
+      "src": "— a prebiotic fibre that feeds beneficial gut bacteria, supporting the gut-liver axis that determines how efficiently the body processes and eliminates waste. It also contains",
+      "t": ", una fibra prebiótica que alimenta a las bacterias intestinales beneficiosas y apoya el eje intestino-hígado, que determina con qué eficacia el cuerpo procesa y elimina los desechos. También contiene"
+    },
+    "e34114d1": {
+      "src": "— appearing in European, Asian, and indigenous American herbal traditions independently, across centuries.",
+      "t": ", presente de forma independiente en las tradiciones herbolarias europeas, asiáticas e indígenas americanas a lo largo de los siglos."
+    },
+    "0757746a": {
+      "src": "— as one of the most important acts of preventive medicine.",
+      "t": ", como uno de los actos más importantes de la medicina preventiva."
+    },
+    "1faf8b36": {
+      "src": "— forcing the blood to work harder to maintain balance, drawing minerals from bones and tissues in the process.",
+      "t": ", lo que obliga a la sangre a trabajar más para mantener el equilibrio, sacando minerales de los huesos y los tejidos en el proceso."
+    },
+    "f27e3b68": {
+      "src": "— increasing bile flow, supporting detoxification, and providing a significant dose of potassium, often depleted when the body is working to eliminate toxins.",
+      "t": ": aumenta el flujo de bilis, apoya la desintoxicación y aporta una buena dosis de potasio, que suele agotarse cuando el cuerpo trabaja para eliminar toxinas."
+    },
+    "96963da9": {
+      "src": "— preventing their reabsorption and facilitating their elimination through the kidneys. It also contains saponins that support hormonal balance.",
+      "t": ", impide que se reabsorban y facilita su eliminación por los riñones. También contiene saponinas que apoyan el equilibrio hormonal."
+    },
+    "c845ada7": {
+      "src": "— protecting brain tissue from inflammatory damage. The elders were right. The science confirmed it.",
+      "t": ", protegiendo el tejido cerebral del daño inflamatorio. Los mayores tenían razón. La ciencia lo confirmó."
+    },
+    "59f980ff": {
+      "src": "— regardless of how well you eat.",
+      "t": ", por bien que comas."
+    },
+    "ab1da392": {
+      "src": "— the body’s two primary filtration organs. It acts as a diuretic, increasing urine output and helping the kidneys flush water-soluble waste from the bloodstream more efficiently. Simultaneously, its bitter compounds stimulate bile production in the liver, supporting fat-soluble toxin processing.",
+      "t": ", los dos principales órganos de filtración del cuerpo. Actúa como diurético: aumenta la producción de orina y ayuda a los riñones a eliminar con más eficacia los desechos hidrosolubles de la sangre. Al mismo tiempo, sus compuestos amargos estimulan la producción de bilis en el hígado, lo que favorece el procesamiento de las toxinas liposolubles."
+    },
+    "a4603d92": {
+      "src": "“A physician who knows only medicine does not even know medicine. He must know the patient, the season, the land, and the constitution. Then he can heal.”",
+      "t": "“Un médico que solo conoce la medicina ni siquiera conoce la medicina. Debe conocer al paciente, la estación, la tierra y la constitución. Entonces puede sanar.”"
+    },
+    "6bd6f29d": {
+      "src": "“Disease only exists in an acid environment. When you remove the acid and clean the blood, disease has nowhere to live. The body was designed to heal — we just have to stop poisoning it and give it what it needs from the earth.”",
+      "t": "“La enfermedad solo existe en un entorno ácido. Cuando quitas el ácido y limpias la sangre, la enfermedad no tiene dónde vivir. El cuerpo fue diseñado para sanar: solo tenemos que dejar de envenenarlo y darle lo que necesita de la tierra.”"
+    },
+    "38e242bd": {
+      "src": "“Every yard have its bush. Every bush have its purpose. The land provides what the body needs — you just have to know how to look.”",
+      "t": "“Cada patio tiene su monte. Cada monte tiene su propósito. La tierra da lo que el cuerpo necesita: solo hay que saber mirar.”"
+    },
+    "58693726": {
+      "src": "“Let food be thy medicine, and medicine be thy food. The natural healing force within each one of us is the greatest force in getting well.”",
+      "t": "“Que la comida sea tu medicina y la medicina sea tu comida. La fuerza curativa natural que hay en cada uno de nosotros es la mayor fuerza para sanar.”"
+    },
+    "51436b9f": {
+      "src": "“Nature has provided a cure for every disease. The human body, if given the right tools, will heal itself.”",
+      "t": "“La naturaleza ha dado una cura para cada enfermedad. El cuerpo humano, si se le dan las herramientas adecuadas, se sanará a sí mismo.”"
+    },
+    "3977a117": {
+      "src": "“The blood must be clean for the body to heal. When waste stays in the blood, it shows up as pain, swelling, joint issues, and skin problems.",
+      "t": "“La sangre debe estar limpia para que el cuerpo sane. Cuando los desechos se quedan en la sangre, aparecen como dolor, hinchazón, problemas en las articulaciones y problemas de piel."
+    },
+    "2b075a0d": {
+      "src": "“The tree does not choose who sits in its shade. The herbs of the earth do not ask your status. They give to all who understand them.”",
+      "t": "“El árbol no elige quién se sienta a su sombra. Las hierbas de la tierra no preguntan por tu posición. Dan a todos los que las entienden.”"
+    },
+    "cdd294f3": {
+      "src": "“You didn’t get sick overnight. You were being prepared for sickness for years.",
+      "t": "“No te enfermaste de la noche a la mañana. Te estuviste preparando para la enfermedad durante años."
+    },
+    "6a7cac52": {
+      "src": "⚖️",
+      "t": "⚖️"
+    },
+    "e72f7663": {
+      "src": "🌊",
+      "t": "🌊"
+    },
+    "dc0bf7f3": {
+      "src": "🌡️",
+      "t": "🌡️"
+    },
+    "c02f38fe": {
+      "src": "🌱",
+      "t": "🌱"
+    },
+    "bd2f3445": {
+      "src": "🌼",
+      "t": "🌼"
+    },
+    "ba2f2f8c": {
+      "src": "🌿",
+      "t": "🌿"
+    },
+    "562f7989": {
+      "src": "💛",
+      "t": "💛"
+    },
+    "322f40dd": {
+      "src": "💧",
+      "t": "💧"
+    },
+    "232f2940": {
+      "src": "💨",
+      "t": "💨"
+    },
+    "b02ce137": {
+      "src": "🔥",
+      "t": "🔥"
+    },
+    "bf2cf8d4": {
+      "src": "🔴",
+      "t": "🔴"
+    },
+    "bf31b1d4": {
+      "src": "😴",
+      "t": "😴"
+    },
+    "263253f9": {
+      "src": "🚫",
+      "t": "🚫"
+    },
+    "41327e7a": {
+      "src": "🚶",
+      "t": "🚶"
+    },
+    "752d742c": {
+      "src": "🛡️",
+      "t": "🛡️"
+    },
+    "692b4e37": {
+      "src": "🥬",
+      "t": "🥬"
+    },
+    "dd2c04d3": {
+      "src": "🧠",
+      "t": "🧠"
+    },
+    "fc277ca0": {
+      "src": "🫁",
+      "t": "🫁"
+    },
+    "1327a0d5": {
+      "src": "🫖",
+      "t": "🫖"
+    }
+  }
+}

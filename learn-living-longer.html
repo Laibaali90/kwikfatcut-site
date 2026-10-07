@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Living Longer, Healthier and Happier — the evidence from ancient populations. The Blue Zones, ancestral longevity science, and how real food builds a longer, fuller life. Kwik Fat Cut Education First.">
+<meta name="description" content="Living Longer, Healthier and Happier — the evidence from ancient populations.">
 <title>Living Longer, Healthier & Happier — Kwik Fat Cut</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="icon" href="favicon.svg" type="image/svg+xml">
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png"><link rel="icon" href="favicon-512.png" sizes="512x512" type="image/png"><link rel="apple-touch-icon" href="favicon-180.png">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&amp;family=Montserrat:ital,wght@0,300;0,400;0,500;1,300;1,400&amp;family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400&amp;display=swap" rel="stylesheet">
 <style>
   .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse 58% 68% at 72% 28%,rgba(218,165,32,0.08) 0%,transparent 62%),radial-gradient(ellipse 42% 48% at 8% 82%,rgba(46,107,62,0.06) 0%,transparent 55%);}
   .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
@@ -38,8 +38,6 @@
   .sn-link{font-size:0.76rem;color:var(--c60);text-decoration:none;padding:0.45rem 0;border-bottom:1px solid var(--c10);transition:color 0.2s;}
   .sn-link:hover{color:var(--gold);}
   .sn-link.current{color:var(--gold);}
-  .sidebar-logo{margin-top:2rem;text-align:center;}
-  .sidebar-logo img{width:120px;height:auto;opacity:0.85;}
   .article-body{display:flex;flex-direction:column;gap:0;}
   .article-section{padding:3.5rem 0;border-bottom:1px solid var(--c10);}
   .article-section:first-child{padding-top:0;}
@@ -47,7 +45,7 @@
   .sl{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.9rem;}
   .sl.g{color:var(--green);}
   .sl.gold{color:var(--gold);}
-  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.6rem,2.8vw,2.5rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.4rem;}
+  .article-section h2{font-family:'Montserrat',sans-serif;font-size-adjust:0.40;font-size:clamp(1.6rem,2.8vw,2.5rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.4rem;}
   .article-section h2 em{font-style:italic;color:var(--gold);}
   .article-section p{font-size:0.97rem;line-height:1.97;color:var(--c60);margin-bottom:1.1rem;}
   .article-section p:last-child{margin-bottom:0;}
@@ -90,7 +88,7 @@
   .cs-lnk.primary{background:var(--gold);color:var(--bg);border-color:var(--gold);}
   .cs-lnk.primary:hover{background:var(--cream);}
   .article-close{padding:4rem 0 2rem;}
-  .article-close h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.12;color:var(--cream);margin-bottom:1.2rem;}
+  .article-close h2{font-family:'Montserrat',sans-serif;font-size-adjust:0.40;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.12;color:var(--cream);margin-bottom:1.2rem;}
   .article-close h2 em{font-style:italic;color:var(--gold);}
   .article-close p{font-size:0.97rem;line-height:1.97;color:var(--c60);margin-bottom:1rem;}
   .article-close p strong{color:var(--cream);font-weight:400;}
@@ -104,7 +102,7 @@
   .sstrip-h{font-family:'Cormorant Garamond',serif;font-size:clamp(1.4rem,2.5vw,2rem);font-weight:300;line-height:1.3;color:var(--cream);}
   .sstrip-h em{font-style:italic;color:var(--gold);}
   .sstrip-a{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:1.8rem;}
-  .ssb{display:inline-flex;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ssb{display:inline-flex;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'Source Sans Pro',sans-serif;}
   .ssb.sh{background:var(--gold);color:var(--bg);}
   .ssb.sh:hover{background:var(--cream);}
   .ssb.fo{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
@@ -121,23 +119,22 @@
   .bp:hover{background:var(--cream);}
   .bo{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.82rem 1.8rem;border-radius:1px;font-size:0.76rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
   .bo:hover{border-color:var(--c60);color:var(--cream);}
-  .fl{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}.fl em{font-style:italic;color:var(--gold);}
-  .ft{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
-  .fn{display:flex;gap:1.8rem;flex-wrap:wrap;}
-  .fn a{font-size:0.72rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;transition:color 0.2s;}
-  .fn a:hover{color:var(--c60);}
-  .fc{font-size:0.68rem;color:rgba(253,245,230,0.16);letter-spacing:0.06em;}
   @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
   @media(max-width:960px){.article-wrap{grid-template-columns:1fr;gap:3rem;}.sidebar{position:static;}.cta{flex-direction:column;align-items:flex-start;}}
 </style>
-<link rel="stylesheet" href="kfc.css">
+<!-- KWIK:SCHEMA START -->
+<script type="application/ld+json">{"@context":"https://schema.org","@type":["Organization","NGO"],"name":"Kwik Fat Cut","alternateName":"Kwik Fat Cut Health Education","url":"https://kwikfatcut.com/","logo":"https://kwikfatcut.com/favicon-512.png","email":"kwik@kwikfatcut.com","slogan":"Education before intervention","description":"A free health education platform for the Caribbean and its diaspora, grounded in ancestral food knowledge. No subscriptions, no products, no paywall.","foundingDate":"2014-01-01","areaServed":"Worldwide","knowsAbout":["Caribbean health education","Jamaican food traditions","nutrition education","ancestral food knowledge","whole food nutrition"],"address":{"@type":"PostalAddress","addressLocality":"Kingston","addressCountry":"JM"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Living Longer, Healthier & Happier","description":"Living Longer, Healthier and Happier — the evidence from ancient populations.","url":"https://kwikfatcut.com/learn-living-longer.html","inLanguage":"en-GB","isAccessibleForFree":true,"author":{"@type":"Organization","name":"Kwik Fat Cut"},"publisher":{"@type":"Organization","name":"Kwik Fat Cut","logo":{"@type":"ImageObject","url":"https://kwikfatcut.com/favicon-512.png"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://kwikfatcut.com/learn-living-longer.html"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://kwikfatcut.com/"},{"@type":"ListItem","position":2,"name":"Learn","item":"https://kwikfatcut.com/learn.html"},{"@type":"ListItem","position":3,"name":"Living Longer, Healthier & Happier"}]}</script>
+<!-- KWIK:SCHEMA END -->
+<link rel="stylesheet" href="kwik-fat-cut.min.css?v=e0d5133c">
 <link rel="canonical" href="https://kwikfatcut.com/learn-living-longer.html">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
-<nav class="site-nav">
-  <a href="index.html" class="logo">
-    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+<nav class="site-nav" aria-label="Main">
+  <a href="index.html" class="logo" aria-label="Kwik Fat Cut home">
+    <img class="logo-shield" src="data:image/webp;base64,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" alt="" width="57" height="64" decoding="async">
     <span>Kwik <em>Fat Cut</em></span>
   </a>
   <div class="nav-right">
@@ -150,16 +147,15 @@
     <a href="about.html">About</a>
     <a href="why-free.html">Why Free</a>
     <a href="our-roots.html">Our Roots</a>
-    <a href="foods-hub.html">Foods Hub</a>
     <a href="learn.html">Learn</a>
-    <a href="team.html">Team</a>
-    <a href="support.html" class="nav-btn">Donate</a>
+    <a href="support.html" class="nav-btn nav-btn--support">Support</a>
+    <a href="foods-hub.html" class="nav-btn">Begin Free</a>
   </div>
 </nav>
 <main id="main">
 
 <header class="page-header">
-  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span><a href="learn.html">Learn</a><span>&middot;</span>Return to Real Food</p>
+  <p class="breadcrumb"><a href="index.html">Home</a><span>&middot;</span><a href="learn.html">Learn</a><span>&middot;</span>Return to Real Food</p>
   <span class="article-tag">🌳 Return to Real Food Series &mdash; Part 7 of 7 &mdash; Final</span>
   <h1>Living longer.<br>Healthier.<br><em>Happier.</em></h1>
   <p class="lede">The evidence from the longest-lived populations on earth. What they eat. How they move. What they believe. How they connect. Five Blue Zones. Five independent conclusions. One truth. Available to everyone. Always has been.</p>
@@ -200,7 +196,6 @@
         <span class="sn-link current">07 &mdash; Living Longer &amp; Happier</span>
       </div>
     </div>
-    <div class="sidebar-logo"><img src="kwik-logo.jpeg" alt="Kwik Fat Cut" loading="eager" fetchpriority="high" decoding="async"></div>
   </aside>
 
   <article class="article-body">
@@ -468,22 +463,40 @@
     <a href="learn-food-community.html" class="bo">&larr; Part 6</a>
   </div>
 </div>
+
+  <!-- KWIK:GIVE START -->
+  <aside class="kwik-give reveal">
+    <p class="kwik-give-label">Keep this free</p>
+    <p class="kwik-give-body">
+      Kwik Fat Cut is a non-profit platform. Every article stays free to read,
+      with no paywall and no subscription. Donations are what pay for it.
+    </p>
+    <a class="kwik-give-btn" href="support.html">Support Kwik Fat Cut</a>
+  </aside>
+  <!-- KWIK:GIVE END -->
+
 <section class="sstrip reveal">
   <div class="sstrip-i">
     <p class="sstrip-l">Tell a friend to tell a friend</p>
     <h3 class="sstrip-h">The series is complete.<br><em>Pass it forward.</em></h3>
     <div class="sstrip-a">
-      <button class="ssb sh" onclick="shareKFC()">Share this series</button>
-      <a href="https://kwikfatcut.com" class="ssb fo" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+      <button class="ssb sh" onclick="shareKwikFatCut()">Share this series</button>
+      <a href="https://x.com/KwikFatCut" class="ssb fo" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
     </div>
-    <div class="soc"><a href="#">Twitter / X</a><a href="#">Instagram</a><a href="#">TikTok</a><a href="#">Facebook</a></div>
+    <div class="soc"><a href="https://x.com/KwikFatCut" class="ss-social-link" target="_blank" rel="noopener">X</a><span class="ss-social-link ss-social-soon" aria-disabled="true" title="Instagram: Coming Soon">Instagram <em>Coming Soon</em></span><span class="ss-social-link ss-social-soon" aria-disabled="true" title="TikTok: Coming Soon">TikTok <em>Coming Soon</em></span><span class="ss-social-link ss-social-soon" aria-disabled="true" title="Facebook: Coming Soon">Facebook <em>Coming Soon</em></span></div>
     <p class="sstrip-n">Movements are medicines. Smile for me, Jamaica. We row. You steer. 🇯🇲❤️💚</p>
   </div>
 </section>
 </main>
 <footer>
-  <div><a href="kwik-fat-cut-homepage.html" class="fl">Kwik <em>Fat Cut</em></a><p class="ft">A knowledge tree for health, wellness, awareness &amp; opportunity.</p></div>
-  <nav class="footer-nav">
+  <div>
+    <a href="index.html" class="footer-logo" aria-label="Kwik Fat Cut home">
+    <img class="logo-shield" src="data:image/webp;base64,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" alt="" width="57" height="64" decoding="async">
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav" aria-label="Footer">
     <a href="about.html">About</a>
     <a href="why-free.html">Why Free</a>
     <a href="our-roots.html">Our Roots</a>
@@ -493,13 +506,19 @@
     <a href="support.html">Support</a>
     <a href="privacy.html">Privacy</a>
   </nav>
-  <p class="fc">&copy; 2026 Kwik Fat Cut</p>
+  <div class="kwik-social" role="group" aria-label="Kwik Fat Cut on social media"><a class="kwik-social-item kwik-social--x" href="https://x.com/KwikFatCut" target="_blank" rel="noopener" aria-label="Kwik Fat Cut on X"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg><span>X</span></a><span class="kwik-social-item kwik-social--facebook is-soon" aria-disabled="true" title="Facebook: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M24 12.07C24 5.4 18.63 0 12 0S0 5.4 0 12.07C0 18.1 4.39 23.09 10.13 24v-8.44H7.08v-3.49h3.05V9.43c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.24 2.69.24v2.95h-1.52c-1.49 0-1.95.93-1.95 1.87v2.25h3.33l-.53 3.49h-2.8V24C19.61 23.09 24 18.1 24 12.07z"/></svg><span>Facebook</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--instagram is-soon" aria-disabled="true" title="Instagram: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg><span>Instagram</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--tiktok is-soon" aria-disabled="true" title="TikTok: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12.53.02C13.84 0 15.14.01 16.44 0c.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></svg><span>TikTok</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--youtube is-soon" aria-disabled="true" title="YouTube: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M23.5 6.19a3.02 3.02 0 0 0-2.12-2.14C19.5 3.55 12 3.55 12 3.55s-7.5 0-9.38.5A3.02 3.02 0 0 0 .5 6.19C0 8.07 0 12 0 12s0 3.93.5 5.81a3.02 3.02 0 0 0 2.12 2.14c1.87.5 9.38.5 9.38.5s7.5 0 9.38-.5a3.02 3.02 0 0 0 2.12-2.14C24 15.93 24 12 24 12s0-3.93-.5-5.81zM9.55 15.57V8.43L15.82 12l-6.27 3.57z"/></svg><span>YouTube</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--linkedin is-soon" aria-disabled="true" title="LinkedIn: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg><span>LinkedIn</span><em>Coming Soon</em></span></div>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+  <div class="kwik-signoff">
+    <span class="kwik-triband" aria-hidden="true"><i></i><i></i><i></i></span>
+    <p class="kwik-signoff-text">A suh wi stay 🌿</p>
+  </div>
 </footer>
 <script>
-function shareKFC(){const url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 Living Longer, Healthier & Happier',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function shareKwikFatCut(){const url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 Living Longer, Healthier & Happier',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
 function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ssb.sh');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
 </script>
-<script src="kfc.js" defer></script>
-<script src="kfc-i18n.js" defer></script>
+<script src="kwik-fat-cut.min.js?v=440122a6" defer></script>
+<script src="kwik-fat-cut-i18n.min.js?v=908ac25c" defer></script>
+<script src="kwik-fat-cut-chat.min.js?v=cf5afac1" defer></script>
 </body>
 </html>

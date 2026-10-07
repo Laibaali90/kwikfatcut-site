@@ -1,0 +1,91 @@
+{
+  "_note": "Page content for learn-plant-based-meals.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "c4e07c56": {
+      "src": "A callaloo and saltfish breakfast provides iron, omega-3s, and iodine. A bowl of red peas soup with ground provisions provides complete protein, complex carbohydrates, and the blood-building minerals in the peas. Roasted breadfruit with steamed vegetables and olive oil provides complex carbohydrates, vitamin C, and healthy fat. Moringa tea with any meal adds the most nutrient-dense plant food documented on earth — gram for gram, moringa leaf outperforms spinach for iron, calcium, and vitamin A simultaneously.",
+      "t": "Un desayuno de callaloo con saltfish aporta hierro, omega-3 y yodo. Un plato de sopa de frijoles rojos con víveres aporta proteína completa, carbohidratos complejos y los minerales que forman sangre presentes en los frijoles. La fruta del pan asada con verduras al vapor y aceite de oliva aporta carbohidratos complejos, vitamina C y grasa saludable. Un té de moringa con cualquier comida suma el alimento vegetal más denso en nutrientes documentado en el planeta: gramo por gramo, la hoja de moringa supera a la espinaca en hierro, calcio y vitamina A a la vez."
+    },
+    "7182883a": {
+      "src": "A diet centred on Jamaican plant foods — callaloo, red peas, gungo peas, ground provisions, okra, plantain, breadfruit, moringa, and the full diversity of tropical fruit — delivers complete nutrition without requiring animal products at every meal. The grain-legume combination (rice and peas) provides all essential amino acids. Ground provisions provide complex carbohydrates and fibre. Dark leafy greens provide iron, folate, calcium, and vitamins A, C, and K.",
+      "t": "Una dieta centrada en los alimentos vegetales jamaicanos (callaloo, frijoles rojos, gandules, víveres, okra, plátano, fruta del pan, moringa y toda la diversidad de frutas tropicales) aporta una nutrición completa sin necesidad de productos animales en cada comida. La combinación de cereal y legumbre (rice and peas) aporta todos los aminoácidos esenciales. Los víveres aportan carbohidratos complejos y fibra. Las verduras de hoja oscura aportan hierro, folato, calcio y vitaminas A, C y K."
+    },
+    "c82d6dd1": {
+      "src": "Build every meal from",
+      "t": "Construye cada comida a partir de"
+    },
+    "1084a31f": {
+      "src": "Jamaica grows some of the most diverse plant food on earth. The island's Ital tradition, West African culinary heritage, and Taino agricultural legacy combine to produce a plant-based food culture of extraordinary nutritional depth. This is not about trends. This is about what was always here.",
+      "t": "Jamaica cultiva algunos de los alimentos vegetales más diversos del planeta. La tradición Ital de la isla, la herencia culinaria de África Occidental y el legado agrícola taíno se combinan para crear una cultura alimentaria basada en plantas de extraordinaria profundidad nutricional. No se trata de modas. Se trata de lo que siempre estuvo aquí."
+    },
+    "4cfb201f": {
+      "src": "Jamaican plant food tradition places the island in extraordinary alignment with these findings — if the tradition is maintained.",
+      "t": "La tradición jamaicana de alimentos vegetales sitúa a la isla en una sintonía extraordinaria con estos hallazgos, siempre que la tradición se mantenga."
+    },
+    "3ad05671": {
+      "src": "Jamaican.",
+      "t": "Jamaicana."
+    },
+    "00a8dbb8": {
+      "src": "Meal Foundations",
+      "t": "Bases de cada comida"
+    },
+    "696b5110": {
+      "src": "Plant-Based Jamaican Meals",
+      "t": "Comidas jamaicanas basadas en plantas"
+    },
+    "20eb3e9d": {
+      "src": "Plant-Based Jamaican Meals — Kwik Fat Cut",
+      "t": "Comidas jamaicanas basadas en plantas · Kwik Fat Cut"
+    },
+    "c735b026": {
+      "src": "Plant-based.",
+      "t": "Basada en plantas."
+    },
+    "487adf9a": {
+      "src": "Proven. Delicious.",
+      "t": "Probada. Deliciosa."
+    },
+    "6e11d7a1": {
+      "src": "Start free. Understand first.",
+      "t": "Empieza gratis. Entiende primero."
+    },
+    "943cdd9a": {
+      "src": "The Blue Zone research found that all five longest-lived populations on earth ate 90–95% plant-based diets.",
+      "t": "Las investigaciones sobre las Zonas Azules encontraron que las cinco poblaciones más longevas del planeta seguían dietas basadas en plantas en un 90 a 95%."
+    },
+    "0ec9d968": {
+      "src": "The science behind what",
+      "t": "La ciencia detrás de lo que"
+    },
+    "717983ad": {
+      "src": "The science just caught up.",
+      "t": "La ciencia simplemente se puso al día."
+    },
+    "82b890eb": {
+      "src": "These are not new inventions. They are what Jamaican grandmothers have been making for generations.",
+      "t": "No son inventos nuevos. Son lo que las abuelas jamaicanas llevan generaciones preparando."
+    },
+    "b1760cb0": {
+      "src": "Why Plant-Based Jamaican Food Works",
+      "t": "Por qué funciona la comida jamaicana basada en plantas"
+    },
+    "23972879": {
+      "src": "generations already knew.",
+      "t": "varias generaciones ya sabían."
+    },
+    "9ff28e77": {
+      "src": "these seven foundations.",
+      "t": "estas siete bases."
+    },
+    "4f93230b": {
+      "src": "“Education before intervention.",
+      "t": "“La educación antes que la intervención."
+    },
+    "5ba318f8": {
+      "src": "🌿 Jamaican Plant Foods — Recipe Education",
+      "t": "🌿 Alimentos vegetales jamaicanos · Educación culinaria"
+    }
+  }
+}

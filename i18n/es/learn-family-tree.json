@@ -1,0 +1,371 @@
+{
+  "_note": "Page content for learn-family-tree.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "230c8c59": {
+      "src": "&",
+      "t": "y"
+    },
+    "eaadd05d": {
+      "src": "6 min",
+      "t": "6 min"
+    },
+    "b36e12aa": {
+      "src": "A Fundamental Truth",
+      "t": "Una Verdad Fundamental"
+    },
+    "aa079a79": {
+      "src": "A diet high in processed, chemically preserved foods provides calories without the vitamins, minerals, and fibre the body needs to use those calories well. Over time, the body becomes what it is repeatedly given. The roots reflect the quality of the soil.",
+      "t": "Una dieta alta en alimentos procesados y conservados químicamente aporta calorías sin las vitaminas, los minerales y la fibra que el cuerpo necesita para aprovechar bien esas calorías. Con el tiempo, el cuerpo se convierte en aquello que recibe una y otra vez. Las raíces reflejan la calidad del suelo."
+    },
+    "83b55d47": {
+      "src": "Begin at no cost. Focus on learning and understanding first. The family tree is a reminder:",
+      "t": "Empieza sin costo alguno. Concéntrate primero en aprender y comprender. El árbol genealógico es un recordatorio:"
+    },
+    "9959edc4": {
+      "src": "Begin your wellness journey at no cost — focus on learning and understanding first. True health, like a tree, is not built in a day.",
+      "t": "Comienza tu camino de bienestar sin costo alguno. Concéntrate primero en aprender y comprender. La salud verdadera, como un árbol, no se construye en un día."
+    },
+    "9bdf30eb": {
+      "src": "Blood carries nourishment to every organ",
+      "t": "La sangre lleva el alimento a cada órgano"
+    },
+    "997c5c0d": {
+      "src": "Branches reach toward light",
+      "t": "Las ramas se extienden hacia la luz"
+    },
+    "700579a2": {
+      "src": "Cells convert nutrients to energy",
+      "t": "Las células convierten los nutrientes en energía"
+    },
+    "ac8f4cca": {
+      "src": "Consistent, mindful eating",
+      "t": "Una alimentación constante y consciente"
+    },
+    "63ada87b": {
+      "src": "Digestion & Nutrition",
+      "t": "Digestión y Nutrición"
+    },
+    "7d6b9471": {
+      "src": "Digestion anchors everything above",
+      "t": "La digestión sostiene todo lo que está arriba"
+    },
+    "25b297f8": {
+      "src": "Digestion begins in the mouth",
+      "t": "La digestión comienza en la boca"
+    },
+    "df018c72": {
+      "src": "Digestion starts",
+      "t": "La digestión empieza"
+    },
+    "d3bd8504": {
+      "src": "Foundation",
+      "t": "Fundamento"
+    },
+    "0c9eeb08": {
+      "src": "Growth is steady, not sudden",
+      "t": "El crecimiento es constante, no repentino"
+    },
+    "72716ad6": {
+      "src": "Health Education — Foundation",
+      "t": "Educación en Salud (Fundamento)"
+    },
+    "1aa060bb": {
+      "src": "Health builds gradually with consistency",
+      "t": "La salud se construye poco a poco con constancia"
+    },
+    "8f2715c2": {
+      "src": "Just as roots seek out the richest soil to nourish the tree, Kwik Fat Cut aims to nourish you with the right foundation. Developed by a team of natural nutrition experts and health professionals, Kwik Fat Cut is here to support your body’s natural functions and promote effective, sustainable weight management.",
+      "t": "Así como las raíces buscan la tierra más rica para nutrir al árbol, Kwik Fat Cut busca nutrirte con el fundamento correcto. Desarrollado por un equipo de expertos en nutrición natural y profesionales de la salud, Kwik Fat Cut está aquí para apoyar las funciones naturales de tu cuerpo y promover un manejo del peso eficaz y sostenible."
+    },
+    "1f1957ca": {
+      "src": "Kwik Fat Cut — Start Free. Learn First. — Education Before Intervention.",
+      "t": "Kwik Fat Cut. Empieza Gratis. Aprende Primero. La Educación Antes Que la Intervención."
+    },
+    "08a7498f": {
+      "src": "Leaves convert sunlight to energy",
+      "t": "Las hojas convierten la luz solar en energía"
+    },
+    "fa435b8f": {
+      "src": "Like a tree, the body is a system. When the roots are healthy — when digestion is functioning, nutrients are absorbed, and the gut microbiome is balanced —",
+      "t": "Como un árbol, el cuerpo es un sistema. Cuando las raíces están sanas (cuando la digestión funciona, los nutrientes se absorben y el microbioma intestinal está equilibrado),"
+    },
+    "4080389b": {
+      "src": "More Articles",
+      "t": "Más Artículos"
+    },
+    "1d05d769": {
+      "src": "Most people think digestion happens in the stomach. The truth is,",
+      "t": "La mayoría piensa que la digestión ocurre en el estómago. La verdad es que"
+    },
+    "b28f583e": {
+      "src": "Mouth and gut absorb nutrients from food",
+      "t": "La boca y el intestino absorben los nutrientes de la comida"
+    },
+    "dbc866df": {
+      "src": "Not through pressure. Not through programmes that ask you to pay before you understand.",
+      "t": "No a través de la presión. No a través de programas que te piden pagar antes de que entiendas."
+    },
+    "3bf8fd8a": {
+      "src": "Nourishing you",
+      "t": "Nutrirte"
+    },
+    "569b19d4": {
+      "src": "Nutrient-dense food",
+      "t": "La comida rica en nutrientes"
+    },
+    "f4fd043b": {
+      "src": "Poor-quality food",
+      "t": "La comida de mala calidad"
+    },
+    "e1e740b5": {
+      "src": "Ready to",
+      "t": "¿Listo para"
+    },
+    "b1f4ba91": {
+      "src": "Roots & foundation",
+      "t": "Raíces y fundamento"
+    },
+    "e2fae9a9": {
+      "src": "Roots anchor everything above",
+      "t": "Las raíces sostienen todo lo que está arriba"
+    },
+    "0baabdff": {
+      "src": "Roots do not disappear overnight.",
+      "t": "Las raíces no desaparecen de la noche a la mañana."
+    },
+    "39f9aed4": {
+      "src": "Roots do not disappear overnight. They grow steadily and deeply over time — creating the foundation for everything that follows. Begin your wellness journey at no cost. Focus on learning and understanding first.",
+      "t": "Las raíces no desaparecen de la noche a la mañana. Crecen de forma constante y profunda con el tiempo, creando el fundamento de todo lo que viene después. Comienza tu camino de bienestar sin costo alguno. Concéntrate primero en aprender y comprender."
+    },
+    "8f6fca97": {
+      "src": "Roots draw nutrients from soil",
+      "t": "Las raíces extraen nutrientes del suelo"
+    },
+    "f34d65d9": {
+      "src": "Roots grow",
+      "t": "Las raíces crecen"
+    },
+    "e000dcdf": {
+      "src": "Rushed eating, poor chewing, and highly processed foods all interfere with this process before the stomach ever receives the meal.",
+      "t": "Comer con prisa, masticar poco y los alimentos muy procesados interfieren con este proceso antes de que el estómago reciba siquiera la comida."
+    },
+    "f8c8df64": {
+      "src": "Start free. No subscription required. No pressure. Just understanding.",
+      "t": "Empieza gratis. Sin necesidad de suscripción. Sin presión. Solo comprensión."
+    },
+    "90b0d76b": {
+      "src": "Start free. Understand first. The roots do the rest.",
+      "t": "Empieza gratis. Entiende primero. Las raíces hacen el resto."
+    },
+    "ec5c76e9": {
+      "src": "Systems function when properly fed",
+      "t": "Los sistemas funcionan cuando están bien alimentados"
+    },
+    "4a3327a4": {
+      "src": "The Family Tree",
+      "t": "El Árbol Genealógico"
+    },
+    "42e848b9": {
+      "src": "The Family Tree — Kwik Fat Cut",
+      "t": "El árbol genealógico · Kwik Fat Cut"
+    },
+    "27e1ce25": {
+      "src": "The Foundation",
+      "t": "El Fundamento"
+    },
+    "c1722a08": {
+      "src": "The Metaphor",
+      "t": "La Metáfora"
+    },
+    "68f61ff7": {
+      "src": "The Right Foundation",
+      "t": "El Fundamento Correcto"
+    },
+    "1025e5e4": {
+      "src": "The family tree",
+      "t": "El árbol genealógico"
+    },
+    "edb2cd3e": {
+      "src": "The family tree is not just a symbol for Kwik Fat Cut — it is a map of how the body works. Every element of the tree mirrors a function of human health.",
+      "t": "El árbol genealógico no es solo un símbolo de Kwik Fat Cut: es un mapa de cómo funciona el cuerpo. Cada elemento del árbol refleja una función de la salud humana."
+    },
+    "c5850077": {
+      "src": "The right foundation",
+      "t": "El fundamento correcto"
+    },
+    "af0a2784": {
+      "src": "The tree",
+      "t": "El árbol"
+    },
+    "51b4fc03": {
+      "src": "The tree & the body",
+      "t": "El árbol y el cuerpo"
+    },
+    "57032373": {
+      "src": "They grow steadily and deeply over time, creating the foundation from which everything else draws life.",
+      "t": "Crecen de forma constante y profunda con el tiempo, creando el fundamento del cual todo lo demás extrae su vida."
+    },
+    "786a4558": {
+      "src": "This is not a philosophy. It is biology.",
+      "t": "Esto no es una filosofía. Es biología."
+    },
+    "42389f30": {
+      "src": "This is the central truth of Kwik Fat Cut. Before any change in diet, before any programme or plan, there must be understanding. A tree without roots cannot stand. A health journey without education cannot last.",
+      "t": "Esta es la verdad central de Kwik Fat Cut. Antes de cualquier cambio en la dieta, antes de cualquier programa o plan, tiene que haber comprensión. Un árbol sin raíces no puede sostenerse. Un camino hacia la salud sin educación no puede durar."
+    },
+    "674a9231": {
+      "src": "Thoroughly chewing your food — breaking it into smaller, manageable pieces — is essential for proper digestion. This process begins in the mouth, where saliva introduces the first digestive enzymes, and continues in the small intestine, where nutrients are broken down and absorbed into the body.",
+      "t": "Masticar bien la comida, partirla en trozos más pequeños y manejables, es esencial para una digestión adecuada. Este proceso comienza en la boca, donde la saliva introduce las primeras enzimas digestivas, y continúa en el intestino delgado, donde los nutrientes se descomponen y se absorben en el cuerpo."
+    },
+    "09f9d720": {
+      "src": "Through education. Through clarity. Through the kind of knowledge that stays with you",
+      "t": "A través de la educación. A través de la claridad. A través del tipo de conocimiento que se queda contigo"
+    },
+    "632b5c9e": {
+      "src": "Trunk channels nourishment upward",
+      "t": "El tronco canaliza el alimento hacia arriba"
+    },
+    "8fb1afd2": {
+      "src": "What you consume",
+      "t": "Lo que consumes"
+    },
+    "f8955447": {
+      "src": "What you consume directly affects what your body absorbs",
+      "t": "Lo que consumes afecta directamente lo que tu cuerpo absorbe"
+    },
+    "abd90a86": {
+      "src": "What you consume directly affects what your body absorbs. And what your body absorbs determines how it functions, repairs, and grows.",
+      "t": "Lo que consumes afecta directamente lo que tu cuerpo absorbe. Y lo que tu cuerpo absorbe determina cómo funciona, se repara y crece."
+    },
+    "98d798b1": {
+      "src": "When the roots are neglected, the whole tree suffers, no matter how the branches are tended.",
+      "t": "Cuando se descuidan las raíces, todo el árbol sufre, por más que se cuiden las ramas."
+    },
+    "14507b69": {
+      "src": "Where It Begins",
+      "t": "Donde Comienza"
+    },
+    "ded137d1": {
+      "src": "Your wellness",
+      "t": "Tu camino"
+    },
+    "dc317839": {
+      "src": "and so does health.",
+      "t": "la salud también."
+    },
+    "49598438": {
+      "src": "because you actually understand why it matters.",
+      "t": "porque de verdad entiendes por qué importa."
+    },
+    "690167af": {
+      "src": "begins here.",
+      "t": "empieza aquí."
+    },
+    "ff186c3a": {
+      "src": "draws nourishment.",
+      "t": "obtiene su nutrición."
+    },
+    "14929acb": {
+      "src": "everything above flourishes.",
+      "t": "todo lo que está arriba florece."
+    },
+    "c63c8691": {
+      "src": "gives the body the raw materials to function, repair tissue, support immunity, and sustain energy through the day.",
+      "t": "le da al cuerpo la materia prima para funcionar, reparar tejidos, apoyar la inmunidad y sostener la energía a lo largo del día."
+    },
+    "4c40d619": {
+      "src": "grow your roots?",
+      "t": "hacer crecer tus raíces?"
+    },
+    "164571a8": {
+      "src": "how your body",
+      "t": "cómo tu cuerpo"
+    },
+    "848a9b39": {
+      "src": "in the",
+      "t": "en la"
+    },
+    "db003012": {
+      "src": "is the only kind that lasts. Build your roots. Everything else follows.",
+      "t": "es el único que perdura. Construye tus raíces. Todo lo demás viene después."
+    },
+    "6259bfbf": {
+      "src": "is what you absorb.",
+      "t": "es lo que absorbes."
+    },
+    "be05ba9b": {
+      "src": "it begins the moment food meets your teeth and saliva.",
+      "t": "comienza en el momento en que la comida toca tus dientes y tu saliva."
+    },
+    "ce7ce693": {
+      "src": "journey",
+      "t": "de bienestar"
+    },
+    "ad7baeb9": {
+      "src": "may fill the stomach but leaves the cells undernourished — a condition sometimes called being overfed and under-nourished.",
+      "t": "puede llenar el estómago pero deja a las células desnutridas, una condición que a veces se llama estar sobrealimentado y desnutrido."
+    },
+    "c90b8ff6": {
+      "src": "mouth.",
+      "t": "boca."
+    },
+    "46dd736d": {
+      "src": "our stomachs provide the vital nourishment that supports our overall health.",
+      "t": "nuestro estómago aporta el alimento vital que sostiene nuestra salud general."
+    },
+    "0619bf26": {
+      "src": "right soil.",
+      "t": "tierra correcta."
+    },
+    "712a57cc": {
+      "src": "steadily",
+      "t": "de forma constante"
+    },
+    "15805b0c": {
+      "src": "steady, deep, consistent growth",
+      "t": "el crecimiento constante, profundo y sostenido"
+    },
+    "adcda47a": {
+      "src": "the body.",
+      "t": "el cuerpo."
+    },
+    "afcbdc62": {
+      "src": "we aim to nourish you with the right foundation.",
+      "t": "buscamos nutrirte con el fundamento correcto."
+    },
+    "483aa9ae": {
+      "src": "with the",
+      "t": "con la"
+    },
+    "113ed003": {
+      "src": "—",
+      "t": "y"
+    },
+    "54c6b665": {
+      "src": "— and what it absorbs determines what it can build, repair, and sustain.",
+      "t": ", y lo que absorbe determina lo que puede construir, reparar y sostener."
+    },
+    "64db4aad": {
+      "src": "— rooted in understanding — is the most powerful health tool available to any person, regardless of budget or background.",
+      "t": ", con raíces en la comprensión, es la herramienta de salud más poderosa al alcance de cualquier persona, sin importar su presupuesto o su origen."
+    },
+    "8ac44f4a": {
+      "src": "“Just as a tree’s roots nourish its branches by drawing nutrients from the soil,",
+      "t": "“Así como las raíces de un árbol nutren sus ramas extrayendo nutrientes del suelo,"
+    },
+    "b1ec1d8e": {
+      "src": "“Just as roots seek out the richest soil,",
+      "t": "“Así como las raíces buscan la tierra más rica,"
+    },
+    "ea596091": {
+      "src": "🌳 The Tree",
+      "t": "🌳 El Árbol"
+    },
+    "7025d424": {
+      "src": "🫀 The Body",
+      "t": "🫀 El Cuerpo"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "_note": "Page content for learn-coconut-water.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "4ee3e9f6": {
+      "src": "A small trial published in 2012 in the Journal of the International Society of Sports Nutrition compared coconut water against a commercial sports drink and against plain water in twelve trained men. It found no measurable difference between them in rehydration or in exercise performance afterwards. That is a fair result, but it is a small study, it was funded by a coconut water company, and some participants reported stomach upset on the coconut drinks. A cup of coconut water does carry about 600mg of potassium against roughly 30mg in a standard cup of a mainstream sports drink. Potassium is not the electrolyte doing most of the work after heavy sweating, though. That job belongs to sodium, which is why sports drinks are built around it, and which is the one thing fresh coconut water is usually short of. Coconut water has been given intravenously in a small number of documented cases where standard medical fluids were not available, including one reported from a hospital in the Solomon Islands in 2000. The widely repeated story that it was used as a battlefield drip during the Second World War is not documented anywhere. The doctors who published that Solomon Islands case called the wartime accounts alleged, and noted they were never formally reported in the medical literature. Doctors also caution that coconut water is too high in potassium to be given into a vein safely in any quantity. It is absorbed well and it goes down easily, which is most of what you want from a recovery drink.",
+      "t": "Un ensayo pequeño publicado en 2012 en el Journal of the International Society of Sports Nutrition comparó el agua de coco con una bebida deportiva comercial y con agua sola en doce hombres entrenados. No encontró ninguna diferencia medible entre ellas en la rehidratación ni en el rendimiento en el ejercicio posterior. Es un resultado razonable, pero se trata de un estudio pequeño, fue financiado por una empresa de agua de coco y algunos participantes informaron de malestar estomacal con las bebidas de coco. Una taza de agua de coco sí aporta unos 600mg de potasio frente a aproximadamente 30mg en una taza estándar de una bebida deportiva convencional. Sin embargo, el potasio no es el electrolito que hace la mayor parte del trabajo después de sudar mucho. Ese papel le corresponde al sodio, que es la razón por la que las bebidas deportivas se construyen alrededor de él, y que es justo lo que suele faltarle al agua de coco fresca. El agua de coco se ha administrado por vía intravenosa en un pequeño número de casos documentados en los que no había disponibles los sueros médicos habituales, incluido uno notificado desde un hospital de las Islas Salomón en 2000. La historia, muy repetida, de que se usó como suero en el campo de batalla durante la Segunda Guerra Mundial no está documentada en ninguna parte. Los médicos que publicaron aquel caso de las Islas Salomón calificaron los relatos de la guerra de presuntos, y señalaron que nunca se notificaron formalmente en la literatura médica. Los médicos advierten además de que el agua de coco tiene demasiado potasio como para administrarse por vía venosa con seguridad en cualquier cantidad. Se absorbe bien y entra con facilidad, que es casi todo lo que se le pide a una bebida de recuperación."
+    },
+    "9415f376": {
+      "src": "A whole coconut, a cut coconut showing the white flesh, green jelly coconuts and a jug of coconut water on a cloth by the sea.",
+      "t": "Un coco entero, un coco partido que muestra la pulpa blanca, cocos verdes de agua y una jarra de agua de coco sobre un paño junto al mar."
+    },
+    "b13b4830": {
+      "src": "Campbell-Falck D et al, The intravenous use of coconut water",
+      "t": "Campbell-Falck D et al, The intravenous use of coconut water"
+    },
+    "c2b25ae9": {
+      "src": "Coconut Water — Nature's Sports Drink",
+      "t": "Agua de coco, la bebida deportiva de la naturaleza"
+    },
+    "9461a316": {
+      "src": "Coconut Water — Nature's Sports Drink — Kwik Fat Cut",
+      "t": "Agua de coco, la bebida deportiva de la naturaleza · Kwik Fat Cut"
+    },
+    "3cc2d541": {
+      "src": "Coconut water is the clear liquid found inside young, green coconuts — harvested before the flesh hardens. It is not coconut milk, which is pressed from mature coconut flesh and is very different in composition. Coconut water is about 95% water, and it carries potassium, sodium, magnesium, calcium and phosphorus. You will often read that its mineral profile mirrors human blood plasma. It does not. Plasma is sodium led, at roughly 135 to 145 millimoles of sodium per litre against about 4 to 5 of potassium. Coconut water runs the other way, potassium led, with many times more potassium than plasma and a good deal less sodium. That makes it a genuinely useful drink. It does not make it a copy of your blood.",
+      "t": "El agua de coco es el líquido transparente que se encuentra dentro de los cocos verdes y jóvenes, cosechados antes de que la pulpa endurezca. No es leche de coco, que se prensa de la pulpa madura del coco y tiene una composición muy distinta. El agua de coco es agua en un 95% aproximadamente, y aporta potasio, sodio, magnesio, calcio y fósforo. A menudo leerás que su perfil mineral refleja el del plasma sanguíneo humano. No es así. En el plasma domina el sodio, con aproximadamente 135 a 145 milimoles de sodio por litro frente a unos 4 a 5 de potasio. El agua de coco va al revés, en ella domina el potasio, con muchas veces más potasio que el plasma y bastante menos sodio. Eso la convierte en una bebida verdaderamente útil. No la convierte en una copia de tu sangre."
+    },
+    "e047ff57": {
+      "src": "Coconut water.",
+      "t": "Agua de coco."
+    },
+    "0d253b65": {
+      "src": "Inside the young coconut —",
+      "t": "Dentro del coco joven,"
+    },
+    "34c6f1bf": {
+      "src": "Jamaica grows it. Drink it.",
+      "t": "Jamaica la cultiva. Bébela."
+    },
+    "0fe4781c": {
+      "src": "Jelly coconuts, a mature nut and the water itself. The green ones hold the most water and the least fat, which is why they are the ones cut at the roadside.",
+      "t": "Cocos tiernos (jelly coconuts), un coco maduro y el agua misma. Los verdes tienen más agua y menos grasa, y por eso son los que se cortan al borde del camino."
+    },
+    "d0e677b0": {
+      "src": "Kalman DS et al, Coconut water compared with a carbohydrate electrolyte sport drink",
+      "t": "Kalman DS et al, Coconut water compared with a carbohydrate electrolyte sport drink"
+    },
+    "6e78d49e": {
+      "src": "Licensed stock photograph. Licence held by Kwik Fat Cut.",
+      "t": "Fotografía de archivo con licencia. Licencia en poder de Kwik Fat Cut."
+    },
+    "b082214d": {
+      "src": "MedlinePlus (NLM), Potassium blood test reference ranges",
+      "t": "MedlinePlus (NLM), Potassium blood test reference ranges"
+    },
+    "a9bf2311": {
+      "src": "MedlinePlus (NLM), Sodium blood test reference ranges",
+      "t": "MedlinePlus (NLM), Sodium blood test reference ranges"
+    },
+    "41fc2794": {
+      "src": "Nature's own",
+      "t": "La bebida deportiva"
+    },
+    "6e11d7a1": {
+      "src": "Start free. Understand first.",
+      "t": "Empieza gratis. Entiende primero."
+    },
+    "8e4b1fe1": {
+      "src": "Tested in small trials.",
+      "t": "Probada en ensayos pequeños."
+    },
+    "25bee7ee": {
+      "src": "The Science",
+      "t": "La ciencia"
+    },
+    "6a9d064d": {
+      "src": "The health claims on this page were checked against the sources below. Where a claim could not be supported it was softened or removed rather than given a citation that did not fit. This page is general information about food, not medical advice, and no food prevents or treats disease.",
+      "t": "Las afirmaciones de salud de esta página se verificaron con las fuentes que aparecen abajo. Cuando una afirmación no se pudo respaldar, se atenuó o se eliminó en lugar de darle una cita que no correspondía. Esta página es información general sobre alimentos, no consejo médico, y ningún alimento previene ni trata enfermedades."
+    },
+    "110b4eeb": {
+      "src": "USDA FoodData Central, coconut water (FDC 170174)",
+      "t": "USDA FoodData Central, coconut water (FDC 170174)"
+    },
+    "4e710929": {
+      "src": "Used across the Caribbean for centuries. Compared against commercial sports drinks in two small clinical trials, with no clear difference found, and easier on the stomach in one of them. A genuinely good source of potassium. Grown here. Available here. Understood here long before sports science had a name for it.",
+      "t": "Se usa en todo el Caribe desde hace siglos. Comparada con bebidas deportivas comerciales en dos ensayos clínicos pequeños, sin que se encontrara una diferencia clara, y más suave para el estómago en uno de ellos. Una fuente verdaderamente buena de potasio. Se cultiva aquí. Está disponible aquí. Se entendió aquí mucho antes de que la ciencia del deporte tuviera un nombre para ello."
+    },
+    "fd26b79d": {
+      "src": "Used once or twice in an emergency.",
+      "t": "Usada una o dos veces en una emergencia."
+    },
+    "056ed7f1": {
+      "src": "What Coconut Water Is",
+      "t": "Qué es el agua de coco"
+    },
+    "4161401c": {
+      "src": "Where this",
+      "t": "De dónde viene"
+    },
+    "a5e07d5c": {
+      "src": "a precise biological formulation.",
+      "t": "una fórmula biológica precisa."
+    },
+    "f590ee38": {
+      "src": "comes from.",
+      "t": "esto."
+    },
+    "17dd9b5a": {
+      "src": "sports drink.",
+      "t": "propia de la naturaleza."
+    },
+    "4f93230b": {
+      "src": "“Education before intervention.",
+      "t": "“La educación antes que la intervención."
+    },
+    "ca433f3c": {
+      "src": "🥥 Foods Hub — Deep Read",
+      "t": "🥥 Centro de Alimentos, Lectura Profunda"
+    }
+  }
+}

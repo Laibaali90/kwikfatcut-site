@@ -1,0 +1,679 @@
+{
+  "_note": "Page content for learn-stillness-is-medicine.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "951ec945": {
+      "src": ". It describes the conscious way of living that integrates body, mind, and spirit as one.",
+      "t": ". Describe la forma consciente de vivir que integra cuerpo, mente y espíritu como uno solo."
+    },
+    "1ced6a6e": {
+      "src": "05",
+      "t": "05"
+    },
+    "1bed68db": {
+      "src": "06",
+      "t": "06"
+    },
+    "c792a396": {
+      "src": "1 in 4 people",
+      "t": "1 de cada 4 personas"
+    },
+    "09ff3687": {
+      "src": "11 min",
+      "t": "11 min"
+    },
+    "2d28884f": {
+      "src": "43%",
+      "t": "43%"
+    },
+    "bd32655b": {
+      "src": "47%",
+      "t": "47%"
+    },
+    "eb92d82a": {
+      "src": "8hrs",
+      "t": "8 h"
+    },
+    "5ec35102": {
+      "src": "95%",
+      "t": "95%"
+    },
+    "724b1680": {
+      "src": "A 2012 Yale study found that people who experienced significant life stress had visibly reduced grey matter in regions controlling self-control and emotion. This is not metaphor. This is measurable brain change.",
+      "t": "Un estudio de Yale de 2012 encontró que las personas que habían vivido un estrés vital importante tenían visiblemente menos materia gris en las regiones que controlan el autocontrol y las emociones. No es una metáfora. Es un cambio cerebral medible."
+    },
+    "d89a6016": {
+      "src": "Adaptogens and neuroprotective compounds.",
+      "t": "Adaptógenos y compuestos neuroprotectores."
+    },
+    "53744c08": {
+      "src": "Adults sleeping less than 6 hours have a 4.2x increased risk of catching a cold — and dramatically elevated anxiety levels (Carnegie Mellon, 2015)",
+      "t": "Los adultos que duermen menos de 6 horas tienen 4,2 veces más riesgo de resfriarse, y niveles de ansiedad mucho más altos (Carnegie Mellon, 2015)"
+    },
+    "62a1d0a2": {
+      "src": "And yet the conversation about mental health rarely includes food, movement, or stillness. It rarely includes the quality of sleep, the health of the gut, the presence of nature, or the depth of community connection.",
+      "t": "Y aun así, la conversación sobre la salud mental rara vez incluye la comida, el movimiento o la quietud. Rara vez incluye la calidad del sueño, la salud del intestino, la presencia de la naturaleza o la profundidad de los lazos comunitarios."
+    },
+    "3c33db05": {
+      "src": "Anthocyanins crossing the blood-brain barrier.",
+      "t": "Antocianinas que atraviesan la barrera hematoencefálica."
+    },
+    "3354713e": {
+      "src": "Brigham Young University meta-analysis (Holt-Lunstad, 2015): social isolation as dangerous as smoking 15 cigarettes per day. Documented across 3.4 million participants.",
+      "t": "Metaanálisis de Brigham Young University (Holt-Lunstad, 2015): el aislamiento social es tan peligroso como fumar 15 cigarrillos al día. Documentado en 3,4 millones de participantes."
+    },
+    "a2eb3743": {
+      "src": "Cardiovascular damage",
+      "t": "Daño cardiovascular"
+    },
+    "e56d819d": {
+      "src": "Chanting and music — the vagus nerve activator",
+      "t": "El canto y la música: los que activan el nervio vago"
+    },
+    "088268b7": {
+      "src": "Chronic cortisol exposure causes measurable shrinkage of the hippocampus — the brain region responsible for",
+      "t": "La exposición crónica al cortisol provoca una reducción medible del hipocampo, la región del cerebro responsable de"
+    },
+    "a94ec202": {
+      "src": "Chronic stress elevates blood pressure, increases arterial inflammation, and makes platelets stickier — raising the risk of blood clots.",
+      "t": "El estrés crónico eleva la presión arterial, aumenta la inflamación de las arterias y hace que las plaquetas sean más pegajosas, lo que eleva el riesgo de coágulos."
+    },
+    "68a32072": {
+      "src": "Community — the longevity hormone",
+      "t": "Comunidad: la hormona de la longevidad"
+    },
+    "a23e7e7f": {
+      "src": "Continue the",
+      "t": "Continúa el"
+    },
+    "3b9f1e88": {
+      "src": "Continue the series",
+      "t": "Continúa la serie"
+    },
+    "736a0b0e": {
+      "src": "Coprococcus",
+      "t": "Coprococcus"
+    },
+    "af36ca28": {
+      "src": "Cortisol is an immunosuppressant. Chronic stress reduces the activity of natural killer cells, lowers antibody production, and increases systemic inflammation.",
+      "t": "El cortisol es inmunosupresor. El estrés crónico reduce la actividad de las células asesinas naturales, disminuye la producción de anticuerpos y aumenta la inflamación sistémica."
+    },
+    "d549daf4": {
+      "src": "Deep Research",
+      "t": "Investigación profunda"
+    },
+    "6ec582ee": {
+      "src": "Depression and anxiety were understood not as brain malfunctions but as disconnections — from self, from nature, from community, from purpose.",
+      "t": "La depresión y la ansiedad no se entendían como fallos del cerebro, sino como desconexiones: de uno mismo, de la naturaleza, de la comunidad, del propósito."
+    },
+    "21bdf732": {
+      "src": "Dialister",
+      "t": "Dialister"
+    },
+    "cf20b7fb": {
+      "src": "During deep sleep, the glymphatic system — the brain’s waste removal network — activates fully. Toxic proteins including beta-amyloid (linked to Alzheimer’s) are cleared. Without sufficient sleep, they accumulate.",
+      "t": "Durante el sueño profundo, el sistema glinfático, la red de eliminación de desechos del cerebro, se activa por completo. Se eliminan proteínas tóxicas como la beta-amiloide (relacionada con el alzhéimer). Sin sueño suficiente, se acumulan."
+    },
+    "fa85d2e4": {
+      "src": "Eight weeks. Measurable brain change.",
+      "t": "Ocho semanas. Un cambio cerebral medible."
+    },
+    "eaf2c91a": {
+      "src": "Embrace Healthy Living — 2 of 3",
+      "t": "Abraza la vida sana · 2 de 3"
+    },
+    "550d9a32": {
+      "src": "Embrace Healthy Living — Part 2 of 3 — Mental",
+      "t": "Abraza la Vida Sana, Parte 2 de 3, Mental"
+    },
+    "0f1deb8f": {
+      "src": "Even 10 minutes of daily focused breathing reduces cortisol levels measurably. The technique matters less than the consistency. Breath awareness. Body scan. Silent observation.",
+      "t": "Incluso 10 minutos diarios de respiración consciente reducen de forma medible los niveles de cortisol. La técnica importa menos que la constancia. Atención a la respiración. Recorrido por el cuerpo. Observación en silencio."
+    },
+    "58cf04b8": {
+      "src": "Every mental health condition has a nutritional dimension.",
+      "t": "Todo problema de salud mental tiene una dimensión nutricional."
+    },
+    "1fdd3bac": {
+      "src": "Fibre. Plant diversity. Fermented foods. The exact foods that ancestral and Ital diets have always prioritised.",
+      "t": "La fibra. La diversidad vegetal. Los alimentos fermentados. Justo los alimentos que las dietas ancestrales e Ital siempre han priorizado."
+    },
+    "0c90407b": {
+      "src": "Folate for neurotransmitter synthesis.",
+      "t": "Folato para producir neurotransmisores."
+    },
+    "02ca5924": {
+      "src": "Gut disruption",
+      "t": "Alteración intestinal"
+    },
+    "3e50a4fa": {
+      "src": "Harvard Medical School: 47% cortisol reduction after 8 weeks. Amygdala shrinkage documented on MRI.",
+      "t": "Harvard Medical School: reducción del 47% del cortisol tras 8 semanas. Reducción de la amígdala documentada por resonancia magnética."
+    },
+    "70608963": {
+      "src": "Here is what whole plant foods provide.",
+      "t": "Esto es lo que aportan los alimentos vegetales integrales."
+    },
+    "6d4ebbd3": {
+      "src": "Hippocampal shrinkage",
+      "t": "Reducción del hipocampo"
+    },
+    "92d9c693": {
+      "src": "Immune suppression",
+      "t": "Supresión inmunitaria"
+    },
+    "568b2fb9": {
+      "src": "In 2011, Harvard neuroscientist Sara Lazar published landmark MRI research showing that",
+      "t": "En 2011, la neurocientífica de Harvard Sara Lazar publicó una investigación de referencia con resonancia magnética que mostró que"
+    },
+    "a0e5588e": {
+      "src": "In cortisol (stress hormone) after 8 weeks of mindfulness practice — documented by Harvard Medical School researchers",
+      "t": "en el cortisol (la hormona del estrés) tras 8 semanas de práctica de atención plena, documentado por investigadores de Harvard Medical School"
+    },
+    "f33684a9": {
+      "src": "In depression symptoms with a Mediterranean-style plant-rich diet, compared to standard diet (SMILES Trial, 2017)",
+      "t": "en los síntomas de depresión con una dieta de estilo mediterráneo rica en plantas, frente a una dieta estándar (ensayo SMILES, 2017)"
+    },
+    "260bea91": {
+      "src": "It is the most important nutritional fact in mental health.",
+      "t": "Es el dato nutricional más importante de la salud mental."
+    },
+    "ccdc70f2": {
+      "src": "It produces 95% of the body’s serotonin, 50% of its dopamine, and communicates with the brain via the vagus nerve in both directions.",
+      "t": "Produce el 95% de la serotonina del cuerpo y el 50% de su dopamina, y se comunica con el cerebro a través del nervio vago en ambas direcciones."
+    },
+    "b6e8400c": {
+      "src": "It simply responds. And when that response never switches off, the cumulative damage is profound.",
+      "t": "Simplemente responde. Y cuando esa respuesta nunca se apaga, el daño acumulado es profundo."
+    },
+    "2aadac02": {
+      "src": "Jamaica has a word —",
+      "t": "Jamaica tiene una palabra:"
+    },
+    "1d0b490d": {
+      "src": "Jamaica’s mental wisdom",
+      "t": "La sabiduría mental de Jamaica"
+    },
+    "839a6108": {
+      "src": "Jamaica’s wisdom",
+      "t": "La sabiduría de Jamaica"
+    },
+    "20aeb6c9": {
+      "src": "James Pennebaker (University of Texas): journaling reduces doctor visits, improves mood, and strengthens immune markers over 3-month trials.",
+      "t": "James Pennebaker (University of Texas): escribir un diario reduce las visitas al médico, mejora el estado de ánimo y fortalece los marcadores inmunitarios en ensayos de 3 meses."
+    },
+    "79105164": {
+      "src": "Japanese Forest Agency: 2-hour forest walks reduce blood pressure, heart rate, and stress hormones in controlled clinical trials.",
+      "t": "Agencia Forestal de Japón: caminar 2 horas por el bosque reduce la presión arterial, el ritmo cardíaco y las hormonas del estrés en ensayos clínicos controlados."
+    },
+    "841af93f": {
+      "src": "Journaling — the emotional processor",
+      "t": "Escribir un diario: el procesador emocional"
+    },
+    "ac1b65bc": {
+      "src": "Kwik Fat Cut documents this not as nostalgia but as instruction.",
+      "t": "Kwik Fat Cut documenta esto no como nostalgia, sino como enseñanza."
+    },
+    "5cc766bf": {
+      "src": "Low folate is strongly associated with depression. Callaloo, moringa, and dark greens are among the richest plant sources. Studies show folate supplementation improves antidepressant response.",
+      "t": "El folato bajo está muy asociado a la depresión. El callaloo, la moringa y las verduras oscuras están entre las fuentes vegetales más ricas. Los estudios muestran que los suplementos de folato mejoran la respuesta a los antidepresivos."
+    },
+    "c69d5908": {
+      "src": "Matthew Walker (Why We Sleep, 2017): every major disease killing people in developed nations has causal links to insufficient sleep.",
+      "t": "Matthew Walker (Why We Sleep, 2017): todas las grandes enfermedades que causan muertes en los países desarrollados tienen vínculos causales con la falta de sueño."
+    },
+    "35d46a3d": {
+      "src": "Meditation — the cortisol reducer",
+      "t": "Meditación: la que reduce el cortisol"
+    },
+    "7d2e3cc5": {
+      "src": "Mental health conditions account for more years of healthy life lost than any other group of conditions, including cardiovascular disease and cancer.",
+      "t": "Los problemas de salud mental son responsables de más años de vida sana perdidos que cualquier otro grupo de afecciones, incluidas las enfermedades cardiovasculares y el cáncer."
+    },
+    "9f4c73fd": {
+      "src": "Mental health in the Rastafarian tradition was never separated from how you ate, how you moved, how you related to the Creator, and how you participated in community.",
+      "t": "En la tradición rastafari, la salud mental nunca estuvo separada de cómo comías, cómo te movías, cómo te relacionabas con el Creador y cómo participabas en la comunidad."
+    },
+    "689fd2bc": {
+      "src": "Mental health practices",
+      "t": "Prácticas de salud mental"
+    },
+    "aca66fea": {
+      "src": "Mental health —",
+      "t": "Salud mental:"
+    },
+    "b48ce5e6": {
+      "src": "Mental practices",
+      "t": "Prácticas mentales"
+    },
+    "9a79b456": {
+      "src": "Modern life has turned this emergency system on permanently. Traffic, financial pressure, social media, workplace demands, unresolved grief —",
+      "t": "La vida moderna ha dejado este sistema de emergencia encendido de forma permanente. El tráfico, la presión económica, las redes sociales, las exigencias del trabajo, el duelo sin resolver:"
+    },
+    "8ace0c8b": {
+      "src": "Moringa contains isothiocyanates that cross the blood-brain barrier and reduce neuroinflammation. Studies in animals show reversal of stress-induced anxiety behaviours. One of the most neuroprotective plants known.",
+      "t": "La moringa contiene isotiocianatos que atraviesan la barrera hematoencefálica y reducen la neuroinflamación. Los estudios en animales muestran que revierte conductas de ansiedad provocadas por el estrés. Una de las plantas más neuroprotectoras que se conocen."
+    },
+    "ca17eb80": {
+      "src": "Nature exposure — the nervous system reset",
+      "t": "Contacto con la naturaleza: el reinicio del sistema nervioso"
+    },
+    "75f2905b": {
+      "src": "Nervous system calming.",
+      "t": "Calma el sistema nervioso."
+    },
+    "9f6dbeb3": {
+      "src": "Of serotonin",
+      "t": "de la serotonina"
+    },
+    "d46d6ed8": {
+      "src": "Once again, the science arrives at the same conclusion the elders reached through observation and lived experience.",
+      "t": "Una vez más, la ciencia llega a la misma conclusión que los mayores alcanzaron por la observación y la experiencia vivida."
+    },
+    "20de3d88": {
+      "src": "Part 1 — Movement Is Medicine (Physical)",
+      "t": "Parte 1 · El movimiento es medicina (física)"
+    },
+    "9841c8dc": {
+      "src": "Part 1 — Physical",
+      "t": "Parte 1 · Física"
+    },
+    "02166847": {
+      "src": "Part 2 — Mental",
+      "t": "Parte 2 · Mental"
+    },
+    "52083965": {
+      "src": "Part 2 — Stillness Is Medicine (Mental)",
+      "t": "Parte 2 · La quietud es medicina (mental)"
+    },
+    "0e37d2ad": {
+      "src": "Part 3 — Spirit Is the Root (Spiritual Health)",
+      "t": "Parte 3 · El espíritu es la raíz (salud espiritual)"
+    },
+    "1689173b": {
+      "src": "Part 3 — Spirit Is the Root (Spiritual)",
+      "t": "Parte 3 · El espíritu es la raíz (espiritual)"
+    },
+    "e6ee7973": {
+      "src": "Part 3 — Spirit Is the Root. The deepest dimension of healthy living.",
+      "t": "Parte 3 · El espíritu es la raíz. La dimensión más profunda de la vida sana."
+    },
+    "ba1f4044": {
+      "src": "Part 3 — Spiritual",
+      "t": "Parte 3 · Espiritual"
+    },
+    "4e8e65d5": {
+      "src": "People under high chronic stress get sick more often, heal more slowly, and are at higher risk of autoimmune conditions.",
+      "t": "Las personas con mucho estrés crónico se enferman más a menudo, sanan más despacio y tienen mayor riesgo de enfermedades autoinmunes."
+    },
+    "9d9cc385": {
+      "src": "Plant Foods for the Mind",
+      "t": "Alimentos vegetales para la mente"
+    },
+    "52eef185": {
+      "src": "Plant foods for the mind",
+      "t": "Alimentos vegetales para la mente"
+    },
+    "797ece74": {
+      "src": "Produced in the gut, not the brain. What you eat directly shapes your mood chemistry.",
+      "t": "se produce en el intestino, no en el cerebro. Lo que comes moldea directamente la química de tu estado de ánimo."
+    },
+    "863f1e4c": {
+      "src": "Psychological stress is an independent risk factor for heart attack,",
+      "t": "El estrés psicológico es un factor de riesgo independiente de infarto,"
+    },
+    "d42ef68d": {
+      "src": "Read Part 3 →",
+      "t": "Lee la Parte 3 →"
+    },
+    "941d9ab2": {
+      "src": "Reduction",
+      "t": "Reducción"
+    },
+    "2fa62ca8": {
+      "src": "Sleep",
+      "t": "de sueño"
+    },
+    "79e466d1": {
+      "src": "Sleep — the memory consolidator",
+      "t": "Sueño: el que consolida la memoria"
+    },
+    "159c3950": {
+      "src": "Smile for Me Jamaica",
+      "t": "Sonríe para mí, Jamaica"
+    },
+    "fcaf117f": {
+      "src": "Smile for me, Jamaica. We row. You steer.”",
+      "t": "Sonríe para mí, Jamaica. Nosotros remamos. Tú diriges.”"
+    },
+    "1b403de8": {
+      "src": "Social connection is associated with a 50% increased likelihood of survival compared to social isolation — more powerful than quitting smoking, losing weight, or exercising. Loneliness elevates cortisol, disrupts sleep, increases inflammation, and raises cardiovascular risk. Community is not comfort. It is medicine.",
+      "t": "La conexión social se asocia a un 50% más de probabilidades de supervivencia frente al aislamiento social, más que dejar de fumar, bajar de peso o hacer ejercicio. La soledad eleva el cortisol, altera el sueño, aumenta la inflamación y eleva el riesgo cardiovascular. La comunidad no es consuelo. Es medicina."
+    },
+    "ba14adbc": {
+      "src": "Spending 20 minutes in a natural environment reduces cortisol by 21% and adrenaline by 28% (University of Michigan, 2019). The Japanese practice of Shinrin-yoku (forest bathing) is now prescribed by doctors. Jamaica’s hills, coasts, and gardens are free medicine.",
+      "t": "Pasar 20 minutos en un entorno natural reduce el cortisol un 21% y la adrenalina un 28% (University of Michigan, 2019). La práctica japonesa del shinrin-yoku (baño de bosque) hoy la recetan los médicos. Las colinas, las costas y los jardines de Jamaica son medicina gratuita."
+    },
+    "9a5cf186": {
+      "src": "Stillness",
+      "t": "La quietud"
+    },
+    "d955cfc2": {
+      "src": "Stillness Is Medicine",
+      "t": "La quietud es medicina"
+    },
+    "419ccaac": {
+      "src": "Stillness Is Medicine — Mental Health — Kwik Fat Cut",
+      "t": "La quietud es medicina: salud mental · Kwik Fat Cut"
+    },
+    "e94259a9": {
+      "src": "Stillness is active attention to the present moment",
+      "t": "La quietud es atención activa al momento presente"
+    },
+    "b6a00ecd": {
+      "src": "Stillness is not emptiness. It is not the absence of thought.",
+      "t": "La quietud no es vacío. No es la ausencia de pensamientos."
+    },
+    "39dac674": {
+      "src": "Stillness literally reshapes the brain.",
+      "t": "La quietud literalmente da nueva forma al cerebro."
+    },
+    "f1fb4092": {
+      "src": "Stress is not a feeling. It is a full-body physiological response. The hypothalamic-pituitary-adrenal (HPA) axis activates, cortisol and adrenaline flood the bloodstream, heart rate elevates, digestion slows, and the immune system goes on high alert.",
+      "t": "El estrés no es un sentimiento. Es una respuesta fisiológica de todo el cuerpo. Se activa el eje hipotálamo-hipófisis-suprarrenal (HPA), el cortisol y la adrenalina inundan la sangre, el ritmo cardíaco se acelera, la digestión se frena y el sistema inmunitario se pone en alerta máxima."
+    },
+    "a29d5691": {
+      "src": "Strong community. Connection to nature. Purposeful daily movement. Diets rooted in whole plants. A sense of meaning larger than the individual.",
+      "t": "Una comunidad fuerte. Conexión con la naturaleza. Movimiento diario con propósito. Dietas basadas en plantas integrales. Un sentido que va más allá del individuo."
+    },
+    "1b6c0148": {
+      "src": "The Biology of Stress",
+      "t": "La biología del estrés"
+    },
+    "151dab40": {
+      "src": "The Blue Zones of the world — the places where people live longest and with the greatest mental wellbeing — all share these same characteristics.",
+      "t": "Las Zonas Azules del mundo, los lugares donde la gente vive más tiempo y con mayor bienestar mental, comparten estas mismas características."
+    },
+    "8dec3fd1": {
+      "src": "The Landscape",
+      "t": "El panorama"
+    },
+    "22e1462c": {
+      "src": "The Medicine Cabinet",
+      "t": "El botiquín"
+    },
+    "22ae073d": {
+      "src": "The Practice",
+      "t": "La práctica"
+    },
+    "90fa96cc": {
+      "src": "The Second Brain",
+      "t": "El segundo cerebro"
+    },
+    "71132efe": {
+      "src": "The World Health Organization estimates that depression is the leading cause of disability worldwide. Anxiety disorders affect 284 million people globally.",
+      "t": "La Organización Mundial de la Salud calcula que la depresión es la principal causa de discapacidad en el mundo. Los trastornos de ansiedad afectan a 284 millones de personas en todo el planeta."
+    },
+    "0d102d61": {
+      "src": "The answers were always here.",
+      "t": "Las respuestas siempre estuvieron aquí."
+    },
+    "7e2b2e57": {
+      "src": "The brain is 60% fat. It runs on glucose. It requires specific micronutrients to produce neurotransmitters, maintain myelin sheaths around nerve fibres, and protect itself from oxidative damage.",
+      "t": "El cerebro es un 60% grasa. Funciona con glucosa. Necesita micronutrientes concretos para producir neurotransmisores, mantener las vainas de mielina que rodean las fibras nerviosas y protegerse del daño oxidativo."
+    },
+    "fa0fb577": {
+      "src": "The enteric nervous system — the network of over 500 million neurons lining the gastrointestinal tract — is sometimes called the second brain. It contains more neurons than the spinal cord.",
+      "t": "El sistema nervioso entérico, la red de más de 500 millones de neuronas que recubre el tubo digestivo, a veces se llama el segundo cerebro. Tiene más neuronas que la médula espinal."
+    },
+    "daad1974": {
+      "src": "The gut and brain communicate directly via the vagus nerve. Chronic stress alters gut motility, disrupts the microbiome, and increases intestinal permeability — what is sometimes called “leaky gut.”",
+      "t": "El intestino y el cerebro se comunican directamente a través del nervio vago. El estrés crónico altera la motilidad intestinal, desequilibra el microbioma y aumenta la permeabilidad intestinal, lo que a veces se llama “intestino permeable”."
+    },
+    "b3598311": {
+      "src": "The gut produces 95% of the body’s serotonin.",
+      "t": "El intestino produce el 95% de la serotonina del cuerpo."
+    },
+    "c11fdfe6": {
+      "src": "The gut-brain axis —",
+      "t": "El eje intestino-cerebro:"
+    },
+    "cd4162df": {
+      "src": "The gut-brain connection",
+      "t": "La conexión intestino-cerebro"
+    },
+    "7da07496": {
+      "src": "The mental health crisis",
+      "t": "La crisis de salud mental"
+    },
+    "ff0e89b6": {
+      "src": "The mind is not separate from the body. It is not floating above it, looking down. The mind is embodied — woven into every cell, every nerve signal, every heartbeat. What you think shapes what you feel. What you feel shapes what you become. And stillness, true stillness, is where the healing begins.",
+      "t": "La mente no está separada del cuerpo. No flota por encima de él, mirando hacia abajo. La mente está encarnada: entretejida en cada célula, cada señal nerviosa, cada latido. Lo que piensas moldea lo que sientes. Lo que sientes moldea en lo que te conviertes. Y la quietud, la verdadera quietud, es donde empieza la sanación."
+    },
+    "80e2108a": {
+      "src": "The research is unambiguous. The conversation has simply not caught up.",
+      "t": "La investigación no deja lugar a dudas. La conversación simplemente no se ha puesto al día."
+    },
+    "935ea6cf": {
+      "src": "These are not peripheral factors. They are central ones.",
+      "t": "No son factores secundarios. Son centrales."
+    },
+    "35d36f27": {
+      "src": "These polyphenols reduce neuroinflammation, improve memory, and slow cognitive decline. Blueberries have the most research. Jamaican cherries and huckleberries carry similar profiles.",
+      "t": "Estos polifenoles reducen la neuroinflamación, mejoran la memoria y frenan el deterioro cognitivo. Los arándanos son los más investigados. Las cerezas jamaicanas y los arándanos silvestres tienen perfiles parecidos."
+    },
+    "42b7931a": {
+      "src": "This Series",
+      "t": "Esta serie"
+    },
+    "3dc289b7": {
+      "src": "This creates a feedback loop: a damaged gut produces less serotonin, worsening mood, worsening stress, further damaging the gut.",
+      "t": "Esto crea un círculo vicioso: un intestino dañado produce menos serotonina, lo que empeora el estado de ánimo, empeora el estrés y daña aún más el intestino."
+    },
+    "2c564886": {
+      "src": "This is not primitive thinking. It is integrative medicine, practised at scale, for centuries, before the terminology existed.",
+      "t": "No es un pensamiento primitivo. Es medicina integrativa, practicada a gran escala durante siglos, antes de que existiera la terminología."
+    },
+    "5a5bfd60": {
+      "src": "This is the fight-or-flight response, and it was designed for brief, acute threats.",
+      "t": "Es la respuesta de lucha o huida, y fue diseñada para amenazas breves y agudas."
+    },
+    "8dc9de3b": {
+      "src": "This means that what you eat is not just a physical decision. It is a mental health decision. The diversity of your gut microbiome directly affects your mood, anxiety levels, cognitive clarity, and stress resilience. The landmark 2019 study in Nature Microbiology identified specific gut bacteria —",
+      "t": "Esto significa que lo que comes no es solo una decisión física. Es una decisión de salud mental. La diversidad de tu microbioma intestinal influye directamente en tu estado de ánimo, tus niveles de ansiedad, tu claridad mental y tu resistencia al estrés. El estudio de referencia de 2019 en Nature Microbiology identificó bacterias intestinales concretas,"
+    },
+    "378407e2": {
+      "src": "Traditional use across Jamaica for anxiety, restlessness, and stress. Contains compounds that modulate cortisol response. The grandmothers knew. The chemistry is now being confirmed.",
+      "t": "De uso tradicional en toda Jamaica para la ansiedad, la inquietud y el estrés. Contiene compuestos que modulan la respuesta del cortisol. Las abuelas lo sabían. La química lo está confirmando ahora."
+    },
+    "ebedfa2d": {
+      "src": "Tryptophan + vitamin B6.",
+      "t": "Triptófano + vitamina B6."
+    },
+    "3c9390b0": {
+      "src": "Tryptophan is the precursor to serotonin. B6 is essential for converting it. Without these, serotonin cannot be produced regardless of gut health.",
+      "t": "El triptófano es el precursor de la serotonina. La B6 es esencial para convertirlo. Sin ellos, no se puede producir serotonina, por sana que esté la flora intestinal."
+    },
+    "d72d0531": {
+      "src": "Vagus nerve stimulation is now used clinically for treatment-resistant depression. The body has always known this. Jamaican music culture encoded it for generations.",
+      "t": "La estimulación del nervio vago se usa hoy en la clínica para la depresión resistente al tratamiento. El cuerpo siempre lo ha sabido. La cultura musical jamaicana lo guardó durante generaciones."
+    },
+    "1ba718d3": {
+      "src": "Vibration from humming, chanting, and singing directly stimulates the vagus nerve — activating the parasympathetic nervous system and shifting the body from stress to rest. Rastafarian chanting and nyahbinghi drumming are not simply cultural practices. They are physiological interventions.",
+      "t": "La vibración de tararear, cantar y entonar cantos estimula directamente el nervio vago, activa el sistema nervioso parasimpático y lleva al cuerpo del estrés al descanso. El canto rastafari y los tambores nyahbinghi no son simples prácticas culturales. Son intervenciones fisiológicas."
+    },
+    "672ae147": {
+      "src": "What chronic stress",
+      "t": "Lo que el estrés crónico"
+    },
+    "06859810": {
+      "src": "What chronic stress does",
+      "t": "Lo que hace el estrés crónico"
+    },
+    "073f9b2a": {
+      "src": "What feeds",
+      "t": "Lo que alimenta"
+    },
+    "ad0c0cbe": {
+      "src": "What feeds beneficial gut bacteria?",
+      "t": "¿Qué alimenta a las bacterias intestinales beneficiosas?"
+    },
+    "57427aae": {
+      "src": "What stillness",
+      "t": "Lo que la quietud"
+    },
+    "4f9e9041": {
+      "src": "What stillness actually is",
+      "t": "Qué es realmente la quietud"
+    },
+    "16f9c403": {
+      "src": "What you eat is what you think.",
+      "t": "Lo que comes es lo que piensas."
+    },
+    "0b9c1bb5": {
+      "src": "Writing about difficult experiences for 15-20 minutes per day, over 3-4 days, reduces psychological distress and improves immune function. Expressive writing activates the prefrontal cortex and reduces amygdala reactivity — literally calming the threat response through language.",
+      "t": "Escribir sobre experiencias difíciles de 15 a 20 minutos al día, durante 3 o 4 días, reduce el malestar psicológico y mejora la función inmunitaria. La escritura expresiva activa la corteza prefrontal y reduce la reactividad de la amígdala: literalmente calma la respuesta de amenaza a través del lenguaje."
+    },
+    "22f8c8f7": {
+      "src": "Zinc deficiency is found in a disproportionate number of people with depression and anxiety. Magnesium activates GABA — the brain’s primary calming neurotransmitter. Pumpkin seeds provide both.",
+      "t": "La falta de zinc aparece en un número desproporcionado de personas con depresión y ansiedad. El magnesio activa el GABA, el principal neurotransmisor calmante del cerebro. Las semillas de calabaza aportan ambos."
+    },
+    "5b09b7a7": {
+      "src": "Zinc, magnesium, and tryptophan.",
+      "t": "Zinc, magnesio y triptófano."
+    },
+    "31c7395f": {
+      "src": "about the mind.",
+      "t": "sobre la mente."
+    },
+    "cf415c7a": {
+      "src": "actually is.",
+      "t": "es realmente."
+    },
+    "0f29c2a6": {
+      "src": "and",
+      "t": "y"
+    },
+    "4dda7eb2": {
+      "src": "as significant as smoking or high cholesterol. The heart and the mind are not separate systems.",
+      "t": "tan importante como fumar o tener el colesterol alto. El corazón y la mente no son sistemas separados."
+    },
+    "cb913fd0": {
+      "src": "does to the body.",
+      "t": "le hace al cuerpo."
+    },
+    "286d9df8": {
+      "src": "eight weeks of mindfulness practice produced measurable thickening of the prefrontal cortex",
+      "t": "ocho semanas de práctica de atención plena produjeron un engrosamiento medible de la corteza prefrontal"
+    },
+    "9b423d4a": {
+      "src": "globally will experience a mental health condition in their lifetime. Yet the relationship between food, movement, and mental health is rarely discussed.",
+      "t": "en el mundo tendrá un problema de salud mental a lo largo de su vida. Sin embargo, rara vez se habla de la relación entre la comida, el movimiento y la salud mental."
+    },
+    "4e388f15": {
+      "src": "is",
+      "t": "es"
+    },
+    "cb9f3b87": {
+      "src": "journey.",
+      "t": "camino."
+    },
+    "0fb0b56c": {
+      "src": "livity",
+      "t": "livity"
+    },
+    "0fdcca49": {
+      "src": "medicine.",
+      "t": "medicina."
+    },
+    "f2e7cfdf": {
+      "src": "memory, learning, and emotional regulation.",
+      "t": "la memoria, el aprendizaje y la regulación emocional."
+    },
+    "fce31a1e": {
+      "src": "the body cannot distinguish between a predator and a mortgage.",
+      "t": "el cuerpo no distingue entre un depredador y una hipoteca."
+    },
+    "b0b8bcda": {
+      "src": "the brain.",
+      "t": "al cerebro."
+    },
+    "38e70286": {
+      "src": "this is the medicine.",
+      "t": "esto es la medicina."
+    },
+    "975f5043": {
+      "src": "what we know and what we ignore.",
+      "t": "lo que sabemos y lo que ignoramos."
+    },
+    "f741c379": {
+      "src": "with documented effects.",
+      "t": "con efectos documentados."
+    },
+    "f1e1e1b8": {
+      "src": "your most important conversation.",
+      "t": "tu conversación más importante."
+    },
+    "51006f5e": {
+      "src": "— a skill that the Rastafarian tradition has practised through meditation, chanting, and communion with nature for generations. A skill that neuroscience has now documented with extraordinary precision.",
+      "t": ": una habilidad que la tradición rastafari ha practicado durante generaciones a través de la meditación, el canto y la comunión con la naturaleza. Una habilidad que la neurociencia ha documentado ahora con una precisión extraordinaria."
+    },
+    "b303736b": {
+      "src": "— that were consistently lower in people with depression across multiple countries and populations.",
+      "t": ", que estaban siempre más bajas en las personas con depresión en varios países y poblaciones."
+    },
+    "540405cf": {
+      "src": "— the brain region associated with attention, self-awareness, and emotional regulation — and reduced the size of the amygdala, the brain’s threat-detection and stress centre.",
+      "t": ", la región del cerebro asociada a la atención, la conciencia de uno mismo y la regulación emocional, y redujeron el tamaño de la amígdala, el centro cerebral de detección de amenazas y del estrés."
+    },
+    "8f1a75b3": {
+      "src": "“Feed the gut well, and the mind follows. The gut-brain axis is not a metaphor.",
+      "t": "“Alimenta bien el intestino, y la mente lo seguirá. El eje intestino-cerebro no es una metáfora."
+    },
+    "eabcf30b": {
+      "src": "“The mind heals in stillness. Not the stillness of giving up — the stillness of arriving. Of breathing. Of knowing that this moment, this breath, this quiet —",
+      "t": "“La mente sana en la quietud. No en la quietud de rendirse, sino en la de llegar. La de respirar. La de saber que este momento, esta respiración, este silencio,"
+    },
+    "4bce7b87": {
+      "src": "🌰 Pumpkin Seeds",
+      "t": "🌰 Semillas de calabaza"
+    },
+    "f6d22945": {
+      "src": "🌿 Moringa",
+      "t": "🌿 Moringa"
+    },
+    "ef80ca06": {
+      "src": "🍌 Banana",
+      "t": "🍌 Banana"
+    },
+    "390e3710": {
+      "src": "🍵 Cerasee Tea",
+      "t": "🍵 Té de cerasee"
+    },
+    "295d1ac2": {
+      "src": "🥬 Dark Leafy Greens",
+      "t": "🥬 Verduras de hoja oscura"
+    },
+    "9d2ba013": {
+      "src": "🦠",
+      "t": "🦠"
+    },
+    "dd2c04d3": {
+      "src": "🧠",
+      "t": "🧠"
+    },
+    "fd277e33": {
+      "src": "🫀",
+      "t": "🫀"
+    },
+    "fc277ca0": {
+      "src": "🫁",
+      "t": "🫁"
+    },
+    "91587d01": {
+      "src": "🫐 Dark Berries",
+      "t": "🫐 Bayas oscuras"
+    }
+  }
+}

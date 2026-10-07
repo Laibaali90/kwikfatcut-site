@@ -1,0 +1,87 @@
+{
+  "_note": "Page content for learn-ground-provisions.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "1b7997d0": {
+      "src": "Built into the culture.",
+      "t": "Arraigados en la cultura."
+    },
+    "21c05566": {
+      "src": "Each one documented.",
+      "t": "Cada uno, documentado."
+    },
+    "1bfe3425": {
+      "src": "Each one irreplaceable.",
+      "t": "Cada uno, insustituible."
+    },
+    "2d79fa99": {
+      "src": "Ground Provisions — The Foundation of Jamaican Nutrition",
+      "t": "Víveres: la base de la nutrición jamaicana"
+    },
+    "c3b40c94": {
+      "src": "Ground Provisions: The Caribbean Root Vegetables",
+      "t": "Víveres: las raíces y tubérculos del Caribe"
+    },
+    "c0e11dfd": {
+      "src": "Ground provisions is the Jamaican term for starchy root vegetables and ground crops — yam, dasheen (taro), coco, sweet potato, breadfruit, cassava (yuca), green banana, and pumpkin. They are called ground provisions because they grow in or close to the ground, and because they have historically provided the nutritional provision — the foundation of sustenance — for Jamaican families.",
+      "t": "Ground provisions es el término jamaicano para las raíces feculentas y los cultivos de tierra: ñame, dasheen (malanga), coco, batata, fruta del pan, yuca, guineo verde y calabaza. Se llaman así porque crecen dentro o cerca de la tierra, y porque históricamente han sido la provisión nutricional, la base del sustento, de las familias jamaicanas."
+    },
+    "bc74a22c": {
+      "src": "Ground provisions.",
+      "t": "Víveres."
+    },
+    "92f9c99f": {
+      "src": "Grown in the ground.",
+      "t": "Cultivados en la tierra."
+    },
+    "2db33143": {
+      "src": "Nutritional Profile",
+      "t": "Perfil nutricional"
+    },
+    "6e11d7a1": {
+      "src": "Start free. Understand first.",
+      "t": "Empieza gratis. Entiende primero."
+    },
+    "e313cf0c": {
+      "src": "The Jamaican ground provision tradition is one of the most nutritionally sound dietary foundations ever developed by any culture, anywhere.",
+      "t": "La tradición jamaicana de los víveres es una de las bases alimentarias más sólidas desde el punto de vista nutricional que haya desarrollado cualquier cultura, en cualquier lugar."
+    },
+    "0ecf7005": {
+      "src": "The foundation",
+      "t": "La base"
+    },
+    "3d721184": {
+      "src": "They are complex carbohydrates, fibre-rich, mineral-dense, and extraordinarily filling",
+      "t": "Son carbohidratos complejos, ricos en fibra, densos en minerales y extraordinariamente saciantes"
+    },
+    "fd439190": {
+      "src": "What Ground Provisions Are",
+      "t": "Qué son los víveres"
+    },
+    "698bf0e6": {
+      "src": "Yam, dasheen, coco, breadfruit, cassava, sweet potato, green banana. These are not side dishes. These are the nutritional bedrock of Jamaican health — documented in Taino tradition, carried through West African agricultural knowledge, and confirmed by modern nutritional science.",
+      "t": "Ñame, dasheen, coco, fruta del pan, yuca, batata, guineo verde. No son acompañamientos. Son la base nutricional de la salud jamaicana: documentados en la tradición taína, transmitidos por el conocimiento agrícola de África Occidental y confirmados por la ciencia nutricional moderna."
+    },
+    "af969cdd": {
+      "src": "Yellow yam provides resistant starch — fibre that feeds beneficial gut bacteria and does not spike blood sugar the way refined carbohydrates do. Dasheen (taro) is rich in potassium and provides more fibre per gram than most commercially marketed health foods. Sweet potato delivers beta-carotene (the precursor to vitamin A), vitamin C, manganese, and potassium — more nutritional density per calorie than white potato. Breadfruit — introduced by Captain Bligh in 1793 and now naturalised in Jamaica — provides vitamin C, potassium, and complex carbohydrates. Cassava, used by the Taino as casabe (flatbread), provides energy without gluten.",
+      "t": "El ñame amarillo aporta almidón resistente, una fibra que alimenta las bacterias intestinales beneficiosas y no dispara el azúcar en sangre como lo hacen los carbohidratos refinados. El dasheen (malanga) es rico en potasio y aporta más fibra por gramo que la mayoría de los alimentos saludables comerciales. La batata aporta betacaroteno (el precursor de la vitamina A), vitamina C, manganeso y potasio: más densidad nutricional por caloría que la papa blanca. La fruta del pan, introducida por el capitán Bligh en 1793 y hoy naturalizada en Jamaica, aporta vitamina C, potasio y carbohidratos complejos. La yuca, que los taínos usaban para hacer casabe (pan plano), aporta energía sin gluten."
+    },
+    "9d505d93": {
+      "src": "at low cost. No other food category delivers comparable value per dollar, per meal, or per nutritional unit.",
+      "t": "a bajo costo. Ninguna otra categoría de alimentos ofrece un valor comparable por dólar, por comida o por unidad nutricional."
+    },
+    "b99c2475": {
+      "src": "beneath everything.",
+      "t": "que sostiene todo."
+    },
+    "4f93230b": {
+      "src": "“Education before intervention.",
+      "t": "“La educación antes que la intervención."
+    },
+    "a5b981c1": {
+      "src": "🌱 Jamaican Foods — Deep Read",
+      "t": "🌱 Alimentos jamaicanos · Lectura profunda"
+    }
+  }
+}

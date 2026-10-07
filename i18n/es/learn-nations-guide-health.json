@@ -1,0 +1,771 @@
+{
+  "_note": "Page content for learn-nations-guide-health.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "60ec4d52": {
+      "src": "& wisdom.",
+      "t": "y sabiduría."
+    },
+    "62e99aa3": {
+      "src": "(comparable to beef). Calcium: 266mg/100g. Folate: 47% daily value. Vitamins A, C, K. Documented in Jamaica from the 17th century.",
+      "t": "(comparable a la carne de res). Calcio: 266 mg/100 g. Folato: 47% del valor diario. Vitaminas A, C y K. Documentado en Jamaica desde el siglo XVII."
+    },
+    "93705da0": {
+      "src": "), African cultivation methods, documented Jamaican staple for 500+ years.",
+      "t": "), métodos de cultivo africanos, alimento básico jamaicano documentado desde hace más de 500 años."
+    },
+    "611d0437": {
+      "src": ", and anti-cancer properties. Contains more vitamin C than any other common pepper variety. Also contains quercetin and lutein. 100x hotter than jalapeño — and 100x more medicinal.",
+      "t": "y sus propiedades anticancerígenas. Contiene más vitamina C que cualquier otra variedad común de ají. También contiene quercetina y luteína. Cien veces más picante que el jalapeño, y cien veces más medicinal."
+    },
+    "654ec49f": {
+      "src": "01 — The Ancient Archive",
+      "t": "01 · El archivo antiguo"
+    },
+    "2b457935": {
+      "src": "02 — The Taino Diet",
+      "t": "02 · La dieta taína"
+    },
+    "e8e82dd6": {
+      "src": "03 — West African Roots",
+      "t": "03 · Raíces de África Occidental"
+    },
+    "f9108205": {
+      "src": "04 — The Moorish Table",
+      "t": "04 · La mesa mora"
+    },
+    "a21d0f20": {
+      "src": "05 — A Nation’s Guide",
+      "t": "05 · La guía de una nación"
+    },
+    "bad6d953": {
+      "src": "06 — Building the Community",
+      "t": "06 · Construir la comunidad"
+    },
+    "295e8bc5": {
+      "src": "07 — Living Longer & Happier",
+      "t": "07 · Vivir más y más felices"
+    },
+    "d50639be": {
+      "src": "1. Make callaloo daily —",
+      "t": "1. Come callaloo cada día:"
+    },
+    "d6409305": {
+      "src": "102% daily vitamin A",
+      "t": "102% de la vitamina A diaria"
+    },
+    "8e90c401": {
+      "src": "13 min",
+      "t": "13 min"
+    },
+    "4eab07e0": {
+      "src": "2. Replace refined carbohydrates with ground provisions —",
+      "t": "2. Sustituye los carbohidratos refinados por víveres:"
+    },
+    "3eea5795": {
+      "src": "23%",
+      "t": "23%"
+    },
+    "5fcf865b": {
+      "src": "3. Drink cerasee tea weekly —",
+      "t": "3. Toma té de cerasee cada semana:"
+    },
+    "525005a9": {
+      "src": "30%",
+      "t": "30%"
+    },
+    "b5cd17b6": {
+      "src": "4. Eat legumes daily —",
+      "t": "4. Come legumbres cada día:"
+    },
+    "d12d6977": {
+      "src": "5. Use garlic and ginger in every cooked dish —",
+      "t": "5. Usa ajo y jengibre en cada plato cocinado:"
+    },
+    "2098915f": {
+      "src": "50%",
+      "t": "50%"
+    },
+    "de80d8c3": {
+      "src": "6. Move daily —",
+      "t": "6. Muévete cada día:"
+    },
+    "07a35b03": {
+      "src": "65%",
+      "t": "65%"
+    },
+    "c32a2936": {
+      "src": "7. Teach it —",
+      "t": "7. Enséñalo:"
+    },
+    "75541953": {
+      "src": "A 2020 systematic review in the Journal of Health Communication found that higher health literacy — the ability to understand and use health information — was associated with significantly better dietary choices, lower rates of chronic disease, and better medication adherence across all demographic groups.",
+      "t": "Una revisión sistemática de 2020 en el Journal of Health Communication encontró que una mayor alfabetización en salud (la capacidad de entender y usar la información de salud) se asociaba con elecciones alimentarias mucho mejores, menores tasas de enfermedades crónicas y un mejor cumplimiento de la medicación en todos los grupos de población."
+    },
+    "609c8092": {
+      "src": "A Nation's Guide — Health, Wealth & Wisdom — Kwik Fat Cut",
+      "t": "La guía de una nación: salud, riqueza y sabiduría · Kwik Fat Cut"
+    },
+    "dc5103b3": {
+      "src": "A healthy nation, by this definition, is one where the majority of its people have access to the knowledge, the food, the movement, and the community connection that enables them to flourish.",
+      "t": "Según esta definición, una nación sana es aquella en la que la mayoría de su gente tiene acceso al conocimiento, la comida, el movimiento y los lazos comunitarios que le permiten prosperar."
+    },
+    "c12b4315": {
+      "src": "A healthy population is a productive population.",
+      "t": "Una población sana es una población productiva."
+    },
+    "b356381b": {
+      "src": "A nation’s guide.",
+      "t": "La guía de una nación."
+    },
+    "41038dc2": {
+      "src": "Agricultural employment:",
+      "t": "Empleo agrícola:"
+    },
+    "86465c08": {
+      "src": "All available in Jamaica. All affordable. All documented.",
+      "t": "Todo disponible en Jamaica. Todo asequible. Todo documentado."
+    },
+    "a8457e29": {
+      "src": "All three are documented as diet-modifiable.",
+      "t": "Las tres están documentadas como modificables con la dieta."
+    },
+    "ae365a27": {
+      "src": "Allicin: documented antimicrobial, cardiovascular, and immune-stimulating properties",
+      "t": "Alicina: propiedades antimicrobianas, cardiovasculares e inmunoestimulantes documentadas"
+    },
+    "096ac4fb": {
+      "src": "An estimated 26% of Jamaican adults are obese (WHO, 2022). The highest-quality evidence for sustainable weight management consistently points to diets high in dietary fibre, low in ultra-processed foods, and centred on whole plant foods — the exact pattern documented across every ancestral food tradition examined in this series.",
+      "t": "Se calcula que el 26% de los adultos jamaicanos tiene obesidad (OMS, 2022). La mejor evidencia disponible sobre el control sostenible del peso apunta una y otra vez a dietas ricas en fibra, bajas en ultraprocesados y centradas en alimentos vegetales integrales: el mismo patrón documentado en todas las tradiciones alimentarias ancestrales que examina esta serie."
+    },
+    "09955320": {
+      "src": "Annonaceous acetogenins: compounds studied for inhibiting cancer cell growth",
+      "t": "Acetogeninas anonáceas: compuestos estudiados por inhibir el crecimiento de células cancerosas"
+    },
+    "e89091da": {
+      "src": "Capsaicin: documented for pain relief, cardiovascular support, metabolism boost",
+      "t": "Capsaicina: documentada por su efecto analgésico, su apoyo cardiovascular, su impulso al metabolismo"
+    },
+    "0412fefe": {
+      "src": "Cardiovascular disease reversal —",
+      "t": "Reversión de la enfermedad cardiovascular:"
+    },
+    "ec1a7577": {
+      "src": "Charantin: blood sugar lowering compound",
+      "t": "Charantina: un compuesto que baja el azúcar en sangre"
+    },
+    "a9c0b438": {
+      "src": "Chronic disease in Jamaica —",
+      "t": "Las enfermedades crónicas en Jamaica:"
+    },
+    "afdca360": {
+      "src": "Chronic disease — the reversible crisis",
+      "t": "Las enfermedades crónicas: la crisis reversible"
+    },
+    "22efcf2e": {
+      "src": "Community knowledge systems:",
+      "t": "Sistemas comunitarios de conocimiento:"
+    },
+    "68bbb284": {
+      "src": "Complex carbohydrates with resistant starch",
+      "t": "Carbohidratos complejos con almidón resistente"
+    },
+    "a23e7e7f": {
+      "src": "Continue the",
+      "t": "Continúa la"
+    },
+    "26a75038": {
+      "src": "Documented hypoglycaemic effects comparable to some pharmaceuticals.",
+      "t": "Efectos hipoglucemiantes documentados, comparables a los de algunos fármacos."
+    },
+    "ea3218c0": {
+      "src": "Dr. Dean Ornish’s landmark randomised controlled trials (published in The Lancet, 1990, and JAMA, 1998) demonstrated measurable reversal of coronary artery disease through whole food plant-based dietary intervention — confirmed by angiographic imaging showing actual regression of arterial plaque.",
+      "t": "Los ensayos controlados aleatorizados de referencia del Dr. Dean Ornish (publicados en The Lancet en 1990 y en JAMA en 1998) demostraron una reversión medible de la enfermedad coronaria mediante una intervención dietética basada en alimentos vegetales integrales, confirmada por angiografías que mostraban una regresión real de la placa arterial."
+    },
+    "33b75a92": {
+      "src": "Education is the intervention. Knowledge is the medicine.",
+      "t": "La educación es la intervención. El conocimiento es la medicina."
+    },
+    "ab8f1685": {
+      "src": "Every fact in this guide is documented. Every food is Jamaican. Every step is achievable.",
+      "t": "Cada dato de esta guía está documentado. Cada alimento es jamaicano. Cada paso es alcanzable."
+    },
+    "9e013a6e": {
+      "src": "Every piece of knowledge in this guide is only as powerful as the number of people who hold it. Teach it to your children. Share it with your neighbours. Pass it on in the market, in the church, in the yard.",
+      "t": "Cada conocimiento de esta guía solo es tan poderoso como el número de personas que lo tienen. Enséñaselo a tus hijos. Compártelo con tus vecinos. Pásalo en el mercado, en la iglesia, en el patio."
+    },
+    "0333ffcc": {
+      "src": "Food sovereignty:",
+      "t": "Soberanía alimentaria:"
+    },
+    "3c4b168c": {
+      "src": "Generational transmission:",
+      "t": "Transmisión entre generaciones:"
+    },
+    "f20dfff4": {
+      "src": "Health literacy and outcomes:",
+      "t": "Alfabetización en salud y resultados:"
+    },
+    "8c5bee2b": {
+      "src": "Health —",
+      "t": "Salud:"
+    },
+    "c1744c52": {
+      "src": "Health, wealth",
+      "t": "Salud, riqueza"
+    },
+    "c445a4fe": {
+      "src": "Healthcare costs:",
+      "t": "Costos de atención médica:"
+    },
+    "49aa987c": {
+      "src": "Human health is not a fragile state that requires constant medical intervention. For 300,000 years of human existence, the body maintained itself in remarkable health through the combination of whole food nutrition, daily movement, adequate rest, and community belonging — without pharmaceuticals, without hospitals, and without nutritional supplements.",
+      "t": "La salud humana no es un estado frágil que necesite intervención médica constante. Durante 300.000 años de existencia humana, el cuerpo se mantuvo con una salud notable gracias a la combinación de una nutrición basada en alimentos integrales, movimiento diario, descanso suficiente y pertenencia a una comunidad, sin fármacos, sin hospitales y sin suplementos nutricionales."
+    },
+    "74fb6498": {
+      "src": "Hypertension affects approximately 24% of Jamaican adults (Pan American Health Organization, 2019). The documented dietary interventions for blood pressure reduction: increasing potassium (callaloo, banana, avocado, sweet potato), reducing sodium (avoiding processed foods), and increasing dietary nitrates (dark leafy greens).",
+      "t": "La hipertensión afecta aproximadamente al 24% de los adultos jamaicanos (Pan American Health Organization, 2019). Las intervenciones dietéticas documentadas para bajar la presión arterial: aumentar el potasio (callaloo, banana, aguacate, batata), reducir el sodio (evitar los alimentos procesados) y aumentar los nitratos de la dieta (verduras de hoja oscura)."
+    },
+    "994f78f0": {
+      "src": "Hypertension reduction —",
+      "t": "Reducción de la hipertensión:"
+    },
+    "3f927fa5": {
+      "src": "In Alzheimer's disease risk associated with strong dietary diversity and whole plant food intake (Rush Memory and Aging Project, 2015).",
+      "t": "en el riesgo de alzhéimer asociado a una dieta muy variada y rica en alimentos vegetales integrales (Rush Memory and Aging Project, 2015)."
+    },
+    "100036c2": {
+      "src": "In Jamaica attributable to non-communicable diseases (NCDs), primarily diet-related. Ministry of Health Jamaica, 2019.",
+      "t": "en Jamaica se atribuyen a enfermedades no transmisibles (ENT), relacionadas sobre todo con la dieta. Ministerio de Salud de Jamaica, 2019."
+    },
+    "6ee9f129": {
+      "src": "In cardiovascular disease risk documented in populations eating the most whole plant foods (Harvard Nurses' Health Study, 80,000 women, 20 years).",
+      "t": "en el riesgo de enfermedad cardiovascular documentado en las poblaciones que más alimentos vegetales integrales comen (Harvard Nurses' Health Study, 80.000 mujeres, 20 años)."
+    },
+    "64fde237": {
+      "src": "Iron: 3mg/100g",
+      "t": "Hierro: 3 mg/100 g"
+    },
+    "b75c0a5a": {
+      "src": "It costs less than any supplement and outperforms most of them nutritionally.",
+      "t": "Cuesta menos que cualquier suplemento y supera a la mayoría en valor nutricional."
+    },
+    "dcb08c69": {
+      "src": "It costs nothing. It lasts a lifetime.",
+      "t": "No cuesta nada. Dura toda la vida."
+    },
+    "1cb989fc": {
+      "src": "It grows them.",
+      "t": "Los cultiva."
+    },
+    "23c9a691": {
+      "src": "It is knowledge — the knowledge that was always here, documented in the food culture, the bush medicine tradition, and the ancestral wisdom of a people who understood what the land provides.",
+      "t": "Es el conocimiento: el conocimiento que siempre estuvo aquí, documentado en la cultura alimentaria, en la tradición de la medicina tradicional y en la sabiduría ancestral de un pueblo que entendía lo que da la tierra."
+    },
+    "c439849c": {
+      "src": "It is not the absence of illness. It is the presence of flourishing.",
+      "t": "No es la ausencia de enfermedad. Es la presencia de plenitud."
+    },
+    "c244a66c": {
+      "src": "It is the predictable outcome of removing from the diet the nutrients the body requires and replacing them with compounds the body was never designed to process.",
+      "t": "Es el resultado previsible de quitar de la dieta los nutrientes que el cuerpo necesita y sustituirlos por compuestos que el cuerpo nunca fue diseñado para procesar."
+    },
+    "4a316e69": {
+      "src": "Jamaica does not need to import superfoods.",
+      "t": "Jamaica no necesita importar superalimentos."
+    },
+    "672d9464": {
+      "src": "Jamaica has one of the highest rates of diabetes in the Caribbean, estimated at 8.3% of adults (IDF Diabetes Atlas, 2021). Dietary intervention studies have shown that switching from a refined carbohydrate diet to a whole food, legume-rich, high-fibre diet reduces HbA1c (long-term blood sugar marker) by 0.5–1.5 percentage points — a clinically significant reduction achievable without medication changes.",
+      "t": "Jamaica tiene una de las tasas de diabetes más altas del Caribe, estimada en el 8,3% de los adultos (IDF Diabetes Atlas, 2021). Los estudios de intervención dietética han mostrado que pasar de una dieta de carbohidratos refinados a una dieta de alimentos integrales, rica en legumbres y en fibra, reduce la HbA1c (el marcador del azúcar en sangre a largo plazo) entre 0,5 y 1,5 puntos porcentuales, una reducción clínicamente significativa que se logra sin cambiar la medicación."
+    },
+    "06f2085b": {
+      "src": "Jamaica has the ingredients for this. Not metaphorically. Literally. The island grows some of the most nutritionally dense food on earth. Its cultural traditions carry centuries of nutritional wisdom. Its people carry the genetic heritage of West African populations who maintained extraordinary health on plant-based whole food diets for millennia.",
+      "t": "Jamaica tiene los ingredientes para esto. No en sentido figurado. Literalmente. La isla cultiva algunos de los alimentos más densos en nutrientes del planeta. Sus tradiciones culturales llevan siglos de sabiduría nutricional. Su gente lleva la herencia genética de poblaciones de África Occidental que mantuvieron una salud extraordinaria con dietas de alimentos integrales basadas en plantas durante milenios."
+    },
+    "f6be5969": {
+      "src": "Jamaica’s Documented Superfoods",
+      "t": "Los superalimentos documentados de Jamaica"
+    },
+    "71ce76d0": {
+      "src": "Jamaica’s agricultural sector employs approximately 18% of the working population (Statistical Institute of Jamaica). Supporting local food production — by choosing Jamaican whole foods over imported processed alternatives — directly sustains employment, rural communities, and national food security simultaneously.",
+      "t": "El sector agrícola de Jamaica emplea aproximadamente al 18% de la población trabajadora (Statistical Institute of Jamaica). Apoyar la producción local de alimentos, eligiendo alimentos integrales jamaicanos en lugar de alternativas procesadas importadas, sostiene a la vez el empleo, las comunidades rurales y la seguridad alimentaria nacional."
+    },
+    "6305a32c": {
+      "src": "Jamaica’s chronic disease burden (Ministry of Health, 2019):",
+      "t": "La carga de enfermedades crónicas de Jamaica (Ministerio de Salud, 2019):"
+    },
+    "66ebac29": {
+      "src": "Jamaica’s documented superfoods",
+      "t": "Los superalimentos documentados de Jamaica"
+    },
+    "8aee3e57": {
+      "src": "Jamaica’s landscape was designed for this. Use it.",
+      "t": "El paisaje de Jamaica está hecho para esto. Aprovéchalo."
+    },
+    "0c8acda9": {
+      "src": "Knowledge shared is knowledge multiplied.",
+      "t": "El conocimiento compartido es conocimiento multiplicado."
+    },
+    "fe92ea02": {
+      "src": "Kwik Fat Cut exists to make sure that knowledge reaches everyone. Freely. Clearly. Without pressure or profit motive.",
+      "t": "Kwik Fat Cut existe para asegurarse de que ese conocimiento llegue a todos. Gratis. Con claridad. Sin presión ni afán de lucro."
+    },
+    "9dc37988": {
+      "src": "Kwik Fat Cut — Return to Real Food Series — Education First",
+      "t": "Kwik Fat Cut · Serie Volver a la Comida Real · La educación primero"
+    },
+    "ae062569": {
+      "src": "Lost productivity:",
+      "t": "Productividad perdida:"
+    },
+    "66d2b035": {
+      "src": "Lower risk",
+      "t": "menos riesgo"
+    },
+    "adc44201": {
+      "src": "Movements are medicines. We row. You steer. 🇯🇲",
+      "t": "Los movimientos son medicina. Nosotros remamos. Tú diriges. 🇯🇲"
+    },
+    "deac27f2": {
+      "src": "National & Community Health",
+      "t": "Salud nacional y comunitaria"
+    },
+    "fa892c75": {
+      "src": "Nations that eat their own food are more economically resilient than those dependent on food imports. Jamaica imports approximately 70% of its food supply (Jamaica Agricultural Society, 2020) — spending foreign exchange on processed, nutrient-depleted products while the island’s own agricultural traditions produce some of the most nutritionally dense food on earth.",
+      "t": "Las naciones que comen su propia comida son económicamente más resilientes que las que dependen de importar alimentos. Jamaica importa aproximadamente el 70% de sus alimentos (Jamaica Agricultural Society, 2020), y gasta divisas en productos procesados y pobres en nutrientes mientras sus propias tradiciones agrícolas producen algunos de los alimentos más nutritivos del planeta."
+    },
+    "b4e06d44": {
+      "src": "Natural electrolyte composition",
+      "t": "Composición natural de electrolitos"
+    },
+    "201a1a81": {
+      "src": "Next in the series",
+      "t": "Siguiente en la serie"
+    },
+    "2679c35e": {
+      "src": "Non-communicable diseases (NCDs) account for 65% of all deaths in Jamaica. Cardiovascular disease, diabetes, and cancer are the leading causes.",
+      "t": "Las enfermedades no transmisibles (ENT) causan el 65% de todas las muertes en Jamaica. Las enfermedades cardiovasculares, la diabetes y el cáncer son las principales causas."
+    },
+    "9be3cd1f": {
+      "src": "None of these outcomes require pharmaceutical intervention. None require expensive supplements.",
+      "t": "Ninguno de estos resultados requiere intervención farmacológica. Ninguno requiere suplementos caros."
+    },
+    "e97cdc26": {
+      "src": "Not a drug. Not a supplement. Food.",
+      "t": "No un fármaco. No un suplemento. Comida."
+    },
+    "8e274954": {
+      "src": "Not all chronic disease is reversible — but the evidence that dietary intervention can significantly reduce, halt, or reverse many of Jamaica’s most prevalent conditions is unambiguous, replicated, and clinically verified.",
+      "t": "No todas las enfermedades crónicas son reversibles, pero la evidencia de que la intervención dietética puede reducir, detener o revertir de forma significativa muchas de las afecciones más comunes de Jamaica es inequívoca, se ha replicado y está verificada clínicamente."
+    },
+    "8401566d": {
+      "src": "Not as a privilege. As a right.",
+      "t": "No como un privilegio. Como un derecho."
+    },
+    "a59ece91": {
+      "src": "Not for flavour alone. For the allicin (garlic) and gingerols (ginger) that are documented anti-inflammatory, antimicrobial, and cardiovascular-protective compounds. Two ingredients. Proven across thousands of years of documented use and hundreds of clinical trials.",
+      "t": "No solo por el sabor. Por la alicina (ajo) y los gingeroles (jengibre), compuestos documentados como antiinflamatorios, antimicrobianos y protectores cardiovasculares. Dos ingredientes. Probados en miles de años de uso documentado y cientos de ensayos clínicos."
+    },
+    "2e7571be": {
+      "src": "Not occasional. Daily. Sautéed with garlic, onion, and scotch bonnet. This delivers iron, calcium, folate, vitamins A, C, and K in their most bioavailable form every single day.",
+      "t": "No de vez en cuando. Cada día. Salteado con ajo, cebolla y ají scotch bonnet. Así recibes hierro, calcio, folato y vitaminas A, C y K en su forma más biodisponible, todos los días."
+    },
+    "2c626b1e": {
+      "src": "Of all deaths",
+      "t": "de todas las muertes"
+    },
+    "b2c94513": {
+      "src": "Of type 2 diabetes in populations with highest adherence to plant-based diets (JAMA Internal Medicine meta-analysis, 415,000 participants, 2019).",
+      "t": "de diabetes tipo 2 en las poblaciones que más siguen dietas basadas en plantas (metaanálisis de JAMA Internal Medicine, 415.000 participantes, 2019)."
+    },
+    "25642613": {
+      "src": "One to two cups per week. Documented blood sugar regulation, blood cleansing, and digestive support. Free if you grow it. Available in every Jamaican market. Used by every Jamaican grandmother for documented reasons.",
+      "t": "Una o dos tazas por semana. Regulación del azúcar en sangre, limpieza de la sangre y apoyo digestivo documentados. Gratis si lo cultivas. Disponible en todos los mercados de Jamaica. Usado por todas las abuelas jamaicanas por razones documentadas."
+    },
+    "e0b72a5e": {
+      "src": "Part 6 — Building the Food Community",
+      "t": "Parte 6 · Construir la comunidad de la comida"
+    },
+    "3057ce50": {
+      "src": "Part 6 — Building the Food Community.",
+      "t": "Parte 6 · Construir la comunidad de la comida."
+    },
+    "3fd908b8": {
+      "src": "Part 6 →",
+      "t": "Parte 6 →"
+    },
+    "c92a30e3": {
+      "src": "People who understand why whole foods nourish the body, and what processed foods do to it, make different choices than those who do not — consistently, sustainably, and without the coercion of restriction or shame.",
+      "t": "Las personas que entienden por qué los alimentos integrales nutren el cuerpo, y lo que le hacen los alimentos procesados, eligen distinto que las que no lo entienden: de forma constante, sostenible y sin la presión de la restricción o la vergüenza."
+    },
+    "9948b616": {
+      "src": "Read Part 6 →",
+      "t": "Lee la Parte 6 →"
+    },
+    "fd33ecac": {
+      "src": "Red peas, gungo peas, kidney beans, lentils. Plant protein without the inflammatory burden of animal protein. Soluble fibre that removes cholesterol from the bloodstream. Prebiotic compounds that feed the gut microbiome.",
+      "t": "Frijoles rojos, gandules, frijoles colorados, lentejas. Proteína vegetal sin la carga inflamatoria de la proteína animal. Fibra soluble que retira el colesterol de la sangre. Compuestos prebióticos que alimentan el microbioma intestinal."
+    },
+    "aba12074": {
+      "src": "Reduces anaemia, supports bone health, provides neurotransmitter precursors.",
+      "t": "Reduce la anemia, favorece la salud de los huesos y aporta precursores de neurotransmisores."
+    },
+    "941d9ab2": {
+      "src": "Reduction",
+      "t": "Reducción"
+    },
+    "b72574c7": {
+      "src": "Research by the WHO found that children whose parents possess good nutritional knowledge are 3x more likely to maintain healthy eating patterns into adulthood. The wisdom transmitted in a family kitchen over a childhood is among the most durable health interventions available.",
+      "t": "Una investigación de la OMS encontró que los hijos de padres con buenos conocimientos de nutrición tienen 3 veces más probabilidades de mantener una alimentación sana en la edad adulta. La sabiduría que se transmite en la cocina familiar durante la infancia está entre las intervenciones de salud más duraderas que existen."
+    },
+    "02949b44": {
+      "src": "Return to Real Food",
+      "t": "Volver a la Comida Real"
+    },
+    "3ebab96d": {
+      "src": "Return to Real Food — 5 of 7",
+      "t": "Volver a la Comida Real · 5 de 7"
+    },
+    "41efb907": {
+      "src": "Returning to real food is an act of economic sovereignty as much as a health intervention.",
+      "t": "Volver a la comida real es un acto de soberanía económica tanto como una intervención de salud."
+    },
+    "741a7f39": {
+      "src": "Seven steps any Jamaican",
+      "t": "Siete pasos que cualquier jamaicano"
+    },
+    "b1322b17": {
+      "src": "Smile for me, Jamaica. The guide is yours. We row. You steer.",
+      "t": "Sonríe para mí, Jamaica. La guía es tuya. Nosotros remamos. Tú diriges."
+    },
+    "257ebaa0": {
+      "src": "Sweet potato, yam, dasheen, and breadfruit instead of white rice and white flour. Same satisfaction. Dramatically lower glycaemic response. More fibre. More micronutrients. Documented reduction in diabetes and cardiovascular risk.",
+      "t": "Batata, ñame, dasheen y fruta del pan en lugar de arroz blanco y harina blanca. La misma saciedad. Una respuesta glucémica mucho más baja. Más fibra. Más micronutrientes. Una reducción documentada del riesgo de diabetes y de enfermedad cardiovascular."
+    },
+    "8768aee9": {
+      "src": "That is precisely what Kwik Fat Cut exists to do.",
+      "t": "Justo para eso existe Kwik Fat Cut."
+    },
+    "465450b8": {
+      "src": "The Blue Zone populations that live longest all eat legumes daily. Without exception.",
+      "t": "Todas las poblaciones de las Zonas Azules que más viven comen legumbres cada día. Sin excepción."
+    },
+    "52575fd6": {
+      "src": "The DASH diet (Dietary Approaches to Stop Hypertension) trial — the most rigorously studied dietary intervention for blood pressure — showed reductions of 11mmHg systolic and 6mmHg diastolic blood pressure within 8 weeks of adopting a whole food, fruit-and-vegetable-rich diet. These reductions are clinically equivalent to low-dose antihypertensive medication —",
+      "t": "El ensayo de la dieta DASH (Dietary Approaches to Stop Hypertension), la intervención dietética para la presión arterial más rigurosamente estudiada, mostró reducciones de 11 mmHg en la presión sistólica y de 6 mmHg en la diastólica a las 8 semanas de adoptar una dieta de alimentos integrales rica en frutas y verduras. Estas reducciones son clínicamente equivalentes a las de una dosis baja de antihipertensivos,"
+    },
+    "74e7fee6": {
+      "src": "The DiRECT trial (2018, The Lancet) demonstrated that intensive dietary intervention produced remission in 46% of type 2 diabetes patients at 12 months and 36% at 24 months — without medication. The dietary intervention was whole food, calorie-controlled, plant-dominant.",
+      "t": "El ensayo DiRECT (2018, The Lancet) demostró que una intervención dietética intensiva logró la remisión en el 46% de los pacientes con diabetes tipo 2 a los 12 meses y en el 36% a los 24 meses, sin medicación. La intervención era una dieta de alimentos integrales, con control de calorías y predominantemente vegetal."
+    },
+    "39157cae": {
+      "src": "The First Pillar",
+      "t": "El primer pilar"
+    },
+    "4fd98693": {
+      "src": "The Pan American Health Organization (PAHO) estimates that diabetes alone costs Jamaica approximately $280 million USD annually in direct healthcare costs and lost productivity. Cardiovascular disease adds substantially more.",
+      "t": "La Organización Panamericana de la Salud (OPS) calcula que solo la diabetes le cuesta a Jamaica unos 280 millones de dólares al año en costos directos de atención médica y productividad perdida. Las enfermedades cardiovasculares suman mucho más."
+    },
+    "ab10592b": {
+      "src": "The Practical Guide",
+      "t": "La guía práctica"
+    },
+    "778b9500": {
+      "src": "The Reversible Crisis",
+      "t": "La crisis reversible"
+    },
+    "6abf9cb4": {
+      "src": "The Second Pillar",
+      "t": "El segundo pilar"
+    },
+    "2f8b92b1": {
+      "src": "The Series",
+      "t": "La serie"
+    },
+    "0aad17a7": {
+      "src": "The Third Pillar",
+      "t": "El tercer pilar"
+    },
+    "adb6c9a4": {
+      "src": "The Vision",
+      "t": "La visión"
+    },
+    "abcd9d61": {
+      "src": "The World Economic Forum estimated in 2011 that non-communicable diseases — primarily cardiovascular disease, diabetes, and cancer, all diet-modifiable — will cost the global economy $47 trillion over the following 20 years. For Jamaica, a country where NCDs account for 65% of all deaths, the economic drain of preventable disease is one of the most significant threats to national development.",
+      "t": "El Foro Económico Mundial calculó en 2011 que las enfermedades no transmisibles, sobre todo las cardiovasculares, la diabetes y el cáncer, todas modificables con la dieta, costarán a la economía mundial 47 billones de dólares en los 20 años siguientes. Para Jamaica, un país donde las ENT causan el 65% de todas las muertes, el drenaje económico de las enfermedades prevenibles es una de las mayores amenazas para el desarrollo nacional."
+    },
+    "b9633449": {
+      "src": "The World Health Organization defines health as “a state of complete physical, mental, and social well-being and not merely the absence of disease or infirmity.” This definition, adopted in 1948, remains the most expansive and accurate framing of what health actually means.",
+      "t": "La Organización Mundial de la Salud define la salud como “un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades”. Esta definición, adoptada en 1948, sigue siendo la forma más amplia y precisa de expresar lo que realmente significa la salud."
+    },
+    "e5ba6228": {
+      "src": "The archive holds the answer. The food holds the cure.",
+      "t": "El archivo tiene la respuesta. La comida tiene la cura."
+    },
+    "b42ce9bc": {
+      "src": "The blood pressure crisis —",
+      "t": "La crisis de la presión arterial:"
+    },
+    "25cd2ea5": {
+      "src": "The chronic disease burden that now afflicts Jamaica — and every nation that has adopted the Western processed food diet — is not the natural state of human health.",
+      "t": "La carga de enfermedades crónicas que hoy sufre Jamaica, y toda nación que ha adoptado la dieta occidental de alimentos procesados, no es el estado natural de la salud humana."
+    },
+    "577a3284": {
+      "src": "The connection between food and national wealth is not metaphorical. It is economic, measurable, and documented across multiple lines of research.",
+      "t": "La relación entre la comida y la riqueza nacional no es metafórica. Es económica, medible y está documentada por varias líneas de investigación."
+    },
+    "37fc8f02": {
+      "src": "The diabetes crisis —",
+      "t": "La crisis de la diabetes:"
+    },
+    "0ee69802": {
+      "src": "The economic evidence",
+      "t": "La evidencia económica"
+    },
+    "5fb35dfa": {
+      "src": "The following represent some of the most nutritionally significant foods produced on Jamaican soil — each with documented clinical evidence for their health benefits, and each deeply embedded in Jamaican food culture.",
+      "t": "Estos son algunos de los alimentos nutricionalmente más importantes que se producen en suelo jamaicano, cada uno con evidencia clínica documentada de sus beneficios para la salud y cada uno profundamente arraigado en la cultura alimentaria jamaicana."
+    },
+    "ed3111c6": {
+      "src": "The health pillar",
+      "t": "El pilar de la salud"
+    },
+    "91b32860": {
+      "src": "The inverse is equally documented: diet-related chronic disease imposes enormous economic costs on individuals, families, health systems, and national economies.",
+      "t": "Lo contrario está igual de documentado: las enfermedades crónicas relacionadas con la dieta imponen enormes costos económicos a las personas, las familias, los sistemas de salud y las economías nacionales."
+    },
+    "973cc54c": {
+      "src": "The most important word in the chronic disease conversation is one that rarely appears in it:",
+      "t": "La palabra más importante en la conversación sobre las enfermedades crónicas es una que casi nunca aparece en ella:"
+    },
+    "4018031a": {
+      "src": "The most significant predictor of long-term healthy eating behaviour is not willpower, motivation, or access to expensive health products. It is",
+      "t": "El mayor predictor de una alimentación sana a largo plazo no es la fuerza de voluntad, la motivación ni el acceso a productos de salud caros. Es la"
+    },
+    "1bf935ab": {
+      "src": "The nation’s health",
+      "t": "La salud de la nación"
+    },
+    "b0b0f0b0": {
+      "src": "The obesity crisis —",
+      "t": "La crisis de la obesidad:"
+    },
+    "6a8cd4eb": {
+      "src": "The practical guide",
+      "t": "La guía práctica"
+    },
+    "2cbc4343": {
+      "src": "The same compound. The same outcome. A thousand years apart.",
+      "t": "El mismo compuesto. El mismo resultado. Con mil años de diferencia."
+    },
+    "72a14a8f": {
+      "src": "The wealth pillar",
+      "t": "El pilar de la riqueza"
+    },
+    "a3a8e9f9": {
+      "src": "The wisdom pillar",
+      "t": "El pilar de la sabiduría"
+    },
+    "c4c26ab0": {
+      "src": "These are not fixed costs. They are reducible through dietary change at the population level.",
+      "t": "No son costos fijos. Se pueden reducir con cambios en la dieta a nivel de toda la población."
+    },
+    "b44cc4f2": {
+      "src": "They require the foods that grow in Jamaican soil, prepared in the Jamaican kitchen tradition, eaten with the understanding that has always been available — and that Kwik Fat Cut exists to restore.",
+      "t": "Requieren los alimentos que crecen en la tierra jamaicana, preparados según la tradición de la cocina jamaicana y comidos con la comprensión que siempre ha estado disponible, y que Kwik Fat Cut existe para recuperar."
+    },
+    "fc293bd2": {
+      "src": "Thirty minutes of brisk walking reduces all-cause mortality by 31% (WHO). It improves insulin sensitivity, stimulates gut motility, activates the lymphatic system, and releases BDNF — the protein that grows new brain cells.",
+      "t": "Treinta minutos de caminata a paso rápido reducen la mortalidad por todas las causas en un 31% (OMS). Mejoran la sensibilidad a la insulina, estimulan la motilidad intestinal, activan el sistema linfático y liberan BDNF, la proteína que hace crecer nuevas células cerebrales."
+    },
+    "a6bd3347": {
+      "src": "This has not been replicated by any pharmaceutical.",
+      "t": "Ningún fármaco lo ha logrado."
+    },
+    "d893370e": {
+      "src": "This is how communities become healthy nations.",
+      "t": "Así es como las comunidades se convierten en naciones sanas."
+    },
+    "7b5effa5": {
+      "src": "This is not theory. It is practice. The following steps are grounded in the archive, validated by science, and achievable within the Jamaican food environment — without expensive supplements, imported superfoods, or specialist medical advice.",
+      "t": "Esto no es teoría. Es práctica. Los siguientes pasos se basan en el archivo, están validados por la ciencia y se pueden lograr dentro del entorno alimentario jamaicano, sin suplementos caros, superalimentos importados ni consejos médicos especializados."
+    },
+    "a1684467": {
+      "src": "This is what education produces. This is why education comes before intervention at Kwik Fat Cut.",
+      "t": "Esto es lo que produce la educación. Por eso, en Kwik Fat Cut, la educación va antes que la intervención."
+    },
+    "e15208f0": {
+      "src": "Traditional food knowledge — preserved through bush medicine, cooking traditions, and the oral transmission of nutritional wisdom — has historically protected communities from the worst health outcomes of poverty and food insecurity. When this knowledge is lost, communities become dependent on commercial health systems.",
+      "t": "El saber alimentario tradicional, conservado en la medicina tradicional, las costumbres de cocina y la transmisión oral de la sabiduría nutricional, ha protegido históricamente a las comunidades de los peores efectos de la pobreza y la inseguridad alimentaria sobre la salud. Cuando este conocimiento se pierde, las comunidades pasan a depender de los sistemas de salud comerciales."
+    },
+    "96524b96": {
+      "src": "Type 2 diabetes reversal —",
+      "t": "Remisión de la diabetes tipo 2:"
+    },
+    "b8c0b08c": {
+      "src": "Wealth —",
+      "t": "Riqueza:"
+    },
+    "c5a0c9c3": {
+      "src": "What Jamaica needs is not new products. It needs its own knowledge returned to it — freely, clearly, and without condescension.",
+      "t": "Lo que Jamaica necesita no son productos nuevos. Necesita que le devuelvan su propio conocimiento: gratis, con claridad y sin condescendencia."
+    },
+    "f0e0cb67": {
+      "src": "What a healthy nation looks like",
+      "t": "Cómo es una nación sana"
+    },
+    "254726ef": {
+      "src": "What a truly healthy",
+      "t": "Cómo es una nación"
+    },
+    "228b634a": {
+      "src": "What does it mean for a nation to be healthy? Not a statistic. Not a policy target. A lived reality — in the kitchen, in the community, in the body of every Jamaican who understands what they eat and why it matters. This is the guide. Rooted in the archive. Built for the nation.",
+      "t": "¿Qué significa que una nación esté sana? No una estadística. No un objetivo de política. Una realidad vivida: en la cocina, en la comunidad, en el cuerpo de cada jamaicano que entiende lo que come y por qué importa. Esta es la guía. Con raíces en el archivo. Hecha para la nación."
+    },
+    "409299b5": {
+      "src": "What stands between Jamaica and dramatically better health outcomes is not technology, not money, and not new medicine.",
+      "t": "Lo que separa a Jamaica de una salud mucho mejor no es la tecnología, ni el dinero, ni una medicina nueva."
+    },
+    "ce63a2d5": {
+      "src": "What the island grows —",
+      "t": "Lo que cultiva la isla,"
+    },
+    "418de950": {
+      "src": "When it is restored, communities regain sovereignty over their own health.",
+      "t": "Cuando se recupera, las comunidades recobran la soberanía sobre su propia salud."
+    },
+    "50c58cb2": {
+      "src": "Wisdom —",
+      "t": "Sabiduría:"
+    },
+    "a8c20c59": {
+      "src": "Wisdom, in the context of health, is the ability to guide one’s own body — to understand what it needs, to recognise what harms it, and to make choices based on genuine comprehension rather than marketing, habit, or convenience.",
+      "t": "La sabiduría, en el contexto de la salud, es la capacidad de guiar tu propio cuerpo: entender lo que necesita, reconocer lo que le hace daño y tomar decisiones basadas en una comprensión real y no en el marketing, la costumbre o la comodidad."
+    },
+    "9b7d89e8": {
+      "src": "across 150+ clinical trials. Ibn Sina prescribed it in 1025 CE. Modern cardiology recommends it for blood pressure.",
+      "t": "en más de 150 ensayos clínicos. Ibn Sina lo recetaba en el año 1025. La cardiología moderna lo recomienda para la presión arterial."
+    },
+    "66a1c40e": {
+      "src": "and what it does to the body.",
+      "t": "y lo que le hace al cuerpo."
+    },
+    "968debc4": {
+      "src": "batata",
+      "t": "batata"
+    },
+    "1705d151": {
+      "src": "can take today.",
+      "t": "puede dar hoy."
+    },
+    "f36179da": {
+      "src": "confirmed in multiple clinical trials. Also contains momordicin, polypeptide-p. Used in Jamaican bush medicine for generations.",
+      "t": ", confirmado en varios ensayos clínicos. También contiene momordicina y polipéptido-p. Se usa en la medicina tradicional jamaicana desde hace generaciones."
+    },
+    "bb9dbf7a": {
+      "src": "feeding Bifidobacterium gut bacteria. Low glycaemic index when roasted (compared to refined carbs). Potassium, vitamin C, thiamine. Introduced by Captain Bligh in 1793 — now a documented nutritional cornerstone.",
+      "t": "que alimenta a las bacterias intestinales Bifidobacterium. Índice glucémico bajo cuando se asa (en comparación con los carbohidratos refinados). Potasio, vitamina C, tiamina. Introducida por el capitán Bligh en 1793, hoy es un pilar nutricional documentado."
+    },
+    "19cca129": {
+      "src": "from beta-carotene in one medium root. Prebiotic resistant starch. Anti-cancer anthocyanins in purple varieties. Low glycaemic. Taino name (",
+      "t": "a partir del betacaroteno de una sola raíz mediana. Almidón resistente prebiótico. Antocianinas anticancerígenas en las variedades moradas. Índice glucémico bajo. Nombre taíno ("
+    },
+    "9d0fd4d8": {
+      "src": "in laboratory conditions. Rich in vitamin C, B vitamins, and potassium. Used in Jamaican and Caribbean traditional medicine for fever, insomnia, and nervous system support for centuries.",
+      "t": "en condiciones de laboratorio. Rica en vitamina C, vitaminas del grupo B y potasio. Se usa desde hace siglos en la medicina tradicional jamaicana y caribeña para la fiebre, el insomnio y el apoyo al sistema nervioso."
+    },
+    "254061a6": {
+      "src": "is in the nation’s hands.",
+      "t": "está en manos de la nación."
+    },
+    "4464dd01": {
+      "src": "matching plasma electrolyte ratios more closely than commercial sports drinks (WHO Journal of Emergency Medicine, 2012). Potassium, magnesium, sodium, and vitamin C. Used as an emergency IV fluid substitute in field conditions during World War II — its bioavailability is that precise.",
+      "t": "más parecida a las proporciones de electrolitos del plasma que las bebidas deportivas comerciales (WHO Journal of Emergency Medicine, 2012). Potasio, magnesio, sodio y vitamina C. Se usó como sustituto de emergencia del suero intravenoso en condiciones de campaña durante la Segunda Guerra Mundial: así de precisa es su biodisponibilidad."
+    },
+    "db247b38": {
+      "src": "nation actually looks like.",
+      "t": "verdaderamente sana."
+    },
+    "d3078c80": {
+      "src": "reversible.",
+      "t": "reversible."
+    },
+    "25604bba": {
+      "src": "series.",
+      "t": "serie."
+    },
+    "1251c12a": {
+      "src": "the knowledge that protects the body and guides the nation.",
+      "t": "el conocimiento que protege el cuerpo y guía a la nación."
+    },
+    "8540cd79": {
+      "src": "understanding.",
+      "t": "comprensión."
+    },
+    "b08e90c7": {
+      "src": "what food security actually means for a nation.",
+      "t": "lo que significa de verdad la seguridad alimentaria para una nación."
+    },
+    "5abbb6b6": {
+      "src": "what the body was designed to sustain.",
+      "t": "lo que el cuerpo fue diseñado para sostener."
+    },
+    "f57d1e91": {
+      "src": "what the evidence says about reversibility.",
+      "t": "lo que dice la evidencia sobre su reversibilidad."
+    },
+    "64702412": {
+      "src": "without side effects.",
+      "t": "sin efectos secundarios."
+    },
+    "ce8be401": {
+      "src": "“A nation’s health is built in kitchens, not clinics. It is taught in families, not hospitals. It is sustained by communities, not corporations.",
+      "t": "“La salud de una nación se construye en las cocinas, no en las clínicas. Se enseña en las familias, no en los hospitales. La sostienen las comunidades, no las corporaciones."
+    },
+    "caf18a30": {
+      "src": "← Part 4",
+      "t": "← Parte 4"
+    },
+    "5a8c56ac": {
+      "src": "🇯🇲 Return to Real Food Series — Part 5 of 7",
+      "t": "🇯🇲 Serie Volver a la Comida Real, Parte 5 de 7"
+    },
+    "e8c33e18": {
+      "src": "🇯🇲❤️💚",
+      "t": "🇯🇲❤️💚"
+    },
+    "d215a626": {
+      "src": "🌺 Soursop",
+      "t": "🌺 Guanábana"
+    },
+    "082d2527": {
+      "src": "🌿 Callaloo",
+      "t": "🌿 Callaloo"
+    },
+    "42fc9bd0": {
+      "src": "🌿 Cerasee",
+      "t": "🌿 Cerasee"
+    },
+    "e03363d4": {
+      "src": "🍋 Scotch Bonnet",
+      "t": "🍋 Scotch bonnet"
+    },
+    "c5bdce69": {
+      "src": "🍞 Breadfruit",
+      "t": "🍞 Fruta del pan"
+    },
+    "8c831484": {
+      "src": "🍠 Sweet Potato (Batata)",
+      "t": "🍠 Batata"
+    },
+    "ae5641e4": {
+      "src": "🥥 Coconut Water",
+      "t": "🥥 Agua de coco"
+    },
+    "a5829596": {
+      "src": "🧄 Garlic (Jamaican)",
+      "t": "🧄 Ajo (jamaicano)"
+    }
+  }
+}

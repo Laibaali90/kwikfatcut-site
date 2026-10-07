@@ -1,0 +1,947 @@
+{
+  "_note": "Page content for learn-ancient-archive.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "f6bfdcf6": {
+      "src": "(1025 CE) — used as a medical textbook in European universities until the 17th century — devotes extensive chapters to the medicinal properties of specific foods. It documents the blood-sugar-lowering effects of bitter foods, the cardiovascular properties of garlic, and the digestive benefits of fermented foods with a precision that modern research has systematically confirmed.",
+      "t": "de Ibn Sina (1025 d. C.), usado como manual de medicina en las universidades europeas hasta el siglo XVII, dedica amplios capítulos a las propiedades medicinales de alimentos concretos. Documenta el efecto de los alimentos amargos para bajar el azúcar en sangre, las propiedades cardiovasculares del ajo y los beneficios digestivos de los alimentos fermentados con una precisión que la investigación moderna ha confirmado de forma sistemática."
+    },
+    "3078f54d": {
+      "src": "(13th-century Andalusian cookbook) — of which missing chapters were discovered at the British Library in 2018 — documents",
+      "t": "(recetario andalusí del siglo XIII), del que en 2018 se descubrieron capítulos perdidos en la British Library, documenta"
+    },
+    "7984526a": {
+      "src": "(Compendium of Materia Medica, 1596 CE) by Li Shizhen documents",
+      "t": "(Compendio de materia médica, 1596 d. C.) de Li Shizhen documenta"
+    },
+    "b9d51590": {
+      "src": "(Yellow Emperor’s Classic of Medicine, c.2700 BCE) is the foundational text of Traditional Chinese Medicine and one of the oldest medical manuscripts in existence. It documents food as the primary form of medicine, listing the therapeutic properties of hundreds of plant foods in precise detail.",
+      "t": "(Clásico de Medicina del Emperador Amarillo, hacia el 2700 a. C.) es el texto fundacional de la medicina tradicional china y uno de los manuscritos médicos más antiguos que existen. Documenta la comida como la forma principal de medicina y detalla con precisión las propiedades terapéuticas de cientos de alimentos vegetales."
+    },
+    "c060db0d": {
+      "src": "(c.300 BCE) and",
+      "t": "(hacia el 300 a. C.) y el"
+    },
+    "3459f9d7": {
+      "src": "(medicine and food share the same origin) — has governed Chinese nutrition for over 4,000 years.",
+      "t": "(la medicina y la comida tienen el mismo origen), ha guiado la nutrición china durante más de 4.000 años."
+    },
+    "457f9070": {
+      "src": ", the vast majority plant-based. This 52-volume work represents 27 years of research and remains one of the most comprehensive food-medicine archives ever compiled by a single individual.",
+      "t": ", la gran mayoría de origen vegetal. Esta obra de 52 volúmenes representa 27 años de investigación y sigue siendo uno de los archivos de medicina alimentaria más completos jamás compilados por una sola persona."
+    },
+    "e27fbf0a": {
+      "src": ", with plant foods forming the overwhelming foundation of both prevention and treatment. Turmeric, ginger, amla (Indian gooseberry), neem, and ashwagandha are among the most documented — all now subjects of extensive clinical research confirming their documented traditional uses.",
+      "t": ", y los alimentos vegetales son la base abrumadora tanto de la prevención como del tratamiento. La cúrcuma, el jengibre, el amla (grosella india), el neem y la ashwagandha están entre los más documentados, y hoy todos son objeto de una amplia investigación clínica que confirma sus usos tradicionales documentados."
+    },
+    "b0579158": {
+      "src": ". Chia seeds — now celebrated in modern wellness culture — were documented as a primary energy source for Aztec runners and warriors 500 years before “superfood” became a marketing term.",
+      "t": ". Las semillas de chía, hoy celebradas en la cultura moderna del bienestar, estaban documentadas como fuente principal de energía para los corredores y guerreros aztecas 500 años antes de que “superalimento” se convirtiera en un término de marketing."
+    },
+    "586aa1e2": {
+      "src": ". Moringa — called the “miracle tree” — was used daily as a nutritional supplement. Its leaves contain more vitamin C than oranges, more calcium than milk, and more iron than spinach.",
+      "t": ". La moringa, llamada el “árbol milagroso”, se usaba a diario como suplemento nutricional. Sus hojas tienen más vitamina C que las naranjas, más calcio que la leche y más hierro que la espinaca."
+    },
+    "f3d2c969": {
+      "src": ". The concept of food as medicine —",
+      "t": ". El concepto de la comida como medicina,"
+    },
+    "654ec49f": {
+      "src": "01 — The Ancient Archive",
+      "t": "01 · El archivo antiguo"
+    },
+    "2b457935": {
+      "src": "02 — The Taino Diet",
+      "t": "02 · La dieta taína"
+    },
+    "e8e82dd6": {
+      "src": "03 — West African Roots",
+      "t": "03 · Raíces de África Occidental"
+    },
+    "f9108205": {
+      "src": "04 — The Moorish Table",
+      "t": "04 · La mesa mora"
+    },
+    "a21d0f20": {
+      "src": "05 — A Nation’s Guide",
+      "t": "05 · La guía de una nación"
+    },
+    "bad6d953": {
+      "src": "06 — Building the Community",
+      "t": "06 · Construir la comunidad"
+    },
+    "295e8bc5": {
+      "src": "07 — Living Longer & Happier",
+      "t": "07 · Vivir más y más felices"
+    },
+    "bd365a9e": {
+      "src": "1,892 medicinal substances",
+      "t": "1.892 sustancias medicinales"
+    },
+    "8a5ab8a4": {
+      "src": "14 min",
+      "t": "14 min"
+    },
+    "db2eaec2": {
+      "src": "200+",
+      "t": "Más de 200"
+    },
+    "627c4c34": {
+      "src": "300,000 years of human civilisation",
+      "t": "300.000 años de civilización humana"
+    },
+    "40f39996": {
+      "src": "341 plant-based medicines and 177 animal-based medicines",
+      "t": "341 medicinas de origen vegetal y 177 de origen animal"
+    },
+    "0e6edddd": {
+      "src": "50–100g",
+      "t": "50 a 100 g"
+    },
+    "34f46977": {
+      "src": "60,000",
+      "t": "60.000"
+    },
+    "a1e65550": {
+      "src": ": the exact dietary pattern now clinically validated as the most protective against cardiovascular disease.",
+      "t": ": justo el patrón alimentario que hoy está validado clínicamente como el más protector frente a las enfermedades cardiovasculares."
+    },
+    "abd0f216": {
+      "src": "Africa is where",
+      "t": "África es donde surgió el"
+    },
+    "e1271163": {
+      "src": "Almonds",
+      "t": "Almendras"
+    },
+    "f3baf3cf": {
+      "src": "Amaranth",
+      "t": "Amaranto"
+    },
+    "c5c975c4": {
+      "src": "Amla",
+      "t": "Amla"
+    },
+    "19f5485f": {
+      "src": "Ancient Africa",
+      "t": "África antigua"
+    },
+    "3cf98cdd": {
+      "src": "Archaeological & Anthropological",
+      "t": "Arqueológicas y antropológicas"
+    },
+    "73f09557": {
+      "src": "Archaeological analysis of mummies from the New Kingdom period (1550–1070 BCE) found significant amounts of plant material in intestinal tracts: emmer wheat, barley, lentils, figs, dates, and garlic.",
+      "t": "El análisis arqueológico de momias del Imperio Nuevo (1550 a 1070 a. C.) encontró cantidades importantes de material vegetal en el tubo digestivo: trigo emmer, cebada, lentejas, higos, dátiles y ajo."
+    },
+    "9755eb35": {
+      "src": "Archaeologists do not guess at ancient diets. They excavate them. From the analysis of dental calculus (hardened plaque on ancient teeth containing microscopic food particles), stable isotope analysis of bone collagen, and the study of ancient refuse mounds called middens, a detailed picture of pre-industrial human nutrition has been assembled across decades of meticulous research.",
+      "t": "Los arqueólogos no adivinan las dietas antiguas. Las excavan. A partir del análisis del cálculo dental (la placa endurecida de los dientes antiguos, que contiene partículas microscópicas de comida), del análisis de isótopos estables del colágeno de los huesos y del estudio de antiguos basureros llamados concheros, se ha reconstruido una imagen detallada de la nutrición humana preindustrial a lo largo de décadas de investigación minuciosa."
+    },
+    "5582faf2": {
+      "src": "Ashwagandha",
+      "t": "Ashwagandha"
+    },
+    "7a880a79": {
+      "src": "Asia & Oceania",
+      "t": "Asia y Oceanía"
+    },
+    "cd6116c2": {
+      "src": "Asia and Oceania contain some of the most detailed ancient food records available — preserved through Chinese medical texts, Ayurvedic manuscripts, and the extraordinary oral traditions of Polynesian navigators and Aboriginal Australians.",
+      "t": "Asia y Oceanía conservan algunos de los registros alimentarios antiguos más detallados que existen, preservados en textos médicos chinos, manuscritos ayurvédicos y las extraordinarias tradiciones orales de los navegantes polinesios y los aborígenes australianos."
+    },
+    "c9e7df76": {
+      "src": "Atherosclerosis, while present in some nobles who ate more animal fat, was rare among the general population",
+      "t": "La ateroesclerosis, aunque presente en algunos nobles que comían más grasa animal, era poco común en la población general"
+    },
+    "e1b258ae": {
+      "src": "Average number of plant species consumed annually by hunter-gatherer populations. Modern Western diet: fewer than 20.",
+      "t": "Número medio de especies vegetales que consumían al año las poblaciones de cazadores y recolectores. Dieta occidental moderna: menos de 20."
+    },
+    "eba397fe": {
+      "src": "Avocado",
+      "t": "Aguacate"
+    },
+    "48c714b3": {
+      "src": "Ayurveda — the world’s oldest complete nutritional system",
+      "t": "El Ayurveda: el sistema nutricional completo más antiguo del mundo"
+    },
+    "cee4b126": {
+      "src": "Baobab",
+      "t": "Baobab"
+    },
+    "b9cf1d1c": {
+      "src": "Beans",
+      "t": "El frijol"
+    },
+    "15d6498c": {
+      "src": "Ben Cao Gang Mu",
+      "t": "Ben Cao Gang Mu"
+    },
+    "ffb70549": {
+      "src": "Bitter leaf",
+      "t": "Hoja amarga"
+    },
+    "0e0b7505": {
+      "src": "Bitter leaf (Vernonia amygdalina)",
+      "t": "La hoja amarga (Vernonia amygdalina)"
+    },
+    "07eea6db": {
+      "src": "Black-eyed peas",
+      "t": "Frijoles de ojo negro"
+    },
+    "5011eed8": {
+      "src": "Brown rice",
+      "t": "Arroz integral"
+    },
+    "2778cebc": {
+      "src": "Brown rice, soybeans, ginger, turmeric, green tea, seaweed, mushrooms. Fermented foods supporting gut microbiome diversity.",
+      "t": "Arroz integral, soya, jengibre, cúrcuma, té verde, algas, setas. Alimentos fermentados que apoyan la diversidad del microbioma intestinal."
+    },
+    "d2308446": {
+      "src": "Cacao",
+      "t": "Cacao"
+    },
+    "eccab8cf": {
+      "src": "Callaloo, yam, ackee, breadfruit, scotch bonnet, allspice, pimento, red peas. The synthesis of West African, Taino, and Caribbean botanical wisdom in one culinary tradition.",
+      "t": "Callaloo, ñame, ackee, fruta del pan, ají scotch bonnet, pimienta de Jamaica, pimento, frijoles rojos. La síntesis de la sabiduría botánica de África Occidental, los taínos y el Caribe en una sola tradición culinaria."
+    },
+    "40b8d7e3": {
+      "src": "Canon of Medicine",
+      "t": "Canon de medicina"
+    },
+    "8f9b5277": {
+      "src": "Charaka Samhita",
+      "t": "Charaka Samhita"
+    },
+    "967fe0e6": {
+      "src": "Chia seeds",
+      "t": "Semillas de chía"
+    },
+    "1943b09c": {
+      "src": "Chickpeas",
+      "t": "Garbanzos"
+    },
+    "be32a4f7": {
+      "src": "Chickpeas, lentils, olive oil, wheat, dates, pomegranate, cumin, coriander. The documented foundation of the world’s most studied heart-protective diet.",
+      "t": "Garbanzos, lentejas, aceite de oliva, trigo, dátiles, granada, comino, cilantro. La base documentada de la dieta protectora del corazón más estudiada del mundo."
+    },
+    "bbc5bce4": {
+      "src": "Chilli",
+      "t": "Chile"
+    },
+    "af49ca15": {
+      "src": "China — c.2700 BCE onward — The Yellow Emperor’s Classic of Medicine and Ben Cao Gang Mu",
+      "t": "China · desde hacia el 2700 a. C. · El Clásico de Medicina del Emperador Amarillo y el Ben Cao Gang Mu"
+    },
+    "040435b1": {
+      "src": "Coming in the series →",
+      "t": "Próximamente en la serie →"
+    },
+    "9b169ec1": {
+      "src": "Community eating is health protection",
+      "t": "Comer en comunidad protege la salud"
+    },
+    "a23e7e7f": {
+      "src": "Continue the",
+      "t": "Continúa la"
+    },
+    "3b98d0a2": {
+      "src": "Critically, the Charaka Samhita states:",
+      "t": "Y, algo fundamental, el Charaka Samhita afirma:"
+    },
+    "9fddbc17": {
+      "src": "Cumin",
+      "t": "Comino"
+    },
+    "6ccb18be": {
+      "src": "Dates",
+      "t": "Dátiles"
+    },
+    "6e8b8444": {
+      "src": "Drawn from anthropological records, archaeological evidence, ancient manuscripts, and oral traditions spanning six continents. Not theory. Not trend. The documented nutritional reality of the longest-lived, healthiest populations in human history.",
+      "t": "A partir de registros antropológicos, evidencia arqueológica, manuscritos antiguos y tradiciones orales de seis continentes. No es teoría. No es una moda. Es la realidad nutricional documentada de las poblaciones más longevas y sanas de la historia humana."
+    },
+    "60a1ae7a": {
+      "src": "Duration of Australian Aboriginal oral food traditions — the longest continuous food culture documented on earth.",
+      "t": "Duración de las tradiciones alimentarias orales de los aborígenes australianos, la cultura alimentaria continua más larga documentada en el planeta."
+    },
+    "142a9ca7": {
+      "src": "Egypt — c.3000 BCE to 500 BCE — Documented through papyri, tomb paintings, and food remains",
+      "t": "Egipto · hacia el 3000 a. C. al 500 a. C. · Documentado en papiros, pinturas de tumbas y restos de comida"
+    },
+    "3aecc186": {
+      "src": "Emmer wheat",
+      "t": "Trigo emmer"
+    },
+    "19e3adc5": {
+      "src": "Every major finding of contemporary nutrition research points back to the same foods, the same patterns, and the same principles",
+      "t": "Cada gran hallazgo de la investigación nutricional actual apunta a los mismos alimentos, los mismos patrones y los mismos principios"
+    },
+    "229b49a5": {
+      "src": "Everything documented in this archive — the lentils of ancient Egypt, the moringa of the Mali Empire, the Three Sisters of Mesoamerica, the turmeric of Ayurvedic India —",
+      "t": "Todo lo documentado en este archivo (las lentejas del antiguo Egipto, la moringa del Imperio de Malí, las Tres Hermanas de Mesoamérica, la cúrcuma de la India ayurvédica)"
+    },
+    "5cf06728": {
+      "src": "Fermented foods support mental health",
+      "t": "Los alimentos fermentados apoyan la salud mental"
+    },
+    "b246e1fc": {
+      "src": "Fibre / day",
+      "t": "de fibra al día"
+    },
+    "412697b8": {
+      "src": "Fibre diversity predicts gut microbiome health",
+      "t": "La diversidad de fibra predice la salud del microbioma intestinal"
+    },
+    "53b1c624": {
+      "src": "Fidālat al-Khiwān",
+      "t": "Fidālat al-Khiwān"
+    },
+    "210b5ab2": {
+      "src": "Figs",
+      "t": "Higos"
+    },
+    "08360eef": {
+      "src": "Garlic",
+      "t": "Ajo"
+    },
+    "f2062cbb": {
+      "src": "Garlic, onions, leeks, lentils, figs, dates, pomegranates, and wheat were the foundation of Egyptian nutrition",
+      "t": "El ajo, la cebolla, el puerro, las lentejas, los higos, los dátiles, las granadas y el trigo fueron la base de la nutrición egipcia"
+    },
+    "bcc9ef48": {
+      "src": "Ghee",
+      "t": "Ghee"
+    },
+    "cb49dbbd": {
+      "src": "Ginger",
+      "t": "Jengibre"
+    },
+    "f585727a": {
+      "src": "Green tea",
+      "t": "Té verde"
+    },
+    "5e673b15": {
+      "src": "Homo sapiens",
+      "t": "Homo sapiens"
+    },
+    "98a56c0b": {
+      "src": "Huangdi Neijing",
+      "t": "Huangdi Neijing"
+    },
+    "1dc63b15": {
+      "src": "Ibn Sina’s",
+      "t": "El"
+    },
+    "faee79f4": {
+      "src": "India — c.1500 BCE onward — The Charaka Samhita and Sushruta Samhita",
+      "t": "India · desde hacia el 1500 a. C. · El Charaka Samhita y el Sushruta Samhita"
+    },
+    "9787dee5": {
+      "src": "Indigenous Americans, across Mesoamerica, North America, and South America, developed food systems of extraordinary nutritional sophistication without formal scientific training. They did it through multigenerational observation, experimentation, and the transmission of knowledge through oral tradition.",
+      "t": "Los pueblos indígenas de América, en Mesoamérica, Norteamérica y Sudamérica, desarrollaron sistemas alimentarios de una sofisticación nutricional extraordinaria sin formación científica formal. Lo lograron mediante la observación de muchas generaciones, la experimentación y la transmisión del conocimiento por tradición oral."
+    },
+    "f0902f56": {
+      "src": "It grows from the same earth. It carries the same compounds. It produces the same outcomes.",
+      "t": "Crece de la misma tierra. Lleva los mismos compuestos. Produce los mismos resultados."
+    },
+    "ff94c3c6": {
+      "src": "Jamaica’s first food tradition. What the original inhabitants ate, how they prepared it, and what was lost — and what survives.",
+      "t": "La primera tradición alimentaria de Jamaica. Lo que comían los habitantes originales, cómo lo preparaban, qué se perdió y qué sobrevive."
+    },
+    "16c7a591": {
+      "src": "Kwik Fat Cut exists to make sure that the archive reaches the people it belongs to. Freely. Clearly. Without pressure or product.",
+      "t": "Kwik Fat Cut existe para asegurarse de que el archivo llegue a las personas a quienes pertenece. Gratis. Con claridad. Sin presión y sin productos."
+    },
+    "e85c9b57": {
+      "src": "Kwik Fat Cut — Return to Real Food Series — Education First — A knowledge tree for health, wellness, awareness & opportunity.",
+      "t": "Kwik Fat Cut · Serie Volver a la Comida Real · La educación primero · Un árbol del conocimiento para la salud, el bienestar, la conciencia y la oportunidad."
+    },
+    "e4d9c390": {
+      "src": "Legumes, leafy greens, tubers, whole grains",
+      "t": "Legumbres, verduras de hoja, tubérculos, cereales integrales"
+    },
+    "a451d95a": {
+      "src": "Lentils",
+      "t": "Lentejas"
+    },
+    "f4bd4a0c": {
+      "src": "Lentils, black-eyed peas, moringa, sorghum, millet, baobab, bitter leaf. High fibre, high antioxidants, minimal animal fat.",
+      "t": "Lentejas, frijoles de ojo negro, moringa, sorgo, mijo, baobab, hoja amarga. Mucha fibra, muchos antioxidantes, mínima grasa animal."
+    },
+    "70f0c5f3": {
+      "src": "Maize",
+      "t": "El maíz"
+    },
+    "c6d3e571": {
+      "src": "Maize, beans, squash, amaranth, chia, avocado, tomato. Complete plant protein, extraordinary phytochemical diversity.",
+      "t": "Maíz, frijol, calabaza, amaranto, chía, aguacate, tomate. Proteína vegetal completa, una diversidad extraordinaria de fitoquímicos."
+    },
+    "9b60c6b1": {
+      "src": "Mesoamerica — c.3000 BCE onward — Documented through Aztec codices, Maya manuscripts, and Spanish colonial records",
+      "t": "Mesoamérica · desde hacia el 3000 a. C. · Documentado en códices aztecas, manuscritos mayas y registros coloniales españoles"
+    },
+    "096a64f2": {
+      "src": "Millet",
+      "t": "Mijo"
+    },
+    "2471fe0e": {
+      "src": "Moringa",
+      "t": "Moringa"
+    },
+    "adc44201": {
+      "src": "Movements are medicines. We row. You steer. 🇯🇲",
+      "t": "Los movimientos son medicina. Nosotros remamos. Tú diriges. 🇯🇲"
+    },
+    "ea16c9e2": {
+      "src": "Neem",
+      "t": "Neem"
+    },
+    "24746033": {
+      "src": "Next in the series →",
+      "t": "Siguiente en la serie →"
+    },
+    "d582ff4c": {
+      "src": "Olive oil",
+      "t": "Aceite de oliva"
+    },
+    "8cbddd24": {
+      "src": "Olive oil, legumes, whole grains, aromatic spices",
+      "t": "Aceite de oliva, legumbres, cereales integrales, especias aromáticas"
+    },
+    "b6fdc258": {
+      "src": "One conclusion.",
+      "t": "Una conclusión."
+    },
+    "4dd3b01f": {
+      "src": "Onions",
+      "t": "Cebollas"
+    },
+    "7de4ed5f": {
+      "src": "Part 2 — Taino Diet",
+      "t": "Parte 2 · La dieta taína"
+    },
+    "bc10dd24": {
+      "src": "Part 2 →",
+      "t": "Parte 2 →"
+    },
+    "1af62fcf": {
+      "src": "Part 3 →",
+      "t": "Parte 3 →"
+    },
+    "5abaf6cc": {
+      "src": "Plant species",
+      "t": "especies de plantas"
+    },
+    "24a4b988": {
+      "src": "Pomegranate",
+      "t": "Granada"
+    },
+    "aa50c621": {
+      "src": "Pomegranates",
+      "t": "Granadas"
+    },
+    "8a0a50e9": {
+      "src": "Portuguese records from the Kingdom of Benin (15th–17th century) documented cultivation of yams, plantains, palm oil, and a wide variety of leafy greens across a highly organised agricultural society.",
+      "t": "Los registros portugueses del Reino de Benín (siglos XV a XVII) documentaron el cultivo de ñame, plátano, aceite de palma y una gran variedad de verduras de hoja en una sociedad agrícola muy organizada."
+    },
+    "4e901349": {
+      "src": "Pre-industrial dietary fibre intake, documented through coprolite (fossilised faeces) analysis. Modern average: 15–20g.",
+      "t": "Consumo de fibra en la dieta preindustrial, documentado mediante el análisis de coprolitos (heces fosilizadas). Media actual: 15 a 20 g."
+    },
+    "3df399c2": {
+      "src": "Refined sugar",
+      "t": "de azúcar refinada"
+    },
+    "c2ebd101": {
+      "src": "Refined sugar consumption in pre-industrial populations. Modern average: 40kg per person per year.",
+      "t": "Consumo de azúcar refinada en las poblaciones preindustriales. Media actual: 40 kg por persona al año."
+    },
+    "3b2e1759": {
+      "src": "Return to Real Food Series",
+      "t": "Serie Volver a la Comida Real"
+    },
+    "43bca831": {
+      "src": "Return to Real Food — 1 of 7",
+      "t": "Volver a la Comida Real · 1 de 7"
+    },
+    "960eb2ec": {
+      "src": "Rice, legumes, ferments, medicinal herbs",
+      "t": "Arroz, legumbres, fermentados, hierbas medicinales"
+    },
+    "94de03e8": {
+      "src": "Seasonal eating aligns with the body",
+      "t": "Comer según la estación está en sintonía con el cuerpo"
+    },
+    "919f929d": {
+      "src": "Seaweed",
+      "t": "Algas"
+    },
+    "e352b53b": {
+      "src": "Sesame",
+      "t": "Sésamo"
+    },
+    "75056282": {
+      "src": "Seven deep reads. All free. All rooted in the ancient archive.",
+      "t": "Siete lecturas profundas. Todas gratis. Todas con raíces en el archivo antiguo."
+    },
+    "e49d0ef7": {
+      "src": "Shiitake",
+      "t": "Shiitake"
+    },
+    "f38096be": {
+      "src": "Six continents.",
+      "t": "Seis continentes."
+    },
+    "2dbb4615": {
+      "src": "Smile for me, Jamaica. We row. You steer. 🇯🇲❤️💚",
+      "t": "Sonríe para mí, Jamaica. Nosotros remamos. Tú diriges. 🇯🇲❤️💚"
+    },
+    "ade023e6": {
+      "src": "Sorghum",
+      "t": "Sorgo"
+    },
+    "b8767165": {
+      "src": "Soybeans",
+      "t": "Soya"
+    },
+    "f9ff21c5": {
+      "src": "Spanish colonial records from the 16th century document the bewilderment of European observers at the health and physique of indigenous Mexicans — noting their lean, strong bodies and apparent absence of the obesity and chronic disease common among Europeans of the same period.",
+      "t": "Los registros coloniales españoles del siglo XVI documentan el desconcierto de los observadores europeos ante la salud y el físico de los indígenas de México: destacaban sus cuerpos delgados y fuertes y la aparente ausencia de la obesidad y las enfermedades crónicas comunes entre los europeos de la misma época."
+    },
+    "599f3a58": {
+      "src": "Spices are medicine",
+      "t": "Las especias son medicina"
+    },
+    "21c78b34": {
+      "src": "Squash",
+      "t": "La calabaza"
+    },
+    "d287236f": {
+      "src": "Sushruta Samhita",
+      "t": "Sushruta Samhita"
+    },
+    "192d0417": {
+      "src": "Tamarind",
+      "t": "Tamarindo"
+    },
+    "1acf0c38": {
+      "src": "Taro, sweet potato, breadfruit, coconut, native greens. Aboriginal Australian diets documented through 60,000 years of oral tradition showed extraordinary micronutrient density.",
+      "t": "Taro, batata, fruta del pan, coco, verduras nativas. Las dietas de los aborígenes australianos, documentadas a lo largo de 60.000 años de tradición oral, mostraban una densidad de micronutrientes extraordinaria."
+    },
+    "cb9c7960": {
+      "src": "Ten thousand years",
+      "t": "Diez mil años"
+    },
+    "169949bc": {
+      "src": "The",
+      "t": "El"
+    },
+    "ec7e8c79": {
+      "src": "The Americas",
+      "t": "América"
+    },
+    "20842106": {
+      "src": "The Ancient Archive: Food Wisdom Before Written Record",
+      "t": "El archivo antiguo: sabiduría alimentaria anterior a la escritura"
+    },
+    "05856a03": {
+      "src": "The Archaeological Record",
+      "t": "El registro arqueológico"
+    },
+    "4619b1ac": {
+      "src": "The Aztec codices — preserved manuscripts documenting Aztec knowledge — record over 200 edible plant species in regular use, including",
+      "t": "Los códices aztecas, manuscritos que conservan el saber azteca, registran más de 200 especies de plantas comestibles de uso habitual, entre ellas"
+    },
+    "7ae862b5": {
+      "src": "The Charaka Samhita lists",
+      "t": "El Charaka Samhita recoge"
+    },
+    "03cfd5e3": {
+      "src": "The Ebers Papyrus (c.1550 BCE) specifically prescribes onion for heart conditions, garlic as an immune booster, and figs for digestive health — all prescriptions now confirmed by clinical research.",
+      "t": "El papiro Ebers (hacia 1550 a. C.) receta en concreto la cebolla para las afecciones del corazón, el ajo para reforzar la inmunidad y los higos para la salud digestiva, todas recetas que hoy confirma la investigación clínica."
+    },
+    "80d4a9f6": {
+      "src": "The Fertile Crescent — the arc of land spanning modern Iraq, Syria, Lebanon, Israel, and Turkey — is where organised agriculture first developed, approximately 12,000 years ago. The crops domesticated there became the foundation of much of world nutrition:",
+      "t": "El Creciente Fértil, el arco de tierra que abarca los actuales Irak, Siria, Líbano, Israel y Turquía, es donde se desarrolló por primera vez la agricultura organizada, hace unos 12.000 años. Los cultivos que se domesticaron allí se convirtieron en la base de gran parte de la nutrición mundial:"
+    },
+    "07f85cb0": {
+      "src": "The Great Convergence",
+      "t": "La gran convergencia"
+    },
+    "d7430f85": {
+      "src": "The Islamic Golden Age — 8th to 13th century CE — Preserved in the British Library and manuscript collections globally",
+      "t": "La Edad de Oro islámica · siglos VIII a XIII d. C. · Conservada en la British Library y en colecciones de manuscritos de todo el mundo"
+    },
+    "50f65f81": {
+      "src": "The Islamic scholars of the Golden Age — Ibn Sina (Avicenna), Ibn Rushd (Averroes), and Al-Razi (Rhazes) — produced the most comprehensive medical texts of the medieval period, synthesising Greek, Persian, Indian, and Arab traditions into detailed food-medicine archives.",
+      "t": "Los eruditos islámicos de la Edad de Oro, Ibn Sina (Avicena), Ibn Rushd (Averroes) y Al-Razi (Rhazes), escribieron los textos médicos más completos de la Edad Media, sintetizando las tradiciones griega, persa, india y árabe en detallados archivos de medicina alimentaria."
+    },
+    "845e5692": {
+      "src": "The Mali Empire (1235–1600 CE) was documented by Arab traveller Ibn Battuta in 1352. He recorded a diet centred on",
+      "t": "El Imperio de Malí (1235 a 1600 d. C.) fue documentado por el viajero árabe Ibn Battuta en 1352. Registró una dieta centrada en"
+    },
+    "254fc10e": {
+      "src": "The Middle East",
+      "t": "Oriente Medio"
+    },
+    "e59ae973": {
+      "src": "The Moorish medical tradition — food as the first medicine",
+      "t": "La tradición médica mora: la comida como primera medicina"
+    },
+    "2f8b92b1": {
+      "src": "The Series",
+      "t": "La serie"
+    },
+    "dcb19141": {
+      "src": "The Taino Diet",
+      "t": "La dieta taína"
+    },
+    "b212a80d": {
+      "src": "The Three Sisters —",
+      "t": "Las Tres Hermanas:"
+    },
+    "6da04a49": {
+      "src": "The Three Sisters — a complete nutritional system",
+      "t": "Las Tres Hermanas: un sistema nutricional completo"
+    },
+    "e4d1488b": {
+      "src": "The Three Sisters, seeds, peppers, cacao",
+      "t": "Las Tres Hermanas, semillas, chiles, cacao"
+    },
+    "607d2e64": {
+      "src": "The ancient Egyptian diet — worker and noble alike",
+      "t": "La dieta del antiguo Egipto, de trabajadores y nobles por igual"
+    },
+    "9d07fc0b": {
+      "src": "The ancient Egyptian record is particularly well-preserved. Medical papyri dating to 1550 BCE — including the Ebers Papyrus, one of the oldest medical documents ever discovered — document the use of over 700 plant-based remedies and foods.",
+      "t": "El registro del antiguo Egipto está especialmente bien conservado. Los papiros médicos de hacia el 1550 a. C., entre ellos el papiro Ebers, uno de los documentos médicos más antiguos que se han descubierto, documentan el uso de más de 700 remedios y alimentos de origen vegetal."
+    },
+    "42937014": {
+      "src": "The ancient archive is not a museum piece. It is an active instruction manual — one that modern nutritional science is systematically validating, one study at a time.",
+      "t": "El archivo antiguo no es una pieza de museo. Es un manual de instrucciones vivo, que la ciencia nutricional moderna está validando de forma sistemática, estudio a estudio."
+    },
+    "94626bb8": {
+      "src": "The ancient archive.",
+      "t": "El archivo antiguo."
+    },
+    "0c7c9383": {
+      "src": "The archaeological record",
+      "t": "El registro arqueológico"
+    },
+    "8cc0af08": {
+      "src": "The archive is open.",
+      "t": "El archivo está abierto."
+    },
+    "1665f14b": {
+      "src": "The continent where",
+      "t": "El continente donde"
+    },
+    "2061d392": {
+      "src": "The convergence is not coincidence. It is the signature of what the human body actually requires.",
+      "t": "Esa convergencia no es casualidad. Es la firma de lo que el cuerpo humano necesita realmente."
+    },
+    "927ad338": {
+      "src": "The disruption was always external. The food was always the answer.",
+      "t": "La alteración siempre vino de fuera. La comida siempre fue la respuesta."
+    },
+    "8cc587a0": {
+      "src": "The documented Chinese diet across historical periods centred on",
+      "t": "La dieta china documentada a lo largo de la historia se centraba en"
+    },
+    "00d60b49": {
+      "src": "The findings are consistent across cultures that had no contact with each other, across continents separated by oceans, and across time periods spanning tens of thousands of years.",
+      "t": "Los hallazgos son coherentes en culturas que no tuvieron contacto entre sí, en continentes separados por océanos y en periodos que abarcan decenas de miles de años."
+    },
+    "de17e4e0": {
+      "src": "The food still grows.",
+      "t": "La comida sigue creciendo."
+    },
+    "a12076f6": {
+      "src": "The foods that sustained",
+      "t": "Los alimentos que sostuvieron"
+    },
+    "076b5470": {
+      "src": "The great convergence",
+      "t": "La gran convergencia"
+    },
+    "57b30f0d": {
+      "src": "The great kingdoms’ food traditions",
+      "t": "Las tradiciones alimentarias de los grandes reinos"
+    },
+    "e0a00682": {
+      "src": "The instruction was always",
+      "t": "Las instrucciones siempre estuvieron"
+    },
+    "ff80c361": {
+      "src": "The knowledge is yours. It always was.",
+      "t": "El conocimiento es tuyo. Siempre lo fue."
+    },
+    "e9dee19f": {
+      "src": "The most documented ancient food-medicine archive in history",
+      "t": "El archivo antiguo de medicina alimentaria más documentado de la historia"
+    },
+    "11e3d2b6": {
+      "src": "The most documented example is the",
+      "t": "El ejemplo más documentado son las"
+    },
+    "c1729250": {
+      "src": "The most remarkable finding from the ancient archive is not any single food or tradition. It is the convergence. Cultures with no contact with each other, separated by oceans and millennia, independently arrived at nutritional patterns with extraordinary similarities.",
+      "t": "El hallazgo más notable del archivo antiguo no es un alimento ni una tradición en concreto. Es la convergencia. Culturas sin contacto entre sí, separadas por océanos y milenios, llegaron por su cuenta a patrones nutricionales extraordinariamente parecidos."
+    },
+    "51e616b7": {
+      "src": "The roots of Caribbean cuisine. The foods that crossed the Atlantic and became the foundation of Jamaican cooking.",
+      "t": "Las raíces de la cocina caribeña. Los alimentos que cruzaron el Atlántico y se convirtieron en la base de la cocina jamaicana."
+    },
+    "952f3663": {
+      "src": "The same foods.",
+      "t": "Los mismos alimentos."
+    },
+    "2a54c4ce": {
+      "src": "They were prescribing.",
+      "t": "Estaban recetando."
+    },
+    "b58f024f": {
+      "src": "This convergence is the strongest possible evidence that these patterns are not cultural preference — they are biological truth.",
+      "t": "Esta convergencia es la prueba más sólida posible de que estos patrones no son una preferencia cultural: son una verdad biológica."
+    },
+    "7fd93f0f": {
+      "src": "This principle — that food knowledge precedes medical knowledge — is the exact foundation of the Kwik Fat Cut education-first approach, documented 2,300 years ago.",
+      "t": "Este principio, que el saber sobre la comida va antes que el saber médico, es exactamente la base del enfoque de Kwik Fat Cut de poner la educación primero, documentado hace 2.300 años."
+    },
+    "ddc907e2": {
+      "src": "Three Sisters",
+      "t": "Tres Hermanas"
+    },
+    "bc8b7389": {
+      "src": "Tofu",
+      "t": "Tofu"
+    },
+    "acdf5e31": {
+      "src": "Tomb paintings at Saqqara, Luxor, and the Valley of the Kings document food production and consumption in extraordinary detail. Workers building the Great Pyramid were fed a documented daily ration of",
+      "t": "Las pinturas de las tumbas de Saqqara, Luxor y el Valle de los Reyes documentan con un detalle extraordinario la producción y el consumo de alimentos. Los trabajadores que construyeron la Gran Pirámide recibían una ración diaria documentada de"
+    },
+    "2fbe846f": {
+      "src": "Tropical provisions, leafy greens, legumes, sea",
+      "t": "Víveres tropicales, verduras de hoja, legumbres, el mar"
+    },
+    "0c18d339": {
+      "src": "Tubers, seafood, tropical fruits, native herbs",
+      "t": "Tubérculos, pescados y mariscos, frutas tropicales, hierbas nativas"
+    },
+    "106b2d64": {
+      "src": "Turmeric",
+      "t": "Cúrcuma"
+    },
+    "8b6d250c": {
+      "src": "West Africa — Ancient kingdoms of Mali, Songhai, and Benin — Documented through oral griots, Portuguese colonial records, and archaeological sites",
+      "t": "África Occidental · Antiguos reinos de Malí, Songhai y Benín · Documentado por los griots, los registros coloniales portugueses y los yacimientos arqueológicos"
+    },
+    "376987bb": {
+      "src": "West African Food Traditions",
+      "t": "Tradiciones alimentarias de África Occidental"
+    },
+    "04288587": {
+      "src": "What bones, seeds, and",
+      "t": "Lo que nos dicen los huesos, las semillas y"
+    },
+    "1d4c87fe": {
+      "src": "What indigenous peoples",
+      "t": "Lo que los pueblos indígenas"
+    },
+    "8203a7ee": {
+      "src": "What the Archives Teach Us Now",
+      "t": "Lo que nos enseñan hoy los archivos"
+    },
+    "2d66282e": {
+      "src": "What the archives teach us now",
+      "t": "Lo que nos enseñan hoy los archivos"
+    },
+    "29b2801d": {
+      "src": "Where agriculture",
+      "t": "Donde la agricultura"
+    },
+    "3950ba4d": {
+      "src": "Why this matters",
+      "t": "Por qué importa"
+    },
+    "f361685d": {
+      "src": "Years",
+      "t": "años"
+    },
+    "268fbef2": {
+      "src": "actually ate.",
+      "t": "comían realmente."
+    },
+    "d734851a": {
+      "src": "amaranth, chia seeds, cacao, chilli peppers, tomatoes, avocados, sweet potatoes, and various medicinal herbs",
+      "t": "el amaranto, las semillas de chía, el cacao, los chiles, los tomates, los aguacates, las batatas y distintas hierbas medicinales"
+    },
+    "bc957eca": {
+      "src": "ancient refuse tell us.",
+      "t": "los desechos antiguos."
+    },
+    "436485f4": {
+      "src": "and medicine first met.",
+      "t": "y la medicina se encontraron por primera vez."
+    },
+    "63e4491b": {
+      "src": "are not lost. They still grow. They still nourish. They are simply being ignored — replaced by products that have existed for 150 years and have produced a global chronic disease crisis. The archive is the instruction manual.",
+      "t": "no se han perdido. Siguen creciendo. Siguen nutriendo. Simplemente se están ignorando, sustituidos por productos que existen desde hace 150 años y que han provocado una crisis mundial de enfermedades crónicas. El archivo es el manual de instrucciones."
+    },
+    "e0f52fa0": {
+      "src": "are the foundational texts of Ayurvedic medicine. Together they document a nutritional system of extraordinary completeness — categorising foods by their effects on digestion, constitution, season, and disease state.",
+      "t": "son los textos fundacionales de la medicina ayurvédica. Juntos documentan un sistema nutricional de una completitud extraordinaria, que clasifica los alimentos según sus efectos en la digestión, la constitución, la estación y el estado de enfermedad."
+    },
+    "99f2ec98": {
+      "src": "bread, beer (a fermented grain drink rich in B vitamins), onions, garlic, and radishes",
+      "t": "pan, cerveza (una bebida de cereal fermentado rica en vitaminas del grupo B), cebollas, ajos y rábanos"
+    },
+    "bd745337": {
+      "src": "emerged, and where the original human diet was shaped. Archaeological evidence from sites across East Africa, dating back 300,000 years, shows early humans consuming a diverse range of plant foods — tubers, fruits, seeds, and legumes — supplemented by occasional animal protein from hunting and fishing.",
+      "t": "y donde se formó la dieta humana original. La evidencia arqueológica de yacimientos de toda África Oriental, con una antigüedad de 300.000 años, muestra a los primeros humanos consumiendo una amplia variedad de alimentos vegetales (tubérculos, frutas, semillas y legumbres) complementados con proteína animal ocasional de la caza y la pesca."
+    },
+    "97a37d2b": {
+      "src": "fix nitrogen in the soil and provide the plant protein and amino acids that maize lacks — together they form a complete protein.",
+      "t": "fija nitrógeno en el suelo y aporta la proteína vegetal y los aminoácidos que le faltan al maíz: juntos forman una proteína completa."
+    },
+    "c273e560": {
+      "src": "for thousands of years.",
+      "t": "durante miles de años."
+    },
+    "353333e5": {
+      "src": "here. We stopped reading it.",
+      "t": "aquí. Dejamos de leerlas."
+    },
+    "3be794af": {
+      "src": "human nutrition began.",
+      "t": "empezó la nutrición humana."
+    },
+    "1fed7727": {
+      "src": "hundreds of recipes based on olive oil, whole grains, legumes, aromatic herbs, citrus, and almonds",
+      "t": "cientos de recetas a base de aceite de oliva, cereales integrales, legumbres, hierbas aromáticas, cítricos y almendras"
+    },
+    "4f8b714f": {
+      "src": "is available today.",
+      "t": "está disponible hoy."
+    },
+    "6992e99c": {
+      "src": "millet, sorghum, black-eyed peas, moringa leaves, baobab fruit, tamarind, and sesame",
+      "t": "el mijo, el sorgo, los frijoles de ojo negro, las hojas de moringa, el fruto del baobab, el tamarindo y el sésamo"
+    },
+    "fc338a5e": {
+      "src": "of documented nutritional wisdom.",
+      "t": "de sabiduría nutricional documentada."
+    },
+    "6d07c3b9": {
+      "src": "provides complex carbohydrates and calories.",
+      "t": "aporta carbohidratos complejos y calorías."
+    },
+    "81ce8eea": {
+      "src": "rice, millet, soybeans, tofu, seaweed, mushrooms, green tea, ginger, and an extraordinary diversity of vegetables and herbs",
+      "t": "el arroz, el mijo, la soya, el tofu, las algas, las setas, el té verde, el jengibre y una diversidad extraordinaria de verduras y hierbas"
+    },
+    "25604bba": {
+      "src": "series.",
+      "t": "serie."
+    },
+    "5f8da11e": {
+      "src": "shades the ground, retaining moisture and suppressing weeds, while providing vitamins A and C. Grown together, they also support each other structurally. This is companion planting and nutritional balance simultaneously.",
+      "t": "da sombra al suelo, retiene la humedad y frena las malas hierbas, y además aporta vitaminas A y C. Cultivadas juntas, las tres también se sostienen físicamente entre sí. Es a la vez cultivo asociado y equilibrio nutricional."
+    },
+    "6c573505": {
+      "src": "that indigenous cultures documented centuries and millennia ago.",
+      "t": "que las culturas indígenas documentaron hace siglos y milenios."
+    },
+    "820fabdf": {
+      "src": "the most sophisticated food system ever designed.",
+      "t": "el sistema alimentario más sofisticado jamás diseñado."
+    },
+    "d8080c13": {
+      "src": "was documented as both food and medicine — its charantin content, now studied for blood sugar regulation, was understood by Benin healers centuries before the chemistry was named.",
+      "t": "estaba documentada como alimento y como medicina: su contenido de charantina, hoy estudiado por su papel en la regulación del azúcar en sangre, ya lo entendían los sanadores de Benín siglos antes de que se le pusiera nombre a la química."
+    },
+    "f15329cb": {
+      "src": "wheat, barley, lentils, chickpeas, bitter vetch, flax, and emmer.",
+      "t": "el trigo, la cebada, las lentejas, los garbanzos, la algarroba, el lino y el trigo emmer."
+    },
+    "59cd7ccf": {
+      "src": "whose diet was overwhelmingly plant-based.",
+      "t": ", cuya dieta era abrumadoramente vegetal."
+    },
+    "2b9785b1": {
+      "src": "yao shi tong yuan",
+      "t": "yao shi tong yuan"
+    },
+    "d686e8ec": {
+      "src": "~0g",
+      "t": "~0 g"
+    },
+    "e4b3535f": {
+      "src": "— every ancient food culture was communal. Food was grown, prepared, and eaten collectively. The loneliness of modern individualised eating — alone in front of a screen with processed convenience food — is not just socially impoverished. It is physiologically damaging, documented in cortisol levels, gut health, and mortality risk.",
+      "t": ": todas las culturas alimentarias antiguas eran comunitarias. La comida se cultivaba, se preparaba y se comía en grupo. La soledad de la alimentación moderna e individual, solo frente a una pantalla con comida procesada y rápida, no es solo un empobrecimiento social. Es fisiológicamente dañina, según documentan los niveles de cortisol, la salud intestinal y el riesgo de mortalidad."
+    },
+    "e40f4a50": {
+      "src": "— exactly what 200+ plant species per year provides. Modern dietary guidelines recommending 30 different plant foods per week are catching up to what indigenous diets always delivered.",
+      "t": ": justo lo que aportan más de 200 especies vegetales al año. Las pautas alimentarias modernas que recomiendan 30 alimentos vegetales distintos por semana se están poniendo al día con lo que las dietas indígenas siempre dieron."
+    },
+    "e8a452c0": {
+      "src": "— recorded in accounts from the pyramid builders’ village at Giza.",
+      "t": ", según los registros de la aldea de los constructores de pirámides en Guiza."
+    },
+    "24663039": {
+      "src": "— the gut-brain axis science that emerged in 2010–2020 explains why every ancient food culture independently developed fermentation: kefir in Central Asia, kimchi in Korea, injera in Ethiopia, fermented cassava in West Africa, pickled vegetables across the Mediterranean. They knew the outcome. Now we know the mechanism.",
+      "t": ": la ciencia del eje intestino-cerebro que surgió entre 2010 y 2020 explica por qué todas las culturas alimentarias antiguas desarrollaron por su cuenta la fermentación: el kéfir en Asia Central, el kimchi en Corea, la injera en Etiopía, la yuca fermentada en África Occidental, las verduras encurtidas en el Mediterráneo. Conocían el resultado. Ahora conocemos el mecanismo."
+    },
+    "5b4ca273": {
+      "src": "— the hormonal and metabolic rhythms of the human body shift across seasons, calibrated over hundreds of thousands of years to the seasonal availability of different foods. Eating out of season, year-round, disrupts these rhythms. Indigenous seasonal eating was physiological synchronisation.",
+      "t": ": los ritmos hormonales y metabólicos del cuerpo humano cambian con las estaciones, calibrados durante cientos de miles de años según la disponibilidad de cada alimento en cada época. Comer fuera de temporada, todo el año, altera esos ritmos. La alimentación indígena de temporada era una sincronización fisiológica."
+    },
+    "3386c594": {
+      "src": "— the intercropped cultivation of maize, beans, and squash practised by Indigenous peoples across the Americas for at least 5,000 years. This system was not merely agricultural convenience. It was a complete nutritional strategy.",
+      "t": ": el cultivo asociado de maíz, frijol y calabaza que practicaron los pueblos indígenas de toda América durante al menos 5.000 años. Este sistema no era una simple comodidad agrícola. Era una estrategia nutricional completa."
+    },
+    "d8815bf3": {
+      "src": "— turmeric, ginger, garlic, cumin, coriander, allspice, scotch bonnet. Every ancient culture seasoned food with compounds that are now confirmed anti-inflammatory agents, antimicrobials, and metabolic regulators. They were not seasoning for flavour alone.",
+      "t": ": cúrcuma, jengibre, ajo, comino, cilantro, pimienta de Jamaica, ají scotch bonnet. Todas las culturas antiguas condimentaban la comida con compuestos que hoy se confirman como antiinflamatorios, antimicrobianos y reguladores metabólicos. No condimentaban solo por el sabor."
+    },
+    "67624848": {
+      "src": "“The archaeological record does not show a struggle for nutrition. It shows populations that were lean, strong-boned, and largely free of chronic disease — until their food supply was disrupted.",
+      "t": "“El registro arqueológico no muestra una lucha por la nutrición. Muestra poblaciones delgadas, de huesos fuertes y en gran parte libres de enfermedades crónicas, hasta que se alteró su suministro de alimentos."
+    },
+    "d556c838": {
+      "src": "“The physician who does not know the properties of food cannot know the properties of medicine.”",
+      "t": "“El médico que no conoce las propiedades de la comida no puede conocer las propiedades de la medicina.”"
+    },
+    "f39440af": {
+      "src": "🌊 Oceania",
+      "t": "🌊 Oceanía"
+    },
+    "d9f12eb0": {
+      "src": "🌍 Africa",
+      "t": "🌍 África"
+    },
+    "6aabd721": {
+      "src": "🌎 The Americas",
+      "t": "🌎 América"
+    },
+    "afd0dd52": {
+      "src": "🌏 Asia",
+      "t": "🌏 Asia"
+    },
+    "6fee7b13": {
+      "src": "🌐 Middle East",
+      "t": "🌐 Oriente Medio"
+    },
+    "2d3a3b72": {
+      "src": "🌴 Caribbean & Jamaica",
+      "t": "🌴 El Caribe y Jamaica"
+    },
+    "309385e0": {
+      "src": "📜 Return to Real Food Series — Part 1 — Ancient Archive",
+      "t": "📜 Serie Volver a la Comida Real, Parte 1, El Archivo Antiguo"
+    }
+  }
+}

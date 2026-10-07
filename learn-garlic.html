@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="description" content="Garlic — valued for thousands of years across Egypt, Greece, Rome, China, India, and the Caribbean. Natural immune booster, blood pressure reducer, and cholesterol-lowering agent. Ancient medicine confirmed by modern science.">
+<meta name="description" content="Garlic has a long history in kitchens and in traditional medicine, and modern research suggests a small benefit for blood pressure and cholesterol.">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Garlic — Ancient Medicine, Modern Science — Kwik Fat Cut</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="icon" href="favicon.svg" type="image/svg+xml">
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png"><link rel="icon" href="favicon-512.png" sizes="512x512" type="image/png"><link rel="apple-touch-icon" href="favicon-180.png">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&amp;family=Montserrat:ital,wght@0,300;0,400;0,500;1,300;1,400&amp;family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400&amp;display=swap" rel="stylesheet">
 <style>
   .nav-links a.active{color:var(--gold);}
   .page-header::before{content:'';position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse 55% 60% at 72% 35%,rgba(218,165,32,0.08) 0%,transparent 62%),radial-gradient(ellipse 40% 45% at 10% 78%,rgba(46,107,62,0.05) 0%,transparent 55%);}
@@ -35,8 +35,6 @@
   .sidebar-quote{margin-top:2.5rem;border-left:2px solid var(--gold);padding:1.2rem;background:var(--g08);}
   .sidebar-quote p{font-size:0.8rem;line-height:1.75;color:var(--c60);font-style:italic;}
   .sidebar-quote strong{font-style:normal;color:var(--cream);font-weight:400;}
-  .sidebar-logo{margin-top:2rem;text-align:center;}
-  .sidebar-logo img{width:120px;height:auto;opacity:0.85;}
   .article-body{display:flex;flex-direction:column;gap:0;}
   .article-section{padding:3.2rem 0;border-bottom:1px solid var(--c10);}
   .article-section:first-child{padding-top:0;}
@@ -44,7 +42,7 @@
   .section-label{font-size:0.64rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:0.8rem;}
   .section-label.green{color:var(--green);}
   .section-label.gold{color:var(--gold);}
-  .article-section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.6rem,2.8vw,2.5rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.5rem;}
+  .article-section h2{font-family:'Montserrat',sans-serif;font-size-adjust:0.40;font-size:clamp(1.6rem,2.8vw,2.5rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.5rem;}
   .article-section h2 em{font-style:italic;color:var(--gold);}
   .article-section p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1.2rem;}
   .article-section p strong{color:var(--cream);font-weight:400;}
@@ -64,7 +62,6 @@
   .ben-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;margin-top:0.55rem;}
   .ben-dot.gold{background:var(--gold);}
   .ben-dot.green{background:var(--green);}
-  .ben-dot.red{background:var(--red);}
   .ben-item p{font-size:0.9rem;line-height:1.8;color:var(--c60);}
   .ben-item p strong{color:var(--cream);font-weight:400;}
   .types-grid{display:grid;grid-template-columns:1fr 1fr;gap:2px;margin:2rem 0;}
@@ -73,7 +70,7 @@
   .type-card p{font-size:0.86rem;line-height:1.8;color:var(--c60);}
   .type-card p strong{color:var(--cream);font-weight:400;}
   .article-close{padding:4rem 0 2rem;}
-  .article-close h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.2rem;}
+  .article-close h2{font-family:'Montserrat',sans-serif;font-size-adjust:0.40;font-size:clamp(1.8rem,3.5vw,3rem);font-weight:300;line-height:1.15;color:var(--cream);margin-bottom:1.2rem;}
   .article-close h2 em{font-style:italic;color:var(--gold);}
   .article-close p{font-size:0.97rem;line-height:1.95;color:var(--c60);margin-bottom:1rem;}
   .article-close p strong{color:var(--cream);font-weight:400;}
@@ -85,7 +82,7 @@
   .ss-headline em{font-style:italic;color:var(--gold);}
   .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
   .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
-  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'DM Sans',sans-serif;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'Source Sans Pro',sans-serif;}
   .ss-btn.share{background:var(--gold);color:var(--bg);}
   .ss-btn.share:hover{background:var(--cream);}
   .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
@@ -108,14 +105,19 @@
   @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
   @media(max-width:960px){.article-wrap{grid-template-columns:1fr;gap:3rem;}.sidebar{position:static;}.civilisation-grid,.types-grid{grid-template-columns:1fr;}.cta-strip{flex-direction:column;align-items:flex-start;}}
 </style>
-<link rel="stylesheet" href="kfc.css">
+<!-- KWIK:SCHEMA START -->
+<script type="application/ld+json">{"@context":"https://schema.org","@type":["Organization","NGO"],"name":"Kwik Fat Cut","alternateName":"Kwik Fat Cut Health Education","url":"https://kwikfatcut.com/","logo":"https://kwikfatcut.com/favicon-512.png","email":"kwik@kwikfatcut.com","slogan":"Education before intervention","description":"A free health education platform for the Caribbean and its diaspora, grounded in ancestral food knowledge. No subscriptions, no products, no paywall.","foundingDate":"2014-01-01","areaServed":"Worldwide","knowsAbout":["Caribbean health education","Jamaican food traditions","nutrition education","ancestral food knowledge","whole food nutrition"],"address":{"@type":"PostalAddress","addressLocality":"Kingston","addressCountry":"JM"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Garlic","description":"Garlic has a long history in kitchens and in traditional medicine, and modern research suggests a small benefit for blood pressure and cholesterol.","url":"https://kwikfatcut.com/learn-garlic.html","inLanguage":"en-GB","isAccessibleForFree":true,"author":{"@type":"Organization","name":"Kwik Fat Cut"},"publisher":{"@type":"Organization","name":"Kwik Fat Cut","logo":{"@type":"ImageObject","url":"https://kwikfatcut.com/favicon-512.png"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://kwikfatcut.com/learn-garlic.html"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://kwikfatcut.com/"},{"@type":"ListItem","position":2,"name":"Learn","item":"https://kwikfatcut.com/learn.html"},{"@type":"ListItem","position":3,"name":"Garlic"}]}</script>
+<!-- KWIK:SCHEMA END -->
+<link rel="stylesheet" href="kwik-fat-cut.min.css?v=e0d5133c">
 <link rel="canonical" href="https://kwikfatcut.com/learn-garlic.html">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
-<nav class="site-nav">
-  <a href="index.html" class="logo">
-    <svg class="logo-shield logo-shield--night" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#8E2F0A" stroke="#DAA520" stroke-width="1.6"/><circle cx="16" cy="19" r="5.6" fill="#1A0E08" opacity="0.5"/><circle cx="13.8" cy="17.2" r="4.4" fill="#8E2F0A"/></svg><svg class="logo-shield logo-shield--day" viewBox="0 0 32 40" aria-hidden="true" focusable="false"><path d="M16 1 2 6v16c0 8 6 14 14 17 8-3 14-9 14-17V6z" fill="#DAA520" stroke="#2E6B3E" stroke-width="1.6"/><circle cx="16" cy="19" r="4.4" fill="#1A0E08" opacity="0.26"/><g stroke="#1A0E08" stroke-width="1.5" stroke-linecap="round" opacity="0.45"><path d="M16 11v2.4M16 24.6v2.4M9 19h2.4M20.6 19H23"/><path d="m11.2 14.2 1.7 1.7M19.1 22.1l1.7 1.7M20.8 14.2l-1.7 1.7M12.9 22.1l-1.7 1.7"/></g></svg>
+<nav class="site-nav" aria-label="Main">
+  <a href="index.html" class="logo" aria-label="Kwik Fat Cut home">
+    <img class="logo-shield" src="data:image/webp;base64,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" alt="" width="57" height="64" decoding="async">
     <span>Kwik <em>Fat Cut</em></span>
   </a>
   <div class="nav-right">
@@ -128,24 +130,23 @@
     <a href="about.html">About</a>
     <a href="why-free.html">Why Free</a>
     <a href="our-roots.html">Our Roots</a>
-    <a href="foods-hub.html">Foods Hub</a>
     <a href="learn.html">Learn</a>
-    <a href="team.html">Team</a>
-    <a href="support.html" class="nav-btn">Donate</a>
+    <a href="support.html" class="nav-btn nav-btn--support">Support</a>
+    <a href="foods-hub.html" class="nav-btn">Begin Free</a>
   </div>
 </nav>
 <main id="main">
 
 
 <header class="page-header">
-  <p class="breadcrumb"><a href="kwik-fat-cut-homepage.html">Home</a><span>&middot;</span><a href="foods-hub.html">Foods Hub</a><span>&middot;</span>Garlic</p>
+  <p class="breadcrumb"><a href="index.html">Home</a><span>&middot;</span><a href="foods-hub.html">Foods Hub</a><span>&middot;</span>Garlic</p>
   <span class="article-tag">🧄 Ancient Medicine &mdash; Modern Science</span>
   <h1>Garlic.<br><em>Humble root.<br>Powerful history.</em></h1>
   <p class="lede">Egypt. Greece. Rome. China. India. Five great civilisations across thousands of years, independently discovering the same truth about a small bulbous plant that grows from the earth. This is not a health trend. This is the most documented medicinal food in human history.</p>
   <div class="article-meta">
     <div class="meta-item">Category <strong>Plants as Medicine</strong></div>
     <div class="meta-item">Reading time <strong>8 min</strong></div>
-    <div class="meta-item">History <strong>5,000+ years documented use</strong></div>
+    <div class="meta-item">History <strong>thousands of years of use</strong></div>
   </div>
 </header>
 
@@ -163,10 +164,7 @@
       <a href="#community">Community health</a>
     </nav>
     <div class="sidebar-quote">
-      <p>&ldquo;Garlic is a natural immune booster, a blood pressure reducer, and a cholesterol-lowering agent. <strong>Its long history and potential make it a humble yet powerful food for health.</strong>&rdquo;</p>
-    </div>
-    <div class="sidebar-logo">
-      <img src="kwik-logo.jpeg" alt="Kwik Fat Cut" loading="eager" fetchpriority="high" decoding="async">
+      <p>&ldquo;Garlic may modestly support blood pressure and cholesterol, and it has been valued in kitchens and in medicine for thousands of years. <strong>Its long history and its promise make it a humble and worthwhile food.</strong>&rdquo;</p>
     </div>
   </aside>
 
@@ -182,7 +180,7 @@
         <div class="civ-card reveal">
           <div class="civ-period">Ancient Egypt</div>
           <div class="civ-name">The Builder&rsquo;s Food</div>
-          <p>Workers building the pyramids were given daily garlic rations to maintain strength and ward off illness. Egyptian medical papyri document 22 separate formulas using garlic for conditions ranging from heart disease to headaches and tumours. <strong>It was both food and pharmacy.</strong></p>
+          <p>Garlic appears in the Ebers Papyrus, an Egyptian medical text from around 1550 BC, among the remedies recorded for a range of complaints. Tradition holds that the labourers building the pyramids were given garlic to keep up their strength, though that reaches us as a long standing story rather than as a documented record. <strong>It was both food and pharmacy.</strong></p>
         </div>
         <div class="civ-card reveal">
           <div class="civ-period">Ancient Greece</div>
@@ -192,7 +190,7 @@
         <div class="civ-card reveal">
           <div class="civ-period">Ancient Rome</div>
           <div class="civ-name">The Soldier&rsquo;s Companion</div>
-          <p>Roman soldiers were given garlic daily for courage and infection prevention. Dioscorides, the Roman army physician, documented garlic&rsquo;s use for clearing arteries, treating bites, and supporting respiratory health. <strong>It travelled with every Roman legion.</strong></p>
+          <p>Garlic was eaten by Roman soldiers and sailors, who valued it for strength and endurance on campaign. Dioscorides, a Greek physician who served with the Roman army, wrote that garlic cleans the arteries, and recorded its use for bites and for the chest. Ancient writers did not mean by that what a doctor would mean today. <strong>These accounts show how highly garlic has been valued for a very long time. They are not evidence of what it does in the body.</strong></p>
         </div>
         <div class="civ-card reveal">
           <div class="civ-period">Traditional Chinese Medicine</div>
@@ -234,9 +232,9 @@
 
     <div class="article-section reveal" id="immune">
       <p class="section-label green">Immune Support</p>
-      <h2>A natural<br><em>immune booster.</em></h2>
+      <h2>Garlic and<br><em>the immune system.</em></h2>
       <p>Garlic&rsquo;s immune-boosting properties are primarily driven by <strong>allicin</strong> &mdash; a sulphur compound released when garlic is crushed or chopped. Allicin has documented antimicrobial activity against bacteria, viruses, and fungi, including strains resistant to conventional antibiotics.</p>
-      <p>Clinical studies have shown that regular garlic consumption can <strong>reduce the frequency and duration of common colds</strong> by up to 63%. It stimulates the activity of immune cells including natural killer cells and macrophages &mdash; the body&rsquo;s first-response defenders.</p>
+      <p>One small clinical trial, 146 adults over 12 weeks, found that people taking a daily garlic supplement reported fewer colds than people taking a dummy capsule. That is a single study, and its author was affiliated with a commercial garlic organisation. <strong>The Cochrane review of garlic for the common cold looked at all the available research and concluded there is not enough evidence to say whether garlic prevents or treats colds.</strong> In that same trial, once a cold had started it took about as long to clear in both groups. Garlic is a good food to eat every day. It is not a proven cold remedy.</p>
       <div class="benefits-list">
         <div class="ben-item reveal">
           <div class="ben-dot green"></div>
@@ -260,27 +258,49 @@
     <div class="article-section reveal" id="blood">
       <p class="section-label">Cardiovascular Health</p>
       <h2>Blood pressure &amp;<br><em>the heart.</em></h2>
-      <p>Garlic is one of the most studied natural blood pressure reducers. Multiple clinical trials have demonstrated that garlic supplementation produces modest but significant reductions in both systolic and diastolic blood pressure &mdash; <strong>comparable in some studies to standard pharmaceutical interventions</strong>, without the side effects.</p>
+      <p>Garlic is among the better studied foods for blood pressure. When researchers pool the randomised trials, garlic supplements lower systolic blood pressure by roughly 5 to 8 mmHg on average in people whose blood pressure is already raised, with a smaller effect on diastolic pressure. That is a real but modest change, the trials are small, and the researchers who run these analyses say larger and better designed studies are still needed. <strong>Garlic has not been shown to prevent heart attacks or strokes, which is what blood pressure medication is prescribed to do</strong>, so it is an addition to good care and not a replacement for it.</p>
       <p>The mechanism involves garlic&rsquo;s ability to <strong>increase nitric oxide production</strong> in blood vessel walls. Nitric oxide relaxes the smooth muscle lining of arteries, widening the vessels and reducing resistance &mdash; the same fundamental mechanism targeted by many blood pressure medications.</p>
     </div>
 
     <div class="article-section reveal" id="cholesterol">
       <p class="section-label">Cholesterol</p>
       <h2>A cholesterol-<br><em>lowering agent.</em></h2>
-      <p>Garlic has been shown in multiple studies to modestly reduce total cholesterol and LDL (&ldquo;bad&rdquo;) cholesterol while maintaining or slightly increasing HDL (&ldquo;good&rdquo;) cholesterol. <strong>The effect is greatest in people with elevated baseline cholesterol.</strong></p>
-      <p>The active mechanism appears to involve garlic&rsquo;s ability to <strong>inhibit HMG-CoA reductase</strong> &mdash; the same liver enzyme targeted by statin medications &mdash; though through a gentler, natural pathway. Daily consumption of raw or lightly cooked garlic is associated with improved lipid profiles in observational studies across multiple populations.</p>
+      <p>Garlic supplements may lower total and LDL (&ldquo;bad&rdquo;) cholesterol by a small amount in people whose cholesterol is already raised. Pooled trial evidence found falls of roughly 17 mg/dL in total cholesterol and 9 mg/dL in LDL after more than two months of use, with HDL (&ldquo;good&rdquo;) cholesterol barely moving. <strong>The evidence is not consistent.</strong> A carefully run six month trial at Stanford gave 192 adults raw garlic, a powdered supplement or an aged garlic extract, and found no effect on LDL cholesterol at all.</p>
+
+      <div class="warning-block reveal" id="kwik-med-warning">
+  <p class="wb-label">Before you take garlic supplements</p>
+  <p>Garlic supplements are not a replacement for prescribed medication, and they are not free of side effects. They can cause breath and body odour, stomach pain, wind, nausea and allergic reactions, and they can increase the risk of bleeding. <strong>If you take warfarin or another blood thinner, aspirin, medication for blood pressure or cholesterol, or HIV medication, or if you are due to have surgery, speak to your doctor or pharmacist before taking garlic supplements.</strong> Never stop or reduce a prescribed medication in favour of a food or a supplement. Garlic in cooking, in normal amounts, is a different matter and is fine for most people.</p>
+</div>
+      <p>How garlic might affect cholesterol is still not settled. Animal feeding studies have reported changes in several of the enzymes the body uses to make cholesterol, and laboratory work on human liver cells points mainly to an enzyme called squalene monooxygenase rather than to HMG-CoA reductase, the enzyme that statin medicines block. <strong>None of this has been confirmed in people, so garlic should not be described as working like a statin.</strong></p>
     </div>
 
     <div class="article-section reveal" id="community">
       <p class="section-label gold">The Bigger Picture</p>
       <h2>Community health<br><em>through education.</em></h2>
-      <p>This overview highlights garlic&rsquo;s role in community health through education and collective effort. <strong>Future research will continue to reveal more benefits</strong> &mdash; but the evidence already accumulated across 5,000 years of documented use and decades of modern clinical research is more than sufficient to make garlic a daily staple.</p>
+      <p>This overview highlights garlic&rsquo;s role in community health through education and collective effort. <strong>Researchers are still studying garlic, and some questions remain open.</strong> What is already clear is that garlic is a flavourful, inexpensive food with a long history and a modest, well tolerated place in a healthy diet.</p>
       <p>Not a supplement. Not an extract. <strong>The whole clove, grown from the earth, prepared with care.</strong> Exactly as every civilisation that understood health has always recommended.</p>
     </div>
 
+    <!-- KWIK:SOURCES START -->
+    <div class="article-section kwik-sources reveal" id="sources">
+      <p class="section-label">Sources</p>
+      <h2>Where this<br><em>comes from.</em></h2>
+      <p>The health claims on this page were checked against the sources below. Where a claim could not be supported it was softened or removed rather than given a citation that did not fit. This page is general information about food, not medical advice, and no food prevents or treats disease.</p>
+      <ul class="src-list">
+        <li><a href="https://www.nccih.nih.gov/health/garlic" rel="noopener nofollow" target="_blank">NIH National Center for Complementary and Integrative Health, Garlic</a></li>
+        <li><a href="https://www.cochrane.org/evidence/CD006206_garlic-common-cold" rel="noopener nofollow" target="_blank">Cochrane Review, Garlic for the common cold</a></li>
+        <li><a href="https://link.springer.com/article/10.1186/1471-2261-8-13" rel="noopener nofollow" target="_blank">Ried K et al, Effect of garlic on blood pressure, a systematic review and meta-analysis</a></li>
+        <li><a href="https://pubmed.ncbi.nlm.nih.gov/25837272/" rel="noopener nofollow" target="_blank">Xiong XJ et al, Garlic for hypertension, a systematic review and meta-analysis</a></li>
+        <li><a href="https://pubmed.ncbi.nlm.nih.gov/17918162/" rel="noopener nofollow" target="_blank">Borrelli F et al, Garlic adverse effects and drug interactions in humans</a></li>
+        <li><a href="https://www.sciencedirect.com/science/article/pii/S0022316622137764" rel="noopener nofollow" target="_blank">Gupta N, Porter TD, Garlic compounds inhibit human squalene monooxygenase</a></li>
+        <li><a href="https://www.sciencedirect.com/science/article/pii/S0022316622147760" rel="noopener nofollow" target="_blank">Rivlin RS, Historical Perspective on the Use of Garlic</a></li>
+      </ul>
+    </div>
+<!-- KWIK:SOURCES END -->
+
     <div class="article-close reveal">
       <h2>Humble root.<br><em>Extraordinary legacy.</em></h2>
-      <p>Garlic is a natural immune booster, a blood pressure reducer, and a cholesterol-lowering agent. Its long history across Egypt, Greece, Rome, China, India, and the Caribbean makes it a humble yet powerful food for health. <strong>Crush it. Chop it. Let it rest for ten minutes before cooking</strong> to maximise allicin activation. Eat it daily. Understand what it is doing for you.</p>
+      <p>Garlic may modestly support blood pressure and cholesterol, and its long history across Egypt, Greece, Rome, China, India, and the Caribbean makes it a humble and worthwhile food. <strong>Crush it. Chop it. Let it rest for ten minutes before cooking</strong> to maximise allicin activation. Eat it often. Understand what it is doing for you, and what it is not.</p>
       <p class="sign">Kwik Fat Cut &mdash; Foods Hub &mdash; Plants as Medicine &mdash; Education First</p>
     </div>
 
@@ -298,20 +318,32 @@
     <a href="learn-blood-cleansing-herbs.html" class="btn-outline">Blood &amp; Herbs</a>
   </div>
 </div>
+
+  <!-- KWIK:GIVE START -->
+  <aside class="kwik-give reveal">
+    <p class="kwik-give-label">Keep this free</p>
+    <p class="kwik-give-body">
+      Kwik Fat Cut is a non-profit platform. Every article stays free to read,
+      with no paywall and no subscription. Donations are what pay for it.
+    </p>
+    <a class="kwik-give-btn" href="support.html">Support Kwik Fat Cut</a>
+  </aside>
+  <!-- KWIK:GIVE END -->
+
 <section class="social-strip reveal">
   <div class="ss-inner">
     <p class="ss-label">Spread the knowledge</p>
     <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
     <p class="ss-body">Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
     <div class="ss-actions">
-      <button class="ss-btn share" onclick="shareKFC()">Share this article</button>
-      <a href="https://kwikfatcut.com" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+      <button class="ss-btn share" onclick="shareKwikFatCut()">Share this article</button>
+      <a href="https://x.com/KwikFatCut" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
     </div>
     <div class="ss-socials">
-      <a href="#" class="ss-social-link">Twitter / X</a>
-      <a href="#" class="ss-social-link">Instagram</a>
-      <a href="#" class="ss-social-link">TikTok</a>
-      <a href="#" class="ss-social-link">Facebook</a>
+      <a href="https://x.com/KwikFatCut" class="ss-social-link" target="_blank" rel="noopener">X</a>
+      <span class="ss-social-link ss-social-soon" aria-disabled="true" title="Instagram: Coming Soon">Instagram <em>Coming Soon</em></span>
+      <span class="ss-social-link ss-social-soon" aria-disabled="true" title="TikTok: Coming Soon">TikTok <em>Coming Soon</em></span>
+      <span class="ss-social-link ss-social-soon" aria-disabled="true" title="Facebook: Coming Soon">Facebook <em>Coming Soon</em></span>
     </div>
     <p class="ss-note">Follow, like, share, comment. Tell a friend to tell a friend.</p>
   </div>
@@ -319,10 +351,13 @@
 </main>
 <footer>
   <div>
-    <a href="kwik-fat-cut-homepage.html" class="footer-logo">Kwik <em>Fat Cut</em></a>
+    <a href="index.html" class="footer-logo" aria-label="Kwik Fat Cut home">
+    <img class="logo-shield" src="data:image/webp;base64,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" alt="" width="57" height="64" decoding="async">
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
     <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
   </div>
-  <nav class="footer-nav">
+  <nav class="footer-nav" aria-label="Footer">
     <a href="about.html">About</a>
     <a href="why-free.html">Why Free</a>
     <a href="our-roots.html">Our Roots</a>
@@ -332,13 +367,19 @@
     <a href="support.html">Support</a>
     <a href="privacy.html">Privacy</a>
   </nav>
+  <div class="kwik-social" role="group" aria-label="Kwik Fat Cut on social media"><a class="kwik-social-item kwik-social--x" href="https://x.com/KwikFatCut" target="_blank" rel="noopener" aria-label="Kwik Fat Cut on X"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg><span>X</span></a><span class="kwik-social-item kwik-social--facebook is-soon" aria-disabled="true" title="Facebook: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M24 12.07C24 5.4 18.63 0 12 0S0 5.4 0 12.07C0 18.1 4.39 23.09 10.13 24v-8.44H7.08v-3.49h3.05V9.43c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.24 2.69.24v2.95h-1.52c-1.49 0-1.95.93-1.95 1.87v2.25h3.33l-.53 3.49h-2.8V24C19.61 23.09 24 18.1 24 12.07z"/></svg><span>Facebook</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--instagram is-soon" aria-disabled="true" title="Instagram: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg><span>Instagram</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--tiktok is-soon" aria-disabled="true" title="TikTok: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12.53.02C13.84 0 15.14.01 16.44 0c.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></svg><span>TikTok</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--youtube is-soon" aria-disabled="true" title="YouTube: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M23.5 6.19a3.02 3.02 0 0 0-2.12-2.14C19.5 3.55 12 3.55 12 3.55s-7.5 0-9.38.5A3.02 3.02 0 0 0 .5 6.19C0 8.07 0 12 0 12s0 3.93.5 5.81a3.02 3.02 0 0 0 2.12 2.14c1.87.5 9.38.5 9.38.5s7.5 0 9.38-.5a3.02 3.02 0 0 0 2.12-2.14C24 15.93 24 12 24 12s0-3.93-.5-5.81zM9.55 15.57V8.43L15.82 12l-6.27 3.57z"/></svg><span>YouTube</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--linkedin is-soon" aria-disabled="true" title="LinkedIn: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg><span>LinkedIn</span><em>Coming Soon</em></span></div>
   <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+  <div class="kwik-signoff">
+    <span class="kwik-triband" aria-hidden="true"><i></i><i></i><i></i></span>
+    <p class="kwik-signoff-text">A suh wi stay 🌿</p>
+  </div>
 </footer>
 <script>
-function shareKFC(){const url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 Garlic: Ancient Medicine, Modern Science',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
+function shareKwikFatCut(){const url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut \u2014 Garlic: Ancient Medicine, Modern Science',url}).catch(()=>copyURL(url));}else{copyURL(url);}}
 function copyURL(url){navigator.clipboard?.writeText(url).then(()=>{const b=document.querySelector('.ss-btn.share');if(b){const o=b.textContent;b.textContent='\u2713 Copied!';setTimeout(()=>b.textContent=o,2500);}});}
 </script>
-<script src="kfc.js" defer></script>
-<script src="kfc-i18n.js" defer></script>
+<script src="kwik-fat-cut.min.js?v=440122a6" defer></script>
+<script src="kwik-fat-cut-i18n.min.js?v=908ac25c" defer></script>
+<script src="kwik-fat-cut-chat.min.js?v=cf5afac1" defer></script>
 </body>
 </html>

@@ -1,0 +1,719 @@
+{
+  "_note": "Page content for learn-food-community.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "df585729": {
+      "src": "(2013), documented that the decline of home cooking in America precisely tracks the rise of obesity, type 2 diabetes, and cardiovascular disease. As food preparation moved from the kitchen to the factory, dietary quality collapsed. The restoration of kitchen culture is not optional for communities that want to reclaim their health.",
+      "t": "(2013), documentó que el declive de la cocina casera en Estados Unidos sigue con precisión el aumento de la obesidad, la diabetes tipo 2 y las enfermedades cardiovasculares. A medida que la preparación de la comida pasó de la cocina a la fábrica, la calidad de la dieta se desplomó. Recuperar la cultura de la cocina no es opcional para las comunidades que quieren recuperar su salud."
+    },
+    "fbe773d2": {
+      "src": ". The protective mechanism: shared food knowledge transmitted through the repeated ritual of eating together.",
+      "t": ". El mecanismo protector: el conocimiento compartido sobre la comida, transmitido mediante el ritual repetido de comer juntos."
+    },
+    "654ec49f": {
+      "src": "01 — The Ancient Archive",
+      "t": "01 · El archivo antiguo"
+    },
+    "2b457935": {
+      "src": "02 — The Taino Diet",
+      "t": "02 · La dieta taína"
+    },
+    "e8e82dd6": {
+      "src": "03 — West African Roots",
+      "t": "03 · Raíces de África Occidental"
+    },
+    "f9108205": {
+      "src": "04 — The Moorish Table",
+      "t": "04 · La mesa mora"
+    },
+    "a21d0f20": {
+      "src": "05 — A Nation’s Guide",
+      "t": "05 · La guía de una nación"
+    },
+    "bad6d953": {
+      "src": "06 — Building the Community",
+      "t": "06 · Construir la comunidad"
+    },
+    "295e8bc5": {
+      "src": "07 — Living Longer & Happier",
+      "t": "07 · Vivir más y más felices"
+    },
+    "520abfaa": {
+      "src": "12 min",
+      "t": "12 min"
+    },
+    "1aec5d80": {
+      "src": "22%",
+      "t": "22%"
+    },
+    "c4f75634": {
+      "src": "24% more likely to eat healthy foods, 20% less likely to eat unhealthy foods, and 35% less likely to have disordered eating patterns",
+      "t": "un 24% más de probabilidades de comer alimentos sanos, un 20% menos de comer alimentos poco saludables y un 35% menos de tener patrones de alimentación desordenados"
+    },
+    "4feff94e": {
+      "src": "3x",
+      "t": "3x"
+    },
+    "2098915f": {
+      "src": "50%",
+      "t": "50%"
+    },
+    "79b8e3ff": {
+      "src": "76%",
+      "t": "76%"
+    },
+    "f0b55af2": {
+      "src": "A 2011 systematic review in Pediatrics examined 17 studies on family meal frequency and child health outcomes. It found that children who ate family meals 3+ times per week were",
+      "t": "Una revisión sistemática de 2011 en Pediatrics analizó 17 estudios sobre la frecuencia de las comidas en familia y la salud infantil. Encontró que los niños que comían en familia 3 o más veces por semana tenían"
+    },
+    "4562c99b": {
+      "src": "A 2012 study in Public Health Nutrition found that adults who possessed basic cooking skills consumed significantly more fruits and vegetables, spent less money on food, and had lower BMI than those who did not. Cooking skill is not a luxury.",
+      "t": "Un estudio de 2012 en Public Health Nutrition encontró que los adultos con habilidades básicas de cocina comían muchas más frutas y verduras, gastaban menos dinero en comida y tenían un IMC más bajo que quienes no las tenían. Saber cocinar no es un lujo."
+    },
+    "f412d326": {
+      "src": "Africa’s original community health educator.",
+      "t": "el primer educador de salud comunitaria de África."
+    },
+    "8c1f7ccb": {
+      "src": "Ask the grandmothers what they know. Ask the elders about the bush medicines, the food traditions, the seasonal practices.",
+      "t": "Pregunta a las abuelas lo que saben. Pregunta a los mayores por las medicinas tradicionales, las tradiciones alimentarias, las prácticas de cada estación."
+    },
+    "b01d4767": {
+      "src": "Associated with dancing — which combines cardiovascular movement, social connection, memory, and joy simultaneously (NEJM, 2003).",
+      "t": "Asociado al baile, que combina a la vez movimiento cardiovascular, conexión social, memoria y alegría (NEJM, 2003)."
+    },
+    "9de91f95": {
+      "src": "Associated with regular volunteering and community service — through the oxytocin, cortisol reduction, and social integration that service produces (PLOS One meta-analysis, 2013).",
+      "t": "Asociado al voluntariado regular y al servicio comunitario, gracias a la oxitocina, la reducción del cortisol y la integración social que produce el servicio (metaanálisis de PLOS One, 2013)."
+    },
+    "99bfc24b": {
+      "src": "Because health education that sits behind a paywall reaches only the people who can afford it — and those are rarely the people who need it most. The communities most affected by chronic disease are precisely the communities with the least access to clear, accurate, culturally relevant health information.",
+      "t": "Porque la educación en salud que está detrás de un muro de pago solo llega a quienes pueden pagarla, y rara vez son quienes más la necesitan. Las comunidades más afectadas por las enfermedades crónicas son precisamente las que menos acceso tienen a información de salud clara, precisa y culturalmente relevante."
+    },
+    "4f501c0a": {
+      "src": "Before there were hospitals, clinics, or doctors, there were families. And for the vast majority of human history, the family — specifically the extended family unit including grandparents, aunts, uncles, and community elders — was the primary health care system available to most people.",
+      "t": "Antes de que existieran hospitales, clínicas o médicos, existían las familias. Y durante la mayor parte de la historia humana, la familia, en concreto la familia extendida con abuelos, tías, tíos y los mayores de la comunidad, fue el principal sistema de atención de salud al que tenía acceso la mayoría de la gente."
+    },
+    "848cb564": {
+      "src": "Biological anthropologist Kristen Hawkes’s landmark research on the “grandmother hypothesis” (1998) proposed that the extension of human female lifespan beyond reproductive years evolved specifically because grandmothers provide nutritional knowledge and food support to grandchildren — increasing their survival rates.",
+      "t": "La investigación de referencia de la antropóloga biológica Kristen Hawkes sobre la “hipótesis de la abuela” (1998) propuso que la prolongación de la vida de la mujer más allá de los años reproductivos evolucionó precisamente porque las abuelas aportan conocimiento nutricional y apoyo alimentario a sus nietos, lo que aumenta su supervivencia."
+    },
+    "504d5fe3": {
+      "src": "Brigham Young University meta-analysis (Holt-Lunstad, 2015):",
+      "t": "Metaanálisis de Brigham Young University (Holt-Lunstad, 2015):"
+    },
+    "a7d3ce48": {
+      "src": "Bring children into the kitchen. Let them grow something — anything. Even a pot of herbs on a windowsill creates the connection between living plant and living food that builds lifelong nutritional awareness.",
+      "t": "Lleva a los niños a la cocina. Deja que cultiven algo, lo que sea. Hasta una maceta de hierbas en la ventana crea la conexión entre la planta viva y la comida viva que construye una conciencia nutricional para toda la vida."
+    },
+    "ffd5c28c": {
+      "src": "Building a food community does not require resources, funding, or permission. It requires people who care enough to share what they know.",
+      "t": "Construir una comunidad de la comida no requiere recursos, financiación ni permiso. Requiere personas a las que les importe lo suficiente como para compartir lo que saben."
+    },
+    "ce9bfe6a": {
+      "src": "Building the",
+      "t": "Construir la"
+    },
+    "44983e44": {
+      "src": "Building the Food Community — Kwik Fat Cut",
+      "t": "Construir la comunidad de la comida · Kwik Fat Cut"
+    },
+    "50993f51": {
+      "src": "Children of parents with good nutritional knowledge to maintain healthy eating into adulthood (WHO longitudinal studies).",
+      "t": "de que los hijos de padres con buenos conocimientos de nutrición mantengan una alimentación sana en la edad adulta (estudios longitudinales de la OMS)."
+    },
+    "2675b630": {
+      "src": "Children who participate in food preparation are",
+      "t": "Los niños que participan en la preparación de la comida tienen"
+    },
+    "5302fe08": {
+      "src": "Children who watch adults prepare whole food meals develop food familiarity that makes them",
+      "t": "Los niños que ven a los adultos preparar comidas con alimentos integrales se familiarizan con esos alimentos, lo que hace"
+    },
+    "d7a3759a": {
+      "src": "Community & Family Health",
+      "t": "Salud comunitaria y familiar"
+    },
+    "4c173d87": {
+      "src": "Community is not a soft benefit. It is the single most powerful documented protective factor for human health and longevity. And the community most relevant to food and nutrition — the family, the neighbourhood, the cultural group that shares food knowledge — is among the most health-protective forms of human connection that exists.",
+      "t": "La comunidad no es un beneficio menor. Es el factor protector documentado más poderoso para la salud y la longevidad humanas. Y la comunidad más relacionada con la comida y la nutrición (la familia, el barrio, el grupo cultural que comparte conocimiento sobre la comida) es una de las formas de conexión humana que más protegen la salud."
+    },
+    "e2f9db42": {
+      "src": "Community is not comfort. It is medicine.",
+      "t": "La comunidad no es consuelo. Es medicina."
+    },
+    "f8d34924": {
+      "src": "Community is the most powerful",
+      "t": "La comunidad es la intervención de salud"
+    },
+    "07d5be83": {
+      "src": "Cook with someone —",
+      "t": "Cocina con alguien:"
+    },
+    "bcd8ce60": {
+      "src": "Cooked",
+      "t": "Cooked"
+    },
+    "5ace05d1": {
+      "src": "Cooking skills and health outcomes —",
+      "t": "Saber cocinar y salud:"
+    },
+    "7e944468": {
+      "src": "Documented advantage of social connection over isolation. 148 studies, 308,849 participants (Holt-Lunstad, PLOS Medicine, 2015).",
+      "t": "Ventaja documentada de la conexión social frente al aislamiento. 148 estudios, 308.849 participantes (Holt-Lunstad, PLOS Medicine, 2015)."
+    },
+    "bfa33cd8": {
+      "src": "Eating is inherently social. Food choices made within a community of people who value whole food eating are significantly more likely to be sustained long-term.",
+      "t": "Comer es, por naturaleza, un acto social. Las elecciones de comida que se hacen dentro de una comunidad que valora los alimentos integrales tienen muchas más probabilidades de mantenerse a largo plazo."
+    },
+    "13eae40a": {
+      "src": "Epigenetic inheritance —",
+      "t": "Herencia epigenética:"
+    },
+    "be2289a3": {
+      "src": "Every article in the Learn Hub. Every deep read in the Foods Hub. Every ancestral food tradition documented in this series. Every practical guide, every food profile, every piece of nutritional science translated into clear, human language —",
+      "t": "Cada artículo del Centro de aprendizaje. Cada lectura profunda del Centro de Alimentos. Cada tradición alimentaria ancestral documentada en esta serie. Cada guía práctica, cada perfil de alimento, cada pieza de ciencia nutricional traducida a un lenguaje claro y humano:"
+    },
+    "8cd5e41c": {
+      "src": "Every article on Kwik Fat Cut is free to share. Tell a friend to tell a friend. Send an article to someone who needs it. Post it in your community group.",
+      "t": "Todos los artículos de Kwik Fat Cut se pueden compartir libremente. Dile a un amigo que le diga a otro. Envía un artículo a alguien que lo necesite. Publícalo en tu grupo comunitario."
+    },
+    "59d8f3b5": {
+      "src": "Every family has a griot — the elder who knows the food traditions, the bush medicine preparations, the seasonal knowledge, and the stories of why it all matters. In Jamaica, this is often the grandmother. In Rastafarian communities, often the elder practitioner. In every community, there is someone who holds the archive.",
+      "t": "Cada familia tiene un griot: la persona mayor que conoce las tradiciones alimentarias, las preparaciones de medicina tradicional, el saber de las estaciones y las historias de por qué todo importa. En Jamaica, suele ser la abuela. En las comunidades rastafaris, a menudo el practicante de más edad. En toda comunidad hay alguien que guarda el archivo."
+    },
+    "c407430a": {
+      "src": "Every family that cooks together. Every grandmother who still makes cerasee. Every market vendor who knows which pepper heals which condition. Every Ital practitioner who has lived the knowledge for decades.",
+      "t": "Cada familia que cocina junta. Cada abuela que aún prepara cerasee. Cada vendedor del mercado que sabe qué ají cura qué afección. Cada practicante Ital que ha vivido este saber durante décadas."
+    },
+    "6ac8260e": {
+      "src": "Every meal is a teaching moment. Every kitchen is a classroom.",
+      "t": "Cada comida es un momento para enseñar. Cada cocina es un aula."
+    },
+    "c563ae64": {
+      "src": "Every person who reads this article and tells one other person what they learned has already begun building the community.",
+      "t": "Cada persona que lea este artículo y le cuente a otra lo que aprendió ya ha empezado a construir la comunidad."
+    },
+    "02fc0447": {
+      "src": "Family meals and health outcomes —",
+      "t": "Comidas en familia y salud:"
+    },
+    "c3291c4d": {
+      "src": "Final part of",
+      "t": "Última parte de"
+    },
+    "3206236f": {
+      "src": "Final part of the series",
+      "t": "Última parte de la serie"
+    },
+    "7997a02f": {
+      "src": "Food knowledge embedded in narrative is retained at dramatically higher rates than information delivered as instruction. The stories of what cerasee does, why callaloo is essential, what moringa means to West African tradition —",
+      "t": "El conocimiento sobre la comida integrado en un relato se recuerda mucho más que la información dada como instrucción. Las historias de lo que hace el cerasee, de por qué el callaloo es esencial, de lo que significa la moringa en la tradición de África Occidental:"
+    },
+    "810c857d": {
+      "src": "Griot traditions documented by anthropologists across Senegal, Mali, Guinea, and Gambia show genealogical and botanical knowledge spanning 20–40 generations — with accuracy verified against independent records. The information they preserved included not just names and dates, but",
+      "t": "Las tradiciones de los griots documentadas por antropólogos en Senegal, Malí, Guinea y Gambia muestran conocimientos genealógicos y botánicos que abarcan de 20 a 40 generaciones, con una precisión verificada frente a registros independientes. Lo que conservaban no eran solo nombres y fechas, sino"
+    },
+    "e10688da": {
+      "src": "Health grows in community the way food grows in well-tended soil — through shared knowledge, shared labour, and shared belonging.”",
+      "t": "La salud crece en comunidad como la comida crece en un suelo bien cuidado: con conocimiento compartido, trabajo compartido y pertenencia compartida.”"
+    },
+    "4d736280": {
+      "src": "Honour the elders —",
+      "t": "Honra a los mayores:"
+    },
+    "8018df85": {
+      "src": "How Knowledge Transfers",
+      "t": "Cómo se transmite el conocimiento"
+    },
+    "3c1e0275": {
+      "src": "How knowledge",
+      "t": "Cómo el conocimiento"
+    },
+    "635327c5": {
+      "src": "How knowledge transfers",
+      "t": "Cómo se transmite el conocimiento"
+    },
+    "b8cb5411": {
+      "src": "How to build it where you are",
+      "t": "Cómo construirla donde estés"
+    },
+    "ec02b683": {
+      "src": "How to build the food",
+      "t": "Cómo construir la comunidad"
+    },
+    "51f0b5be": {
+      "src": "In 2015, researchers Julianne Holt-Lunstad, Timothy Smith, and J. Bradley Layton published a landmark meta-analysis in PLOS Medicine examining data from 148 studies and 308,849 participants. Their finding:",
+      "t": "En 2015, los investigadores Julianne Holt-Lunstad, Timothy Smith y J. Bradley Layton publicaron en PLOS Medicine un metaanálisis de referencia que examinaba datos de 148 estudios y 308.849 participantes. Su hallazgo:"
+    },
+    "2d36066b": {
+      "src": "In West African tradition, the griot was a professional knowledge keeper — a living archive who memorised and transmitted the history, genealogy, medicine, and food knowledge of a community across generations.",
+      "t": "En la tradición de África Occidental, el griot era un guardián profesional del conocimiento: un archivo vivo que memorizaba y transmitía la historia, la genealogía, la medicina y el saber alimentario de una comunidad a lo largo de generaciones."
+    },
+    "bec8ae60": {
+      "src": "Involve the children —",
+      "t": "Involucra a los niños:"
+    },
+    "3f5bba98": {
+      "src": "It is a community health platform built on the griot principle",
+      "t": "Es una plataforma de salud comunitaria construida sobre el principio del griot"
+    },
+    "5565ba68": {
+      "src": "It is a fundamental health literacy competency",
+      "t": "Es una competencia fundamental de alfabetización en salud"
+    },
+    "35f4c612": {
+      "src": "It is still here.",
+      "t": "Sigue aquí."
+    },
+    "5aa907f2": {
+      "src": "It is the intervention.",
+      "t": "Es la intervención."
+    },
+    "2bc82253": {
+      "src": "It survived because it was embedded in people — in memory, in practice, in the daily acts of feeding families and healing communities.",
+      "t": "Sobrevivió porque estaba integrado en las personas: en la memoria, en la práctica, en los actos diarios de alimentar a las familias y sanar a las comunidades."
+    },
+    "fb44b473": {
+      "src": "It was sophisticated.",
+      "t": "Era sofisticado."
+    },
+    "0c8acda9": {
+      "src": "Knowledge shared is knowledge multiplied.",
+      "t": "El conocimiento compartido es conocimiento multiplicado."
+    },
+    "ae2e4d0c": {
+      "src": "Kwik Fat Cut is built to close that gap.",
+      "t": "Kwik Fat Cut está construido para cerrar esa brecha."
+    },
+    "f1ad95d0": {
+      "src": "Kwik Fat Cut is here to connect it, strengthen it, and make sure its knowledge reaches the next generation intact. Smile for me, Jamaica. We row together.",
+      "t": "Kwik Fat Cut está aquí para conectarla, fortalecerla y asegurarse de que su conocimiento llegue intacto a la próxima generación. Sonríe para mí, Jamaica. Remamos juntos."
+    },
+    "7fd6d46a": {
+      "src": "Kwik Fat Cut is not a product. It is not a subscription service. It is not a diet plan.",
+      "t": "Kwik Fat Cut no es un producto. No es un servicio de suscripción. No es un plan de dieta."
+    },
+    "9dc37988": {
+      "src": "Kwik Fat Cut — Return to Real Food Series — Education First",
+      "t": "Kwik Fat Cut · Serie Volver a la Comida Real · La educación primero"
+    },
+    "fc203ecb": {
+      "src": "Kwik Fat Cut’s mission is to be a digital griot — to hold and transmit the food knowledge that communities need, freely, to anyone who seeks it, in a form that can be passed forward rather than locked behind a paywall.",
+      "t": "La misión de Kwik Fat Cut es ser un griot digital: guardar y transmitir el conocimiento alimentario que las comunidades necesitan, gratis, a cualquiera que lo busque, de una forma que se pueda pasar a otros en lugar de encerrarla detrás de un muro de pago."
+    },
+    "c99fada7": {
+      "src": "Lower mortality",
+      "t": "menos mortalidad"
+    },
+    "dc6ba027": {
+      "src": "Michael Pollan, in",
+      "t": "Michael Pollan, en"
+    },
+    "97ae9dec": {
+      "src": "More likely",
+      "t": "más probabilidades"
+    },
+    "4c797163": {
+      "src": "More likely to survive",
+      "t": "más probabilidades de sobrevivir"
+    },
+    "adc44201": {
+      "src": "Movements are medicines. We row. You steer. 🇯🇲",
+      "t": "Los movimientos son medicina. Nosotros remamos. Tú diriges. 🇯🇲"
+    },
+    "b7259ff9": {
+      "src": "Nutritional knowledge does not transfer through instruction alone. Research in educational psychology and behavioural health consistently shows that the most durable knowledge transmission happens through",
+      "t": "El conocimiento nutricional no se transmite solo con instrucciones. La investigación en psicología educativa y salud conductual muestra una y otra vez que la transmisión de conocimiento más duradera ocurre mediante"
+    },
+    "8275118d": {
+      "src": "Observation",
+      "t": "Observación"
+    },
+    "81c5c17d": {
+      "src": "Once a week, prepare a whole food meal with another person. A family member, a neighbour, a friend. The act of cooking together transmits knowledge, builds connection, and creates the social reinforcement that sustains dietary change better than any individual motivation.",
+      "t": "Una vez por semana, prepara una comida con alimentos integrales junto a otra persona. Un familiar, un vecino, un amigo. Cocinar juntos transmite conocimiento, crea vínculos y genera el refuerzo social que sostiene un cambio en la dieta mejor que cualquier motivación individual."
+    },
+    "e9e94692": {
+      "src": "Part 7 — Living Longer, Healthier & Happier.",
+      "t": "Parte 7 · Vivir más, con más salud y más felicidad."
+    },
+    "d404c332": {
+      "src": "Part 7 — Living Longer, Healthier & Happier: the evidence from ancient populations",
+      "t": "Parte 7 · Vivir más, con más salud y más felicidad: la evidencia de las poblaciones antiguas"
+    },
+    "1efb5ba3": {
+      "src": "Part 7 →",
+      "t": "Parte 7 →"
+    },
+    "459cf666": {
+      "src": "Participation",
+      "t": "Participación"
+    },
+    "68480d70": {
+      "src": "Plant the seed now.",
+      "t": "Planta la semilla ahora."
+    },
+    "d82dd661": {
+      "src": "Read Part 7 →",
+      "t": "Lee la Parte 7 →"
+    },
+    "e0bae6f5": {
+      "src": "Reduced dementia risk",
+      "t": "menos riesgo de demencia"
+    },
+    "bc75f220": {
+      "src": "Research by psychologist Marshall Duke at Emory University found that children who knew their family’s stories — including food traditions and health practices — showed",
+      "t": "La investigación del psicólogo Marshall Duke en Emory University encontró que los niños que conocían las historias de su familia, incluidas sus tradiciones alimentarias y sus prácticas de salud, mostraban"
+    },
+    "aa021eff": {
+      "src": "Research from the Edible Schoolyard Project (founded by Alice Waters in Berkeley, California, 1995) demonstrated that children who participated in kitchen and garden education showed",
+      "t": "La investigación del Edible Schoolyard Project (fundado por Alice Waters en Berkeley, California, en 1995) demostró que los niños que participaban en educación en la cocina y el huerto mostraban"
+    },
+    "75cf05f8": {
+      "src": "Research on epigenetics has confirmed that dietary habits influence gene expression in ways that can be inherited across generations. The Dutch Hunger Winter studies showed that the grandchildren of women who were pregnant during the 1944–1945 famine showed measurably altered metabolic gene expression.",
+      "t": "La investigación en epigenética ha confirmado que los hábitos alimentarios influyen en la expresión de los genes de formas que pueden heredarse a lo largo de generaciones. Los estudios sobre el Invierno del Hambre neerlandés mostraron que los nietos de mujeres que estaban embarazadas durante la hambruna de 1944 y 1945 tenían una expresión de genes metabólicos alterada de forma medible."
+    },
+    "02949b44": {
+      "src": "Return to Real Food",
+      "t": "Volver a la Comida Real"
+    },
+    "d04817ce": {
+      "src": "Return to Real Food — 6 of 7",
+      "t": "Volver a la Comida Real · 6 de 7"
+    },
+    "e4bf4a2b": {
+      "src": "Share what you learn —",
+      "t": "Comparte lo que aprendes:"
+    },
+    "e06ef02a": {
+      "src": "Social connection is associated with a 50% increased likelihood of survival compared to social isolation — more powerful than quitting smoking, losing weight, or exercising.",
+      "t": "La conexión social se asocia a un 50% más de probabilidades de supervivencia frente al aislamiento social, más que dejar de fumar, bajar de peso o hacer ejercicio."
+    },
+    "8a7846f2": {
+      "src": "Social norms are among the most powerful behavioural influences known",
+      "t": "Las normas sociales están entre las influencias más poderosas que se conocen sobre el comportamiento"
+    },
+    "7f68d14f": {
+      "src": "Social reinforcement",
+      "t": "Refuerzo social"
+    },
+    "e4bfcbcf": {
+      "src": "Start Now",
+      "t": "Empieza ya"
+    },
+    "25756d0b": {
+      "src": "Storytelling",
+      "t": "Relatos"
+    },
+    "57423dec": {
+      "src": "Tell the stories —",
+      "t": "Cuenta las historias:"
+    },
+    "3245c275": {
+      "src": "The Ancient Model",
+      "t": "El modelo antiguo"
+    },
+    "b651b149": {
+      "src": "The Evidence",
+      "t": "La evidencia"
+    },
+    "801285bc": {
+      "src": "The Family",
+      "t": "La familia"
+    },
+    "22cb22ae": {
+      "src": "The Jamaican kitchen has historically been a place of community gathering, knowledge sharing, and collective preparation. The yard kitchen — where multiple households shared cooking space — created natural food education environments where children observed, participated, and absorbed nutritional wisdom through daily proximity.",
+      "t": "La cocina jamaicana ha sido históricamente un lugar de reunión comunitaria, de intercambio de conocimientos y de preparación colectiva. La cocina del patio, donde varios hogares compartían el espacio para cocinar, creaba entornos naturales de educación alimentaria en los que los niños observaban, participaban y absorbían la sabiduría nutricional por la cercanía diaria."
+    },
+    "04a98070": {
+      "src": "The Jamaican kitchen tradition —",
+      "t": "La tradición de la cocina jamaicana:"
+    },
+    "fc3bd85f": {
+      "src": "The Kitchen as Classroom",
+      "t": "La cocina como aula"
+    },
+    "22955e9d": {
+      "src": "The Kwik Fat Cut community model",
+      "t": "El modelo comunitario de Kwik Fat Cut"
+    },
+    "ba961567": {
+      "src": "The Platform",
+      "t": "La plataforma"
+    },
+    "2f8b92b1": {
+      "src": "The Series",
+      "t": "La serie"
+    },
+    "a63566a6": {
+      "src": "The classroom was the kitchen. The textbook was the family recipe.",
+      "t": "El aula era la cocina. El libro de texto era la receta familiar."
+    },
+    "2cc1a0c1": {
+      "src": "The community",
+      "t": "La comunidad"
+    },
+    "96cda90b": {
+      "src": "The community exists. It has always existed.",
+      "t": "La comunidad existe. Siempre ha existido."
+    },
+    "ab498a6d": {
+      "src": "The cost of kitchen knowledge loss —",
+      "t": "El costo de perder el saber de la cocina:"
+    },
+    "568b01b4": {
+      "src": "The family as",
+      "t": "La familia como"
+    },
+    "1a4b2627": {
+      "src": "The family as the first clinic",
+      "t": "La familia como primera clínica"
+    },
+    "feede3c7": {
+      "src": "The family held nutritional knowledge refined across generations. It knew which plants healed, which combinations nourished, which preparations were appropriate for which conditions, and which seasons demanded which foods. This knowledge was specific, tested, and transmitted with care.",
+      "t": "La familia guardaba un conocimiento nutricional perfeccionado durante generaciones. Sabía qué plantas curaban, qué combinaciones nutrían, qué preparaciones convenían a cada afección y qué estaciones pedían qué alimentos. Ese conocimiento era concreto, probado y se transmitía con cuidado."
+    },
+    "c65874de": {
+      "src": "The grandmother effect —",
+      "t": "El efecto abuela:"
+    },
+    "ddbdbfc3": {
+      "src": "The grandmother’s kitchen knowledge is not cultural sentiment. It is an evolutionary adaptation.",
+      "t": "El saber de la cocina de la abuela no es un sentimiento cultural. Es una adaptación evolutiva."
+    },
+    "08c6275e": {
+      "src": "The griot model",
+      "t": "El modelo del griot"
+    },
+    "7bea32ae": {
+      "src": "The griot never charged for knowledge. Neither do we.",
+      "t": "El griot nunca cobró por el conocimiento. Nosotros tampoco."
+    },
+    "7c0939cb": {
+      "src": "The griot principle applied today:",
+      "t": "El principio del griot aplicado hoy:"
+    },
+    "1ebc3af3": {
+      "src": "The griot was not a storyteller in the entertainment sense. The griot was a public health officer in the deepest functional sense.",
+      "t": "El griot no era un narrador en el sentido del entretenimiento. Era, en el sentido funcional más profundo, un agente de salud pública."
+    },
+    "944d8947": {
+      "src": "The griot —",
+      "t": "El griot:"
+    },
+    "37aea57a": {
+      "src": "The habits formed before age ten are the habits that persist into adulthood.",
+      "t": "Los hábitos que se forman antes de los diez años son los que persisten en la edad adulta."
+    },
+    "6d703a5f": {
+      "src": "The kitchen as classroom",
+      "t": "La cocina como aula"
+    },
+    "efc3b995": {
+      "src": "The kitchen is the original health education classroom. Every culture that has maintained strong intergenerational health outcomes has done so through the transmission of food knowledge in the kitchen — through cooking together, eating together, and talking about food as a living practice rather than a compliance requirement.",
+      "t": "La cocina es el aula original de la educación en salud. Toda cultura que ha mantenido buenos resultados de salud entre generaciones lo ha hecho transmitiendo el saber alimentario en la cocina: cocinando juntos, comiendo juntos y hablando de la comida como una práctica viva y no como una obligación que cumplir."
+    },
+    "580c2a53": {
+      "src": "The mechanisms of",
+      "t": "Los mecanismos de transmisión"
+    },
+    "c93133c7": {
+      "src": "The most powerful health intervention ever documented is not a drug or a diet. It is a community that holds and shares knowledge across generations. This is how families protect themselves. This is how communities build lasting health. Proven. Documented. Ancient and entirely modern at once.",
+      "t": "La intervención de salud más poderosa jamás documentada no es un fármaco ni una dieta. Es una comunidad que guarda y comparte conocimiento de generación en generación. Así se protegen las familias. Así construyen las comunidades una salud duradera. Probado. Documentado. Antiguo y totalmente moderno a la vez."
+    },
+    "c7964af3": {
+      "src": "The power of community health",
+      "t": "El poder de la salud comunitaria"
+    },
+    "bdebb358": {
+      "src": "This is how the griot tradition worked. This is how it still works.",
+      "t": "Así funcionaba la tradición del griot. Así sigue funcionando."
+    },
+    "1a57407c": {
+      "src": "This is precisely how ancestral food knowledge has always been transmitted. Children observe the preparation of food. They participate in it. They hear the stories of what each plant does and why it matters. They receive social validation for eating well.",
+      "t": "Así es exactamente como siempre se ha transmitido el conocimiento alimentario ancestral. Los niños observan cómo se prepara la comida. Participan. Escuchan las historias de lo que hace cada planta y por qué importa. Reciben reconocimiento social por comer bien."
+    },
+    "75a411ab": {
+      "src": "This knowledge is irreplaceable once it is gone",
+      "t": "Este conocimiento es insustituible una vez que se pierde"
+    },
+    "86e6bdda": {
+      "src": "This knowledge survived the transatlantic slave trade. It survived colonisation. It survived the deliberate destruction of African cultural systems.",
+      "t": "Este conocimiento sobrevivió a la trata transatlántica de esclavos. Sobrevivió a la colonización. Sobrevivió a la destrucción deliberada de los sistemas culturales africanos."
+    },
+    "e4483e72": {
+      "src": "This tradition is not nostalgia. It is a documented health protection mechanism.",
+      "t": "Esta tradición no es nostalgia. Es un mecanismo de protección de la salud documentado."
+    },
+    "0d26423e": {
+      "src": "This was not primitive.",
+      "t": "No era primitivo."
+    },
+    "f9c03f78": {
+      "src": "Use them.",
+      "t": "Aprovéchalas."
+    },
+    "f50a0fb8": {
+      "src": "What Kwik Fat Cut",
+      "t": "Lo que Kwik Fat Cut"
+    },
+    "d912f270": {
+      "src": "What a family eats today shapes the biology of children not yet born.",
+      "t": "Lo que una familia come hoy moldea la biología de niños que aún no han nacido."
+    },
+    "8151b923": {
+      "src": "When you prepare cerasee tea, tell someone what cerasee does and why you make it. When you cook callaloo, explain what iron does in the body and why callaloo provides it.",
+      "t": "Cuando prepares té de cerasee, cuéntale a alguien qué hace el cerasee y por qué lo preparas. Cuando cocines callaloo, explica qué hace el hierro en el cuerpo y por qué el callaloo lo aporta."
+    },
+    "0d08d6f0": {
+      "src": "Where the most important",
+      "t": "Donde ocurre la educación"
+    },
+    "cd81cc93": {
+      "src": "You eat with pride what you helped create.",
+      "t": "Comes con orgullo lo que ayudaste a crear."
+    },
+    "5edcca11": {
+      "src": "You steer.",
+      "t": "Tú diriges."
+    },
+    "77fd5520": {
+      "src": "and show greater dietary diversity (Appetite, 2014). The act of growing, harvesting, or preparing food creates an attachment to it.",
+      "t": "y muestran una dieta más variada (Appetite, 2014). Cultivar, cosechar o preparar la comida crea un vínculo con ella."
+    },
+    "5be06b72": {
+      "src": "as adults (Journal of Nutrition Education and Behaviour, 2012). You do not eat what you have never seen. You eat what you watched someone you love prepare with care.",
+      "t": "de adultos (Journal of Nutrition Education and Behaviour, 2012). No comes lo que nunca has visto. Comes lo que viste preparar con cariño a alguien que quieres."
+    },
+    "414ce4aa": {
+      "src": "community where you are.",
+      "t": "de la comida donde estés."
+    },
+    "7cdb23c6": {
+      "src": "food community.",
+      "t": "comunidad de la comida."
+    },
+    "058950f6": {
+      "src": "health education happens.",
+      "t": "en salud más importante."
+    },
+    "5e3a0cc6": {
+      "src": "health intervention ever documented.",
+      "t": "más poderosa jamás documentada."
+    },
+    "f2945671": {
+      "src": "is already here.",
+      "t": "ya está aquí."
+    },
+    "8eff2496": {
+      "src": "is building — and why.",
+      "t": "está construyendo, y por qué."
+    },
+    "4febac1b": {
+      "src": "it is all free. It will remain free. That is not a business model. It is a commitment.",
+      "t": "todo es gratis. Y seguirá siéndolo. No es un modelo de negocio. Es un compromiso."
+    },
+    "22cb0328": {
+      "src": "keeps families healthy.",
+      "t": "mantiene sanas a las familias."
+    },
+    "53633b49": {
+      "src": "measurably improved dietary habits, better understanding of food origins, and significantly more positive attitudes toward vegetables and whole foods",
+      "t": "hábitos alimentarios mejores de forma medible, una mejor comprensión del origen de los alimentos y una actitud mucho más positiva hacia las verduras y los alimentos integrales"
+    },
+    "f6fab5f9": {
+      "src": "more likely to eat fruits and vegetables",
+      "t": "más probabilidades de comer frutas y verduras"
+    },
+    "cdbcfd90": {
+      "src": "nutritional knowledge transmission.",
+      "t": "del conocimiento nutricional."
+    },
+    "e623ea23": {
+      "src": "observation, practice, storytelling, and social reinforcement",
+      "t": "la observación, la práctica, los relatos y el refuerzo social"
+    },
+    "f62ab78d": {
+      "src": "significantly greater psychological resilience, better mental health outcomes, and stronger sense of identity",
+      "t": "una resiliencia psicológica mucho mayor, mejor salud mental y un sentido de identidad más fuerte"
+    },
+    "cd236bab": {
+      "src": "significantly more likely to eat those foods",
+      "t": "mucho más probable que los coman"
+    },
+    "0a2458da": {
+      "src": "social connection is associated with a 50% increased likelihood of survival",
+      "t": "la conexión social se asocia a un 50% más de probabilidades de supervivencia"
+    },
+    "61d94c69": {
+      "src": "than control groups. The same principle, documented across cultures and centuries by the griot tradition, the Ital kitchen, and the West African cooking communal model.",
+      "t": "que los grupos de control. Es el mismo principio documentado a lo largo de culturas y siglos por la tradición del griot, la cocina Ital y el modelo comunitario de cocina de África Occidental."
+    },
+    "221b4dde": {
+      "src": "than those who did not. The family narrative, including its food narrative, is a protective health factor that no clinical intervention replicates.",
+      "t": "que los que no las conocían. La narrativa familiar, incluida su narrativa sobre la comida, es un factor protector de la salud que ninguna intervención clínica puede reproducir."
+    },
+    "dec67bb8": {
+      "src": "the first clinic.",
+      "t": "la primera clínica."
+    },
+    "8796858d": {
+      "src": "the series.",
+      "t": "la serie."
+    },
+    "1f24e595": {
+      "src": "these stories carry nutritional intelligence through time in a form that no supplement label replicates.",
+      "t": "estas historias llevan la inteligencia nutricional a través del tiempo de una forma que ninguna etiqueta de suplemento puede reproducir."
+    },
+    "12301c80": {
+      "src": "which plants healed which conditions, which food combinations supported which health outcomes, and which seasonal practices maintained community health through drought, disease, and displacement.",
+      "t": "qué plantas curaban qué afecciones, qué combinaciones de alimentos favorecían qué resultados de salud y qué prácticas estacionales mantenían la salud de la comunidad en tiempos de sequía, enfermedad y desplazamiento."
+    },
+    "b7b8c9e0": {
+      "src": "with measurable health consequences when it is absent.",
+      "t": "con consecuencias medibles para la salud cuando falta."
+    },
+    "d8223408": {
+      "src": "you cannot be healthy alone.",
+      "t": "no se puede estar sano en soledad."
+    },
+    "a870dfcf": {
+      "src": "— and it goes with the person who holds it if it is not asked for, recorded, and passed forward before that moment comes.",
+      "t": ", y se va con la persona que lo guarda si no se le pregunta, se registra y se transmite antes de que llegue ese momento."
+    },
+    "2b595ab9": {
+      "src": "— more powerful than individual motivation, willpower, or knowledge alone.",
+      "t": ", más que la motivación individual, la fuerza de voluntad o el conocimiento por sí solo."
+    },
+    "3c2f6b1a": {
+      "src": "— more powerful than quitting smoking (45% reduction in mortality risk), more powerful than exercising regularly (35% reduction), more powerful than avoiding obesity (18% reduction).",
+      "t": ", más que dejar de fumar (45% menos de riesgo de mortalidad), más que hacer ejercicio con regularidad (35% menos) y más que evitar la obesidad (18% menos)."
+    },
+    "036644f3": {
+      "src": "— not through lectures or written guidelines.",
+      "t": ", y no mediante charlas o pautas escritas."
+    },
+    "76a73f2a": {
+      "src": "— that the knowledge communities need to be healthy should be held by the community, accessible to everyone in it, and transmitted freely to those who come after.",
+      "t": ": que el conocimiento que las comunidades necesitan para estar sanas debe estar en manos de la comunidad, al alcance de todos sus miembros y transmitirse libremente a quienes vienen detrás."
+    },
+    "1dfec9d3": {
+      "src": "“Every ancient food culture understood what modern health science is only now quantifying:",
+      "t": "“Toda cultura alimentaria antigua entendía lo que la ciencia de la salud moderna apenas está cuantificando:"
+    },
+    "cbf18bc3": {
+      "src": "← Part 5",
+      "t": "← Parte 5"
+    },
+    "e8c33e18": {
+      "src": "🇯🇲❤️💚",
+      "t": "🇯🇲❤️💚"
+    },
+    "35edc9f5": {
+      "src": "🌳 Return to Real Food Series — Part 6 of 7",
+      "t": "🌳 Serie Volver a la Comida Real, Parte 6 de 7"
+    }
+  }
+}

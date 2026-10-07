@@ -5,419 +5,439 @@
   "strings": {
     "c0669d6c": {
       "src": "& resilience.",
-      "t": ""
+      "t": "y la resiliencia."
     },
     "6211e0b4": {
       "src": "A Core Belief",
-      "t": ""
+      "t": "Una creencia fundamental"
     },
     "1674f76c": {
       "src": "A family",
-      "t": ""
+      "t": "Una comunidad"
+    },
+    "e8abb20f": {
+      "src": "About Kwik Fat Cut",
+      "t": "Sobre Kwik Fat Cut"
+    },
+    "bf19414a": {
+      "src": "About Kwik Fat Cut: Caribbean Health Education, Free",
+      "t": "Sobre Kwik Fat Cut: educación caribeña en salud, gratis"
     },
     "72f3976f": {
       "src": "At Kwik Fat Cut,",
-      "t": ""
+      "t": "En Kwik Fat Cut,"
     },
     "2b043744": {
       "src": "Black",
-      "t": ""
+      "t": "Negro"
     },
     "0a17cf65": {
       "src": "Diet can increase or reduce inflammation.",
-      "t": ""
+      "t": "La dieta puede aumentar o reducir la inflamación."
     },
     "1697d235": {
       "src": "Education",
-      "t": ""
+      "t": "La educación"
     },
     "77cb6e71": {
       "src": "Education Before Intervention. We row. You steer.",
-      "t": ""
+      "t": "La educación antes que la intervención. Nosotros remamos. Tú diriges."
     },
     "b8061ee6": {
       "src": "Engineered to overconsume",
-      "t": ""
+      "t": "Diseñados para comer de más"
     },
     "558c1bed": {
       "src": "Environmental & economic pressure",
-      "t": ""
+      "t": "Presión ambiental y económica"
     },
     "e7573c4f": {
       "src": "Essential Nutrients",
-      "t": ""
+      "t": "Nutrientes esenciales"
     },
     "ee4df1aa": {
       "src": "Food is more than just fuel. It is information for the body.",
-      "t": ""
+      "t": "La comida es más que combustible. Es información para el cuerpo."
     },
     "57465bcb": {
       "src": "Get Directions",
-      "t": ""
+      "t": "Cómo llegar"
     },
     "6c94b6b3": {
       "src": "Gold",
-      "t": ""
+      "t": "Dorado"
     },
     "a953c75c": {
       "src": "Green",
-      "t": ""
+      "t": "Verde"
     },
     "06747a3d": {
       "src": "Health is",
-      "t": ""
+      "t": "La salud es"
     },
     "1abb5903": {
       "src": "Health is a journey of",
-      "t": ""
+      "t": "La salud es un camino de"
     },
     "b16e0dcb": {
       "src": "Heritage, identity, strength",
-      "t": ""
+      "t": "Herencia, identidad, fuerza"
     },
     "e3edc399": {
       "src": "Hidden sugars & metabolic damage",
-      "t": ""
+      "t": "Azúcares ocultos y daño metabólico"
     },
     "4772adbb": {
       "src": "Highly processed foods combine sugar, salt, and fat to",
-      "t": ""
-    },
-    "04fc69ec": {
-      "src": "Honey Ras family tree — Kingston, Jamaica 🇯🇲❤️💚",
-      "t": ""
+      "t": "Los alimentos ultraprocesados combinan azúcar, sal y grasa para"
     },
     "aa5fdace": {
       "src": "Inflammation & Disease",
-      "t": ""
+      "t": "Inflamación y enfermedad"
     },
     "2b9a93f9": {
       "src": "It shifts with life. It responds to understanding.",
-      "t": ""
+      "t": "Cambia con la vida. Responde a la comprensión."
     },
     "bc2efba9": {
       "src": "Jamaica",
-      "t": ""
+      "t": "Jamaica"
     },
     "15bfd8f0": {
       "src": "Kingston,",
-      "t": ""
+      "t": "Kingston,"
     },
     "25910312": {
       "src": "Kingston, Jamaica",
-      "t": ""
+      "t": "Kingston, Jamaica"
     },
     "42807990": {
       "src": "Kwik Fat Cut",
-      "t": ""
+      "t": "Kwik Fat Cut"
     },
     "ef74c3f4": {
       "src": "Kwik Fat Cut functions as a",
-      "t": ""
+      "t": "Kwik Fat Cut funciona como una"
     },
-    "46cbde6a": {
-      "src": "Let’s go through this together. No rush. No pressure. No lectures. Just clarity — at your pace, in your own time.",
-      "t": ""
+    "5c95f712": {
+      "src": "Let’s go through this together. No rush. No pressure. No lectures. Just clarity, at your pace, in your own time.",
+      "t": "Recorramos esto juntos. Sin prisa. Sin presión. Sin sermones. Solo claridad, a tu ritmo, a tu tiempo."
     },
     "91d74820": {
       "src": "Life, growth, renewal",
-      "t": ""
+      "t": "Vida, crecimiento, renovación"
     },
     "19d3b54e": {
       "src": "Many modern foods contain hidden sugars and refined carbs causing rapid blood sugar spikes. Over time this can",
-      "t": ""
+      "t": "Muchos alimentos modernos contienen azúcares ocultos y carbohidratos refinados que provocan picos rápidos de azúcar en sangre. Con el tiempo, esto puede"
+    },
+    "d0f740e3": {
+      "src": "Map showing Kingston, Jamaica",
+      "t": "Mapa que muestra Kingston, Jamaica"
+    },
+    "2be8f20b": {
+      "src": "Map unavailable.",
+      "t": "Mapa no disponible."
     },
     "eb6e6d58": {
       "src": "Modern diets have moved heavily toward processed, packaged, refined, and convenience foods. Frequent consumption has been linked to lower intake of",
-      "t": ""
+      "t": "Las dietas modernas se han inclinado fuertemente hacia alimentos procesados, envasados, refinados y de conveniencia. Su consumo frecuente se ha asociado con una menor ingesta de"
     },
     "411e7a6c": {
       "src": "No two bodies are the same. No single plan fits all.",
-      "t": ""
+      "t": "No hay dos cuerpos iguales. Ningún plan único sirve para todos."
     },
     "2d45965e": {
       "src": "Not a platform that tells you what to do. A community that helps you understand what is happening — so you can lead your own health journey with confidence.",
-      "t": ""
+      "t": "No somos una plataforma que te dice qué hacer. Somos una comunidad que te ayuda a entender lo que está pasando, para que puedas guiar tu propio camino de salud con confianza."
     },
-    "f84dff70": {
-      "src": "Not designed to sell products. Built to grow a knowledge tree that fosters health, wellness, awareness, and opportunity",
-      "t": ""
+    "905cd3d1": {
+      "src": "Not designed to sell products. Built to grow a knowledge tree that fosters health, wellness, awareness, and opportunity, empowering people with genuine strength and confidence through education alone.",
+      "t": "No está pensado para vender productos. Está construido para hacer crecer un árbol del conocimiento que fomente la salud, el bienestar, la conciencia y la oportunidad, y que dé a las personas verdadera fuerza y confianza solo a través de la educación."
     },
     "f85c78cb": {
       "src": "Our Mission",
-      "t": ""
+      "t": "Nuestra misión"
     },
     "32d5dcc1": {
       "src": "Our mission is to provide education that helps people make informed, accurate decisions about their health, nutrition, and lifestyle. We focus on understanding first — so individuals can make changes with",
-      "t": ""
+      "t": "Nuestra misión es ofrecer educación que ayude a las personas a tomar decisiones informadas y acertadas sobre su salud, su nutrición y su estilo de vida. Nos centramos primero en la comprensión, para que cada persona pueda hacer cambios con"
     },
     "b7124e8a": {
       "src": "Pollution, soil erosion, and climate change affect food at the source. Systems that favour cheap, processed foods spread additives at scale —",
-      "t": ""
+      "t": "La contaminación, la erosión del suelo y el cambio climático afectan a los alimentos desde su origen. Los sistemas que favorecen la comida barata y procesada difunden aditivos a gran escala,"
     },
     "c284c848": {
       "src": "Poor diet fuels chronic inflammation, which underpins heart disease, diabetes, obesity, arthritis, and some cancers.",
-      "t": ""
+      "t": "Una mala alimentación alimenta la inflamación crónica, que está detrás de las enfermedades cardíacas, la diabetes, la obesidad, la artritis y algunos tipos de cáncer."
     },
     "5e688abe": {
       "src": "Prevention Over Intervention",
-      "t": ""
+      "t": "Prevención antes que intervención"
     },
     "ad645395": {
       "src": "Prosperity, dignity, wisdom",
-      "t": ""
+      "t": "Prosperidad, dignidad, sabiduría"
     },
     "803e55a2": {
       "src": "Read the full story",
-      "t": ""
+      "t": "Lee la historia completa"
     },
     "e1e740b5": {
       "src": "Ready to",
-      "t": ""
+      "t": "¿Listo para"
     },
     "a37f187c": {
       "src": "Red",
-      "t": ""
+      "t": "Rojo"
     },
     "3156612d": {
       "src": "Resistance, courage, sacrifice",
-      "t": ""
+      "t": "Resistencia, valentía, sacrificio"
     },
     "9d9d497b": {
       "src": "Rooted In",
-      "t": ""
+      "t": "Con raíces en"
     },
     "9d4d979b": {
       "src": "Rooted in",
-      "t": ""
+      "t": "Con raíces en la"
     },
     "6eda38a3": {
       "src": "So, where did",
-      "t": ""
+      "t": "Entonces, ¿en qué momento"
     },
     "a98b6ca3": {
       "src": "Start free. No subscription. No pressure. No body shaming.",
-      "t": ""
+      "t": "Empieza gratis. Sin suscripción. Sin presión. Sin criticar el cuerpo de nadie."
     },
     "eadbb994": {
       "src": "Take a seat.",
-      "t": ""
+      "t": "Toma asiento."
     },
     "b90938ee": {
       "src": "The Bigger Picture",
-      "t": ""
+      "t": "La imagen completa"
     },
     "2ef81fc8": {
       "src": "The Gut Microbiome",
-      "t": ""
+      "t": "El microbioma intestinal"
+    },
+    "a259318a": {
+      "src": "The Honey Ras family photographed together in Kingston, Jamaica.",
+      "t": "La familia Honey Ras fotografiada junta en Kingston, Jamaica."
+    },
+    "6169644c": {
+      "src": "The Honey Ras family tree, Kingston, Jamaica.",
+      "t": "El árbol genealógico de la familia Honey Ras, Kingston, Jamaica."
     },
     "3eebfb79": {
       "src": "The Kwik Fat Cut family tree logo is more than a symbol. It carries heritage, ancestral food wisdom, and a profound respect for the cultures — Jamaican, West Indian, African — whose traditions understood nourishment long before modern misconceptions about diet.",
-      "t": ""
+      "t": "El logotipo del árbol genealógico de Kwik Fat Cut es más que un símbolo. Lleva consigo herencia, sabiduría alimentaria ancestral y un profundo respeto por las culturas (jamaicana, antillana, africana) cuyas tradiciones entendían la nutrición mucho antes de los conceptos erróneos modernos sobre la dieta."
     },
     "e2c62fbd": {
       "src": "The body needs more than 20 essential vitamins and minerals regularly. When diets are high in calories but low in nutrients, people can be overweight yet",
-      "t": ""
+      "t": "El cuerpo necesita con regularidad más de 20 vitaminas y minerales esenciales. Cuando la dieta es alta en calorías pero baja en nutrientes, una persona puede tener sobrepeso y aun así estar"
     },
     "7f332b01": {
       "src": "The choice is yours.",
-      "t": ""
+      "t": "La decisión es tuya."
     },
     "38ab9cba": {
       "src": "The microbiome is shaped by diet",
-      "t": ""
+      "t": "El microbioma se moldea con la dieta"
     },
     "1587b5fb": {
       "src": "The shift to processed food",
-      "t": ""
+      "t": "El giro hacia la comida procesada"
     },
     "b2fc0619": {
       "src": "This is why education comes first.”",
-      "t": ""
+      "t": "Por eso la educación va primero.”"
     },
     "7cc93d69": {
       "src": "Traditional and indigenous diets — Jamaican, West Indian, African — were built around natural, whole foods: healthy fats, fibre-rich vegetables, legumes, fruits, and ground provisions. No refined sugar. No heavily processed ingredients. Recipes passed through generations, grounded in what the body actually needs. Then something shifted.",
-      "t": ""
+      "t": "Las dietas tradicionales e indígenas (jamaicanas, antillanas, africanas) se basaban en alimentos naturales e integrales: grasas saludables, verduras ricas en fibra, legumbres, frutas y víveres. Sin azúcar refinada. Sin ingredientes muy procesados. Recetas transmitidas de generación en generación, basadas en lo que el cuerpo realmente necesita. Luego algo cambió."
     },
     "9403e13f": {
       "src": "Trillions of bacteria aid digestion, immune function, vitamin production, and mental health.",
-      "t": ""
+      "t": "Billones de bacterias ayudan a la digestión, la función inmunitaria, la producción de vitaminas y la salud mental."
     },
     "ba871eee": {
       "src": "Understanding your body before a problem arises",
-      "t": ""
+      "t": "Entender tu cuerpo antes de que surja un problema"
+    },
+    "ff1e563d": {
+      "src": "View Kingston on OpenStreetMap",
+      "t": "Ver Kingston en OpenStreetMap"
     },
     "6d04f533": {
       "src": "We are",
-      "t": ""
+      "t": "No estamos"
     },
     "4630d257": {
       "src": "We are here to help you understand what is happening. There is a difference — and it matters enormously.",
-      "t": ""
+      "t": "Estamos aquí para ayudarte a entender lo que está pasando. Hay una diferencia, y es enorme."
     },
     "2303e6b8": {
       "src": "We believe people should understand their bodies, food, and health",
-      "t": ""
+      "t": "Creemos que las personas deberían entender su cuerpo, su comida y su salud"
     },
     "4f790567": {
       "src": "We listen rather than lecture. We take action — you guide. We prioritise prevention before intervention. We row. You steer.",
-      "t": ""
+      "t": "Escuchamos en lugar de sermonear. Nosotros actuamos; tú guías. Priorizamos la prevención antes que la intervención. Nosotros remamos. Tú diriges."
     },
     "6ac14ee5": {
       "src": "We’re here",
-      "t": ""
+      "t": "Estamos aquí"
     },
     "fb2a8d5b": {
       "src": "Where Kwik Fat Cut was planted, and where it still grows from.",
-      "t": ""
+      "t": "Donde se plantó Kwik Fat Cut, y desde donde sigue creciendo."
     },
     "abe3404b": {
       "src": "Who We Are",
-      "t": ""
+      "t": "Quiénes somos"
     },
     "c35b592c": {
       "src": "Why It’s Free",
-      "t": ""
+      "t": "Por qué es gratis"
     },
     "9f41e75f": {
       "src": "adaptable.",
-      "t": ""
+      "t": "adaptable."
     },
     "79de2181": {
       "src": "and is linked to obesity, type 2 diabetes, and fatty liver disease.",
-      "t": ""
+      "t": "y se asocia con la obesidad, la diabetes tipo 2 y el hígado graso."
     },
     "3845ff3e": {
       "src": "before",
-      "t": ""
+      "t": "antes de"
     },
     "2ab02cdd": {
       "src": "being asked to follow weight-loss programmes, buy weight-loss products, or make major lifestyle changes. Understanding first. Everything else after.",
-      "t": ""
+      "t": "que se les pida seguir programas para bajar de peso, comprar productos para adelgazar o hacer grandes cambios en su estilo de vida. Primero, entender. Todo lo demás, después."
     },
     "bad92ac0": {
       "src": "community.",
-      "t": ""
+      "t": "familiar."
     },
     "45933710": {
       "src": "confidence, not confusion.",
-      "t": ""
+      "t": "confianza, no con confusión."
     },
     "f968f006": {
       "src": "culinary peace.",
-      "t": ""
+      "t": "paz culinaria."
     },
     "63ae2182": {
       "src": "damage the metabolic system",
-      "t": ""
+      "t": "dañar el sistema metabólico"
     },
     "aa1cbcc9": {
       "src": "education always comes first.",
-      "t": ""
+      "t": "la educación siempre va primero."
     },
     "d4da6d90": {
       "src": "essential vitamins, minerals, and fibre.",
-      "t": ""
+      "t": "vitaminas, minerales y fibra esenciales."
     },
     "626d6130": {
       "src": "family health community",
-      "t": ""
+      "t": "comunidad de salud familiar"
     },
     "7ce4aade": {
       "src": "focused on learning, understanding, and building sustainable health habits — without pressure, body shaming, or quick-fix thinking. This is a space to grow, not a race to finish.",
-      "t": ""
+      "t": "centrada en aprender, entender y construir hábitos de salud sostenibles, sin presión, sin criticar el cuerpo de nadie y sin la mentalidad de las soluciones rápidas. Este es un espacio para crecer, no una carrera por terminar."
     },
     "c938a5af": {
       "src": "go wrong?",
-      "t": ""
+      "t": "tomaron el rumbo equivocado?"
     },
     "6b98ed8f": {
       "src": "health",
-      "t": ""
+      "t": "de salud"
     },
     "f5e2b236": {
       "src": "intervention.",
-      "t": ""
+      "t": "la intervención."
     },
     "e2ef93ff": {
       "src": "is more powerful than treating one after. Education is the most effective form of intervention we know.",
-      "t": ""
+      "t": "es más poderoso que tratarlo después. La educación es la forma de intervención más eficaz que conocemos."
     },
     "3c0281ea": {
       "src": "less nutrition.",
-      "t": ""
+      "t": "menos nutrición."
     },
     "c69b9818": {
       "src": "listen.",
-      "t": ""
-    },
-    "8095fda4": {
-      "src": "mdash; empowering people with genuine strength and confidence through education alone.",
-      "t": ""
+      "t": "escucharte."
     },
     "0adbcb3d": {
       "src": "modern diets",
-      "t": ""
+      "t": "las dietas modernas"
     },
-    "7ac523c5": {
-      "src": "not here to tell you what to do.",
-      "t": ""
+    "1c94843c": {
+      "src": "not here to tell you what to eat.",
+      "t": "aquí para decirte qué comer."
     },
     "e217e799": {
       "src": "personal.",
-      "t": ""
+      "t": "personal."
     },
     "c7029f5c": {
       "src": "prioritising profit over nourishment.",
-      "t": ""
+      "t": "anteponiendo las ganancias a la nutrición."
     },
     "722824dc": {
       "src": "stimulate the brain’s reward system",
-      "t": ""
+      "t": "estimular el sistema de recompensa del cerebro"
     },
     "42454824": {
       "src": "to",
-      "t": ""
+      "t": "para"
     },
     "a2b21edf": {
       "src": "tradition",
-      "t": ""
+      "t": "tradición"
     },
     "e61ba1aa": {
       "src": "undernourished at the cellular level.",
-      "t": ""
+      "t": "desnutrida a nivel celular."
     },
     "0ec63aab": {
       "src": "understand",
-      "t": ""
+      "t": "entender"
     },
     "278c8c6d": {
       "src": "understanding",
-      "t": ""
+      "t": "comprensión"
     },
     "2abf8973": {
       "src": "what you eat?",
-      "t": ""
+      "t": "lo que comes?"
     },
     "02061e14": {
       "src": "— especially fibre, plant foods, and natural whole foods.",
-      "t": ""
+      "t": ", sobre todo con la fibra, los alimentos vegetales y los alimentos integrales naturales."
     },
     "b4f4fd05": {
       "src": "— making it natural to eat more than the body needs. This is design, not weakness.",
-      "t": ""
+      "t": ", lo que hace natural comer más de lo que el cuerpo necesita. Es diseño, no debilidad."
     },
     "079d1738": {
       "src": "— not a subscription.",
-      "t": ""
+      "t": ", no una suscripción."
     },
     "cd2921c1": {
       "src": "“Healthy communities begin at home.”",
-      "t": ""
+      "t": "“Las comunidades saludables comienzan en casa.”"
     },
     "40213d42": {
       "src": "“Many people today are eating more food — but getting",
-      "t": ""
+      "t": "“Hoy muchas personas comen más comida, pero obtienen"
     }
   }
 }

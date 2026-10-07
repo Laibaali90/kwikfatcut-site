@@ -1,0 +1,911 @@
+{
+  "_note": "Page content for learn-returning-to-real-food.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "fb48e8b1": {
+      "src": ", including colorectal, breast, and prostate. The mechanism involves fibre (reducing transit time of carcinogens through the colon), antioxidants (reducing DNA damage from free radicals), and phytochemicals (inhibiting tumour promotion pathways).",
+      "t": ", entre ellos el colorrectal, el de mama y el de próstata. El mecanismo incluye la fibra (que acorta el paso de sustancias cancerígenas por el colon), los antioxidantes (que reducen el daño al ADN causado por los radicales libres) y los fitoquímicos (que frenan las vías que favorecen los tumores)."
+    },
+    "12bce364": {
+      "src": ". A 2022 study in JAMA Internal Medicine found ultra-processed food consumption linked to higher risk of type 2 diabetes, cardiovascular disease, and all-cause mortality.",
+      "t": ". Un estudio de 2022 en JAMA Internal Medicine relacionó el consumo de ultraprocesados con un mayor riesgo de diabetes tipo 2, enfermedad cardiovascular y mortalidad por todas las causas."
+    },
+    "45e4757f": {
+      "src": ". Whole grains specifically reduce the glycaemic load of meals, protecting insulin sensitivity over time.",
+      "t": ". Los cereales integrales, en concreto, reducen la carga glucémica de las comidas y protegen la sensibilidad a la insulina con el tiempo."
+    },
+    "1ced6a6e": {
+      "src": "05",
+      "t": "05"
+    },
+    "a7f62ab2": {
+      "src": "11 million deaths per year",
+      "t": "11 millones de muertes al año"
+    },
+    "2035a36e": {
+      "src": "11M",
+      "t": "11 millones"
+    },
+    "839c3cac": {
+      "src": "12% higher risk of cancer",
+      "t": "riesgo de cáncer un 12% mayor"
+    },
+    "8a5ab8a4": {
+      "src": "14 min",
+      "t": "14 min"
+    },
+    "080ce607": {
+      "src": "23% lower risk of type 2 diabetes",
+      "t": "riesgo de diabetes tipo 2 un 23% menor"
+    },
+    "525005a9": {
+      "src": "30%",
+      "t": "30%"
+    },
+    "75d8ef1b": {
+      "src": "300k",
+      "t": "300.000"
+    },
+    "4c9288a9": {
+      "src": "85%",
+      "t": "85%"
+    },
+    "1749da72": {
+      "src": "90–95% of calories from whole plant foods.",
+      "t": "entre el 90 y el 95% de las calorías viene de alimentos vegetales integrales."
+    },
+    "cc738412": {
+      "src": "A 2019 meta-analysis in JAMA Internal Medicine (415,000 participants across nine studies) found that the highest adherence to plant-based diets was associated with a",
+      "t": "Un metaanálisis de 2019 en JAMA Internal Medicine (415.000 participantes en nueve estudios) encontró que seguir más de cerca una dieta basada en plantas se asociaba a un"
+    },
+    "49b5e6eb": {
+      "src": "A 30-minute daily walk reduces all-cause mortality by 31%.",
+      "t": "Una caminata diaria de 30 minutos reduce la mortalidad por todas las causas en un 31%."
+    },
+    "24432169": {
+      "src": "A landmark 2018 study in Cell found that the diversity of the gut microbiome — the 38 trillion bacteria that regulate immunity, mood, metabolism, and inflammation — was directly determined by dietary fibre intake.",
+      "t": "Un estudio de referencia de 2018 en Cell encontró que la diversidad del microbioma intestinal, los 38 billones de bacterias que regulan la inmunidad, el ánimo, el metabolismo y la inflamación, dependía directamente del consumo de fibra."
+    },
+    "fd3a3121": {
+      "src": "A landmark 2019 study",
+      "t": "Un estudio de referencia de 2019"
+    },
+    "e8992828": {
+      "src": "Across 300,000 years of human history, every population that thrived, that built lasting health, that produced the longest-lived communities on earth —",
+      "t": "A lo largo de 300.000 años de historia humana, todas las poblaciones que prosperaron, que construyeron una salud duradera, que dieron lugar a las comunidades más longevas del planeta,"
+    },
+    "1ea7682c": {
+      "src": "Across Jamaica and the Caribbean, traditional kitchens still showcase nutritional wisdom that modern science is only now fully quantifying. These are not folk remedies or cultural sentimentality.",
+      "t": "En toda Jamaica y el Caribe, las cocinas tradicionales siguen mostrando una sabiduría nutricional que la ciencia moderna apenas está cuantificando por completo. No son remedios populares ni sentimentalismo cultural."
+    },
+    "0cd17a0c": {
+      "src": "Adopting a beginner’s mindset when changing eating habits can lead to a healthier, happier, and longer life. It begins with returning to real foods — indigenous foods rooted in old family traditions and local environments. Not trends. The original blueprint of human nutrition.",
+      "t": "Adoptar una mentalidad de principiante al cambiar los hábitos alimentarios puede llevar a una vida más sana, más feliz y más larga. Empieza por volver a los alimentos reales: los alimentos indígenas arraigados en las viejas tradiciones familiares y en el entorno local. No modas. El plano original de la nutrición humana."
+    },
+    "a7184e7f": {
+      "src": "All articles free. No subscription. The knowledge tree keeps growing.",
+      "t": "Todos los artículos son gratis. Sin suscripción. El árbol del conocimiento sigue creciendo."
+    },
+    "0b97846c": {
+      "src": "Ancestral Nutrition",
+      "t": "Nutrición ancestral"
+    },
+    "ba106ca3": {
+      "src": "Ancestral Nutrition — Proven by Science — Rooted in Tradition",
+      "t": "Nutrición Ancestral, Comprobada por la Ciencia, Con Raíces en la Tradición"
+    },
+    "fc09f197": {
+      "src": "Ancestral diets used salt sparingly, from natural sources. Modern processed foods deliver sodium in amounts 10–20 times what the human kidney was designed to manage. The WHO recommends less than 2g of sodium per day. The global average is 3.95g.",
+      "t": "Las dietas ancestrales usaban la sal con moderación y de fuentes naturales. Los alimentos procesados modernos aportan sodio en cantidades de 10 a 20 veces lo que el riñón humano está diseñado para manejar. La OMS recomienda menos de 2 g de sodio al día. La media mundial es de 3,95 g."
+    },
+    "c1f1bdaa": {
+      "src": "Ancestral natural food practices refined across centuries of observational wisdom",
+      "t": "Prácticas alimentarias naturales y ancestrales perfeccionadas durante siglos de sabiduría observada"
+    },
+    "5ca059ab": {
+      "src": "Antioxidants, vitamin C, digestive enzymes, hydration.",
+      "t": "Antioxidantes, vitamina C, enzimas digestivas, hidratación."
+    },
+    "cc4e04e0": {
+      "src": "At Kwik Fat Cut, the goal is straightforward. Not quick fixes. Not confusing diet fads. Not products that promise transformation without understanding.",
+      "t": "En Kwik Fat Cut, el objetivo es sencillo. No soluciones rápidas. No modas dietéticas confusas. No productos que prometen una transformación sin comprensión."
+    },
+    "57289cb9": {
+      "src": "Attributed to poor diet globally (Lancet 2019). More than tobacco. The primary risk: absence of whole foods.",
+      "t": "atribuidas a la mala alimentación en el mundo (Lancet 2019). Más que el tabaco. El principal riesgo: la ausencia de alimentos integrales."
+    },
+    "a1a8a383": {
+      "src": "Callaloo is higher in iron per serving than spinach. Folate is critical for neurotransmitter synthesis and cardiovascular health. Vitamin K regulates blood coagulation and bone mineralisation. This is not a side dish. It is medicine in a pot.",
+      "t": "El callaloo tiene más hierro por porción que la espinaca. El folato es fundamental para producir neurotransmisores y para la salud cardiovascular. La vitamina K regula la coagulación de la sangre y la mineralización de los huesos. No es un acompañamiento. Es medicina en una olla."
+    },
+    "bb84d9e7": {
+      "src": "Cancer prevention —",
+      "t": "Prevención del cáncer:"
+    },
+    "dc308a49": {
+      "src": "Canola, corn, soybean, and sunflower oils — extracted through chemical processes at high heat — produce oxidised fats and inflammatory compounds not present in ancestral diets. They replaced the saturated fats and natural cold-pressed oils that cultures had used safely for centuries. Their widespread introduction tracks almost perfectly with the rise in inflammatory disease.",
+      "t": "Los aceites de canola, maíz, soya y girasol, extraídos con procesos químicos a altas temperaturas, producen grasas oxidadas y compuestos inflamatorios que no existían en las dietas ancestrales. Sustituyeron a las grasas saturadas y a los aceites naturales prensados en frío que las culturas habían usado sin problemas durante siglos. Su uso generalizado coincide casi a la perfección con el aumento de las enfermedades inflamatorias."
+    },
+    "3802453c": {
+      "src": "Cardiovascular disease —",
+      "t": "Enfermedad cardiovascular:"
+    },
+    "a6cb7916": {
+      "src": "Chemically processed salt —",
+      "t": "La sal procesada químicamente:"
+    },
+    "d21f52f1": {
+      "src": "Children learn by watching adults. When families cook together, choose natural foods, and prioritise health,",
+      "t": "Los niños aprenden mirando a los adultos. Cuando las familias cocinan juntas, eligen alimentos naturales y dan prioridad a la salud,"
+    },
+    "73c66160": {
+      "src": "Choose",
+      "t": "Elige"
+    },
+    "f65cb354": {
+      "src": "Choose habits that",
+      "t": "Elige hábitos que"
+    },
+    "e0cbfdd5": {
+      "src": "Choose knowledge that",
+      "t": "Elige un conocimiento que"
+    },
+    "81ccfeae": {
+      "src": "Choose whole first — education drives decision",
+      "t": "Elige lo integral primero: la educación guía la decisión"
+    },
+    "69e366ef": {
+      "src": "Complete plant protein, fibre, iron, folate, magnesium.",
+      "t": "Proteína vegetal completa, fibra, hierro, folato, magnesio."
+    },
+    "673652e8": {
+      "src": "Complex carbohydrates, resistant starch, potassium, vitamin A.",
+      "t": "Carbohidratos complejos, almidón resistente, potasio, vitamina A."
+    },
+    "a3e20e04": {
+      "src": "Consistent whole-food eating produces measurable improvements in inflammatory markers within weeks. A 2020 study in Nature Medicine found that switching from a processed to a whole-food plant-based diet produced",
+      "t": "Comer alimentos integrales de forma constante mejora de forma medible los marcadores inflamatorios en pocas semanas. Un estudio de 2020 en Nature Medicine encontró que pasar de una dieta procesada a una dieta integral basada en plantas producía"
+    },
+    "ab207d5e": {
+      "src": "Cook at home with simple, preserving methods",
+      "t": "Cocina en casa con métodos sencillos que conserven"
+    },
+    "577d4451": {
+      "src": "Cooking at home allows complete control over ingredients, techniques, and portion sizes. Simple methods — steaming, boiling, roasting, and light sautéing in healthy oils — preserve the most nutrients.",
+      "t": "Cocinar en casa te da control total sobre los ingredientes, las técnicas y el tamaño de las porciones. Los métodos sencillos (al vapor, hervido, asado y ligeramente salteado en aceites saludables) conservan más nutrientes."
+    },
+    "23e88754": {
+      "src": "Cultural understanding of which foods heal, which combinations nourish, which seasons demand which responses",
+      "t": "Un saber cultural sobre qué alimentos curan, qué combinaciones nutren y qué estaciones piden qué respuestas"
+    },
+    "8e370e9a": {
+      "src": "Deaths/year",
+      "t": "de muertes al año"
+    },
+    "d549daf4": {
+      "src": "Deep Research",
+      "t": "Investigación profunda"
+    },
+    "a32ec418": {
+      "src": "Education before",
+      "t": "La educación antes"
+    },
+    "3f2bf70e": {
+      "src": "Education, clarity, and practical guidance rooted in both science and cultural wisdom.",
+      "t": "Educación, claridad y orientación práctica basadas en la ciencia y en la sabiduría cultural."
+    },
+    "59b2c019": {
+      "src": "Elders served as teachers and role models. Food was culture, medicine, and spiritual connection simultaneously — not a commodity.",
+      "t": "Los mayores eran maestros y ejemplos. La comida era a la vez cultura, medicina y conexión espiritual, no una mercancía."
+    },
+    "6fccb333": {
+      "src": "Epigenetics — the study of how behaviour and environment affect gene expression — has confirmed that the dietary choices of one generation",
+      "t": "La epigenética, el estudio de cómo el comportamiento y el entorno afectan a la expresión de los genes, ha confirmado que las decisiones alimentarias de una generación"
+    },
+    "3c030478": {
+      "src": "Every 10g increase in daily fibre intake was associated with measurable improvement in microbiome diversity.",
+      "t": "Cada aumento de 10 g en la fibra diaria se asociaba a una mejora medible de la diversidad del microbioma."
+    },
+    "af971e05": {
+      "src": "Every Blue Zone culture independently arrived at the same nutritional pattern through different cultural traditions, across different continents.",
+      "t": "Cada cultura de las Zonas Azules llegó por su cuenta al mismo patrón nutricional, a través de tradiciones culturales distintas y en continentes distintos."
+    },
+    "cde60999": {
+      "src": "Excess sodium is the single most documented dietary cause of hypertension.",
+      "t": "El exceso de sodio es la causa alimentaria de la hipertensión más documentada."
+    },
+    "4b23f3ee": {
+      "src": "Fibre displacement —",
+      "t": "El desplazamiento de la fibra:"
+    },
+    "0c3be993": {
+      "src": "Fibre is the primary food source of the gut microbiome.",
+      "t": "La fibra es la principal fuente de alimento del microbioma intestinal."
+    },
+    "86e44269": {
+      "src": "Food should empower, not confuse. The knowledge shared through this platform is designed to help individuals and families understand their bodies, reconnect with real foods, and make choices that support long-term health — informed choices, made freely, without pressure or shame.",
+      "t": "La comida debe dar poder, no confundir. El conocimiento que se comparte en esta plataforma está pensado para ayudar a las personas y las familias a entender su cuerpo, reconectar con la comida real y tomar decisiones que apoyen la salud a largo plazo: decisiones informadas, tomadas con libertad, sin presión ni vergüenza."
+    },
+    "39c687d4": {
+      "src": "Food was",
+      "t": "La comida se"
+    },
+    "762d90fd": {
+      "src": "Food was not",
+      "t": "La comida no se hacía"
+    },
+    "3613cb35": {
+      "src": "For the vast majority of human history — approximately 300,000 years of",
+      "t": "Durante la inmensa mayoría de la historia humana, unos 300.000 años de existencia del"
+    },
+    "8b0ecc42": {
+      "src": "Give it real food. Give it understanding. Give it time.",
+      "t": "Dale comida real. Dale comprensión. Dale tiempo."
+    },
+    "52c53575": {
+      "src": "Global sugar consumption increased from approximately 2kg per person per year in 1800 to over 40kg per person per year in 2023. Refined sugar contains no fibre, no micronutrients, and no phytochemicals. It delivers glucose without the buffering compounds that whole fruit provides. The result: chronic insulin spikes, leptin resistance, and the metabolic foundation of obesity and type 2 diabetes.",
+      "t": "El consumo mundial de azúcar pasó de unos 2 kg por persona al año en 1800 a más de 40 kg por persona al año en 2023. El azúcar refinada no tiene fibra, ni micronutrientes, ni fitoquímicos. Aporta glucosa sin los compuestos amortiguadores que da la fruta entera. El resultado: picos crónicos de insulina, resistencia a la leptina y la base metabólica de la obesidad y la diabetes tipo 2."
+    },
+    "87a5b491": {
+      "src": "Gut microbiome —",
+      "t": "Microbioma intestinal:"
+    },
+    "fbf4ebd3": {
+      "src": "Health does not develop overnight. It grows gradually, much like a tree — shaped by what it receives at the root, expressed through the strength of its trunk, and reaching outward into future generations through its branches. This is not metaphor. It is biological reality.",
+      "t": "La salud no se desarrolla de la noche a la mañana. Crece poco a poco, como un árbol: se moldea con lo que recibe en la raíz, se expresa en la fuerza de su tronco y llega a las generaciones futuras a través de sus ramas. No es una metáfora. Es una realidad biológica."
+    },
+    "2784ab49": {
+      "src": "Healthy eating did not begin with modern nutritional science.",
+      "t": "La alimentación sana no empezó con la ciencia nutricional moderna."
+    },
+    "1d924ca3": {
+      "src": "Healthy habits grow stronger when shared. Families that teach children about food — how it grows, how it is harvested, how it is prepared, and what it does inside the body — build lifelong nutritional intelligence.",
+      "t": "Los hábitos sanos se fortalecen cuando se comparten. Las familias que enseñan a los niños sobre la comida (cómo crece, cómo se cosecha, cómo se prepara y qué hace dentro del cuerpo) construyen una inteligencia nutricional para toda la vida."
+    },
+    "fa9ea05d": {
+      "src": "Healthy traditions spread outward like branches from a sturdy tree — strengthening entire communities.",
+      "t": "Las tradiciones sanas se extienden como las ramas de un árbol fuerte y fortalecen a comunidades enteras."
+    },
+    "5e673b15": {
+      "src": "Homo sapiens",
+      "t": "Homo sapiens"
+    },
+    "fe0a79ca": {
+      "src": "How your habits shape the children who watch you.",
+      "t": "Cómo tus hábitos moldean a los niños que te observan."
+    },
+    "21325ba7": {
+      "src": "Human physiology evolved eating whole, unprocessed foods. The processed diet is 150 years old.",
+      "t": "años de evolución de la fisiología humana comiendo alimentos integrales y sin procesar. La dieta procesada tiene 150 años."
+    },
+    "d6f63514": {
+      "src": "Hunter-gatherer populations:",
+      "t": "Poblaciones de cazadores y recolectores:"
+    },
+    "c060969c": {
+      "src": "Industrial seed oils —",
+      "t": "Los aceites de semillas industriales:"
+    },
+    "423a3fe6": {
+      "src": "Iron, calcium, vitamins A, C & K, folate, antioxidants.",
+      "t": "Hierro, calcio, vitaminas A, C y K, folato, antioxidantes."
+    },
+    "0bb2d850": {
+      "src": "It has existed in traditional cultures for centuries",
+      "t": "Ha existido en las culturas tradicionales durante siglos"
+    },
+    "13a48d6e": {
+      "src": "It is returning to it.",
+      "t": "Es volver a ella."
+    },
+    "528c90da": {
+      "src": "It often begins with remembering what our ancestors already knew.",
+      "t": "A menudo empieza por recordar lo que nuestros antepasados ya sabían."
+    },
+    "4f445795": {
+      "src": "Jamaica’s Living Wisdom",
+      "t": "La sabiduría viva de Jamaica"
+    },
+    "56a7a7d5": {
+      "src": "Jamaica’s living wisdom",
+      "t": "La sabiduría viva de Jamaica"
+    },
+    "7df85d44": {
+      "src": "Keep learning.",
+      "t": "Sigue aprendiendo."
+    },
+    "66ebc7c6": {
+      "src": "Keep reading.",
+      "t": "Sigue leyendo."
+    },
+    "e0ded5e7": {
+      "src": "Knowledge and traditions passed through generations.",
+      "t": "Conocimiento y tradiciones transmitidos de generación en generación."
+    },
+    "4a336bce": {
+      "src": "Kwik Fat Cut exists to restore it.",
+      "t": "Kwik Fat Cut existe para recuperarlo."
+    },
+    "87e6742e": {
+      "src": "Kwik Fat Cut exists to support and extend it — freely, to everyone, without exception.",
+      "t": "Kwik Fat Cut existe para apoyarlo y ampliarlo: gratis, para todos, sin excepción."
+    },
+    "2a3ff932": {
+      "src": "Kwik Fat Cut was created to ensure that no one is reduced solely to data before being seen as a person.",
+      "t": "Kwik Fat Cut se creó para que nadie quede reducido a simples datos antes de ser visto como persona."
+    },
+    "f361dbc3": {
+      "src": "Learn, teach, and share the knowledge",
+      "t": "Aprende, enseña y comparte el conocimiento"
+    },
+    "5f67487a": {
+      "src": "Learning from the past",
+      "t": "Aprender del pasado"
+    },
+    "943756c4": {
+      "src": "Longevity —",
+      "t": "Longevidad:"
+    },
+    "66d2b035": {
+      "src": "Lower risk",
+      "t": "menos riesgo"
+    },
+    "4513cbd1": {
+      "src": "Many of these traditions are reflected in Ital cooking — which emphasises natural foods, minimal processing, and respect for both body and nature. The principle is straightforward and proven:",
+      "t": "Muchas de estas tradiciones se reflejan en la cocina Ital, que da prioridad a los alimentos naturales, al mínimo procesamiento y al respeto por el cuerpo y la naturaleza. El principio es sencillo y está probado:"
+    },
+    "a8e9e2b0": {
+      "src": "Meals were prepared with purpose and shared with others.",
+      "t": "Las comidas se preparaban con propósito y se compartían."
+    },
+    "d9aeae38": {
+      "src": "Move daily — movements are medicines",
+      "t": "Muévete cada día: los movimientos son medicina"
+    },
+    "dd1492b1": {
+      "src": "Mummies and ancient skeletal remains:",
+      "t": "Momias y restos esqueléticos antiguos:"
+    },
+    "25a54c4c": {
+      "src": "Nature provides what the body needs, when it is needed.",
+      "t": "La naturaleza da lo que el cuerpo necesita, cuando lo necesita."
+    },
+    "c4522658": {
+      "src": "No supplement replicates this. The whole food is the medicine.",
+      "t": "Ningún suplemento puede reproducir esto. El alimento entero es la medicina."
+    },
+    "b08dbc29": {
+      "src": "Of heart disease in people eating the most whole plant foods vs the least (Harvard Nurses’ Health Study, 80,000 participants).",
+      "t": "de enfermedad cardíaca en quienes comen más alimentos vegetales integrales frente a quienes comen menos (Harvard Nurses’ Health Study, 80.000 participantes)."
+    },
+    "7551d108": {
+      "src": "Our ancestors rarely faced the widespread burden of many modern chronic illnesses — heart disease, high blood pressure, type 2 diabetes, stroke, obesity-related cancers. The archaeological and anthropological evidence for this is extensive and consistent across populations on every continent.",
+      "t": "Nuestros antepasados rara vez sufrían la carga generalizada de muchas enfermedades crónicas modernas: enfermedades cardíacas, presión alta, diabetes tipo 2, derrames cerebrales, cánceres relacionados con la obesidad. La evidencia arqueológica y antropológica al respecto es amplia y coherente en poblaciones de todos los continentes."
+    },
+    "86c54d3b": {
+      "src": "Our bodies are designed to move, not to receive nutrition passively.",
+      "t": "Nuestro cuerpo está diseñado para moverse, no para recibir la nutrición de forma pasiva."
+    },
+    "ba7a1977": {
+      "src": "Over the last 150 years, industrial food production fundamentally reshaped what people eat — and the health consequences have been catastrophic, measurable, and well-documented. The shift happened not because people chose worse food. It happened because",
+      "t": "En los últimos 150 años, la producción industrial de alimentos cambió por completo lo que come la gente, y las consecuencias para la salud han sido catastróficas, medibles y bien documentadas. El cambio no ocurrió porque la gente eligiera peor comida. Ocurrió porque"
+    },
+    "820aea87": {
+      "src": "Papaya contains papain, one of the most potent plant-based digestive enzymes known. Mango contains over 20 vitamins and minerals including mangiferin — a compound with documented anti-diabetic and anti-inflammatory properties. Soursop contains annonaceous acetogenins studied for anti-cancer activity.",
+      "t": "La papaya contiene papaína, una de las enzimas digestivas vegetales más potentes que se conocen. El mango contiene más de 20 vitaminas y minerales, entre ellos la mangiferina, un compuesto con propiedades antidiabéticas y antiinflamatorias documentadas. La guanábana contiene acetogeninas anonáceas estudiadas por su actividad anticancerígena."
+    },
+    "e2d3f2b0": {
+      "src": "Physical activity is inseparable from nutritional health. Exercise improves insulin sensitivity, increases the metabolic uptake of nutrients from food, stimulates gut motility, reduces systemic inflammation, and triggers BDNF — the protein that grows new brain cells.",
+      "t": "La actividad física es inseparable de la salud nutricional. El ejercicio mejora la sensibilidad a la insulina, aumenta el aprovechamiento metabólico de los nutrientes de la comida, estimula la motilidad intestinal, reduce la inflamación sistémica y activa el BDNF, la proteína que hace crecer nuevas células cerebrales."
+    },
+    "1573bf2c": {
+      "src": "Plant-based",
+      "t": "vegetal"
+    },
+    "59866953": {
+      "src": "Practical steps",
+      "t": "Pasos prácticos"
+    },
+    "65a7d874": {
+      "src": "Practical steps to start",
+      "t": "Pasos prácticos para empezar"
+    },
+    "29da57d8": {
+      "src": "Raw and lightly cooked whole foods deliver the highest bioavailable nutrient concentrations.",
+      "t": "Los alimentos integrales crudos y poco cocinados aportan las mayores concentraciones de nutrientes biodisponibles."
+    },
+    "81f54124": {
+      "src": "Red peas and gungo peas are among the most nutrient-dense legumes documented. Their combination with rice creates a complete amino acid profile. Their soluble fibre specifically binds to LDL cholesterol and removes it through digestion — a documented cardiovascular protective mechanism.",
+      "t": "Los frijoles rojos y los gandules están entre las legumbres más ricas en nutrientes documentadas. Combinados con arroz, forman un perfil completo de aminoácidos. Su fibra soluble se une al colesterol LDL y lo elimina con la digestión, un mecanismo documentado de protección cardiovascular."
+    },
+    "4bd18496": {
+      "src": "Refined sugar —",
+      "t": "El azúcar refinada:"
+    },
+    "971a8801": {
+      "src": "Research from Marshall Duke at Emory University found that children who knew their family’s food traditions and health stories showed greater resilience and better health outcomes. The benefits extend beyond individuals.",
+      "t": "La investigación de Marshall Duke en Emory University encontró que los niños que conocían las tradiciones alimentarias y las historias de salud de su familia mostraban más resiliencia y mejor salud. Los beneficios van más allá de cada persona."
+    },
+    "31bf60a3": {
+      "src": "Research on the Hadza of Tanzania — one of the last remaining hunter-gatherer societies — found essentially no cases of obesity, hypertension, or type 2 diabetes, despite no access to modern healthcare. Their diet: seasonal plant foods, tubers, berries, honey, and occasional lean meat.",
+      "t": "La investigación sobre los hadza de Tanzania, una de las últimas sociedades de cazadores y recolectores, prácticamente no encontró casos de obesidad, hipertensión ni diabetes tipo 2, pese a no tener acceso a la atención médica moderna. Su dieta: alimentos vegetales de temporada, tubérculos, bayas, miel y carne magra de vez en cuando."
+    },
+    "a07ca601": {
+      "src": "Resistant starch from ground provisions feeds Bifidobacterium and Lactobacillus — the gut bacteria most associated with metabolic health. The glycaemic response of whole yam is dramatically lower than refined carbohydrates. Sustained energy without the insulin spike.",
+      "t": "El almidón resistente de los víveres alimenta a Bifidobacterium y Lactobacillus, las bacterias intestinales más asociadas a la salud metabólica. La respuesta glucémica del ñame entero es mucho más baja que la de los carbohidratos refinados. Energía sostenida sin picos de insulina."
+    },
+    "c3620aa6": {
+      "src": "Respect for the land, nature, and seasonal harvest cycles",
+      "t": "Respeto por la tierra, la naturaleza y los ciclos de cosecha de cada estación"
+    },
+    "7d811183": {
+      "src": "Respect local, seasonal, and land-connected foods",
+      "t": "Respeta los alimentos locales, de temporada y conectados con la tierra"
+    },
+    "6404dcf6": {
+      "src": "Returning to",
+      "t": "Volver a"
+    },
+    "c09db7e6": {
+      "src": "Returning to Real Food",
+      "t": "Volver a la Comida Real"
+    },
+    "5ec51d13": {
+      "src": "Returning to Real Food — Kwik Fat Cut",
+      "t": "Volver a la comida real · Kwik Fat Cut"
+    },
+    "34490a65": {
+      "src": "Returning to real food does not require drastic overnight transformation. Small, consistent, sustainable steps consistently outperform dramatic interventions in long-term dietary research. The body responds to consistency over intensity, always.",
+      "t": "Volver a la comida real no exige una transformación drástica de la noche a la mañana. En la investigación sobre la alimentación a largo plazo, los pasos pequeños, constantes y sostenibles superan siempre a las intervenciones drásticas. El cuerpo responde a la constancia por encima de la intensidad, siempre."
+    },
+    "2109636a": {
+      "src": "Seasonal foods are fresher, more nutrient-dense (studies show up to 30% higher antioxidant content in freshly harvested versus stored produce), and more aligned with the body’s own seasonal needs.",
+      "t": "Los alimentos de temporada son más frescos, más ricos en nutrientes (los estudios muestran hasta un 30% más de antioxidantes en los productos recién cosechados frente a los almacenados) y están más en sintonía con las necesidades de cada estación del propio cuerpo."
+    },
+    "2dbb4615": {
+      "src": "Smile for me, Jamaica. We row. You steer. 🇯🇲❤️💚",
+      "t": "Sonríe para mí, Jamaica. Nosotros remamos. Tú diriges. 🇯🇲❤️💚"
+    },
+    "6e3ad33d": {
+      "src": "Sometimes, progress starts with a single decision. Not a programme. Not a membership. A decision — to choose the food your grandmother would recognise over the product no one’s grandmother has heard of.",
+      "t": "A veces, el progreso empieza con una sola decisión. No un programa. No una membresía. Una decisión: elegir la comida que tu abuela reconocería en lugar del producto del que ninguna abuela ha oído hablar."
+    },
+    "1811ca83": {
+      "src": "Start Here",
+      "t": "Empieza aquí"
+    },
+    "2f5bc6c4": {
+      "src": "Strong roots provide stability that no individual supplement or diet trend can replicate",
+      "t": "Unas raíces fuertes dan una estabilidad que ningún suplemento ni moda dietética puede reproducir"
+    },
+    "7955ede3": {
+      "src": "Studies of Egyptian mummies (2013, Journal of the American Medical Association) found atherosclerosis in only a minority of ancient Egyptians — despite no statins, no cardiac surgery, and no modern medicine. The pattern of disease was dramatically different from modern populations eating processed diets.",
+      "t": "Los estudios de momias egipcias (2013, Journal of the American Medical Association) encontraron ateroesclerosis solo en una minoría de los antiguos egipcios, sin estatinas, sin cirugía cardíaca y sin medicina moderna. El patrón de enfermedad era muy distinto al de las poblaciones modernas que comen dietas procesadas."
+    },
+    "ce8d3bd5": {
+      "src": "Supporting local farmers strengthens community food systems and reduces the dependence on industrial supply chains that prioritise shelf life over nutrition.",
+      "t": "Apoyar a los agricultores locales fortalece los sistemas alimentarios de la comunidad y reduce la dependencia de las cadenas de suministro industriales, que priorizan la duración en el estante sobre la nutrición."
+    },
+    "6e6dd0d5": {
+      "src": "That transmission of nutritional intelligence was the original health education system.",
+      "t": "Esa transmisión de inteligencia nutricional fue el sistema original de educación en salud."
+    },
+    "2316689e": {
+      "src": "The Blue Zones research (populations with the highest concentrations of centenarians globally — Okinawa, Sardinia, Nicoya, Ikaria, and Loma Linda) found one consistent dietary characteristic:",
+      "t": "La investigación sobre las Zonas Azules (las poblaciones con mayor concentración de centenarios del mundo: Okinawa, Cerdeña, Nicoya, Icaria y Loma Linda) encontró un rasgo alimentario constante:"
+    },
+    "4bb04f9a": {
+      "src": "The Dutch Hunger Winter of 1944–1945 produced epigenetic changes measurable in the grandchildren of women who were pregnant during the famine. Our food choices are never just personal.",
+      "t": "El Invierno del Hambre neerlandés de 1944 y 1945 produjo cambios epigenéticos medibles en los nietos de las mujeres que estaban embarazadas durante la hambruna. Nuestras decisiones sobre la comida nunca son solo personales."
+    },
+    "b651b149": {
+      "src": "The Evidence",
+      "t": "La evidencia"
+    },
+    "4a3327a4": {
+      "src": "The Family Tree",
+      "t": "El árbol genealógico"
+    },
+    "cfbb5fe1": {
+      "src": "The Family Tree of Health",
+      "t": "El árbol genealógico de la salud"
+    },
+    "27e1ce25": {
+      "src": "The Foundation",
+      "t": "El Fundamento"
+    },
+    "3153f98c": {
+      "src": "The Framework",
+      "t": "El marco"
+    },
+    "b1d6805e": {
+      "src": "The Kwik Fat Cut Way",
+      "t": "La manera de Kwik Fat Cut"
+    },
+    "914b6667": {
+      "src": "The Kwik Fat Cut approach",
+      "t": "El enfoque de Kwik Fat Cut"
+    },
+    "e90fb0d0": {
+      "src": "The NOVA classification system identifies ultra-processed foods as those made from substances derived from foods rather than from foods themselves. A 2019 BMJ study found that a 10% increase in ultra-processed food consumption was associated with a",
+      "t": "El sistema de clasificación NOVA define los ultraprocesados como productos hechos con sustancias derivadas de los alimentos, y no con los alimentos en sí. Un estudio de 2019 en el BMJ encontró que un aumento del 10% en el consumo de ultraprocesados se asociaba a un"
+    },
+    "d0715177": {
+      "src": "The Okinawan paradox:",
+      "t": "La paradoja de Okinawa:"
+    },
+    "4570d1df": {
+      "src": "The PREDIMED trial (7,447 participants, 5-year follow-up) found that a Mediterranean-style diet rich in whole plant foods reduced cardiovascular events by 30% compared to a low-fat diet. Dr. Dean Ornish demonstrated in multiple randomised controlled trials that a whole-food plant-based diet could",
+      "t": "El ensayo PREDIMED (7.447 participantes, 5 años de seguimiento) encontró que una dieta de estilo mediterráneo rica en alimentos vegetales integrales reducía los eventos cardiovasculares en un 30% frente a una dieta baja en grasas. El Dr. Dean Ornish demostró en varios ensayos controlados aleatorizados que una dieta integral basada en plantas podía"
+    },
+    "1476ddd9": {
+      "src": "The Research",
+      "t": "La investigación"
+    },
+    "225dae5d": {
+      "src": "The Rupture",
+      "t": "La ruptura"
+    },
+    "d0e1b418": {
+      "src": "The World Cancer Research Fund has published consistent evidence that",
+      "t": "El World Cancer Research Fund ha publicado evidencia constante de que"
+    },
+    "49194431": {
+      "src": "The ancestral foods of Jamaica and the Caribbean were not primitive. They were precise — precisely adapted to the bodies and environments of the people who ate them.”",
+      "t": "Los alimentos ancestrales de Jamaica y del Caribe no eran primitivos. Eran precisos: se adaptaban con precisión a los cuerpos y los entornos de quienes los comían.”"
+    },
+    "8c228cfb": {
+      "src": "The ancestral kitchen",
+      "t": "La cocina ancestral"
+    },
+    "62c5dd88": {
+      "src": "The blueprint was never",
+      "t": "El plano nunca se"
+    },
+    "3221ede3": {
+      "src": "The body has not adapted to it, because evolution does not move that fast.",
+      "t": "El cuerpo no se ha adaptado a ella, porque la evolución no va tan rápido."
+    },
+    "d85ab3df": {
+      "src": "The body knows exactly what to do with all three.",
+      "t": "El cuerpo sabe exactamente qué hacer con las tres cosas."
+    },
+    "3dd2778c": {
+      "src": "The body responds to what it receives with absolute biological honesty.",
+      "t": "El cuerpo responde a lo que recibe con una honestidad biológica absoluta."
+    },
+    "2a4cbd21": {
+      "src": "The body you live in now. Every meal affects it.",
+      "t": "El cuerpo en el que vives ahora. Cada comida lo afecta."
+    },
+    "216f197d": {
+      "src": "The difference was alignment — between what the body was designed to receive, and what it was actually given.",
+      "t": "La diferencia era la sintonía: entre lo que el cuerpo estaba diseñado para recibir y lo que de verdad recibía."
+    },
+    "f5ce0241": {
+      "src": "The difference was not genetic advantage. The difference was not a special ingredient or a secret supplement.",
+      "t": "La diferencia no era una ventaja genética. La diferencia no era un ingrediente especial ni un suplemento secreto."
+    },
+    "4b2b845b": {
+      "src": "The evidence is not ambiguous. The science is not preliminary. The ancestral knowledge is not anecdotal. All three lines of evidence point in the same direction, and they always have.",
+      "t": "La evidencia no es ambigua. La ciencia no es preliminar. El saber ancestral no es anecdótico. Las tres líneas de evidencia apuntan en la misma dirección, y siempre lo han hecho."
+    },
+    "f033d7f8": {
+      "src": "The human digestive system, its enzyme profiles, its gut microbiome composition, its insulin sensitivity range — all were formed over hundreds of thousands of years of eating whole plant foods, lean proteins, and unprocessed fats. The modern processed diet has existed for less than 150 years.",
+      "t": "El aparato digestivo humano, sus perfiles de enzimas, la composición de su microbioma intestinal, su rango de sensibilidad a la insulina: todo se formó a lo largo de cientos de miles de años comiendo alimentos vegetales integrales, proteínas magras y grasas sin procesar. La dieta procesada moderna existe desde hace menos de 150 años."
+    },
+    "b37e4daa": {
+      "src": "The journey is not complicated.",
+      "t": "El camino no es complicado."
+    },
+    "1275aed6": {
+      "src": "The journey is not complicated. It begins with remembering what our ancestors already knew — and",
+      "t": "El camino no es complicado. Empieza por recordar lo que nuestros antepasados ya sabían, y"
+    },
+    "066e4895": {
+      "src": "The kitchen was a place where knowledge was quietly passed from one generation to the next. Elders taught not just recipes but understanding — which plants healed, which combinations nourished, which seasons demanded which foods.",
+      "t": "La cocina era un lugar donde el conocimiento pasaba en silencio de una generación a otra. Los mayores no enseñaban solo recetas, sino comprensión: qué plantas curaban, qué combinaciones nutrían, qué estaciones pedían qué alimentos."
+    },
+    "d6a66ff1": {
+      "src": "The most consequential nutritional shift of the industrial era is the displacement of dietary fibre. Pre-industrial diets contained 50–100g of fibre daily. Most people in developed nations now consume 15–20g.",
+      "t": "El cambio nutricional más importante de la era industrial es la desaparición de la fibra de la dieta. Las dietas preindustriales tenían entre 50 y 100 g de fibra al día. La mayoría de las personas en los países desarrollados consume hoy entre 15 y 20 g."
+    },
+    "a1c67f37": {
+      "src": "The only significant variable was the food.",
+      "t": "La única variable importante fue la comida."
+    },
+    "08a7ea33": {
+      "src": "The original",
+      "t": "El plano original"
+    },
+    "c2e93be4": {
+      "src": "The original blueprint",
+      "t": "El plano original"
+    },
+    "b548aaae": {
+      "src": "The roots symbolise the knowledge and traditions passed down through families and communities.",
+      "t": "Las raíces simbolizan el conocimiento y las tradiciones que se transmiten en las familias y las comunidades."
+    },
+    "fbd7bd0c": {
+      "src": "The science confirms it",
+      "t": "La ciencia lo confirma"
+    },
+    "60f2200f": {
+      "src": "The scientific literature on whole plant-based diets is not emerging or preliminary. It is extensive, replicated, and consistent across populations. The following represent some of the most significant findings.",
+      "t": "La literatura científica sobre las dietas integrales basadas en plantas no es incipiente ni preliminar. Es amplia, está replicada y es coherente en distintas poblaciones. Estos son algunos de los hallazgos más importantes."
+    },
+    "246f06da": {
+      "src": "The trunk represents the body’s current state. Every meal, habit, and daily decision impacts the strength or weakness of this trunk.",
+      "t": "El tronco representa el estado actual del cuerpo. Cada comida, cada hábito y cada decisión diaria influye en la fuerza o la debilidad de este tronco."
+    },
+    "d8c47eef": {
+      "src": "These are not just tradition.",
+      "t": "No son solo tradición."
+    },
+    "3b8c1e9e": {
+      "src": "They are precisely calibrated whole-food systems",
+      "t": "Son sistemas de alimentos integrales calibrados con precisión"
+    },
+    "dfec2ba3": {
+      "src": "They are the foods around which human physiology was shaped.",
+      "t": "Son los alimentos alrededor de los cuales se formó la fisiología humana."
+    },
+    "04e968fd": {
+      "src": "They ate according to the seasons, following nature’s harvest cycles. They stayed physically active through daily chores — walking, farming, fishing, building, caring for family.",
+      "t": "Comían según las estaciones, siguiendo los ciclos de cosecha de la naturaleza. Se mantenían activos con las tareas diarias: caminar, cultivar, pescar, construir, cuidar de la familia."
+    },
+    "00839fb2": {
+      "src": "This is not philosophy. It is measurable physiology.",
+      "t": "No es filosofía. Es fisiología medible."
+    },
+    "eb358b64": {
+      "src": "This is the original health education system.",
+      "t": "Este es el sistema original de educación en salud."
+    },
+    "13dd4fc8": {
+      "src": "Traditional Okinawan diet before Westernisation. They were the world’s longest-lived people.",
+      "t": "de alimentos vegetales en la dieta tradicional de Okinawa antes de occidentalizarse. Eran las personas más longevas del mundo."
+    },
+    "96ddee02": {
+      "src": "Traditional Okinawans of Japan ate a diet of 85% plant foods — primarily sweet potatoes, vegetables, legumes, and small amounts of fish. They produced more centenarians per capita than any population on earth until their diet Westernised in the 1980s. Within two decades, rates of obesity and chronic disease rose dramatically.",
+      "t": "Los habitantes tradicionales de Okinawa, en Japón, comían una dieta con un 85% de alimentos vegetales, sobre todo batatas, verduras, legumbres y pequeñas cantidades de pescado. Tuvieron más centenarios por habitante que cualquier otra población del planeta hasta que su dieta se occidentalizó en la década de 1980. En dos décadas, las tasas de obesidad y enfermedades crónicas se dispararon."
+    },
+    "58f64591": {
+      "src": "Traditional farming and cooking methods preserving maximum nutrient density",
+      "t": "Métodos tradicionales de cultivo y cocina que conservan la máxima densidad de nutrientes"
+    },
+    "0ebbb9ec": {
+      "src": "Traditional plant-based diets provide 3–5 times more fibre than modern Western diets.",
+      "t": "Las dietas tradicionales basadas en plantas aportan de 3 a 5 veces más fibra que las dietas occidentales modernas."
+    },
+    "bca344b4": {
+      "src": "Type 2 diabetes —",
+      "t": "Diabetes tipo 2:"
+    },
+    "f2a15bf4": {
+      "src": "Ultra-processed food —",
+      "t": "Los ultraprocesados:"
+    },
+    "895e5d9f": {
+      "src": "Vitamin C begins degrading above 70°C. Digestive enzymes are destroyed by high heat.",
+      "t": "La vitamina C empieza a degradarse por encima de los 70 °C. Las enzimas digestivas se destruyen con el calor alto."
+    },
+    "7ebbc0b7": {
+      "src": "What changed —",
+      "t": "Qué cambió,"
+    },
+    "97a8d354": {
+      "src": "What changed — and why",
+      "t": "Qué cambió, y por qué"
+    },
+    "14ff8c61": {
+      "src": "What decades of science",
+      "t": "Lo que décadas de ciencia"
+    },
+    "d974cdec": {
+      "src": "What made our ancestors",
+      "t": "Lo que hacía distintos a nuestros antepasados"
+    },
+    "c76ac795": {
+      "src": "What made our ancestors different",
+      "t": "Qué hacía distintos a nuestros antepasados"
+    },
+    "b8ffdb9f": {
+      "src": "What the research shows",
+      "t": "Lo que muestra la investigación"
+    },
+    "ae95916a": {
+      "src": "Whenever possible, select foods that grow naturally from the earth — fresh fruits, vegetables, legumes, whole grains, nuts, and seeds. These foods provide dietary fibre, vitamins, minerals, and protective phytochemicals in the form the body was designed to receive them — inside the whole food matrix, with all co-factors intact.",
+      "t": "Siempre que puedas, elige alimentos que crezcan de forma natural de la tierra: frutas y verduras frescas, legumbres, cereales integrales, frutos secos y semillas. Estos alimentos aportan fibra, vitaminas, minerales y fitoquímicos protectores en la forma en que el cuerpo fue diseñado para recibirlos: dentro de la matriz del alimento entero, con todos sus cofactores intactos."
+    },
+    "7e7f2b31": {
+      "src": "Without it, beneficial bacteria populations collapse, producing measurable increases in inflammation, immune dysregulation, and mental health disorders.",
+      "t": "Sin ella, las poblaciones de bacterias beneficiosas se desploman, lo que produce aumentos medibles de la inflamación, la desregulación inmunitaria y los trastornos de salud mental."
+    },
+    "f361685d": {
+      "src": "Years",
+      "t": "años"
+    },
+    "42b63166": {
+      "src": "You are not a BMI number. You are not a calorie count. You are not a body fat percentage. You are a person with a history, a family tree, an ancestral food tradition, and a body that has been shaped by everything that came before you — and that responds, with extraordinary faithfulness, to what you give it.",
+      "t": "No eres un número de IMC. No eres un conteo de calorías. No eres un porcentaje de grasa corporal. Eres una persona con una historia, un árbol genealógico, una tradición alimentaria ancestral y un cuerpo moldeado por todo lo que vino antes de ti, que responde con una fidelidad extraordinaria a lo que le das."
+    },
+    "f1894497": {
+      "src": "absence of whole foods.",
+      "t": "ausencia de alimentos integrales."
+    },
+    "b2793b28": {
+      "src": "alter gene expression in the next, and sometimes two generations beyond.",
+      "t": "alteran la expresión de los genes en la siguiente, y a veces dos generaciones más allá."
+    },
+    "3e14d044": {
+      "src": "and how fast.",
+      "t": "y a qué velocidad."
+    },
+    "be0897f2": {
+      "src": "ate real food. Whole food. Food that came from the earth, not from a factory.",
+      "t": "comían comida real. Alimentos integrales. Comida que venía de la tierra, no de una fábrica."
+    },
+    "89ea810a": {
+      "src": "blueprint of human nutrition.",
+      "t": "de la nutrición humana."
+    },
+    "8af74fbe": {
+      "src": "choosing to live by it again.",
+      "t": "decidir vivir así de nuevo."
+    },
+    "be65bc60": {
+      "src": "consistently confirm.",
+      "t": "confirman una y otra vez."
+    },
+    "54204c32": {
+      "src": "developed over centuries of observational refinement.",
+      "t": ", desarrollados a lo largo de siglos de observación y perfeccionamiento."
+    },
+    "f3c2bed0": {
+      "src": "diets high in fruits, vegetables, legumes, and whole grains reduce the risk of multiple cancers",
+      "t": "las dietas ricas en frutas, verduras, legumbres y cereales integrales reducen el riesgo de varios cánceres"
+    },
+    "e1051a20": {
+      "src": "different from us.",
+      "t": "de nosotros."
+    },
+    "fecf2c6d": {
+      "src": "everything else.",
+      "t": "que todo lo demás."
+    },
+    "7f6c48c6": {
+      "src": "existence — people ate whole, unprocessed foods that came directly from their environment. Seasonal fruits and vegetables, whole grains, legumes, nuts, seeds, and traditional plant-based proteins formed the foundation of every major ancestral diet on every continent.",
+      "t": ", las personas comieron alimentos integrales y sin procesar que venían directamente de su entorno. Las frutas y verduras de temporada, los cereales integrales, las legumbres, los frutos secos, las semillas y las proteínas vegetales tradicionales formaron la base de todas las grandes dietas ancestrales de todos los continentes."
+    },
+    "4257477c": {
+      "src": "in The Lancet analysed dietary data from 195 countries and found that",
+      "t": "en The Lancet analizó datos alimentarios de 195 países y encontró que"
+    },
+    "a50f2bde": {
+      "src": "in randomised controlled conditions. The trunk responds — quickly, honestly, and completely.",
+      "t": "en condiciones controladas y aleatorizadas. El tronco responde: rápido, con honestidad y por completo."
+    },
+    "688c5a19": {
+      "src": "lost. Just forgotten.",
+      "t": "perdió. Solo se olvidó."
+    },
+    "111fc454": {
+      "src": "manufactured.",
+      "t": "en fábricas."
+    },
+    "3a43062a": {
+      "src": "nourishing foods.",
+      "t": "alimentos que nutran."
+    },
+    "7cc64ac0": {
+      "src": "of Health.",
+      "t": "de la salud."
+    },
+    "0800d5f9": {
+      "src": "protects the future.",
+      "t": "proteja el futuro."
+    },
+    "75a9a523": {
+      "src": "real food.",
+      "t": "la comida real."
+    },
+    "f683da8e": {
+      "src": "respected.",
+      "t": "respetaba."
+    },
+    "6419f263": {
+      "src": "reverse established coronary artery disease",
+      "t": "revertir una enfermedad coronaria ya establecida"
+    },
+    "d0fe0574": {
+      "src": "rushed.",
+      "t": "con prisas."
+    },
+    "e4f8c5df": {
+      "src": "significant reductions in LDL cholesterol, blood pressure, and body weight within four weeks",
+      "t": "reducciones importantes del colesterol LDL, la presión arterial y el peso corporal en cuatro semanas"
+    },
+    "1e0e13e7": {
+      "src": "strengthen.",
+      "t": "fortalezcan."
+    },
+    "e85d3210": {
+      "src": "those habits become normal for the next generation",
+      "t": "esos hábitos se vuelven normales para la próxima generación"
+    },
+    "afc702b6": {
+      "src": "to begin today.",
+      "t": "para empezar hoy."
+    },
+    "6656eca2": {
+      "src": "to build a stronger future.",
+      "t": "para construir un futuro más fuerte."
+    },
+    "b18dfa51": {
+      "src": "was never wrong.",
+      "t": "nunca se equivocó."
+    },
+    "02c444c9": {
+      "src": "were attributable to poor dietary patterns — more than tobacco. The leading dietary risk factor was not fat or sugar alone. It was the",
+      "t": "se debían a malos patrones alimentarios, más que al tabaco. El principal factor de riesgo alimentario no era la grasa ni el azúcar por sí solos. Era la"
+    },
+    "6ae10e82": {
+      "src": "worse food was made cheaper, more convenient, and more aggressively marketed than better food.",
+      "t": "la peor comida se hizo más barata, más cómoda y se promocionó con más fuerza que la buena."
+    },
+    "1fdfa997": {
+      "src": "you get out what you put in.",
+      "t": "recibes lo que das."
+    },
+    "57b54520": {
+      "src": "— and modern science is catching up, not leading.",
+      "t": ", y la ciencia moderna se está poniendo al día, no va por delante."
+    },
+    "68ef3e6f": {
+      "src": "— because they are systemic, cultural, and lived rather than purchased.",
+      "t": ", porque son sistémicas, culturales y se viven, no se compran."
+    },
+    "39943805": {
+      "src": "— not through instruction alone, but through exposure, repetition, and the quiet authority of everyday example.",
+      "t": ", no solo por lo que se les enseña, sino por lo que ven, por la repetición y por la autoridad tranquila del ejemplo diario."
+    },
+    "65f4956e": {
+      "src": "— something no pharmaceutical has achieved.",
+      "t": ", algo que ningún fármaco ha logrado."
+    },
+    "cb44cb7f": {
+      "src": "“The solution is not abandoning culture.",
+      "t": "“La solución no es abandonar la cultura."
+    },
+    "8c34aa21": {
+      "src": "🌱 The Roots — Foundation",
+      "t": "🌱 Las raíces: la base"
+    },
+    "47c6db3b": {
+      "src": "🌳 The Trunk — The Present Body",
+      "t": "🌳 El tronco: el cuerpo presente"
+    },
+    "d209ad96": {
+      "src": "🌿 Callaloo & leafy greens",
+      "t": "🌿 Callaloo y verduras de hoja"
+    },
+    "bd516bdf": {
+      "src": "🌿 The Branches — Future Generations",
+      "t": "🌿 Las ramas: las generaciones futuras"
+    },
+    "ccc210e0": {
+      "src": "🍞 Breadfruit, yams & sweet potato",
+      "t": "🍞 Fruta del pan, ñame y batata"
+    },
+    "58d44723": {
+      "src": "🥭 Fresh tropical fruits",
+      "t": "🥭 Frutas tropicales frescas"
+    },
+    "6acd293c": {
+      "src": "🫘 Beans, peas & lentils",
+      "t": "🫘 Frijoles, gandules y lentejas"
+    }
+  }
+}

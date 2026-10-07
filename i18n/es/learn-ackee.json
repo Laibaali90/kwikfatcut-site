@@ -5,483 +5,591 @@
   "strings": {
     "e27cfdf5": {
       "src": "(and sometimes a fourth, hidden inside) surrounded by soft, spongy, edible arils — the fruit’s pulp — with a creamy texture and mild, savoury flavour. These arils are used in various culinary styles across the Caribbean.",
-      "t": ""
+      "t": "(y a veces una cuarta, oculta en su interior) rodeadas de arilos blandos, esponjosos y comestibles (la pulpa del fruto), de textura cremosa y sabor suave y salado. Estos arilos se usan en diversos estilos culinarios de todo el Caribe."
     },
     "3fce8043": {
       "src": ") is celebrated for its unique, lively flavour and is a staple in exotic culinary traditions.",
-      "t": ""
-    },
-    "62536662": {
-      "src": ", ackee helps relax blood vessel walls and improve circulation — reducing the risk of hypertension. Potassium is one of nature’s most effective natural vasodilators.",
-      "t": ""
-    },
-    "82e13bde": {
-      "src": ", directly supporting heart health through the digestive pathway.",
-      "t": ""
+      "t": ") es apreciado por su sabor único y vivo, y es un alimento básico en tradiciones culinarias exóticas."
     },
     "14befa4a": {
       "src": ", found at nearly every market stall, breakfast table, and family gathering across Jamaica, ackee represents the synthesis of West African heritage, Caribbean environment, and the resilience of a people who created something extraordinary from what they were given.",
-      "t": ""
+      "t": ", presente en casi todos los puestos de mercado, mesas de desayuno y reuniones familiares de Jamaica, el ackee representa la síntesis de la herencia de África Occidental, el entorno caribeño y la resiliencia de un pueblo que creó algo extraordinario a partir de lo que le fue dado."
     },
     "e9275419": {
       "src": ", it continues to delight worldwide. Introduced to Jamaica during the 18th-century transatlantic slave trade, ackee quickly became a Caribbean culinary symbol.",
-      "t": ""
+      "t": ", sigue deleitando al mundo entero. Introducido en Jamaica durante la trata transatlántica de esclavos del siglo XVIII, el ackee se convirtió rápidamente en un símbolo culinario caribeño."
     },
     "02c85a7a": {
       "src": ", not the spike-and-crash of refined carbohydrates.",
-      "t": ""
+      "t": ", no el pico y la caída de los carbohidratos refinados."
+    },
+    "c20bdcc4": {
+      "src": ". These are not ordinary plant compounds. They are toxic amino acids, they dissolve in water, and ordinary cooking does not reliably destroy them. In unripe fruit the levels are dangerous throughout. As the pod opens naturally on the tree, hypoglycin A in the edible aril falls from around 711mg per 100g to below the limit of detection.",
+      "t": ". No son compuestos vegetales corrientes. Son aminoácidos tóxicos, se disuelven en agua y la cocción normal no los destruye de forma fiable. En el fruto inmaduro los niveles son peligrosos en todas sus partes. A medida que la vaina se abre de forma natural en el árbol, la hipoglicina A del arilo comestible baja de unos 711mg por 100g a un nivel por debajo del límite de detección."
     },
     "1ced6a6e": {
       "src": "05",
-      "t": ""
+      "t": "05"
     },
-    "a708b0aa": {
-      "src": "300–500mg of potassium per 100 grams",
-      "t": ""
+    "179eaacc": {
+      "src": "1. Let the pod open naturally and fully on the tree before you pick it.",
+      "t": "1. Deja que la vaina se abra de forma natural y por completo en el árbol antes de recogerla."
+    },
+    "3b73281c": {
+      "src": "2. Eat only the cream to yellow arils.",
+      "t": "2. Come únicamente los arilos de color crema a amarillo."
+    },
+    "2145da02": {
+      "src": "3. Wash the arils thoroughly.",
+      "t": "3. Lava los arilos a fondo."
+    },
+    "05c10538": {
+      "src": "4. Cook the ackee before eating it, and throw the cooking water away.",
+      "t": "4. Cocina el ackee antes de comerlo, y tira el agua de cocción."
+    },
+    "f436dbb2": {
+      "src": "5. Cook the saltfish, ground provisions and rice separately,",
+      "t": "5. Cocina el saltfish, los víveres y el arroz por separado,"
+    },
+    "c2fe4d46": {
+      "src": "6. Take extra care when feeding children.",
+      "t": "6. Ten especial cuidado al dar de comer a los niños."
     },
     "8bcef550": {
       "src": "9 min",
-      "t": ""
+      "t": "9 min"
+    },
+    "8577571f": {
+      "src": "A large pile of ripe ackee pods, split open to show the black seeds and the cream coloured arils inside.",
+      "t": "Un gran montón de vainas de ackee maduras, abiertas para mostrar las semillas negras y los arilos de color crema en su interior."
     },
     "faedb98f": {
       "src": "A superfruit",
-      "t": ""
+      "t": "Una superfruta"
     },
     "c0da1209": {
       "src": "A symbol of identity.",
-      "t": ""
+      "t": "Un símbolo de identidad."
+    },
+    "058fe77d": {
+      "src": "A younger man standing over a spread of opened ackee pods with a bag in his hand.",
+      "t": "Un hombre joven de pie frente a un montón de vainas de ackee abiertas, con una bolsa en la mano."
     },
     "171dc660": {
       "src": "Ackee",
-      "t": ""
+      "t": "Ackee"
     },
     "ebdc5e80": {
       "src": "Ackee and saltfish is not just a meal. It is a cultural declaration.",
-      "t": ""
+      "t": "El ackee con saltfish no es solo una comida. Es una declaración cultural."
     },
-    "bf66c5b1": {
-      "src": "Ackee contains alkaloids — particularly",
-      "t": ""
+    "4434c4b9": {
+      "src": "Ackee contains",
+      "t": "El ackee contiene"
+    },
+    "e9d1113d": {
+      "src": "Ackee contains potassium, as most fruits and vegetables do. We have not published a figure, because ackee is not listed in USDA FoodData Central and we could not find a reliable published measurement. Diets higher in potassium and lower in salt are associated with lower blood pressure, but that is a whole diet effect and no single food lowers blood pressure on its own. If you are watching your blood pressure, the bigger lever in a plate of ackee and saltfish is the salt in the saltfish.",
+      "t": "El ackee contiene potasio, como la mayoría de las frutas y verduras. No hemos publicado una cifra, porque el ackee no aparece en USDA FoodData Central y no pudimos encontrar una medición publicada fiable. Las dietas más altas en potasio y más bajas en sal se asocian con una presión arterial más baja, pero ese es un efecto de la dieta en su conjunto y ningún alimento por sí solo baja la presión arterial. Si estás vigilando tu presión arterial, la palanca más importante en un plato de ackee con saltfish es la sal del saltfish."
+    },
+    "b0713e51": {
+      "src": "Ackee is a nourishing food that has fed Jamaican families for generations. It is honest to say that very little clinical research has been done on ackee itself, far less than on foods such as garlic or oats. What follows is what ackee contains, and what those nutrients do in the body generally. It is not a list of proven effects of eating ackee.",
+      "t": "El ackee es un alimento nutritivo que ha alimentado a familias jamaicanas durante generaciones. Es honesto decir que se ha hecho muy poca investigación clínica sobre el ackee en sí, mucha menos que sobre alimentos como el ajo o la avena. Lo que sigue es lo que contiene el ackee, y lo que esos nutrientes hacen en el cuerpo en general. No es una lista de efectos comprobados de comer ackee."
+    },
+    "9e92920a": {
+      "src": "Ackee is a staple that carries protein, fat, fibre, vitamins and minerals, and it has nourished communities for centuries.",
+      "t": "El ackee es un alimento básico que aporta proteínas, grasa, fibra, vitaminas y minerales, y ha nutrido a comunidades durante siglos."
     },
     "90b5bcff": {
       "src": "Ackee is highly nutritious, rich in vitamins, minerals, and bioactive compounds that contribute to a nutritious diet. Its nutritional range is exceptional for a tropical fruit.",
-      "t": ""
+      "t": "El ackee es muy nutritivo, rico en vitaminas, minerales y compuestos bioactivos que contribuyen a una dieta nutritiva. Su rango nutricional es excepcional para una fruta tropical."
     },
     "c7d1817d": {
       "src": "Ackee strengthens the body’s defences",
-      "t": ""
+      "t": "El ackee fortalece las defensas del cuerpo"
+    },
+    "01818485": {
+      "src": "Ackee — Jamaica's National Fruit — Kwik Fat Cut",
+      "t": "Ackee, la fruta nacional de Jamaica · Kwik Fat Cut"
     },
     "b1df2cca": {
       "src": "Ackee.",
-      "t": ""
+      "t": "Ackee."
     },
     "38ffd2e2": {
       "src": "Ackee. Rooted in",
-      "t": ""
+      "t": "Ackee. Con raíces en"
     },
     "6b941acd": {
       "src": "Africa. Grown in Jamaica.",
-      "t": ""
+      "t": "África. Cultivado en Jamaica."
     },
-    "bdbcf7c6": {
-      "src": "Aid in energy metabolism. B1 supports nerve function, B2 assists cell growth, B3 regulates cholesterol.",
-      "t": ""
+    "bcd12e27": {
+      "src": "Aid in energy metabolism. B1 is needed for energy metabolism and healthy nerves, B2 supports cell function and growth, B3 is needed for energy metabolism. Niacin only affects blood cholesterol at prescription doses far above the amount in any food.",
+      "t": "Ayudan en el metabolismo energético. La B1 es necesaria para el metabolismo energético y para unos nervios sanos, la B2 favorece la función y el crecimiento celular, la B3 es necesaria para el metabolismo energético. La niacina solo afecta al colesterol en sangre a dosis de prescripción muy superiores a la cantidad presente en cualquier alimento."
     },
-    "f92f7685": {
-      "src": "Always follow these rules",
-      "t": ""
+    "7bba20d7": {
+      "src": "An older man bending to gather opened ackee pods from the grass into a bag.",
+      "t": "Un hombre mayor agachado recogiendo del césped vainas de ackee abiertas para meterlas en una bolsa."
     },
     "e3fc0d87": {
       "src": "Antioxidant phytochemicals that protect against oxidative stress and cellular damage.",
-      "t": ""
+      "t": "Fitoquímicos antioxidantes que protegen frente al estrés oxidativo y el daño celular."
     },
     "6f9934e5": {
       "src": "B-Complex (B1, B2, B3)",
-      "t": ""
+      "t": "Complejo B (B1, B2, B3)"
     },
     "b13f4d1c": {
       "src": "Beginning to ripen. Pod starts to open naturally.",
-      "t": ""
+      "t": "Empieza a madurar. La vaina comienza a abrirse de forma natural."
     },
     "8dc1e269": {
       "src": "Blighia sapida",
-      "t": ""
+      "t": "Blighia sapida"
     },
     "e2a0abf6": {
       "src": "Blood pressure regulation",
-      "t": ""
+      "t": "Regulación de la presión arterial"
     },
     "04884f97": {
       "src": "Bone health",
-      "t": ""
+      "t": "Salud ósea"
     },
-    "47625360": {
-      "src": "Containing approximately",
-      "t": ""
+    "05ec29a6": {
+      "src": "CDC, Toxic Hypoglycemic Syndrome, Jamaica 1989 to 1991 (MMWR)",
+      "t": "CDC, Toxic Hypoglycemic Syndrome, Jamaica 1989 to 1991 (MMWR)"
+    },
+    "c48b6e08": {
+      "src": "Chase GW et al, hypoglycin A in the aril, seeds and husks at various stages of ripeness",
+      "t": "Chase GW et al, hipoglicina A en el arilo, las semillas y las cáscaras en distintas etapas de maduración"
     },
     "7395015c": {
       "src": "Crucial for tissue repair and antioxidant defence. Supports collagen production and immune resilience.",
-      "t": ""
+      "t": "Fundamental para la reparación de los tejidos y la defensa antioxidante. Favorece la producción de colágeno y la resistencia inmunitaria."
     },
     "de827d4f": {
       "src": "Cultural Heart",
-      "t": ""
+      "t": "Corazón cultural"
     },
     "753a9bcc": {
       "src": "Cultural significance",
-      "t": ""
+      "t": "Significado cultural"
     },
     "2b839c67": {
       "src": "Dietary Fibre",
-      "t": ""
+      "t": "Fibra dietética"
+    },
+    "363e4af4": {
+      "src": "Do not reuse it and do not add it to anything else. Hypoglycin A dissolves into the water.",
+      "t": "No la reutilices y no la añadas a ninguna otra cosa. La hipoglicina A se disuelve en el agua."
     },
     "95a2889e": {
       "src": "Eat it ripe. Prepare it correctly. Understand what it gives the body. That is the Kwik Fat Cut way. 🇯🇲",
-      "t": ""
+      "t": "Cómelo maduro. Prepáralo correctamente. Entiende lo que le da al cuerpo. Esa es la forma de Kwik Fat Cut. 🇯🇲"
     },
     "6b57dbd3": {
       "src": "Energy & vitality",
-      "t": ""
+      "t": "Energía y vitalidad"
     },
     "9c7b9a15": {
       "src": "Enhanced digestion",
-      "t": ""
+      "t": "Mejor digestión"
     },
     "5cacd8d1": {
       "src": "Essential Fatty Acids",
-      "t": ""
+      "t": "Ácidos grasos esenciales"
     },
     "74489d10": {
       "src": "Essential for long-term skeletal health",
-      "t": ""
+      "t": "Esenciales para la salud ósea a largo plazo"
+    },
+    "b47a6c24": {
+      "src": "FDA Import Alert 21-11, ackee and hypoglycin A",
+      "t": "FDA Import Alert 21-11, ackee e hipoglicina A"
     },
     "7fbfb128": {
       "src": "Flavonoids",
-      "t": ""
+      "t": "Flavonoides"
     },
     "8cb692c6": {
       "src": "From West Africa",
-      "t": ""
+      "t": "De África Occidental"
     },
-    "891b4402": {
-      "src": "From lowering blood pressure to boosting energy — ackee’s benefits are wide-ranging and well-documented. This is not marketing language. This is what the nutritional science confirms about a fruit Jamaicans have eaten for generations.",
-      "t": ""
+    "506c2502": {
+      "src": "From the tree",
+      "t": "Desde el árbol"
     },
-    "f87525d0": {
-      "src": "From lowering blood pressure to boosting energy, supporting growth and tissue repair, aiding digestion, reducing cholesterol, strengthening bones, enhancing immune response, and improving circulation —",
-      "t": ""
-    },
-    "ba2a147c": {
-      "src": "Fully ripe. Pod open. Three black seeds visible. Safe to pick and prepare.",
-      "t": ""
+    "36c000e6": {
+      "src": "Gathering the day’s pick.",
+      "t": "Recogiendo la cosecha del día."
     },
     "a953c75c": {
       "src": "Green",
-      "t": ""
+      "t": "Verde"
     },
     "42e389cd": {
       "src": "Health Benefits",
-      "t": ""
+      "t": "Beneficios para la salud"
     },
     "c4fbbcad": {
       "src": "Health benefits",
-      "t": ""
+      "t": "Beneficios para la salud"
+    },
+    "7837a127": {
+      "src": "How to eat ackee safely",
+      "t": "Cómo comer ackee de forma segura"
+    },
+    "69a044fb": {
+      "src": "If something is wrong, act immediately.",
+      "t": "Si algo va mal, actúa de inmediato."
     },
     "89ccbc7d": {
       "src": "Immune strength",
-      "t": ""
+      "t": "Fuerza inmunitaria"
     },
     "c96cb86d": {
       "src": "Important:",
-      "t": ""
+      "t": "Importante:"
     },
     "bf41e67a": {
       "src": "In Rastafarian Ital tradition, the freshness and natural preparation of ackee — cooked simply, combined with natural seasonings — embodies the principle that",
-      "t": ""
+      "t": "En la tradición Ital Rastafarian, la frescura y la preparación natural del ackee (cocinado de forma sencilla, combinado con condimentos naturales) encarnan el principio de que"
     },
-    "63f4269b": {
-      "src": "It also lowers cholesterol",
-      "t": ""
+    "5f11f2b5": {
+      "src": "In the Jamaican outbreak investigated by the CDC, children under 15 were affected at around five times the rate of older people, and one in five of all cases died.",
+      "t": "En el brote jamaicano investigado por los CDC, los niños menores de 15 años se vieron afectados a una tasa unas cinco veces mayor que la de las personas de más edad, y uno de cada cinco de todos los casos falleció."
+    },
+    "a421bf8c": {
+      "src": "It does not disappear from the rest of the fruit.",
+      "t": "No desaparece del resto del fruto."
     },
     "67e784df": {
       "src": "Its fragrant aroma, smooth creamy flesh, and sweet nutty flavour — reminiscent of tropical almonds — made it instantly beloved. But beyond flavour,",
-      "t": ""
+      "t": "Su aroma fragante, su pulpa suave y cremosa y su sabor dulce a frutos secos (que recuerda a las almendras tropicales) lo hicieron querido al instante. Pero más allá del sabor,"
     },
     "83064f8c": {
       "src": "Jamaican Foods",
-      "t": ""
+      "t": "Alimentos jamaicanos"
     },
     "fb09b5a3": {
       "src": "Jamaica’s national dish.",
-      "t": ""
+      "t": "El plato nacional de Jamaica."
     },
     "62669b5e": {
       "src": "Kwik Fat Cut — Foods Hub — Education First",
-      "t": ""
+      "t": "Kwik Fat Cut, Centro de Alimentos, la educación primero"
     },
     "435c76c1": {
       "src": "Magnesium & Zinc",
-      "t": ""
+      "t": "Magnesio y zinc"
+    },
+    "9907581d": {
+      "src": "Magnesium is a cofactor in more than 300 enzyme systems. Zinc supports immune function, wound healing, and protein and DNA synthesis.",
+      "t": "El magnesio es un cofactor en más de 300 sistemas enzimáticos. El zinc favorece la función inmunitaria, la cicatrización de heridas y la síntesis de proteínas y de ADN."
     },
     "8c4bd794": {
       "src": "Magnesium, phosphorus, and calcium work together to support bone density and tooth strength.",
-      "t": ""
+      "t": "El magnesio, el fósforo y el calcio trabajan juntos para favorecer la densidad ósea y la fortaleza dental."
+    },
+    "042c0a7a": {
+      "src": "Ministry of Health and Wellness, Jamaica: guidance on ackee preparation",
+      "t": "Ministry of Health and Wellness, Jamaica: orientación sobre la preparación del ackee"
     },
     "92917c64": {
       "src": "More Jamaican",
-      "t": ""
+      "t": "Más superalimentos"
+    },
+    "ca3d3387": {
+      "src": "NIH Office of Dietary Supplements, Niacin",
+      "t": "NIH Office of Dietary Supplements, Niacin"
+    },
+    "5e2f9e62": {
+      "src": "NIH Office of Dietary Supplements, Potassium",
+      "t": "NIH Office of Dietary Supplements, Potassium"
     },
     "1d8c7550": {
       "src": "Named after Captain William Bligh, who transported the fruit from West Africa to England in 1793. It reached Jamaica through the transatlantic slave trade.",
-      "t": ""
+      "t": "Nombrado en honor al capitán William Bligh, que transportó el fruto de África Occidental a Inglaterra en 1793. Llegó a Jamaica a través de la trata transatlántica de esclavos."
     },
-    "2e515bc4": {
-      "src": "Never pick or consume ackee before the pod opens naturally.",
-      "t": ""
+    "6d30ca8f": {
+      "src": "Never force a pod open with a knife or anything else, and never pick or buy ackee that is still closed. Colour alone is not the test. Natural, full opening is the test.",
+      "t": "Nunca fuerces la apertura de una vaina con un cuchillo ni con ninguna otra cosa, y nunca recojas ni compres ackee que todavía esté cerrado. El color por sí solo no es la prueba. La prueba es que se abra de forma natural y por completo."
     },
     "2db33143": {
       "src": "Nutritional Profile",
-      "t": ""
+      "t": "Perfil nutricional"
     },
     "16570aa3": {
       "src": "Nutritional profile",
-      "t": ""
+      "t": "Perfil nutricional"
     },
-    "1a73204a": {
-      "src": "Omega-3 and omega-6 fatty acids. Brain health, inflammation regulation, cardiovascular support.",
-      "t": ""
+    "f08ce879": {
+      "src": "Omega-3 and omega-6 fatty acids. Ackee is unusually fat rich for a fruit. Published analyses describe a profile dominated by oleic acid, the monounsaturated fat also found in olive oil.",
+      "t": "Ácidos grasos omega-3 y omega-6. El ackee es inusualmente rico en grasa para ser una fruta. Los análisis publicados describen un perfil dominado por el ácido oleico, la grasa monoinsaturada que también se encuentra en el aceite de oliva."
     },
-    "ed1b1636": {
-      "src": "Only harvest when the fruit has turned red and split open fully, revealing the three black seeds. Never force the pod open. Never eat the seeds, the pink membrane, or the inner lining — only the cream/yellow arils are edible. Properly prepared, fully ripe ackee is safe and nutritious for all ages.",
-      "t": ""
+    "1e437a16": {
+      "src": "One tree in season feeds a household and the neighbours.",
+      "t": "Un árbol en temporada alimenta a una casa y a los vecinos."
     },
     "727b390b": {
       "src": "Orange",
-      "t": ""
+      "t": "Naranja"
     },
     "1f93146f": {
       "src": "Origin",
-      "t": ""
+      "t": "Origen"
     },
     "747b9ae8": {
       "src": "Originating from West Africa and cultivated for centuries",
-      "t": ""
+      "t": "Originario de África Occidental y cultivado durante siglos"
     },
     "84a51afc": {
       "src": "Originating from West Africa and introduced to Jamaica in the 18th century, ackee quickly became a Caribbean culinary symbol. Today it is Jamaica’s national fruit — and one of the most nutritionally remarkable foods on the island.",
-      "t": ""
+      "t": "Originario de África Occidental e introducido en Jamaica en el siglo XVIII, el ackee se convirtió rápidamente en un símbolo culinario caribeño. Hoy es la fruta nacional de Jamaica y uno de los alimentos nutricionalmente más notables de la isla."
     },
     "d088a814": {
       "src": "Origins",
-      "t": ""
+      "t": "Orígenes"
     },
     "fa7e305a": {
       "src": "Origins & history",
-      "t": ""
+      "t": "Orígenes e historia"
+    },
+    "d09e401b": {
+      "src": "Photograph supplied by Kwik Fat Cut.",
+      "t": "Fotografía proporcionada por Kwik Fat Cut."
+    },
+    "052be7fb": {
+      "src": "Picking ackee",
+      "t": "Recogiendo ackee"
+    },
+    "b89bd631": {
+      "src": "Pod opened naturally and fully on the tree, black seeds visible. This, not the colour, is the sign it is safe to pick.",
+      "t": "Vaina abierta de forma natural y por completo en el árbol, con las semillas negras a la vista. Esta, y no el color, es la señal de que se puede recoger sin peligro."
     },
     "de8eaf52": {
       "src": "Potassium",
-      "t": ""
+      "t": "Potasio"
+    },
+    "8d2ac262": {
+      "src": "Present, as in most fruits and vegetables. Ackee is not listed in USDA FoodData Central, so we do not publish a figure we cannot source.",
+      "t": "Presente, como en la mayoría de las frutas y verduras. El ackee no aparece en USDA FoodData Central, así que no publicamos una cifra que no podemos respaldar con una fuente."
     },
     "6cb22645": {
       "src": "Red ✓",
-      "t": ""
+      "t": "Rojo ✓"
+    },
+    "7ce906f0": {
+      "src": "Remove and throw away the three black seeds and the pinkish or reddish membrane between the seed and the aril. Never eat the seeds, the membrane or the rind. These stay high in hypoglycin A even when the fruit is fully ripe.",
+      "t": "Quita y tira las tres semillas negras y la membrana rosada o rojiza que hay entre la semilla y el arilo. Nunca comas las semillas, ni la membrana, ni la cáscara. Estas partes siguen teniendo un nivel alto de hipoglicina A incluso cuando el fruto está completamente maduro."
     },
     "f4683497": {
       "src": "Rich in dietary fibre, ackee promotes healthy gastrointestinal function. Its high fibre content helps ease constipation and reduces bloating, cramps, and colon inflammation.",
-      "t": ""
+      "t": "Rico en fibra dietética, el ackee favorece una función gastrointestinal saludable. Su alto contenido de fibra ayuda a aliviar el estreñimiento y reduce la hinchazón, los cólicos y la inflamación del colon."
     },
     "ec177bab": {
       "src": "Ripening. Pod opens wider. Arils becoming visible.",
-      "t": ""
+      "t": "Madurando. La vaina se abre más. Los arilos se van haciendo visibles."
     },
     "05208e84": {
       "src": "Safety & preparation",
-      "t": ""
+      "t": "Seguridad y preparación"
     },
     "71543421": {
       "src": "Safety First",
-      "t": ""
+      "t": "La seguridad primero"
     },
     "4c6dbff3": {
       "src": "Scientific name:",
-      "t": ""
-    },
-    "fe8d481f": {
-      "src": "Support bone density, immune function, wound healing, and over 300 enzymatic processes.",
-      "t": ""
+      "t": "Nombre científico:"
     },
     "a2554e57": {
       "src": "Supports healthy gastrointestinal function, eases constipation, and helps regulate cholesterol.",
-      "t": ""
+      "t": "Favorece una función gastrointestinal saludable, alivia el estreñimiento y ayuda a regular el colesterol."
     },
     "ab20d34e": {
       "src": "Supports vision, immune health, and organ function. Critical for cellular repair and skin integrity.",
-      "t": ""
+      "t": "Favorece la visión, la salud inmunitaria y la función de los órganos. Fundamental para la reparación celular y la integridad de la piel."
     },
     "b0f1fff2": {
       "src": "The B-complex vitamins in ackee drive energy metabolism at the cellular level — converting food into usable fuel.",
-      "t": ""
+      "t": "Las vitaminas del complejo B del ackee impulsan el metabolismo energético a nivel celular, convirtiendo los alimentos en combustible utilizable."
     },
     "736d663d": {
       "src": "The Foods Hub keeps growing. All articles free.",
-      "t": ""
+      "t": "El Centro de Alimentos sigue creciendo. Todos los artículos son gratuitos."
     },
     "28aa91e0": {
       "src": "The Ripening Journey",
-      "t": ""
+      "t": "El recorrido de la maduración"
     },
     "be692b41": {
       "src": "The ackee fruit (",
-      "t": ""
+      "t": "El fruto del ackee ("
+    },
+    "6a9d064d": {
+      "src": "The health claims on this page were checked against the sources below. Where a claim could not be supported it was softened or removed rather than given a citation that did not fit. This page is general information about food, not medical advice, and no food prevents or treats disease.",
+      "t": "Las afirmaciones de salud de esta página se contrastaron con las fuentes que figuran a continuación. Cuando una afirmación no se pudo respaldar, se matizó o se eliminó, en lugar de darle una cita que no encajaba. Esta página es información general sobre alimentos, no consejo médico, y ningún alimento previene ni trata enfermedades."
     },
     "eb6fa3e0": {
       "src": "The ripening journey",
-      "t": ""
+      "t": "El recorrido de la maduración"
     },
     "22a59e9e": {
       "src": "The ripening of ackee is one of nature’s most deliberate processes. The fruit moves through a visible colour transformation that signals when it is ready — and when it is not.",
-      "t": ""
+      "t": "La maduración del ackee es uno de los procesos más deliberados de la naturaleza. El fruto pasa por una transformación de color visible que indica cuándo está listo y cuándo no lo está."
+    },
+    "7ed96d1d": {
+      "src": "The seeds stay high, around 269mg per 100g even when fully ripe, and the rind does not change at all. This is why ripeness alone is not enough, and why preparation matters just as much. These compounds cause Jamaican vomiting sickness, which can be fatal.",
+      "t": "Las semillas siguen teniendo un nivel alto, alrededor de 269mg por 100g incluso cuando el fruto está completamente maduro, y la cáscara no cambia en absoluto. Por eso la madurez por sí sola no basta, y por eso la preparación importa igual de mucho. Estos compuestos causan la enfermedad del vómito jamaicano, que puede ser mortal."
+    },
+    "443e1a66": {
+      "src": "The signs of ackee poisoning are vomiting, stomach cramps or abdominal pain, dizziness, diarrhoea and sweating. Get to a doctor or a hospital straight away, and take a sweet drink on the way. Do not wait to see whether it passes. Ackee poisoning can be fatal, and it is treatable when it is caught early.",
+      "t": "Los signos del envenenamiento por ackee son vómitos, cólicos estomacales o dolor abdominal, mareos, diarrea y sudoración. Acude de inmediato a un médico o a un hospital, y toma una bebida azucarada por el camino. No esperes a ver si se pasa. El envenenamiento por ackee puede ser mortal, y tiene tratamiento cuando se detecta a tiempo."
     },
     "6fb320e1": {
       "src": "This is sustained energy",
-      "t": ""
+      "t": "Esto es energía sostenida"
+    },
+    "3a1e9bfc": {
+      "src": "This is what ripe ackee looks like. The pod has split open of its own accord, showing the black seeds and the cream aril. A pod that is still shut is not ready, and must never be forced.",
+      "t": "Así es el ackee maduro. La vaina se ha abierto por sí sola, dejando ver las semillas negras y el arilo de color crema. Una vaina que sigue cerrada no está lista, y nunca se debe forzar."
     },
     "29e1c17b": {
       "src": "Today, as a key ingredient in Jamaica’s national dish — ackee and saltfish — it is a staple throughout the Caribbean, found in nearly every market stall and street vendor’s stand, especially across Jamaica.",
-      "t": ""
+      "t": "Hoy, como ingrediente clave del plato nacional de Jamaica (ackee con saltfish), es un alimento básico en todo el Caribe, presente en casi todos los puestos de mercado y en los puestos de los vendedores ambulantes, sobre todo en Jamaica."
     },
     "d23ac98d": {
       "src": "Understanding this journey is essential.",
-      "t": ""
+      "t": "Entender este recorrido es esencial."
     },
     "46d0d132": {
       "src": "Unripe ackee is toxic. Fully ripe ackee is a nutritional powerhouse.",
-      "t": ""
+      "t": "El ackee inmaduro es tóxico. El ackee completamente maduro es una potencia nutricional."
     },
     "8f0a4786": {
       "src": "Unripe. Closed. Toxic at this stage. Never consume.",
-      "t": ""
+      "t": "Inmaduro. Cerrado. Tóxico en esta etapa. No lo consumas nunca."
     },
     "c8b1c7d6": {
       "src": "Vitamin A",
-      "t": ""
+      "t": "Vitamina A"
     },
     "c6b1c4b0": {
       "src": "Vitamin C",
-      "t": ""
+      "t": "Vitamina C"
     },
     "fa342a6b": {
       "src": "Vitamins A and C, combined with zinc and flavonoids, provide a comprehensive immune support profile.",
-      "t": ""
+      "t": "Las vitaminas A y C, combinadas con el zinc y los flavonoides, ofrecen un perfil completo de apoyo inmunitario."
     },
     "45d6d60c": {
       "src": "Watch the ackee",
-      "t": ""
+      "t": "Observa cómo el ackee"
     },
     "e5981cfc": {
       "src": "West Africa → Jamaica",
-      "t": ""
+      "t": "África Occidental → Jamaica"
     },
     "6b04dcd8": {
       "src": "What ackee",
-      "t": ""
+      "t": "Lo que el ackee"
     },
     "7c457c49": {
       "src": "When fully ripe, the fruit displays",
-      "t": ""
+      "t": "Cuando está completamente maduro, el fruto muestra"
+    },
+    "4161401c": {
+      "src": "Where this",
+      "t": "De dónde viene"
     },
     "07910c1c": {
       "src": "Widely enjoyed across the Caribbean",
-      "t": ""
+      "t": "Disfrutado ampliamente en todo el Caribe"
     },
     "d9cdec69": {
       "src": "Yellow",
-      "t": ""
+      "t": "Amarillo"
     },
     "38850996": {
       "src": "ackee carries a rich nutritional profile",
-      "t": ""
-    },
-    "397c8c81": {
-      "src": "ackee is a notable superfruit",
-      "t": ""
+      "t": "el ackee tiene un perfil nutricional rico"
     },
     "7884f706": {
       "src": "across all age groups.",
-      "t": ""
+      "t": "en todas las edades."
     },
     "af71dd6b": {
       "src": "at multiple levels simultaneously.",
-      "t": ""
+      "t": "en varios niveles a la vez."
+    },
+    "f590ee38": {
+      "src": "comes from.",
+      "t": "todo esto."
     },
     "b3475169": {
       "src": "delivers to the body.",
-      "t": ""
+      "t": "aporta al cuerpo."
     },
     "a717ff58": {
       "src": "food is medicine, and medicine should come from the earth.",
-      "t": ""
+      "t": "la comida es medicina, y la medicina debe venir de la tierra."
     },
     "6b78418e": {
       "src": "for the whole body.",
-      "t": ""
+      "t": "para todo el cuerpo."
     },
-    "ea4f3e57": {
-      "src": "hypoglycin A and B",
-      "t": ""
+    "aa9242ab": {
+      "src": "hypoglycin A and hypoglycin B",
+      "t": "hipoglicina A e hipoglicina B"
     },
-    "5fa20292": {
-      "src": "including essential fatty acids (omega-3 and omega-6), vitamins A, C, and B-complex, and numerous phytochemicals with antioxidant properties.",
-      "t": ""
+    "6e9541c0": {
+      "src": "in St. Andrew.",
+      "t": "en St. Andrew."
+    },
+    "fac6cc75": {
+      "src": "in their own water.",
+      "t": "cada uno en su propia agua."
+    },
+    "0189ba0c": {
+      "src": "including fat, protein, fibre, vitamins A, C and B-complex, and phytochemicals with antioxidant properties. Ackee is unusual among fruits in being genuinely fat rich, which is part of why it satisfies as a main dish. Published analyses of Jamaican ackee describe a fat profile led by oleic acid, the same monounsaturated fat found in olive oil.",
+      "t": "que incluye grasa, proteínas, fibra, vitaminas A, C y del complejo B, y fitoquímicos con propiedades antioxidantes. El ackee es inusual entre las frutas por ser genuinamente rico en grasa, lo que en parte explica por qué sacia como plato principal. Los análisis publicados del ackee jamaicano describen un perfil de grasa encabezado por el ácido oleico, la misma grasa monoinsaturada que se encuentra en el aceite de oliva."
     },
     "62ba3c26": {
       "src": "preparation matters.",
-      "t": ""
+      "t": "la preparación importa."
     },
     "a759e363": {
       "src": "reveal itself.",
-      "t": ""
+      "t": "se revela."
     },
     "f7b7067d": {
       "src": "superfoods.",
-      "t": ""
-    },
-    "94ff912a": {
-      "src": "that has been nourishing communities for centuries.",
-      "t": ""
+      "t": "jamaicanos."
     },
     "e7434f26": {
       "src": "three large, shiny black seeds",
-      "t": ""
+      "t": "tres semillas negras grandes y brillantes"
     },
     "4b5071ec": {
       "src": "to Jamaica’s table.",
-      "t": ""
+      "t": "a la mesa de Jamaica."
     },
     "75dacc5e": {
       "src": "to the Caribbean table.",
-      "t": ""
+      "t": "a la mesa caribeña."
     },
     "8820984d": {
       "src": "what grows here was placed here for a reason.",
-      "t": ""
-    },
-    "41356169": {
-      "src": "~300–500mg per 100g. Natural vasodilator — relaxes blood vessel walls, improves circulation.",
-      "t": ""
-    },
-    "dcb84c4b": {
-      "src": "— that are toxic in unripe fruit but decrease significantly as the fruit ripens. These compounds are responsible for Jamaican Vomiting Sickness if unripe ackee is consumed.",
-      "t": ""
+      "t": "lo que crece aquí fue puesto aquí por una razón."
     },
     "ee73b995": {
       "src": "“Ackee is not just Jamaica’s national fruit. It is a living connection to West Africa, to the land, and to the generations who understood that",
-      "t": ""
+      "t": "“El ackee no es solo la fruta nacional de Jamaica. Es una conexión viva con África Occidental, con la tierra y con las generaciones que entendieron que"
     },
     "729dc768": {
       "src": "🇯🇲 Jamaica’s National Fruit",
-      "t": ""
+      "t": "🇯🇲 La fruta nacional de Jamaica"
     }
   }
 }

@@ -1,0 +1,795 @@
+{
+  "_note": "Page content for learn-west-african-food-traditions.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "8cd0c401": {
+      "src": "(1377) further documents that West African populations eating millet-based diets were",
+      "t": "de Ibn Jaldún (1377) documenta además que las poblaciones de África Occidental con dietas basadas en el mijo eran"
+    },
+    "1d6a1280": {
+      "src": "(Chinese Compendium of Materia Medica, 1596) also documents moringa, confirming its independent discovery and use across multiple ancient civilisations.",
+      "t": "(Compendio de materia médica chino, 1596) también documenta la moringa, lo que confirma que distintas civilizaciones antiguas la descubrieron y la usaron por separado."
+    },
+    "9a5b6bed": {
+      "src": "(Travels). He recorded a population eating a diet centred on",
+      "t": "(Viajes). Registró una población que comía una dieta centrada en"
+    },
+    "92eb04ee": {
+      "src": "(University of California,",
+      "t": "(University of California,"
+    },
+    "8ba461e9": {
+      "src": "(author of",
+      "t": "(autora de"
+    },
+    "20f89e63": {
+      "src": "(culinary historian), and",
+      "t": "(historiador culinario) y"
+    },
+    "326a260c": {
+      "src": ") is the most nutritionally significant leafy green in Jamaican cuisine. Its cultivation and preparation methods trace directly to West African leafy green traditions — particularly the use of leafy amaranth species across Nigeria, Ghana, and Senegal, where it has been eaten for over 3,000 documented years.",
+      "t": ") es la verdura de hoja nutricionalmente más importante de la cocina jamaicana. Sus métodos de cultivo y preparación vienen directamente de las tradiciones de verduras de hoja de África Occidental, en particular del uso de especies de amaranto de hoja en Nigeria, Ghana y Senegal, donde se come desde hace más de 3.000 años documentados."
+    },
+    "4d9366cd": {
+      "src": ") — a cornerstone of Benin food and medicine — is now documented to contain vernodalin and vernolide, compounds with demonstrated anti-cancer, anti-malarial, and hypoglycaemic properties. The Benin healers who prescribed it understood the outcome. Modern phytochemistry identified the mechanism.",
+      "t": "), un pilar de la comida y la medicina de Benín, hoy se sabe que contiene vernodalina y vernolida, compuestos con propiedades anticancerígenas, antipalúdicas e hipoglucemiantes demostradas. Los sanadores de Benín que la recetaban conocían el resultado. La fitoquímica moderna identificó el mecanismo."
+    },
+    "ffd77678": {
+      "src": "),",
+      "t": "),"
+    },
+    "b02b60b1": {
+      "src": ", 2001) establish that enslaved Africans brought specific food knowledge and seeds that transformed Caribbean and American agriculture.",
+      "t": ", 2001) demuestran que los africanos esclavizados trajeron conocimientos alimentarios y semillas concretos que transformaron la agricultura del Caribe y de América."
+    },
+    "654ec49f": {
+      "src": "01 — The Ancient Archive",
+      "t": "01 · El archivo antiguo"
+    },
+    "2b457935": {
+      "src": "02 — The Taino Diet",
+      "t": "02 · La dieta taína"
+    },
+    "e8e82dd6": {
+      "src": "03 — West African Roots",
+      "t": "03 · Raíces de África Occidental"
+    },
+    "f9108205": {
+      "src": "04 — The Moorish Table",
+      "t": "04 · La mesa mora"
+    },
+    "a21d0f20": {
+      "src": "05 — A Nation’s Guide",
+      "t": "05 · La guía de una nación"
+    },
+    "bad6d953": {
+      "src": "06 — Building the Community",
+      "t": "06 · Construir la comunidad"
+    },
+    "295e8bc5": {
+      "src": "07 — Living Longer & Happier",
+      "t": "07 · Vivir más y más felices"
+    },
+    "4960ddd6": {
+      "src": "12,000",
+      "t": "12.000"
+    },
+    "8e90c401": {
+      "src": "13 min",
+      "t": "13 min"
+    },
+    "db2eaec2": {
+      "src": "200+",
+      "t": "Más de 200"
+    },
+    "bc1fa0f1": {
+      "src": "266mg per 100g — higher than cow’s milk per serving. The West African populations that consumed minimal dairy maintained excellent bone density through callaloo, moringa, and sesame-based calcium intake. Archaeological bone density analysis of West African skeletal remains confirms this.",
+      "t": "266 mg por cada 100 g, más que la leche de vaca por porción. Las poblaciones de África Occidental que apenas consumían lácteos mantenían una excelente densidad ósea gracias al calcio del callaloo, la moringa y el sésamo. El análisis de la densidad ósea de restos esqueléticos de África Occidental lo confirma."
+    },
+    "489f4e50": {
+      "src": "80%",
+      "t": "80%"
+    },
+    "6c847e2e": {
+      "src": "92 nutrients, 46 antioxidants, and 36 anti-inflammatory compounds",
+      "t": "92 nutrientes, 46 antioxidantes y 36 compuestos antiinflamatorios"
+    },
+    "489fb50f": {
+      "src": ": a record of what combination of foods sustained large, healthy, long-lived populations for thousands of years before chronic disease became the dominant global health threat.",
+      "t": ": un registro de qué combinación de alimentos sostuvo a poblaciones grandes, sanas y longevas durante miles de años antes de que las enfermedades crónicas se convirtieran en la principal amenaza para la salud mundial."
+    },
+    "fe0f7858": {
+      "src": "A documented fact:",
+      "t": "Un hecho documentado:"
+    },
+    "bedbf1e4": {
+      "src": "Africa in a pot.",
+      "t": "África en una olla."
+    },
+    "99b69c46": {
+      "src": "African basil (Ocimum gratissimum) —",
+      "t": "Albahaca africana (Ocimum gratissimum):"
+    },
+    "139ddf6f": {
+      "src": "Amaranthus viridis",
+      "t": "Amaranthus viridis"
+    },
+    "d5a778a7": {
+      "src": "Archaeological analysis of ancient West African sites, combined with colonial-era food records and oral traditions preserved by griots, produces a consistent picture of the pre-colonial West African diet. It was",
+      "t": "El análisis arqueológico de antiguos yacimientos de África Occidental, junto con los registros alimentarios de la época colonial y las tradiciones orales conservadas por los griots, ofrece una imagen coherente de la dieta precolonial de África Occidental. Era"
+    },
+    "485c89ba": {
+      "src": "Asian Pacific Journal of Tropical Biomedicine",
+      "t": "Asian Pacific Journal of Tropical Biomedicine"
+    },
+    "b5c86608": {
+      "src": "Baobab Fruit",
+      "t": "Fruto del baobab"
+    },
+    "15d6498c": {
+      "src": "Ben Cao Gang Mu",
+      "t": "Ben Cao Gang Mu"
+    },
+    "5c8536fc": {
+      "src": "Benin farmers were practising it 300 years earlier.",
+      "t": "Los agricultores de Benín ya la practicaban 300 años antes."
+    },
+    "d37767d9": {
+      "src": "Bitter leaf (",
+      "t": "La hoja amarga ("
+    },
+    "8c9e2eb1": {
+      "src": "Bitter leaf (Vernonia amygdalina) —",
+      "t": "Hoja amarga (Vernonia amygdalina):"
+    },
+    "240017e1": {
+      "src": "Black Rice",
+      "t": "Black Rice"
+    },
+    "e8176a9b": {
+      "src": "Black-Eyed Peas",
+      "t": "Frijoles de ojo negro"
+    },
+    "a09e9a6f": {
+      "src": "Black-eyed peas —",
+      "t": "Los frijoles de ojo negro:"
+    },
+    "8df3034a": {
+      "src": "Brought to the Caribbean and American South as a direct transplant from West African food tradition. Archaeological and documentary evidence places black-eyed peas in Jamaican food culture from the earliest colonial records.",
+      "t": "Llegaron al Caribe y al sur de Estados Unidos como un trasplante directo de la tradición alimentaria de África Occidental. La evidencia arqueológica y documental sitúa los frijoles de ojo negro en la cultura alimentaria jamaicana desde los primeros registros coloniales."
+    },
+    "457acb01": {
+      "src": "Calcium:",
+      "t": "Calcio:"
+    },
+    "b615c11a": {
+      "src": "Callaloo (",
+      "t": "El callaloo ("
+    },
+    "087627c7": {
+      "src": "Callaloo contains approximately 3mg of iron per 100g — comparable to beef and significantly higher than spinach when adjusted for bioavailability with vitamin C. West African populations relying on plant-based iron sources developed cooking traditions (pairing iron-rich greens with acidic fruits) that maximise absorption.",
+      "t": "El callaloo contiene unos 3 mg de hierro por cada 100 g, comparable a la carne de res y bastante más que la espinaca cuando se ajusta la biodisponibilidad con vitamina C. Las poblaciones de África Occidental que dependían del hierro vegetal desarrollaron tradiciones culinarias (combinar verduras ricas en hierro con frutas ácidas) que maximizan su absorción."
+    },
+    "7a47c2a6": {
+      "src": "Callaloo —",
+      "t": "El callaloo:"
+    },
+    "fc3b8b93": {
+      "src": "Callaloo — Africa in a pot",
+      "t": "El callaloo: África en una olla"
+    },
+    "b6214eca": {
+      "src": "Called the “tree of life” across West Africa for over 2,000 documented years. Every part is edible and medicinal. Modern analysis confirms it contains",
+      "t": "Llamada el “árbol de la vida” en toda África Occidental desde hace más de 2.000 años documentados. Cada parte es comestible y medicinal. El análisis moderno confirma que contiene"
+    },
+    "a83e560c": {
+      "src": "Caribbean cuisine.",
+      "t": "la cocina caribeña."
+    },
+    "96d05276": {
+      "src": "Colonial records, oral tradition, archaeology",
+      "t": "Registros coloniales, tradición oral, arqueología"
+    },
+    "a23e7e7f": {
+      "src": "Continue the",
+      "t": "Continúa la"
+    },
+    "aebaa9e0": {
+      "src": "Critical for neurotransmitter synthesis, DNA repair, and the prevention of neural tube defects. Callaloo is among the richest plant sources available in the Caribbean. West African food traditions that emphasised callaloo consumption during pregnancy were providing folate supplementation two millennia before the supplement existed.",
+      "t": "Fundamental para producir neurotransmisores, reparar el ADN y prevenir los defectos del tubo neural. El callaloo está entre las fuentes vegetales más ricas del Caribe. Las tradiciones alimentarias de África Occidental que recomendaban comer callaloo durante el embarazo estaban dando un suplemento de folato dos milenios antes de que existiera el suplemento."
+    },
+    "f16def58": {
+      "src": "Documented across Igbo, Yoruba, and Efik healing traditions for malaria, diabetes, and fever. 2012 research in the",
+      "t": "Documentada en las tradiciones de sanación igbo, yoruba y efik para la malaria, la diabetes y la fiebre. Una investigación de 2012 en el"
+    },
+    "70c0791f": {
+      "src": "Documented agricultural history in the Niger Delta region, making West African farming among the oldest continuously practised on earth.",
+      "t": "de historia agrícola documentada en la región del delta del Níger, lo que sitúa la agricultura de África Occidental entre las más antiguas practicadas sin interrupción en el planeta."
+    },
+    "eb080d30": {
+      "src": "Documented edible plant species in use across West Africa before European contact, per ethnobotanical surveys of oral traditions.",
+      "t": "especies de plantas comestibles documentadas en uso en África Occidental antes del contacto europeo, según estudios etnobotánicos de las tradiciones orales."
+    },
+    "ae30c4ed": {
+      "src": "Documented in ancient Egyptian records and West African oral traditions. One of the first legumes carried to the Caribbean. Still a Jamaican staple. Still providing the same nutrients it always did.",
+      "t": "Documentado en registros del antiguo Egipto y en las tradiciones orales de África Occidental. Una de las primeras legumbres que llegaron al Caribe. Sigue siendo un básico jamaicano. Sigue aportando los mismos nutrientes de siempre."
+    },
+    "4bf5270e": {
+      "src": "Documented in colonial Caribbean records from as early as 1647. Genetic analysis confirms Caribbean okra varieties trace directly to West African cultivars. Okra is now inseparable from Jamaican cooking — in pepper pot, callaloo, and soups.",
+      "t": "Documentadas en registros coloniales del Caribe desde 1647. El análisis genético confirma que las variedades caribeñas de okra vienen directamente de variedades de África Occidental. Hoy la okra es inseparable de la cocina jamaicana: en el pepper pot, el callaloo y las sopas."
+    },
+    "c910407c": {
+      "src": "Enslaved West Africans brought okra, black-eyed peas, sorghum, plantain knowledge, and numerous medicinal herbs to the Caribbean. Many are now staples of Jamaican cuisine, identified in historical records and genomic studies of Caribbean crop origins.",
+      "t": "Los africanos occidentales esclavizados llevaron al Caribe la okra, los frijoles de ojo negro, el sorgo, el conocimiento del plátano y numerosas hierbas medicinales. Muchos son hoy básicos de la cocina jamaicana, identificados en registros históricos y en estudios genómicos sobre el origen de los cultivos caribeños."
+    },
+    "b7f304f8": {
+      "src": "Estimated daily dietary fibre intake in traditional West African populations — three times the modern Western average. The gut microbiome consequences are measurable across generations.",
+      "t": "Consumo diario estimado de fibra en las poblaciones tradicionales de África Occidental: el triple de la media occidental actual. Las consecuencias para el microbioma intestinal se pueden medir a lo largo de generaciones."
+    },
+    "d65ff56d": {
+      "src": "Estimated proportion of pre-colonial West African diet from plant sources, documented through archaeological midden analysis and colonial food records.",
+      "t": "Proporción estimada de la dieta precolonial de África Occidental que venía de fuentes vegetales, documentada mediante el análisis de basureros arqueológicos y registros alimentarios coloniales."
+    },
+    "aa30e846": {
+      "src": "Fibre/day",
+      "t": "de fibra al día"
+    },
+    "ae16db1c": {
+      "src": "Folate:",
+      "t": "Folato:"
+    },
+    "75b1c6ad": {
+      "src": "Food as Medicine",
+      "t": "La comida como medicina"
+    },
+    "e3c6eb63": {
+      "src": "Food as medicine in West Africa",
+      "t": "La comida como medicina en África Occidental"
+    },
+    "a4fb9849": {
+      "src": "Ginger —",
+      "t": "Jengibre:"
+    },
+    "6fb22dd4": {
+      "src": "Gluten-free ancient grain.",
+      "t": "Cereal antiguo sin gluten."
+    },
+    "2d8a9bd3": {
+      "src": "High on the Hog",
+      "t": "High on the Hog"
+    },
+    "2799448b": {
+      "src": "Higher in antioxidants than blueberries. Rich in tannins documented to reduce cancer risk. Supports blood sugar regulation. Drought-resistant — the grain of food security across the Sahel.",
+      "t": "Más antioxidantes que los arándanos. Rico en taninos documentados por reducir el riesgo de cáncer. Ayuda a regular el azúcar en sangre. Resistente a la sequía: el cereal de la seguridad alimentaria en todo el Sahel."
+    },
+    "a1b8ea7d": {
+      "src": "Historical records, genetic analysis of Caribbean crops, and oral histories documented by scholars including",
+      "t": "Los registros históricos, el análisis genético de los cultivos caribeños y las historias orales documentadas por especialistas como"
+    },
+    "5c943584": {
+      "src": "Ibn Battuta noted with admiration the nutritional adequacy and organisation of Malian food systems: granaries were maintained at the village level, food was distributed communally during shortage, and every household maintained kitchen gardens of medicinal herbs.",
+      "t": "Ibn Battuta destacó con admiración lo adecuados y bien organizados que eran los sistemas alimentarios de Malí: cada aldea mantenía sus graneros, la comida se repartía en común en tiempos de escasez y cada hogar tenía un huerto de hierbas medicinales."
+    },
+    "5fc4808b": {
+      "src": "Ibn Battuta — the Moroccan scholar who travelled more widely than Marco Polo — spent eight months in the Mali Empire in 1352 and documented its food culture in precise detail in his",
+      "t": "Ibn Battuta, el erudito marroquí que viajó más que Marco Polo, pasó ocho meses en el Imperio de Malí en 1352 y documentó con todo detalle su cultura alimentaria en su"
+    },
+    "7361a5f9": {
+      "src": "Ibn Khaldun’s",
+      "t": "La"
+    },
+    "9d483a2e": {
+      "src": "Introduced to West Africa via ancient trade routes from Asia and fully integrated into West African food medicine within centuries. Documented across Mali, Benin, and Ashanti traditions as a digestive, anti-inflammatory, and fever remedy. Over 150 clinical studies now confirm ginger’s efficacy for nausea, inflammation, and blood sugar regulation.",
+      "t": "Llegó a África Occidental por antiguas rutas comerciales desde Asia y en pocos siglos se integró por completo en la medicina alimentaria de la región. Documentado en las tradiciones de Malí, Benín y los ashanti como remedio digestivo, antiinflamatorio y contra la fiebre. Hoy más de 150 estudios clínicos confirman la eficacia del jengibre para las náuseas, la inflamación y la regulación del azúcar en sangre."
+    },
+    "4570f7b4": {
+      "src": "Iron content:",
+      "t": "Contenido de hierro:"
+    },
+    "9687eac3": {
+      "src": "Iron, folate, plant protein, and fibre.",
+      "t": "Hierro, folato, proteína vegetal y fibra."
+    },
+    "bbe734f7": {
+      "src": "It is an African name for an African vegetable grown in Caribbean soil.",
+      "t": "Es un nombre africano para una verdura africana cultivada en tierra caribeña."
+    },
+    "d6ddc0f6": {
+      "src": "It is still here. It still grows. It still nourishes.",
+      "t": "Sigue aquí. Sigue creciendo. Sigue nutriendo."
+    },
+    "21bc5820": {
+      "src": "Its mucilage coats and soothes the intestinal lining. Documented in West African cooking as a thickening agent and medicine for 3,000 years before it appeared in Jamaican pepper pot.",
+      "t": "Su mucílago recubre y calma el revestimiento intestinal. Documentada en la cocina de África Occidental como espesante y como medicina durante 3.000 años antes de aparecer en el pepper pot jamaicano."
+    },
+    "4d1bf7fb": {
+      "src": "Jamaica’s Green Foundation",
+      "t": "La base verde de Jamaica"
+    },
+    "f2ce48f4": {
+      "src": "Jessica Harris",
+      "t": "Jessica Harris"
+    },
+    "04e47b37": {
+      "src": "Judith Carney",
+      "t": "Judith Carney"
+    },
+    "2a006477": {
+      "src": "Judith Carney’s groundbreaking 2001 research documented that rice cultivation in South Carolina was possible specifically because enslaved people from rice-growing regions of West Africa brought the technical knowledge to cultivate it. Planters who owned this knowledge, not the planters who owned the land, built the American rice economy.",
+      "t": "La innovadora investigación de Judith Carney en 2001 documentó que el cultivo de arroz en Carolina del Sur fue posible precisamente porque las personas esclavizadas de regiones arroceras de África Occidental trajeron el conocimiento técnico para cultivarlo. Quienes poseían este conocimiento, y no los dueños de la tierra, construyeron la economía arrocera estadounidense."
+    },
+    "c374ba70": {
+      "src": "Kingdom of Benin (900–1897 CE) — documented through Portuguese records (1485) and British colonial accounts (19th century)",
+      "t": "Reino de Benín (900 a 1897 d. C.), documentado en registros portugueses (1485) y relatos coloniales británicos (siglo XIX)"
+    },
+    "140200ed": {
+      "src": "Knowledge in memory.",
+      "t": "Conocimiento en la memoria."
+    },
+    "9dc37988": {
+      "src": "Kwik Fat Cut — Return to Real Food Series — Education First",
+      "t": "Kwik Fat Cut · Serie Volver a la Comida Real · La educación primero"
+    },
+    "ffe334f3": {
+      "src": "Mali Empire (1235–1600 CE) — documented by Ibn Battuta (1352) and Ibn Khaldun (1377)",
+      "t": "Imperio de Malí (1235 a 1600 d. C.), documentado por Ibn Battuta (1352) e Ibn Jaldún (1377)"
+    },
+    "d198ac7e": {
+      "src": "Medicinal herb knowledge —",
+      "t": "El conocimiento de las hierbas medicinales:"
+    },
+    "b66e8575": {
+      "src": "Michael Twitty",
+      "t": "Michael Twitty"
+    },
+    "c2e14870": {
+      "src": "More vitamin C than oranges, more calcium than milk, more iron than spinach",
+      "t": "Más vitamina C que las naranjas, más calcio que la leche, más hierro que la espinaca"
+    },
+    "466c7305": {
+      "src": "Moringa oleifera has been used in West African food and medicine for over 2,000 documented years. The",
+      "t": "La Moringa oleifera se usa en la comida y la medicina de África Occidental desde hace más de 2.000 años documentados. El"
+    },
+    "1a61cf87": {
+      "src": "Moringa oleifera —",
+      "t": "Moringa oleifera:"
+    },
+    "2a0cec5a": {
+      "src": "Moringa —",
+      "t": "La moringa:"
+    },
+    "cde56df2": {
+      "src": "Moringa — the miracle tree",
+      "t": "La moringa: el árbol milagroso"
+    },
+    "adc44201": {
+      "src": "Movements are medicines. We row. You steer. 🇯🇲",
+      "t": "Los movimientos son medicina. Nosotros remamos. Tú diriges. 🇯🇲"
+    },
+    "6015c73e": {
+      "src": "Muqaddimah",
+      "t": "Muqaddimah"
+    },
+    "201a1a81": {
+      "src": "Next in the series",
+      "t": "Siguiente en la serie"
+    },
+    "394814f1": {
+      "src": "No household went without food",
+      "t": "Ningún hogar se quedaba sin comida"
+    },
+    "85fba796": {
+      "src": "Okra (Abelmoschus esculentus)",
+      "t": "Okra (Abelmoschus esculentus)"
+    },
+    "39efa0b8": {
+      "src": "Okra seeds —",
+      "t": "Las semillas de okra:"
+    },
+    "6eedd827": {
+      "src": "Palm Oil (Red)",
+      "t": "Aceite de palma (rojo)"
+    },
+    "3c31c064": {
+      "src": "Part 4 — The Moorish Table. The foods that changed the world.",
+      "t": "Parte 4 · La mesa mora. Los alimentos que cambiaron el mundo."
+    },
+    "e1ae9d7e": {
+      "src": "Part 4 — The Moorish Table: the foods that changed the world",
+      "t": "Parte 4 · La mesa mora: los alimentos que cambiaron el mundo"
+    },
+    "6645b50e": {
+      "src": "Part 4 →",
+      "t": "Parte 4 →"
+    },
+    "5abaf6cc": {
+      "src": "Plant species",
+      "t": "especies de plantas"
+    },
+    "1573bf2c": {
+      "src": "Plant-based",
+      "t": "vegetal"
+    },
+    "81d106f8": {
+      "src": "Portuguese explorers who arrived in Benin City in 1485 documented a city larger than Lisbon at the time, with paved roads, organised markets, and a highly productive agricultural hinterland. Their records note extensive cultivation of",
+      "t": "Los exploradores portugueses que llegaron a la ciudad de Benín en 1485 documentaron una ciudad más grande que la Lisboa de entonces, con calles pavimentadas, mercados organizados y un entorno agrícola muy productivo. Sus registros mencionan un cultivo extenso de"
+    },
+    "41bd85f0": {
+      "src": "Protein: 2g — Vitamin B6: 19% of daily value — Vitamin C: 12% of daily value — Iron: 11% of daily value — Riboflavin (B2): 11% of daily value — Vitamin A: 9% of daily value — Magnesium: 8% of daily value. It also contains all nine essential amino acids — making it one of the few plant-based complete proteins. West African mothers have fed moringa to infants and nursing women for two thousand years. Modern nutritional science took until the 1990s to document why this was correct.",
+      "t": "Proteína: 2 g · Vitamina B6: 19% del valor diario · Vitamina C: 12% del valor diario · Hierro: 11% del valor diario · Riboflavina (B2): 11% del valor diario · Vitamina A: 9% del valor diario · Magnesio: 8% del valor diario. También contiene los nueve aminoácidos esenciales, lo que la convierte en una de las pocas proteínas vegetales completas. Las madres de África Occidental llevan dos mil años dando moringa a los bebés y a las mujeres que amamantan. La ciencia nutricional moderna tardó hasta la década de 1990 en documentar por qué eso era correcto."
+    },
+    "741ad140": {
+      "src": "Read Part 4 →",
+      "t": "Lee la Parte 4 →"
+    },
+    "02949b44": {
+      "src": "Return to Real Food",
+      "t": "Volver a la Comida Real"
+    },
+    "352703bf": {
+      "src": "Return to Real Food — 3 of 7",
+      "t": "Volver a la Comida Real · 3 de 7"
+    },
+    "398f026a": {
+      "src": "Returning to real food in Jamaica means, in large part, returning to Africa. Not as a cultural rejection of the present, but as a nutritional homecoming — to the foods the body was shaped to receive, prepared by the methods that preserve their greatest value, eaten in the community that amplifies their benefit.",
+      "t": "Volver a la comida real en Jamaica significa, en gran parte, volver a África. No como un rechazo cultural del presente, sino como un regreso nutricional a casa: a los alimentos que el cuerpo se formó para recibir, preparados con los métodos que conservan su mayor valor y comidos en la comunidad que multiplica su beneficio."
+    },
+    "fc48c110": {
+      "src": "Rice cultivation knowledge —",
+      "t": "El conocimiento del cultivo del arroz:"
+    },
+    "1f1dee38": {
+      "src": "Rich in beta-carotene and vitamin E.",
+      "t": "Rico en betacaroteno y vitamina E."
+    },
+    "e93a890b": {
+      "src": "Rihla",
+      "t": "Rihla"
+    },
+    "12723e4a": {
+      "src": "Seeds in hair.",
+      "t": "Semillas en el cabello."
+    },
+    "e29c5708": {
+      "src": "Smile for me, Jamaica. What you eat is what your ancestors grew. What they grew, they understood. What they understood, they carried.",
+      "t": "Sonríe para mí, Jamaica. Lo que comes es lo que cultivaron tus antepasados. Lo que cultivaron, lo entendían. Lo que entendían, lo llevaron consigo."
+    },
+    "4aa26349": {
+      "src": "Soluble fibre that binds cholesterol and supports blood sugar regulation.",
+      "t": "Fibra soluble que atrapa el colesterol y ayuda a regular el azúcar en sangre."
+    },
+    "ade023e6": {
+      "src": "Sorghum",
+      "t": "Sorgo"
+    },
+    "0905194f": {
+      "src": "Survival in the hands.",
+      "t": "Supervivencia en las manos."
+    },
+    "192d0417": {
+      "src": "Tamarind",
+      "t": "Tamarindo"
+    },
+    "a88952e5": {
+      "src": "Tartaric acid, antioxidants, and documented antimalarial properties.",
+      "t": "Ácido tartárico, antioxidantes y propiedades antipalúdicas documentadas."
+    },
+    "8a8ee58a": {
+      "src": "The Archive",
+      "t": "El archivo"
+    },
+    "23ab9dee": {
+      "src": "The Atlantic was wide. But the knowledge survived it. In the seeds, in the hands, in the memory — West African food wisdom crossed an ocean and took root in Jamaican soil.",
+      "t": "El Atlántico era ancho. Pero el conocimiento sobrevivió a él. En las semillas, en las manos, en la memoria: la sabiduría alimentaria de África Occidental cruzó un océano y echó raíces en tierra jamaicana."
+    },
+    "c00b2ca1": {
+      "src": "The Benin Kingdom maintained a sophisticated system of crop rotation and intercropping that preserved soil fertility across generations — a practice that took European agriculture until the 18th century to formalise through Jethro Tull and the British Agricultural Revolution.",
+      "t": "El Reino de Benín mantenía un sofisticado sistema de rotación y asociación de cultivos que conservaba la fertilidad del suelo durante generaciones, una práctica que la agricultura europea no formalizó hasta el siglo XVIII con Jethro Tull y la Revolución Agrícola británica."
+    },
+    "d6a1d5aa": {
+      "src": "The Diet",
+      "t": "La dieta"
+    },
+    "3c921e3c": {
+      "src": "The Living Legacy",
+      "t": "El legado vivo"
+    },
+    "0277ee6d": {
+      "src": "The Miracle Tree",
+      "t": "El árbol milagroso"
+    },
+    "b5b0649d": {
+      "src": "The NIH is confirming what West African grandmothers already knew.",
+      "t": "Los NIH confirman lo que las abuelas de África Occidental ya sabían."
+    },
+    "6ee509ea": {
+      "src": "The National Institutes of Health (NIH) describes moringa as “almost every part of the moringa tree has been used as food” and notes its documented anti-inflammatory, antioxidant, and neuroprotective properties.",
+      "t": "Los National Institutes of Health (NIH) señalan que “casi todas las partes del árbol de moringa se han usado como alimento” y destacan sus propiedades antiinflamatorias, antioxidantes y neuroprotectoras documentadas."
+    },
+    "2f8b92b1": {
+      "src": "The Series",
+      "t": "La serie"
+    },
+    "6a649f57": {
+      "src": "The West African",
+      "t": "La farmacopea"
+    },
+    "8178bfa4": {
+      "src": "The boundary between nutrition and medicine did not exist.",
+      "t": "La frontera entre nutrición y medicina no existía."
+    },
+    "7d3f813a": {
+      "src": "The bush medicine tradition of Jamaica — cerasee, fever grass, search-mi-heart, and dozens of other plants — integrates West African medicinal plant knowledge with Taino plant knowledge.",
+      "t": "La tradición de la medicina tradicional jamaicana (cerasee, fever grass, search-mi-heart y decenas de otras plantas) integra el conocimiento de las plantas medicinales de África Occidental con el conocimiento vegetal taíno."
+    },
+    "9984d437": {
+      "src": "The food of Jamaica is African food grown in Caribbean soil.",
+      "t": "La comida de Jamaica es comida africana cultivada en tierra caribeña."
+    },
+    "fa8ee20c": {
+      "src": "The food of Jamaica is the food of West Africa, grown in Caribbean soil, combined with Taino knowledge, and refined across centuries of community practice.",
+      "t": "La comida de Jamaica es la comida de África Occidental, cultivada en tierra caribeña, combinada con el saber taíno y perfeccionada durante siglos de práctica comunitaria."
+    },
+    "69fdb64e": {
+      "src": "The food traditions of West Africa did not disappear when millions of people were forcibly transported across the Atlantic. They survived — in seeds hidden in hair, in knowledge carried in memory, in the hands that planted Jamaica’s first gardens. This is the documented record of what they brought.",
+      "t": "Las tradiciones alimentarias de África Occidental no desaparecieron cuando millones de personas fueron llevadas a la fuerza a través del Atlántico. Sobrevivieron: en semillas escondidas en el cabello, en el conocimiento guardado en la memoria, en las manos que plantaron los primeros huertos de Jamaica. Este es el registro documentado de lo que trajeron."
+    },
+    "e1ad38d8": {
+      "src": "The great kingdoms and",
+      "t": "Los grandes reinos y"
+    },
+    "24cb0120": {
+      "src": "The great kingdoms and their food",
+      "t": "Los grandes reinos y su comida"
+    },
+    "3a7a9728": {
+      "src": "The leafy green that became Jamaica’s most important vegetable is directly descended from West African cooking traditions. The name, the preparation method (sautéed or steamed with aromatics), and the nutritional role it plays are all documented continuations of West African leafy green traditions.",
+      "t": "La verdura de hoja que se convirtió en la hortaliza más importante de Jamaica desciende directamente de las tradiciones culinarias de África Occidental. El nombre, el método de preparación (salteado o al vapor con aromáticos) y su papel nutricional son continuaciones documentadas de las tradiciones de verduras de hoja de África Occidental."
+    },
+    "09238895": {
+      "src": "The living legacy in Jamaica",
+      "t": "El legado vivo en Jamaica"
+    },
+    "c8a830fe": {
+      "src": "The most documented medieval African food culture",
+      "t": "La cultura alimentaria africana medieval más documentada"
+    },
+    "1b47035b": {
+      "src": "The most sophisticated agricultural kingdom in West Africa",
+      "t": "El reino agrícola más sofisticado de África Occidental"
+    },
+    "d91c7cb2": {
+      "src": "The roots of",
+      "t": "Las raíces de"
+    },
+    "f9689b08": {
+      "src": "The roots run",
+      "t": "Las raíces llegan"
+    },
+    "627b7414": {
+      "src": "The transatlantic slave trade transported an estimated 12.5 million people from West and Central Africa to the Americas between 1500 and 1900. It is one of history’s greatest crimes. It is also — through the extraordinary resilience of the people it displaced — one of the most significant moments of agricultural and nutritional knowledge transfer in human history.",
+      "t": "La trata transatlántica de esclavos llevó a unos 12,5 millones de personas de África Occidental y Central a América entre 1500 y 1900. Es uno de los mayores crímenes de la historia. Y es también, gracias a la extraordinaria resiliencia de las personas que desplazó, uno de los momentos más importantes de transferencia de conocimiento agrícola y nutricional de la historia humana."
+    },
+    "2d7c6077": {
+      "src": "The two traditions, encountering the same Caribbean environment, arrived at complementary rather than contradictory healing systems.",
+      "t": "Las dos tradiciones, al encontrarse con el mismo entorno caribeño, dieron lugar a sistemas de sanación que se complementaban en lugar de contradecirse."
+    },
+    "ca545c4d": {
+      "src": "The word “callaloo” itself is documented in Jamaican records from the 17th century, shortly after the period of largest African agricultural knowledge transfer.",
+      "t": "La palabra “callaloo” está documentada en registros jamaicanos desde el siglo XVII, poco después del periodo de mayor transferencia de conocimiento agrícola africano."
+    },
+    "4a046970": {
+      "src": "This convergence across unconnected cultures is the strongest possible evidence of genuine nutritional significance.",
+      "t": "Esta coincidencia entre culturas sin conexión es la prueba más sólida posible de su verdadera importancia nutricional."
+    },
+    "93b009df": {
+      "src": "This heritage is not simply cultural pride — though it deserves that too. It is a",
+      "t": "Esta herencia no es solo orgullo cultural, aunque también lo merece. Es un"
+    },
+    "edfef5c7": {
+      "src": "This is not coincidence. It is nutritional intelligence refined over generations.",
+      "t": "No es casualidad. Es inteligencia nutricional perfeccionada durante generaciones."
+    },
+    "21f1abb3": {
+      "src": "This understanding produced one of the most extensive plant medicine traditions in the world, documented across hundreds of years of observation and now being systematically validated by clinical research. The following represent West African food-medicines whose traditional uses have been confirmed by modern science.",
+      "t": "Esta comprensión dio lugar a una de las tradiciones de medicina vegetal más amplias del mundo, documentada a lo largo de cientos de años de observación y validada hoy de forma sistemática por la investigación clínica. Estos son alimentos medicinales de África Occidental cuyos usos tradicionales ha confirmado la ciencia moderna."
+    },
+    "ece9d45d": {
+      "src": "Traditional unrefined red palm oil — distinct from the industrially refined white palm oil — contains carotenoids protective against vitamin A deficiency. Used medicinally across West Africa for skin health and immunity.",
+      "t": "El aceite de palma rojo tradicional sin refinar, distinto del aceite de palma blanco refinado industrialmente, contiene carotenoides que protegen frente a la falta de vitamina A. Se usa como medicina en toda África Occidental para la salud de la piel y la inmunidad."
+    },
+    "40b3168e": {
+      "src": "Used across West Africa for fever management, digestive complaints, and as a vitamin C source. Found in Jamaican cooking to this day.",
+      "t": "Se usa en toda África Occidental para tratar la fiebre y los problemas digestivos, y como fuente de vitamina C. Sigue presente en la cocina jamaicana hoy."
+    },
+    "d393bb2d": {
+      "src": "Used across West Africa for respiratory infections, fevers, and skin conditions. Laboratory analysis has identified eugenol, thymol, and carvacrol — documented antimicrobial compounds that inhibit bacterial growth. The traditional use as a respiratory medicine is consistent with documented anti-inflammatory effects on airway tissue.",
+      "t": "Se usa en toda África Occidental para las infecciones respiratorias, la fiebre y las afecciones de la piel. El análisis de laboratorio ha identificado eugenol, timol y carvacrol, compuestos antimicrobianos documentados que inhiben el crecimiento bacteriano. Su uso tradicional como medicina respiratoria coincide con sus efectos antiinflamatorios documentados en el tejido de las vías respiratorias."
+    },
+    "0607d4f2": {
+      "src": "Vernonia amygdalina",
+      "t": "Vernonia amygdalina"
+    },
+    "5152f0fb": {
+      "src": "West Africa in",
+      "t": "África Occidental en"
+    },
+    "e81c20e9": {
+      "src": "West Africa was not a monolithic culture. It was a continent of empires, kingdoms, and city-states — each with distinct food traditions shaped by local ecology, trade networks, and centuries of agricultural refinement. The four great kingdoms most relevant to Jamaica’s food heritage are the Mali Empire, the Songhai Empire, the Benin Kingdom, and the Ashanti Kingdom — all documented through Arab traveller accounts, Portuguese colonial records, and the oral traditions preserved by professional historians called griots.",
+      "t": "África Occidental no era una cultura uniforme. Era un continente de imperios, reinos y ciudades-estado, cada uno con sus propias tradiciones alimentarias moldeadas por la ecología local, las redes comerciales y siglos de perfeccionamiento agrícola. Los cuatro grandes reinos más relevantes para la herencia alimentaria de Jamaica son el Imperio de Malí, el Imperio songhai, el Reino de Benín y el Reino ashanti, todos documentados en relatos de viajeros árabes, registros coloniales portugueses y las tradiciones orales conservadas por historiadores profesionales llamados griots."
+    },
+    "d89e3fb0": {
+      "src": "West Africa — documented 3,000+ years",
+      "t": "África Occidental · documentado desde hace más de 3.000 años"
+    },
+    "948b635f": {
+      "src": "West Africa — documented 4,000+ years",
+      "t": "África Occidental · documentado desde hace más de 4.000 años"
+    },
+    "39ba56a6": {
+      "src": "West Africa — documented 5,000+ years",
+      "t": "África Occidental · documentado desde hace más de 5.000 años"
+    },
+    "90a6cd52": {
+      "src": "West Africa — documented in Mali Empire records",
+      "t": "África Occidental · documentado en registros del Imperio de Malí"
+    },
+    "7238c988": {
+      "src": "West Africa — documented use across all major kingdoms",
+      "t": "África Occidental · uso documentado en todos los grandes reinos"
+    },
+    "fd450eb4": {
+      "src": "West Africa — documented use spanning 2,000+ years",
+      "t": "África Occidental · uso documentado a lo largo de más de 2.000 años"
+    },
+    "164ea8e2": {
+      "src": "West African Food Traditions in the Caribbean",
+      "t": "Tradiciones alimentarias de África Occidental en el Caribe"
+    },
+    "8f57ce02": {
+      "src": "West African food",
+      "t": "Tradiciones alimentarias"
+    },
+    "e7e1824a": {
+      "src": "West African healing traditions — including Yoruba medicine, Akan healing practices, and the traditions of the Mandinka healers — understood food and medicine as inseparable. Every major healer in West African tradition was first a food knowledge holder.",
+      "t": "Las tradiciones de sanación de África Occidental, entre ellas la medicina yoruba, las prácticas de sanación akan y las tradiciones de los sanadores mandinga, entendían la comida y la medicina como inseparables. Todo gran sanador de la tradición de África Occidental era, antes que nada, un guardián del saber alimentario."
+    },
+    "f9ea37ff": {
+      "src": "What Crossed the Atlantic",
+      "t": "Lo que cruzó el Atlántico"
+    },
+    "0c7c74d7": {
+      "src": "What West Africans",
+      "t": "Lo que realmente comían"
+    },
+    "766e86b8": {
+      "src": "What West Africans actually ate",
+      "t": "Lo que realmente comían los africanos occidentales"
+    },
+    "7993eedf": {
+      "src": "What crossed the Atlantic",
+      "t": "Lo que cruzó el Atlántico"
+    },
+    "d9ce49bc": {
+      "src": "What one serving of moringa leaves (21g, fresh) provides:",
+      "t": "Lo que aporta una porción de hojas de moringa (21 g, frescas):"
+    },
+    "e875eb7c": {
+      "src": "When a Jamaican grandmother makes pepper pot, she is preparing a dish whose roots extend to the kingdoms of Benin and Mali.",
+      "t": "Cuando una abuela jamaicana prepara pepper pot, está cocinando un plato cuyas raíces llegan hasta los reinos de Benín y Malí."
+    },
+    "84892b1f": {
+      "src": "When callaloo is sautéed with onion and scotch bonnet, the technique traces to West African leafy green preparation methods documented in 17th century colonial records.",
+      "t": "Cuando se saltea el callaloo con cebolla y ají scotch bonnet, la técnica viene de los métodos de preparación de verduras de hoja de África Occidental documentados en registros coloniales del siglo XVII."
+    },
+    "f361685d": {
+      "src": "Years",
+      "t": "años"
+    },
+    "fcd5a784": {
+      "src": "across a landscape of carefully managed farmland.",
+      "t": "en un paisaje de tierras de cultivo cuidadosamente gestionadas."
+    },
+    "b2a6fb3e": {
+      "src": "actually ate — documented.",
+      "t": "los africanos occidentales, según la evidencia."
+    },
+    "f7d68c59": {
+      "src": "confirmed significant anti-malarial activity in bitter leaf extract. Charantin compounds demonstrate blood sugar lowering effects comparable to some pharmaceutical interventions.",
+      "t": "confirmó una importante actividad antipalúdica en el extracto de hoja amarga. Sus compuestos de charantina muestran efectos reductores del azúcar en sangre comparables a los de algunos fármacos."
+    },
+    "098c1c94": {
+      "src": "deeper than the ocean.",
+      "t": "más hondo que el océano."
+    },
+    "1ae96e42": {
+      "src": "every Jamaican kitchen.",
+      "t": "cada cocina jamaicana."
+    },
+    "4acf8a86": {
+      "src": "millet porridge, black-eyed peas, dried fish, fresh fruit, and moringa leaves",
+      "t": "gachas de mijo, frijoles de ojo negro, pescado seco, fruta fresca y hojas de moringa"
+    },
+    "6bb597b8": {
+      "src": "nutritional instruction manual",
+      "t": "manual de instrucciones nutricional"
+    },
+    "904d2f1e": {
+      "src": "pharmacopoeia.",
+      "t": "de África Occidental."
+    },
+    "99d122bb": {
+      "src": "plant-dominant, fermented-food-rich, fibre-dense, and extraordinarily diverse",
+      "t": "predominantemente vegetal, rica en alimentos fermentados, densa en fibra y extraordinariamente variada"
+    },
+    "328ce2df": {
+      "src": "prepared in multiple ways.",
+      "t": "preparados de muchas maneras."
+    },
+    "25604bba": {
+      "src": "series.",
+      "t": "serie."
+    },
+    "57536094": {
+      "src": "their food traditions.",
+      "t": "sus tradiciones alimentarias."
+    },
+    "8904c85e": {
+      "src": "traditions.",
+      "t": "de África Occidental."
+    },
+    "f0d7f8e6": {
+      "src": "what 2,000 years of West African knowledge knew.",
+      "t": "lo que sabían 2.000 años de saber de África Occidental."
+    },
+    "0b77cb81": {
+      "src": "yams, plantains, palm oil, okra, bitter leaf, and various peppers",
+      "t": "ñame, plátano, aceite de palma, okra, hoja amarga y distintos ajíes"
+    },
+    "ed6215e8": {
+      "src": "~60g",
+      "t": "~60 g"
+    },
+    "36fce757": {
+      "src": "— a food security model that modern nations still fail to achieve.",
+      "t": ": un modelo de seguridad alimentaria que las naciones modernas todavía no logran."
+    },
+    "aca3fb78": {
+      "src": "— an observation now confirmed by millet’s documented role in reducing cardiovascular risk and supporting gut microbiome diversity.",
+      "t": ", una observación que hoy confirma el papel documentado del mijo en la reducción del riesgo cardiovascular y en la diversidad del microbioma intestinal."
+    },
+    "74322bea": {
+      "src": "— exactly the dietary pattern that modern nutritional science identifies as most protective against chronic disease.",
+      "t": ": justo el patrón alimentario que la ciencia nutricional moderna identifica como el más protector frente a las enfermedades crónicas."
+    },
+    "18ff03d2": {
+      "src": "— making it among the most nutritionally dense plants ever documented. The traditional claims made about it are not exaggerated.",
+      "t": ", lo que la sitúa entre las plantas más densas en nutrientes jamás documentadas. Lo que la tradición dice de ella no es exagerado."
+    },
+    "b4ecbdd3": {
+      "src": "— per gram. The baobab tree lives up to 3,000 years. Its fruit has sustained West African communities through drought and famine for longer than any written record exists.",
+      "t": ", gramo por gramo. El baobab vive hasta 3.000 años. Su fruto ha sostenido a las comunidades de África Occidental en sequías y hambrunas desde antes de que existiera cualquier registro escrito."
+    },
+    "9a98e424": {
+      "src": "“The enslaved people who were brought to Jamaica did not leave their food knowledge in Africa. They carried it in their hands, in their seeds, and in the memory of every preparation.",
+      "t": "“Las personas esclavizadas que trajeron a Jamaica no dejaron su conocimiento alimentario en África. Lo llevaron en las manos, en sus semillas y en la memoria de cada preparación."
+    },
+    "8a3c8335": {
+      "src": "“numerous, healthy, and long-lived”",
+      "t": "“numerosas, sanas y longevas”"
+    },
+    "d0f193a2": {
+      "src": "← Part 2",
+      "t": "← Parte 2"
+    },
+    "e8c33e18": {
+      "src": "🇯🇲❤️💚",
+      "t": "🇯🇲❤️💚"
+    },
+    "43e994f2": {
+      "src": "🌍 Return to Real Food Series — Part 3 of 7",
+      "t": "🌍 Serie Volver a la Comida Real, Parte 3 de 7"
+    }
+  }
+}

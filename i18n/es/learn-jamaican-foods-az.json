@@ -1,0 +1,667 @@
+{
+  "_note": "Page content for learn-jamaican-foods-az.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "230c8c59": {
+      "src": "&",
+      "t": "y"
+    },
+    "c11d3d36": {
+      "src": ", reduce refined carbs, and include iron-rich plant proteins like callaloo and yams. Nuts such as peanuts and pumpkin seeds also fit well within this framework.",
+      "t": ", reducen los carbohidratos refinados e incluyen proteínas vegetales ricas en hierro, como el callaloo y el ñame. Los frutos secos, como el maní y las semillas de calabaza, también encajan bien en este marco."
+    },
+    "c40bf6cc": {
+      "src": "A",
+      "t": "A"
+    },
+    "04b38af4": {
+      "src": "A complete food that adapts across the meal.",
+      "t": "Un alimento completo que se adapta a toda la comida."
+    },
+    "88196677": {
+      "src": "A reef fish found in Jamaican waters. Rich in omega-3 fatty acids, selenium, and lean protein. Parrotfish play a critical ecological role in reef health — understanding sustainable consumption is part of the Kwik Fat Cut approach to food education.",
+      "t": "Un pez de arrecife de las aguas jamaicanas. Rico en ácidos grasos omega-3, selenio y proteína magra. El pez loro cumple un papel ecológico clave en la salud del arrecife; entender el consumo sostenible forma parte del enfoque de Kwik Fat Cut sobre la educación alimentaria."
+    },
+    "4b515f7b": {
+      "src": "A to Z.",
+      "t": "de la A a la Z."
+    },
+    "c6d83ddf": {
+      "src": "Ackee (Blighia sapida)",
+      "t": "Ackee (Blighia sapida)"
+    },
+    "2fd4766f": {
+      "src": "Ackee 🇯🇲",
+      "t": "Ackee 🇯🇲"
+    },
+    "e860dd93": {
+      "src": "Ackee, garlic, sweet potato, blood-cleansing herbs — all in the Foods Hub.",
+      "t": "Ackee, ajo, batata, hierbas que limpian la sangre: todo en el Centro de Alimentos."
+    },
+    "e9b84030": {
+      "src": "All Fruits A to Z — Video Guide",
+      "t": "Todas las frutas de la A a la Z: guía en video"
+    },
+    "547adb7d": {
+      "src": "Allspice (Pimento)",
+      "t": "Pimienta de Jamaica (pimento)"
+    },
+    "1731e76b": {
+      "src": "Among the hottest peppers in the world. Contains capsaicin — documented for pain relief, metabolism boost, and cardiovascular support. Rich in vitamins A and C. Used in Jamaican cooking for flavour, heat, and health simultaneously.",
+      "t": "Uno de los ajíes más picantes del mundo. Contiene capsaicina, documentada por su efecto analgésico, su impulso al metabolismo y su apoyo cardiovascular. Rico en vitaminas A y C. En la cocina jamaicana se usa a la vez por su sabor, su picante y su valor para la salud."
+    },
+    "eba397fe": {
+      "src": "Avocado",
+      "t": "Aguacate"
+    },
+    "c70bfb85": {
+      "src": "B",
+      "t": "B"
+    },
+    "c6e3dc70": {
+      "src": "Banana",
+      "t": "Banana"
+    },
+    "8971d448": {
+      "src": "Beyond fruits — the full landscape of Jamaican whole foods. Every entry is chosen for its nutritional value, cultural significance, and alignment with the Kwik Fat Cut indigenous food philosophy.",
+      "t": "Más allá de las frutas: todo el panorama de los alimentos integrales jamaicanos. Cada entrada se eligió por su valor nutricional, su importancia cultural y su afinidad con la filosofía de alimentos indígenas de Kwik Fat Cut."
+    },
+    "725b219e": {
+      "src": "Bitter Herb",
+      "t": "Hierba amarga"
+    },
+    "e8176a9b": {
+      "src": "Black-Eyed Peas",
+      "t": "Frijoles de ojo negro"
+    },
+    "3fa5f451": {
+      "src": "Breadfruit",
+      "t": "Fruta del pan"
+    },
+    "031980fe": {
+      "src": "Breadfruit (Artocarpus altilis)",
+      "t": "Fruta del pan (Artocarpus altilis)"
+    },
+    "c60bf9f2": {
+      "src": "C",
+      "t": "C"
+    },
+    "49a2f94b": {
+      "src": "Callaloo (Amaranthus viridis)",
+      "t": "Callaloo (Amaranthus viridis)"
+    },
+    "09264955": {
+      "src": "Callaloo, papaya, and avocado eaten raw or lightly dressed retain the highest concentration of heat-sensitive vitamins. Vitamin C and folate begin to degrade above 70°C.",
+      "t": "El callaloo, la papaya y el aguacate, crudos o ligeramente aliñados, conservan la mayor concentración de vitaminas sensibles al calor. La vitamina C y el folato empiezan a degradarse por encima de los 70 °C."
+    },
+    "06dc83c8": {
+      "src": "Called the Ethiopian Apple in Jamaica. Approximately 91% water — exceptional for hydration. Rich in vitamins A, C, and riboflavin (B2). Low calorie, high in minerals including calcium, iron, and phosphorus. Supports bone health, blood circulation, and overall vitality.",
+      "t": "En Jamaica se la llama manzana etíope. Tiene aproximadamente un 91% de agua, excelente para hidratarse. Rica en vitaminas A, C y riboflavina (B2). Baja en calorías y rica en minerales como calcio, hierro y fósforo. Favorece la salud de los huesos, la circulación sanguínea y la vitalidad general."
+    },
+    "c926424e": {
+      "src": "Central to the national dish: ackee and saltfish.",
+      "t": "Es la base del plato nacional: el ackee con saltfish."
+    },
+    "f1dd64c2": {
+      "src": "Cerasee (Momordica charantia)",
+      "t": "Cerasee (Momordica charantia)"
+    },
+    "e80f2d17": {
+      "src": "Cherry (Jamaican)",
+      "t": "Cereza (jamaicana)"
+    },
+    "d8b0333c": {
+      "src": "Coconut",
+      "t": "Coco"
+    },
+    "a10980bb": {
+      "src": "Corm and leaves both edible. High in complex carbohydrates, potassium, and vitamin E. The leaves are used similarly to callaloo. One of the oldest cultivated food crops in human history — over 10,000 years of agricultural use.",
+      "t": "Tanto el cormo como las hojas son comestibles. Rico en carbohidratos complejos, potasio y vitamina E. Las hojas se usan de forma parecida al callaloo. Uno de los cultivos alimentarios más antiguos de la historia humana, con más de 10.000 años de uso agrícola."
+    },
+    "11494f39": {
+      "src": "D — F",
+      "t": "D a F"
+    },
+    "2dc54332": {
+      "src": "Dasheen (Taro)",
+      "t": "Dasheen (malanga)"
+    },
+    "6ccb18be": {
+      "src": "Dates",
+      "t": "Dátiles"
+    },
+    "e99baedc": {
+      "src": "Distinct from sweet potato — true yams have a lower glycaemic index and different nutrient profile. High in potassium, vitamin C, and B6.",
+      "t": "Distinto de la batata: el ñame verdadero tiene un índice glucémico más bajo y otro perfil de nutrientes. Rico en potasio, vitamina C y B6."
+    },
+    "72faff7d": {
+      "src": "Eaten at every stage of ripeness for different nutritional profiles. Green plantain: high resistant starch (prebiotic). Yellow: sweet, higher in simple sugars. Ripe: rich in antioxidants.",
+      "t": "Se come en cada etapa de maduración, con perfiles nutricionales distintos. Verde: rico en almidón resistente (prebiótico). Amarillo: dulce, con más azúcares simples. Maduro: rico en antioxidantes."
+    },
+    "778714c1": {
+      "src": "Elderberry",
+      "t": "Saúco"
+    },
+    "873f3258": {
+      "src": "Essential in Jamaican rice and peas, particularly at Christmas. High in plant protein, folate, iron, and dietary fibre. Supports nitrogen fixation in soil — making gungo peas both a food crop and a soil restorer in traditional farming.",
+      "t": "Esenciales en el rice and peas jamaicano, sobre todo en Navidad. Ricos en proteína vegetal, folato, hierro y fibra dietética. Fijan nitrógeno en el suelo, así que en la agricultura tradicional los gandules son a la vez un cultivo alimentario y un restaurador del suelo."
+    },
+    "202b17fe": {
+      "src": "Every fruit",
+      "t": "Cada fruta"
+    },
+    "6dfab0bd": {
+      "src": "Every part is used — water for electrolytes, flesh for fibre and medium-chain triglycerides (MCTs), oil for cooking and skin health. Coconut water contains naturally occurring cytokinins linked to anti-ageing effects at the cellular level.",
+      "t": "Se aprovecha cada parte: el agua por sus electrolitos, la pulpa por su fibra y sus triglicéridos de cadena media (MCT), el aceite para cocinar y para la salud de la piel. El agua de coco contiene citoquininas naturales relacionadas con efectos antienvejecimiento a nivel celular."
+    },
+    "de69a12b": {
+      "src": "Experience Jamaica’s spicy, bold flavours — allspice, pimento, Scotch bonnet peppers, and ginger — that energise and promote overall well-being. Choose",
+      "t": "Disfruta de los sabores intensos y picantes de Jamaica (pimienta de Jamaica, pimento, ají scotch bonnet y jengibre) que dan energía y favorecen el bienestar general. Elige"
+    },
+    "944f1c5d": {
+      "src": "Explore more",
+      "t": "Explora más"
+    },
+    "c07a4527": {
+      "src": "Explore the",
+      "t": "Descubre los"
+    },
+    "685f15e3": {
+      "src": "Explore the incredible health benefits of Jamaican organic, indigenous whole foods, fruits, and nuts with our comprehensive video guide to these powerful foods.",
+      "t": "Descubre los increíbles beneficios para la salud de los alimentos integrales, las frutas y los frutos secos orgánicos e indígenas de Jamaica con nuestra completa guía en video sobre estos poderosos alimentos."
+    },
+    "c24a7ade": {
+      "src": "Fermentation & pickling",
+      "t": "Fermentación y encurtidos"
+    },
+    "34d874b7": {
+      "src": "Fever Grass (Lemongrass)",
+      "t": "Fever grass (hierba de limón)"
+    },
+    "246f31b5": {
+      "src": "Fig",
+      "t": "Higo"
+    },
+    "1633eb4e": {
+      "src": "From the familiar to the rare — a complete guide to the fruits of Jamaica and the wider Caribbean, each with documented nutritional properties. These are not exotic imports. These are the foods of the land.",
+      "t": "De las conocidas a las poco comunes: una guía completa de las frutas de Jamaica y del Caribe en general, cada una con propiedades nutricionales documentadas. No son importaciones exóticas. Son los alimentos de la tierra."
+    },
+    "63d94e31": {
+      "src": "Fruit",
+      "t": "Fruta"
+    },
+    "0d84d55f": {
+      "src": "Fruit / Vegetable",
+      "t": "Fruta / verdura"
+    },
+    "7f70c578": {
+      "src": "Fruits A to Z",
+      "t": "Frutas de la A a la Z"
+    },
+    "78a9d9b4": {
+      "src": "G — J",
+      "t": "G a J"
+    },
+    "cb49dbbd": {
+      "src": "Ginger",
+      "t": "Jengibre"
+    },
+    "52336370": {
+      "src": "Grape",
+      "t": "Uva"
+    },
+    "2b0d544f": {
+      "src": "Grass / Herb",
+      "t": "Hierba"
+    },
+    "c4ecf19d": {
+      "src": "Ground Provision",
+      "t": "Víveres"
+    },
+    "be74a552": {
+      "src": "Ground provisions,",
+      "t": "Víveres,"
+    },
+    "753f4897": {
+      "src": "Guinep",
+      "t": "Quenepa (guinep)"
+    },
+    "2842f215": {
+      "src": "Guinep (Spanish Lime)",
+      "t": "Guinep (quenepa)"
+    },
+    "4eda00f6": {
+      "src": "Gungo Peas (Pigeon Peas)",
+      "t": "Gungo peas (gandules)"
+    },
+    "a58f6c8f": {
+      "src": "High in folate, iron, and plant protein. A staple legume across West Africa and the Caribbean. Used in Hoppin’ John, rice and peas variants, and soups. Supports blood formation and energy metabolism.",
+      "t": "Ricos en folato, hierro y proteína vegetal. Una legumbre básica en toda África Occidental y el Caribe. Se usan en el Hoppin’ John, en variantes del rice and peas y en sopas. Favorecen la formación de sangre y el metabolismo energético."
+    },
+    "5fe4c6c7": {
+      "src": "Higher in iron than spinach per serving.",
+      "t": "Tiene más hierro por porción que la espinaca."
+    },
+    "b69931c6": {
+      "src": "How you cook",
+      "t": "Cómo cocinas"
+    },
+    "4e580239": {
+      "src": "Huckleberry",
+      "t": "Arándano silvestre"
+    },
+    "39838aca": {
+      "src": "Immerse yourself in Jamaica’s vibrant culinary scene, where every dish celebrates the island’s unique flavours, fresh ingredients, and lively whole-food holistic traditions — offering an authentic taste of paradise. This is not a recipe list. This is an education in what the land provides.",
+      "t": "Sumérgete en la vibrante escena culinaria de Jamaica, donde cada plato celebra los sabores únicos de la isla, sus ingredientes frescos y sus animadas tradiciones holísticas de alimentos integrales, y ofrece un auténtico sabor del paraíso. Esto no es una lista de recetas. Es una educación sobre lo que da la tierra."
+    },
+    "79a32b6d": {
+      "src": "Introduced to Jamaica in 1793 by Captain Bligh (same voyage that brought ackee). High in complex carbohydrates, fibre, and potassium. Low glycaemic when roasted. A dietary staple that sustained communities through food scarcity.",
+      "t": "Llegó a Jamaica en 1793 con el capitán Bligh (en el mismo viaje que trajo el ackee). Rica en carbohidratos complejos, fibra y potasio. De índice glucémico bajo cuando se asa. Un alimento básico que sostuvo a las comunidades en tiempos de escasez."
+    },
+    "afca8f30": {
+      "src": "Jackfruit",
+      "t": "Yaca"
+    },
+    "7b56c69d": {
+      "src": "Jamaica exports Cavendish and plantain varieties. Ripe bananas provide quick energy and potassium. Green bananas act as a",
+      "t": "Jamaica exporta variedades Cavendish y de plátano. Los bananos maduros aportan energía rápida y potasio. Los verdes actúan como"
+    },
+    "196ab356": {
+      "src": "Jamaica grows over 50 mango varieties. East Indian, Julie, and Haden are among the most prized. Rich in vitamins A, C, B6, and folate. Contains mangiferin — a xanthone with documented anti-inflammatory and antidiabetic properties.",
+      "t": "Jamaica cultiva más de 50 variedades de mango. East Indian, Julie y Haden están entre las más apreciadas. Rico en vitaminas A, C, B6 y folato. Contiene mangiferina, una xantona con propiedades antiinflamatorias y antidiabéticas documentadas."
+    },
+    "c5545333": {
+      "src": "Jamaica produces most of the world’s allspice. Contains eugenol — an anti-inflammatory compound also found in cloves. Used in jerk seasoning, teas, and traditional medicine for digestive complaints.",
+      "t": "Jamaica produce la mayor parte de la pimienta de Jamaica del mundo. Contiene eugenol, un compuesto antiinflamatorio que también está en el clavo de olor. Se usa en el sazón jerk, en tés y en la medicina tradicional para los problemas digestivos."
+    },
+    "f428d466": {
+      "src": "Jamaica produces some of the world’s finest ginger. Contains gingerols and shogaols — potent anti-inflammatory and antiemetic compounds. Used for nausea, digestion, circulation, and pain relief. Among the most studied medicinal plants on earth.",
+      "t": "Jamaica produce parte del mejor jengibre del mundo. Contiene gingeroles y shogaoles, potentes compuestos antiinflamatorios y antieméticos. Se usa para las náuseas, la digestión, la circulación y el alivio del dolor. Está entre las plantas medicinales más estudiadas del planeta."
+    },
+    "04f65a45": {
+      "src": "Jamaican",
+      "t": "jamaicanos"
+    },
+    "4e7f8e4f": {
+      "src": "Jamaican Foods A to Z — Kwik Fat Cut",
+      "t": "Alimentos jamaicanos de la A a la Z · Kwik Fat Cut"
+    },
+    "0eef16da": {
+      "src": "Jamaican Foods A–Z",
+      "t": "Alimentos jamaicanos de la A a la Z"
+    },
+    "be64f3d9": {
+      "src": "Jamaican Parrotfish",
+      "t": "Pez loro jamaicano"
+    },
+    "28c1c12c": {
+      "src": "Jamaican foods",
+      "t": "Alimentos jamaicanos"
+    },
+    "0b0bcd96": {
+      "src": "Jamaica’s cuisine is lively and authentic, featuring dishes that celebrate the island’s rich culinary Rasta traditions. These traditions align well with the Kwik Fat Cut approach — supporting weight management, encouraging natural skin beauty, and fostering long-term healthy eating habits.",
+      "t": "La cocina de Jamaica es vibrante y auténtica, con platos que celebran las ricas tradiciones culinarias rasta de la isla. Estas tradiciones encajan bien con el enfoque de Kwik Fat Cut: apoyan el control del peso, favorecen la belleza natural de la piel y fomentan hábitos de alimentación saludable a largo plazo."
+    },
+    "7d4c775c": {
+      "src": "Jamaica’s cuisine offers bold, aromatic options. Choose thoughtfully — maximise nutrition by selecting preparation methods that preserve rather than diminish the food’s natural properties.",
+      "t": "La cocina de Jamaica ofrece opciones intensas y aromáticas. Elige con criterio: aprovecha al máximo la nutrición con métodos de preparación que conserven, en lugar de reducir, las propiedades naturales de los alimentos."
+    },
+    "fb77a1f4": {
+      "src": "Jamaica’s most important leafy green. Rich in iron, calcium, vitamins A, C, and K, folate, and antioxidants.",
+      "t": "La verdura de hoja más importante de Jamaica. Rica en hierro, calcio, vitaminas A, C y K, folato y antioxidantes."
+    },
+    "05915e82": {
+      "src": "Jamaica’s national fruit. Originating from West Africa. Rich in omega-3 and omega-6 fatty acids, vitamins A, C, and B-complex, potassium, and flavonoids.",
+      "t": "La fruta nacional de Jamaica. Originaria de África Occidental. Rica en ácidos grasos omega-3 y omega-6, vitaminas A, C y del complejo B, potasio y flavonoides."
+    },
+    "55dd19fd": {
+      "src": "June Plum",
+      "t": "June plum (jobo indio)"
+    },
+    "26dd8bb9": {
+      "src": "Kiwi",
+      "t": "Kiwi"
+    },
+    "ee7a741f": {
+      "src": "Known as bitter melon. One of Jamaica’s most trusted bush medicine herbs. Used in teas for blood cleansing, fever, skin conditions, and blood sugar regulation. Contains charantin — documented for hypoglycaemic (blood sugar lowering) activity.",
+      "t": "Conocida como melón amargo. Una de las hierbas de la medicina tradicional jamaicana más confiables. Se usa en tés para limpiar la sangre, bajar la fiebre, tratar afecciones de la piel y regular el azúcar en sangre. Contiene charantina, documentada por su actividad hipoglucemiante (reduce el azúcar en sangre)."
+    },
+    "da860dcc": {
+      "src": "Known locally as “pear.” Rich in monounsaturated fats, potassium (more than bananas), and folate. Supports cardiovascular health and nutrient absorption from other foods eaten alongside it.",
+      "t": "Conocido localmente como “pear” (pera). Rico en grasas monoinsaturadas, potasio (más que el banano) y folato. Favorece la salud cardiovascular y la absorción de los nutrientes de otros alimentos que se comen con él."
+    },
+    "a84bf357": {
+      "src": "Leafy Green",
+      "t": "Verdura de hoja"
+    },
+    "8b63ae7c": {
+      "src": "Legume",
+      "t": "Legumbre"
+    },
+    "6e7cb370": {
+      "src": "Lemon",
+      "t": "Limón"
+    },
+    "71dcf904": {
+      "src": "M — P",
+      "t": "M a P"
+    },
+    "e2e9eb75": {
+      "src": "Mango",
+      "t": "Mango"
+    },
+    "00852edd": {
+      "src": "Mango (East Indian, Julie, Haden)",
+      "t": "Mango (East Indian, Julie, Haden)"
+    },
+    "36e0470f": {
+      "src": "Must be fully ripe before consumption.",
+      "t": "Debe estar completamente madura antes de comerse."
+    },
+    "f9c61b78": {
+      "src": "Naseberry (Sapodilla)",
+      "t": "Níspero (zapote)"
+    },
+    "4d2d2f21": {
+      "src": "National Fruit",
+      "t": "Fruta nacional"
+    },
+    "079dd0ca": {
+      "src": "Nectarine",
+      "t": "Nectarina"
+    },
+    "9e213aa1": {
+      "src": "One of Jamaica’s most beloved seasonal fruits",
+      "t": "Una de las frutas de temporada más queridas de Jamaica"
+    },
+    "a922f2e1": {
+      "src": "One of the most studied fruits in natural medicine. Contains annonaceous acetogenins — compounds studied for their effects on cancer cell lines. Rich in vitamin C, B vitamins, and fibre. Used in Ital teas and juices across Jamaica.",
+      "t": "Una de las frutas más estudiadas en la medicina natural. Contiene acetogeninas anonáceas, compuestos estudiados por sus efectos en líneas de células cancerosas. Rica en vitamina C, vitaminas del grupo B y fibra. Se usa en tés y jugos Ital en toda Jamaica."
+    },
+    "727b390b": {
+      "src": "Orange",
+      "t": "Naranja"
+    },
+    "772614ae": {
+      "src": "Otaheiti Apple",
+      "t": "Manzana de Otaheite"
+    },
+    "4502ad88": {
+      "src": "Otaheiti Apple (Ethiopian Apple)",
+      "t": "Manzana de Otaheite (manzana etíope)"
+    },
+    "ebbce234": {
+      "src": "Over 102% daily vitamin A from beta-carotene. Prebiotic fibre feeding Lactobacillus and Bifidobacterium gut bacteria. Anti-cancer phytochemicals including anthocyanins. A true superfood rooted in Caribbean and African culinary tradition.",
+      "t": "Más del 102% de la vitamina A diaria a partir del betacaroteno. Fibra prebiótica que alimenta a las bacterias intestinales Lactobacillus y Bifidobacterium. Fitoquímicos anticancerígenos como las antocianinas. Un verdadero superalimento con raíces en la tradición culinaria caribeña y africana."
+    },
+    "35e88cb7": {
+      "src": "Papaya",
+      "t": "Papaya"
+    },
+    "5f1068f0": {
+      "src": "Passion Fruit",
+      "t": "Maracuyá"
+    },
+    "bb761199": {
+      "src": "Pepper",
+      "t": "Ají"
+    },
+    "36c7c751": {
+      "src": "Pineapple",
+      "t": "Piña"
+    },
+    "bd927c6a": {
+      "src": "Plantain",
+      "t": "Plátano"
+    },
+    "a6897d2c": {
+      "src": "Preparation Matters",
+      "t": "La preparación importa"
+    },
+    "a7056e0c": {
+      "src": "Preserves water-soluble vitamins lost in boiling. Maintains natural flavour without the chemical byproducts of high-temperature smoking.",
+      "t": "Conserva las vitaminas hidrosolubles que se pierden al hervir. Mantiene el sabor natural sin los subproductos químicos del ahumado a altas temperaturas."
+    },
+    "6717370c": {
+      "src": "Quince",
+      "t": "Membrillo"
+    },
+    "4141a081": {
+      "src": "Raspberry",
+      "t": "Frambuesa"
+    },
+    "c8cf6932": {
+      "src": "Raw & lightly dressed",
+      "t": "Crudo y ligeramente aliñado"
+    },
+    "029bb016": {
+      "src": "Read: Ackee",
+      "t": "Leer: ackee"
+    },
+    "83249dce": {
+      "src": "Root / Spice",
+      "t": "Raíz / especia"
+    },
+    "c8eb07a1": {
+      "src": "S — Y",
+      "t": "S a Y"
+    },
+    "9cfe94b7": {
+      "src": "Scotch Bonnet",
+      "t": "Scotch bonnet"
+    },
+    "1616d5e0": {
+      "src": "Seafood",
+      "t": "Pescados y mariscos"
+    },
+    "bdc5fb80": {
+      "src": "Slow cooking with herbs",
+      "t": "Cocción lenta con hierbas"
+    },
+    "8ebd9e29": {
+      "src": "Small green fruit with translucent orange-pink flesh. High in vitamin C, iron, phosphorus, and amino acids. Traditional use for anaemia and sleep support.",
+      "t": "Fruta pequeña y verde con pulpa translúcida de color naranja rosado. Rica en vitamina C, hierro, fósforo y aminoácidos. De uso tradicional para la anemia y para ayudar a dormir."
+    },
+    "ce8a9072": {
+      "src": "Soursop",
+      "t": "Guanábana"
+    },
+    "599d044a": {
+      "src": "Soursop (Graviola)",
+      "t": "Guanábana (graviola)"
+    },
+    "385b323d": {
+      "src": "Spice",
+      "t": "Especia"
+    },
+    "2d34a551": {
+      "src": "Star Apple",
+      "t": "Caimito"
+    },
+    "3d2f303d": {
+      "src": "Starfruit",
+      "t": "Carambola"
+    },
+    "3d387dfe": {
+      "src": "Steam-grilling",
+      "t": "Parrilla al vapor"
+    },
+    "6e71a07c": {
+      "src": "Strawberry",
+      "t": "Fresa"
+    },
+    "622b416a": {
+      "src": "Sweet Potato",
+      "t": "Batata"
+    },
+    "192d0417": {
+      "src": "Tamarind",
+      "t": "Tamarindo"
+    },
+    "6f7638ac": {
+      "src": "Tangerine",
+      "t": "Mandarina"
+    },
+    "f1cd0301": {
+      "src": "The Full Guide",
+      "t": "La guía completa"
+    },
+    "5fb10c1a": {
+      "src": "The Purpose",
+      "t": "El propósito"
+    },
+    "5f4a89bb": {
+      "src": "The preferred Kwik Fat Cut method",
+      "t": "El método preferido de Kwik Fat Cut"
+    },
+    "588039f6": {
+      "src": "The traditional Jamaican method for peas and beans. Slow cooking with thyme, allspice, and scotch bonnet extracts phytochemicals into the cooking liquid, making the whole dish more nutritious than the sum of its parts.",
+      "t": "El método tradicional jamaicano para los frijoles y las legumbres. La cocción lenta con tomillo, pimienta de Jamaica y ají scotch bonnet extrae fitoquímicos al líquido de cocción, y hace que el plato entero sea más nutritivo que la suma de sus partes."
+    },
+    "492ae15e": {
+      "src": "They emphasise",
+      "t": "Dan prioridad a"
+    },
+    "5c5c673f": {
+      "src": "This guide honours the nutritional value of local Jamaican produce — fruits, ground provisions, herbs, seafood, and whole grains that have sustained the island’s communities for generations.",
+      "t": "Esta guía rinde homenaje al valor nutricional de los productos locales de Jamaica: frutas, víveres, hierbas, pescados y mariscos, y cereales integrales que han sostenido a las comunidades de la isla durante generaciones."
+    },
+    "728cdf76": {
+      "src": "Traditional Jamaican escovitch and pickled vegetables are fermented foods. Fermentation increases nutrient bioavailability and introduces beneficial bacteria that support the gut microbiome.",
+      "t": "El escovitch tradicional jamaicano y las verduras encurtidas son alimentos fermentados. La fermentación aumenta la biodisponibilidad de los nutrientes e introduce bacterias beneficiosas que apoyan el microbioma intestinal."
+    },
+    "2b099578": {
+      "src": "Ugli Fruit",
+      "t": "Fruta ugli"
+    },
+    "80454f30": {
+      "src": "Used in bush teas across Jamaica for fever reduction, digestion, and relaxation. Contains citral — an antimicrobial compound. Calms the nervous system and supports healthy sleep. A staple of Jamaican home medicine.",
+      "t": "Se usa en tés de hierbas en toda Jamaica para bajar la fiebre, ayudar a la digestión y relajarse. Contiene citral, un compuesto antimicrobiano. Calma el sistema nervioso y favorece un sueño saludable. Un básico de la medicina casera jamaicana."
+    },
+    "0c1c9d6e": {
+      "src": "Used in soups, rice dishes, and as a side vegetable. A nutritional cornerstone of the Ital diet.",
+      "t": "Se usa en sopas, platos de arroz y como guarnición. Un pilar nutricional de la dieta Ital."
+    },
+    "3420ac10": {
+      "src": "Vanilla",
+      "t": "Vainilla"
+    },
+    "8c6c7b26": {
+      "src": "Watch on YouTube →",
+      "t": "Ver en YouTube →"
+    },
+    "ffd188d7": {
+      "src": "Watermelon",
+      "t": "Sandía"
+    },
+    "48aeb6ce": {
+      "src": "Yam (Yellow Yam, St. Elizabeth Yam)",
+      "t": "Ñame (ñame amarillo, ñame de St. Elizabeth)"
+    },
+    "c1dee658": {
+      "src": "Yellow yam from St. Elizabeth parish",
+      "t": "El ñame amarillo de la parroquia de St. Elizabeth"
+    },
+    "8a7c1382": {
+      "src": "Your health is your most valuable asset.",
+      "t": "Tu salud es tu activo más valioso."
+    },
+    "3d2310d7": {
+      "src": "and explore plant-based, whole-food meals wherever possible.",
+      "t": "y explora comidas basadas en plantas y alimentos integrales siempre que puedas."
+    },
+    "3d436e28": {
+      "src": "as what you cook.",
+      "t": "como lo que cocinas."
+    },
+    "48a9b4d2": {
+      "src": "benefits of",
+      "t": "para la salud de los productos"
+    },
+    "be1ec6ec": {
+      "src": "deep reads.",
+      "t": "lecturas profundas."
+    },
+    "9e90ae5d": {
+      "src": "for fish and vegetables.",
+      "t": "para el pescado y las verduras."
+    },
+    "7d17c3cd": {
+      "src": "greens, proteins",
+      "t": "verduras, proteínas"
+    },
+    "ae8a98bc": {
+      "src": "incredible health",
+      "t": "increíbles beneficios"
+    },
+    "1a1aec4c": {
+      "src": "is among the most prized in Jamaica. Supports hormonal balance through natural diosgenin compounds.",
+      "t": "está entre los más apreciados de Jamaica. Favorece el equilibrio hormonal gracias a sus compuestos naturales de diosgenina."
+    },
+    "715764e1": {
+      "src": "is as important",
+      "t": "es tan importante"
+    },
+    "8dcc688c": {
+      "src": "offers.",
+      "t": "ofrece."
+    },
+    "14b36e95": {
+      "src": "organic, indigenous",
+      "t": "orgánicos e indígenas: los"
+    },
+    "100100d4": {
+      "src": "prebiotic",
+      "t": "prebiótico"
+    },
+    "35a53591": {
+      "src": "steam-grilled options",
+      "t": "opciones a la parrilla al vapor"
+    },
+    "5e344f49": {
+      "src": "the island",
+      "t": "que la isla"
+    },
+    "d4a81e75": {
+      "src": "whole foods.",
+      "t": "alimentos integrales."
+    },
+    "e250abaa": {
+      "src": "whole grains such as wild oats and brown rice",
+      "t": "los cereales integrales, como la avena silvestre y el arroz integral"
+    },
+    "40b494cd": {
+      "src": "— rarely found outside the Caribbean.",
+      "t": ", que rara vez se encuentra fuera del Caribe."
+    },
+    "ed5c29c4": {
+      "src": "— resistant starch that feeds beneficial gut bacteria.",
+      "t": ": almidón resistente que alimenta a las bacterias intestinales beneficiosas."
+    },
+    "ccc2a788": {
+      "src": "♨️",
+      "t": "♨️"
+    },
+    "61c24444": {
+      "src": "🇯🇲 Jamaica — Comprehensive Food Guide",
+      "t": "🇯🇲 Jamaica, guía completa de alimentos"
+    },
+    "ba2f2f8c": {
+      "src": "🌿",
+      "t": "🌿"
+    },
+    "4d2e83f5": {
+      "src": "🎬",
+      "t": "🎬"
+    },
+    "922b8ec2": {
+      "src": "🥗",
+      "t": "🥗"
+    },
+    "1427a268": {
+      "src": "🫙",
+      "t": "🫙"
+    }
+  }
+}

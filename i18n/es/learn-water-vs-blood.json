@@ -1,0 +1,603 @@
+{
+  "_note": "Page content for learn-water-vs-blood.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "b9f13cfe": {
+      "src": ", causing symptoms such as fatigue, shortness of breath, and pallor — indicators of low iron reserves.",
+      "t": ", lo que provoca síntomas como fatiga, dificultad para respirar y palidez, indicadores de unas reservas bajas de hierro."
+    },
+    "b5b5e6ca": {
+      "src": ", depends heavily on proper hydration to maintain cognitive functions and regulatory processes.",
+      "t": ", depende en gran medida de una hidratación adecuada para mantener las funciones cognitivas y los procesos reguladores."
+    },
+    "516fed6d": {
+      "src": ", driven by solar energy, evaporation, condensation, and runoff.",
+      "t": ", impulsado por la energía solar, la evaporación, la condensación y la escorrentía."
+    },
+    "55de64fc": {
+      "src": ", nourishing ecosystems and the planet.",
+      "t": ", que nutre los ecosistemas y el planeta."
+    },
+    "ab23c73a": {
+      "src": ", quietly underpinning growth and stability.",
+      "t": ", sostienen en silencio el crecimiento y la estabilidad."
+    },
+    "44884a29": {
+      "src": ", regulating and maintaining internal stability.",
+      "t": ", que regula y mantiene la estabilidad interna."
+    },
+    "55275aff": {
+      "src": ", so your blood completes a full circuit of the body about once a minute. Over a lifetime that is an estimated 2.5 to 3 billion heartbeats, tirelessly maintaining tissue health and continuously supplying oxygen, nutrients, and immune components.",
+      "t": ", de modo que la sangre completa un recorrido entero por el cuerpo aproximadamente una vez por minuto. A lo largo de toda una vida eso supone unos 2,5 a 3 mil millones de latidos, que mantienen incansablemente la salud de los tejidos y suministran de forma continua oxígeno, nutrientes y componentes inmunitarios."
+    },
+    "f540ed6d": {
+      "src": ", sustaining cellular vitality and health through continuous motion.",
+      "t": ", que sostiene la vitalidad y la salud celular mediante un movimiento continuo."
+    },
+    "551c100c": {
+      "src": ", with the proportion falling as body fat rises, and it participates in countless metabolic reactions within cells.",
+      "t": ", proporción que disminuye a medida que aumenta la grasa corporal, y participa en incontables reacciones metabólicas dentro de las células."
+    },
+    "ac9d4527": {
+      "src": "1.6 billion people worldwide",
+      "t": "1,6 mil millones de personas en todo el mundo"
+    },
+    "e9a91088": {
+      "src": "1st c.",
+      "t": "Siglo I"
+    },
+    "9b9bf53a": {
+      "src": "60%",
+      "t": "60%"
+    },
+    "2dc5384e": {
+      "src": "73%",
+      "t": "73%"
+    },
+    "cacab6cb": {
+      "src": "90%",
+      "t": "90%"
+    },
+    "1eb36948": {
+      "src": "; without sufficient intake, biological functions deteriorate rapidly, leading to dehydration and illness.",
+      "t": "; sin una ingesta suficiente, las funciones biológicas se deterioran con rapidez, lo que provoca deshidratación y enfermedad."
+    },
+    "10329118": {
+      "src": "A 2% loss of body weight cuts plasma volume by roughly 10%, which concentrates the blood and leaves the heart working harder to move it.",
+      "t": "Una pérdida del 2% del peso corporal reduce el volumen plasmático en aproximadamente un 10%, lo que concentra la sangre y obliga al corazón a trabajar más para moverla."
+    },
+    "339b6cb1": {
+      "src": "A living tradition. Water, care, and lineage — in one frame.",
+      "t": "Una tradición viva. Agua, cuidado y linaje, en una sola imagen."
+    },
+    "c3f4ce74": {
+      "src": "A new classic is being crafted.",
+      "t": "Se está creando un nuevo clásico."
+    },
+    "6d787d93": {
+      "src": "Although called differently, these processes depict the same vital movement. Yoruba tradition refers to this as",
+      "t": "Aunque reciban nombres distintos, estos procesos describen el mismo movimiento vital. La tradición yoruba lo llama"
+    },
+    "226dae05": {
+      "src": "Ancient Ayurvedic texts categorised water by origin — rain, rivers, wells, springs — and linked each to specific healing and therapeutic uses. Roman engineers judged water sources by eye and by experience. Vitruvius advised checking the health of the people who already drank from a spring, and preferring fresh mountain water to sluggish lowland sources. They had no knowledge of germs, and archaeology shows their aqueducts and sewers did not in fact reduce intestinal parasites, but the practical instinct to prefer clean running water was sound.",
+      "t": "Los textos ayurvédicos antiguos clasificaban el agua según su origen (lluvia, ríos, pozos, manantiales) y vinculaban cada tipo con usos curativos y terapéuticos concretos. Los ingenieros romanos juzgaban las fuentes de agua a ojo y por experiencia. Vitruvio aconsejaba comprobar la salud de quienes ya bebían de un manantial y preferir el agua fresca de montaña a las fuentes lentas de las tierras bajas. No conocían los gérmenes, y la arqueología demuestra que sus acueductos y alcantarillas en realidad no redujeron los parásitos intestinales, pero el instinto práctico de preferir el agua limpia y corriente era acertado."
+    },
+    "7c5cb04c": {
+      "src": "At rest the heart pumps about 5 litres of blood each minute, which is roughly the body’s entire blood volume",
+      "t": "En reposo, el corazón bombea unos 5 litros de sangre por minuto, que equivalen aproximadamente a todo el volumen de sangre del cuerpo"
+    },
+    "bfe92fa7": {
+      "src": "Blood",
+      "t": "Sangre"
+    },
+    "b04a38ec": {
+      "src": "Blood embodies this life within us",
+      "t": "La sangre encarna esa misma vida dentro de nosotros"
+    },
+    "5e3a1b0e": {
+      "src": "Blood extends",
+      "t": "La sangre extiende"
+    },
+    "c9fb3fe6": {
+      "src": "Blood is about 80% water.",
+      "t": "La sangre es agua en aproximadamente un 80%."
+    },
+    "3aac2260": {
+      "src": "Blood nutritional deficit",
+      "t": "Déficit nutricional en la sangre"
+    },
+    "84e8fadf": {
+      "src": "Blood plasma",
+      "t": "Plasma sanguíneo"
+    },
+    "f6fec517": {
+      "src": "Blood — The Body’s Living River",
+      "t": "La sangre, el río vivo del cuerpo"
+    },
+    "0f952645": {
+      "src": "Blood, a complex and dynamic fluid composed of plasma, red and white blood cells, and platelets, circulates continuously through an intricate network of arteries, veins, and capillaries — enabling oxygen delivery, immune defence, and waste removal.",
+      "t": "La sangre, un fluido complejo y dinámico compuesto por plasma, glóbulos rojos y blancos y plaquetas, circula sin pausa por una intrincada red de arterias, venas y capilares, lo que permite el suministro de oxígeno, la defensa inmunitaria y la eliminación de desechos."
+    },
+    "6601415f": {
+      "src": "Blood, about 80% water overall, is essential for oxygen delivery via haemoglobin, immune response through white blood cells, and clotting via platelets.",
+      "t": "La sangre, que en conjunto es agua en alrededor de un 80%, es esencial para el suministro de oxígeno a través de la hemoglobina, para la respuesta inmunitaria mediante los glóbulos blancos y para la coagulación mediante las plaquetas."
+    },
+    "7145932b": {
+      "src": "Body weight",
+      "t": "Peso corporal"
+    },
+    "95c53d7c": {
+      "src": "Both fluids give",
+      "t": "Ambos fluidos dan"
+    },
+    "0a0ea3a4": {
+      "src": "Both fluids give warning signs when their harmony is disturbed.",
+      "t": "Ambos fluidos dan señales de alerta cuando se altera su armonía."
+    },
+    "555f15f1": {
+      "src": "Both terms symbolise a life force carried within the blood — akin to water riding the wind — spiritually revered in one tradition, scientifically measured in another, yet fundamentally representing the same energetic flow.",
+      "t": "Ambos términos simbolizan una fuerza vital que la sangre lleva consigo, algo parecido al agua que viaja con el viento, venerada espiritualmente en una tradición y medida científicamente en otra, aunque en el fondo representan el mismo flujo de energía."
+    },
+    "d98f9f7b": {
+      "src": "But they shape",
+      "t": "Pero lo determinan"
+    },
+    "3ad9a218": {
+      "src": "By quality and flow",
+      "t": "Por calidad y por flujo"
+    },
+    "2fcd0469": {
+      "src": "By source and season",
+      "t": "Por origen y por estación"
+    },
+    "8a9ddf88": {
+      "src": "Caring for one means caring for the other.",
+      "t": "Cuidar de uno es cuidar del otro."
+    },
+    "312c29bc": {
+      "src": "Clean water is crucial for healthy blood; neglecting either compromises overall health.",
+      "t": "El agua limpia es crucial para una sangre sana; descuidar cualquiera de las dos compromete la salud en general."
+    },
+    "7e98765e": {
+      "src": "Common Era",
+      "t": "Era común"
+    },
+    "0b5ac2fd": {
+      "src": "Cycles invisibly too — oxygen molecules inhaled into the lungs are transported via blood to tissues, while carbon dioxide is expelled through respiration; this process repeats endlessly.",
+      "t": "También circula de forma invisible: las moléculas de oxígeno que se inhalan hacia los pulmones viajan por la sangre hasta los tejidos, mientras que el dióxido de carbono se expulsa con la respiración; este proceso se repite sin fin."
+    },
+    "7564db32": {
+      "src": "Cycles invisibly — evaporating from oceans, lakes, and soil, condensing into clouds, precipitating as rain, flowing into rivers, and ultimately returning as freshwater in your glass.",
+      "t": "Circula de forma invisible: se evapora de océanos, lagos y suelos, se condensa en nubes, precipita como lluvia, fluye hacia los ríos y acaba regresando como agua dulce en tu vaso."
+    },
+    "c07ffc5e": {
+      "src": "Deidra gently rinses her grandfather’s intricate, knotted kungo dreadlocks — each strand meticulously twisted and symbolizing deep cultural heritage, ancestral identity, and the continuous lineage of a proud family history.",
+      "t": "Deidra enjuaga con delicadeza los intrincados y anudados dreadlocks kungo de su abuelo, cada mechón cuidadosamente enrollado y símbolo de un profundo legado cultural, de una identidad ancestral y del linaje continuo de una historia familiar llena de orgullo."
+    },
+    "a2c18283": {
+      "src": "Deidra is washing",
+      "t": "Deidra está lavando"
+    },
+    "9cef5214": {
+      "src": "Drinking clean water nourishes the blood and supports overall vitality.",
+      "t": "Beber agua limpia nutre la sangre y favorece la vitalidad general."
+    },
+    "ea42c48f": {
+      "src": "Every cellular process depends on water as its medium",
+      "t": "Todos los procesos celulares dependen del agua como medio"
+    },
+    "3f8f3763": {
+      "src": "Everyone has a story to tell. While some may see you merely as numbers or data in spreadsheets, at Kwik Fat Cut,",
+      "t": "Todo el mundo tiene una historia que contar. Aunque algunos te vean solo como números o datos en una hoja de cálculo, en Kwik Fat Cut"
+    },
+    "29091ac6": {
+      "src": "Expressed two ways.",
+      "t": "Expresado de dos maneras."
+    },
+    "279bb5d4": {
+      "src": "External to the body",
+      "t": "Externo al cuerpo"
+    },
+    "7bd6116f": {
+      "src": "Foundation From the Family Tree",
+      "t": "Cimientos del árbol genealógico"
+    },
+    "3c91e8b9": {
+      "src": "Glenn Bailey",
+      "t": "Glenn Bailey"
+    },
+    "b7837cf6": {
+      "src": "Go deeper →",
+      "t": "Profundiza →"
+    },
+    "2482af9b": {
+      "src": "Healers and scholars studied one to understand the other",
+      "t": "Los sanadores y los estudiosos estudiaban uno para comprender el otro"
+    },
+    "76ed8865": {
+      "src": "Healers studied one",
+      "t": "Los sanadores estudiaban uno"
+    },
+    "06942792": {
+      "src": "Historically, ancient Egyptian civilisation focused on the Nile River’s vital water cycle, which supported agriculture, transportation, and societal stability for thousands of years. Similarly, the Ayurvedic treatise Charaka Samhita, usually dated to around the first century CE, classified water sources by origin (rain, rivers, wells, springs) and by season, recording their medicinal uses long before modern hydrology was formalised.",
+      "t": "Históricamente, la civilización del antiguo Egipto se centró en el ciclo vital del agua del río Nilo, que sostuvo la agricultura, el transporte y la estabilidad social durante miles de años. De manera similar, el tratado ayurvédico Charaka Samhita, fechado habitualmente alrededor del siglo I de la era común, clasificaba las fuentes de agua por su origen (lluvia, ríos, pozos, manantiales) y por la estación, y dejaba constancia de sus usos medicinales mucho antes de que se formalizara la hidrología moderna."
+    },
+    "c7fa8520": {
+      "src": "How blood was studied",
+      "t": "Cómo se estudiaba la sangre"
+    },
+    "ed465acb": {
+      "src": "How water was studied",
+      "t": "Cómo se estudiaba el agua"
+    },
+    "2e215001": {
+      "src": "Ibn Sina’s Canon of Medicine (1025 CE) described blood as “thin,” “thick,” or “hot,” recommending dietary and lifestyle adjustments to balance these qualities — principles that underpin modern haematology.",
+      "t": "El Canon de Medicina de Ibn Sina (1025 e. c.) describía la sangre como “fina”, “espesa” o “caliente”, y recomendaba ajustes en la dieta y el estilo de vida para equilibrar esas cualidades, principios que sustentan la hematología moderna."
+    },
+    "c8732e8d": {
+      "src": "If water is a river, blood is that river in perpetual motion — alive, purposeful, and vital. It consists of about 55% plasma, which is roughly 90% water, and 45% cellular components — red blood cells, white blood cells, and platelets.",
+      "t": "Si el agua es un río, la sangre es ese río en movimiento perpetuo: viva, con propósito y vital. Está formada por un 55% aproximadamente de plasma, que es agua en cerca de un 90%, y un 45% de componentes celulares (glóbulos rojos, glóbulos blancos y plaquetas)."
+    },
+    "bc6b1cee": {
+      "src": "Internal to the body",
+      "t": "Interno al cuerpo"
+    },
+    "4a792096": {
+      "src": "Iron-deficiency anaemia affects about",
+      "t": "La anemia por deficiencia de hierro afecta a unos"
+    },
+    "7741f494": {
+      "src": "It accounts for about 60% of an adult man’s body weight and about 55% of an adult woman’s",
+      "t": "Representa alrededor del 60% del peso corporal de un hombre adulto y alrededor del 55% del de una mujer adulta"
+    },
+    "e76ab010": {
+      "src": "It embodies the perpetual motion of life — never still.",
+      "t": "Encarna el movimiento perpetuo de la vida, que nunca se detiene."
+    },
+    "067c3548": {
+      "src": "It forms part of Earth’s endless water cycle",
+      "t": "Forma parte del ciclo interminable del agua de la Tierra"
+    },
+    "6cdb02fc": {
+      "src": "Its liquid part, plasma, is roughly 90% water, and even red blood cells are about two thirds water. Water and blood are not two separate systems but a single medium doing two jobs.",
+      "t": "Su parte líquida, el plasma, es agua en cerca de un 90%, e incluso los glóbulos rojos son agua en unas dos terceras partes. El agua y la sangre no son dos sistemas separados, sino un único medio que cumple dos funciones."
+    },
+    "6e639084": {
+      "src": "Kwik Fat Cut — Education First",
+      "t": "Kwik Fat Cut, la educación primero"
+    },
+    "47288c9f": {
+      "src": "Losing around 2% may also slightly reduce attention and concentration, though the evidence is mixed.",
+      "t": "Perder alrededor de un 2% también puede reducir ligeramente la atención y la concentración, aunque la evidencia es dispar."
+    },
+    "a65dacd3": {
+      "src": "Mitchell PD, Human parasites in the Roman World",
+      "t": "Mitchell PD, Human parasites in the Roman World"
+    },
+    "7b5a615a": {
+      "src": "Named differently.",
+      "t": "Con nombres distintos."
+    },
+    "fea344ff": {
+      "src": "One by one, bit by bit, roots quietly underpin growth and stability — in a family, in a tradition, in a body. This is the story of water and blood, and the family that lives inside both.",
+      "t": "Uno a uno, poco a poco, las raíces sostienen en silencio el crecimiento y la estabilidad, en una familia, en una tradición, en un cuerpo. Esta es la historia del agua y la sangre, y de la familia que vive dentro de ambas."
+    },
+    "d61d29af": {
+      "src": "One fluid.",
+      "t": "Un solo fluido."
+    },
+    "ba39f8f1": {
+      "src": "One review of 33 studies found small effects on attention, while another found no reliable effect at all. Thirst normally arrives at about this point, so for most people it is a usable early signal.",
+      "t": "Una revisión de 33 estudios halló efectos pequeños sobre la atención, mientras que otra no halló ningún efecto fiable. La sed suele aparecer más o menos en ese punto, así que para la mayoría de las personas es una señal temprana útil."
+    },
+    "55d39eba": {
+      "src": "One unified medium.",
+      "t": "Un único medio unificado."
+    },
+    "f09fe4d4": {
+      "src": "One vital movement.",
+      "t": "Un mismo movimiento vital."
+    },
+    "77ac4f31": {
+      "src": "Oxygen delivery drops",
+      "t": "Cae el suministro de oxígeno"
+    },
+    "074a9e56": {
+      "src": "Plasma volume decreases",
+      "t": "Disminuye el volumen plasmático"
+    },
+    "866e25a1": {
+      "src": "Remember, health is your most precious wealth.",
+      "t": "Recuerda: la salud es tu riqueza más preciada."
+    },
+    "f3987adf": {
+      "src": "Remember: we are deeply connected to nature. Maintain the delicate balance, and health will follow.",
+      "t": "Recuerda: estamos profundamente conectados con la naturaleza. Mantén ese delicado equilibrio y la salud vendrá sola."
+    },
+    "3f002bc9": {
+      "src": "Rich or poor, Kwik Fat Cut is here to educate and empower.",
+      "t": "Seas rico o pobre, Kwik Fat Cut está aquí para educar y empoderar."
+    },
+    "7e20dec7": {
+      "src": "Roots Never Seen",
+      "t": "Raíces que nunca se ven"
+    },
+    "767d8a5c": {
+      "src": "Roots Never Seen — Water vs Blood — Kwik Fat Cut",
+      "t": "Raíces nunca vistas: agua frente a sangre · Kwik Fat Cut"
+    },
+    "e0c7ac83": {
+      "src": "Roots are rarely visible, yet they influence everything —",
+      "t": "Las raíces rara vez se ven y, sin embargo, influyen en todo:"
+    },
+    "4827c64b": {
+      "src": "Roots never seen.",
+      "t": "Raíces que nunca se ven."
+    },
+    "ef37b672": {
+      "src": "Side by Side",
+      "t": "Lado a lado"
+    },
+    "6f659592": {
+      "src": "Side by side",
+      "t": "Lado a lado"
+    },
+    "5d01cd11": {
+      "src": "StatPearls (NCBI Bookshelf), Physiology, Blood Plasma",
+      "t": "StatPearls (NCBI Bookshelf), Physiology, Blood Plasma"
+    },
+    "b6e63cb5": {
+      "src": "StatPearls (NCBI Bookshelf), Physiology, Blood Volume",
+      "t": "StatPearls (NCBI Bookshelf), Physiology, Blood Volume"
+    },
+    "a6795fbd": {
+      "src": "The Ancient Record",
+      "t": "El registro antiguo"
+    },
+    "efe32682": {
+      "src": "The Charaka Samhita classified water by source and season.",
+      "t": "El Charaka Samhita clasificaba el agua por origen y por estación."
+    },
+    "27e1ce25": {
+      "src": "The Foundation",
+      "t": "La base"
+    },
+    "8b8d81fd": {
+      "src": "The River in Motion",
+      "t": "El río en movimiento"
+    },
+    "2e4aa96b": {
+      "src": "The Shared Rhythm",
+      "t": "El ritmo compartido"
+    },
+    "388cea7d": {
+      "src": "The ancient record",
+      "t": "El registro antiguo"
+    },
+    "dd89a066": {
+      "src": "The body’s internal weather system",
+      "t": "El sistema meteorológico interno del cuerpo"
+    },
+    "fb64a370": {
+      "src": "The brain",
+      "t": "El cerebro"
+    },
+    "0ecf7005": {
+      "src": "The foundation",
+      "t": "La base"
+    },
+    "6a9d064d": {
+      "src": "The health claims on this page were checked against the sources below. Where a claim could not be supported it was softened or removed rather than given a citation that did not fit. This page is general information about food, not medical advice, and no food prevents or treats disease.",
+      "t": "Las afirmaciones de salud de esta página se contrastaron con las fuentes que figuran a continuación. Cuando una afirmación no pudo respaldarse, se suavizó o se eliminó en lugar de asignarle una cita que no encajaba. Esta página ofrece información general sobre alimentación, no consejo médico, y ningún alimento previene ni trata enfermedades."
+    },
+    "6b9bc3c0": {
+      "src": "The lesson across time and cultures remains clear:",
+      "t": "La lección a través del tiempo y de las culturas sigue siendo clara:"
+    },
+    "76cc443d": {
+      "src": "The river in motion",
+      "t": "El río en movimiento"
+    },
+    "5a57a36b": {
+      "src": "The shared rhythm",
+      "t": "El ritmo compartido"
+    },
+    "95715da1": {
+      "src": "The solutions for both issues are similar:",
+      "t": "Las soluciones para ambos problemas son parecidas:"
+    },
+    "3b264967": {
+      "src": "These dreadlocks stand as living proof of personal and collective history",
+      "t": "Estos dreadlocks son prueba viva de una historia personal y colectiva"
+    },
+    "d2565eb3": {
+      "src": "This analogy, rooted in ancient traditions like Ayurveda and Egyptian medicine and supported by modern science, underscores the deep interconnectedness and mutual dependency of these two vital fluids.",
+      "t": "Esta analogía, arraigada en tradiciones antiguas como el Ayurveda y la medicina egipcia y respaldada por la ciencia moderna, subraya la profunda interconexión y la dependencia mutua de estos dos fluidos vitales."
+    },
+    "de48ce7a": {
+      "src": "Throughout history, civilisations have meticulously documented these fluids; no enduring tradition with written records has treated water and blood as entirely separate entities.",
+      "t": "A lo largo de la historia, las civilizaciones han documentado meticulosamente estos fluidos; ninguna tradición duradera con registros escritos ha tratado el agua y la sangre como entidades completamente separadas."
+    },
+    "9afb6b10": {
+      "src": "Two Vital Fluids",
+      "t": "Dos fluidos vitales"
+    },
+    "68ec50a6": {
+      "src": "Two fluids",
+      "t": "Dos fluidos"
+    },
+    "6696c841": {
+      "src": "Two forms. One truth.",
+      "t": "Dos formas. Una verdad."
+    },
+    "f3125517": {
+      "src": "US Geological Survey, The Water in You",
+      "t": "US Geological Survey, The Water in You"
+    },
+    "d63556b0": {
+      "src": "Water",
+      "t": "Agua"
+    },
+    "e25c8ef6": {
+      "src": "Water and blood are two vital bodily fluids essential for sustaining and regulating all living organisms. Water, which appears transparent and tasteless, is crucial for numerous biological functions — maintaining cell hydration, facilitating temperature regulation through sweating, and transporting nutrients via the circulatory system.",
+      "t": "El agua y la sangre son dos fluidos corporales vitales, esenciales para sostener y regular todos los organismos vivos. El agua, que parece transparente e insípida, resulta crucial para numerosas funciones biológicas: mantener la hidratación celular, facilitar la regulación de la temperatura mediante el sudor y transportar nutrientes a través del sistema circulatorio."
+    },
+    "85a877b9": {
+      "src": "Water and blood are vital parts of the same interconnected system.",
+      "t": "El agua y la sangre son partes vitales de un mismo sistema interconectado."
+    },
+    "125c8bc8": {
+      "src": "Water content by weight, from classic body composition analyses.",
+      "t": "Contenido de agua por peso, según los análisis clásicos de composición corporal."
+    },
+    "56596549": {
+      "src": "Water content of the average human body.",
+      "t": "Contenido de agua del cuerpo humano promedio."
+    },
+    "89cbb82b": {
+      "src": "Water content of the fluid carrying every cell.",
+      "t": "Contenido de agua del fluido que transporta cada célula."
+    },
+    "6e0e0798": {
+      "src": "Water depletion",
+      "t": "Pérdida de agua"
+    },
+    "60e6a835": {
+      "src": "Water is life around us",
+      "t": "El agua es la vida que nos rodea"
+    },
+    "d31d9cb0": {
+      "src": "Water sustains life",
+      "t": "El agua sostiene la vida"
+    },
+    "53a97330": {
+      "src": "Water sustains life by supporting crucial biological processes. The human body, composed of about 60% water by weight, relies on water for cellular hydration, enzymatic reactions such as digestion, and the transport of nutrients and waste via blood plasma. Notably,",
+      "t": "El agua sostiene la vida al sustentar procesos biológicos cruciales. El cuerpo humano, compuesto por alrededor de un 60% de agua en peso, depende del agua para la hidratación celular, para reacciones enzimáticas como la digestión y para el transporte de nutrientes y desechos a través del plasma sanguíneo. En particular,"
+    },
+    "be109f51": {
+      "src": "We focus on health, not fashion trends, addressing your needs gradually, with care — little by little, one person at a time. It’s a challenging journey, but we rise to meet it.",
+      "t": "Nos centramos en la salud, no en las modas, y atendemos tus necesidades de forma gradual, con cuidado, poco a poco, una persona a la vez. Es un camino exigente, pero estamos a la altura."
+    },
+    "1258cc06": {
+      "src": "We row. You steer. A suh wi stay 🌿",
+      "t": "Nosotros remamos. Tú diriges. A suh wi stay 🌿"
+    },
+    "cfdbd359": {
+      "src": "What Is Water? The Fluid of Life",
+      "t": "¿Qué es el agua? El fluido de la vida"
+    },
+    "87b0d616": {
+      "src": "When the Balance Is Disrupted",
+      "t": "Cuando se altera el equilibrio"
+    },
+    "eefda7f6": {
+      "src": "When the balance is disrupted",
+      "t": "Cuando se altera el equilibrio"
+    },
+    "4161401c": {
+      "src": "Where this",
+      "t": "De dónde viene"
+    },
+    "581778c0": {
+      "src": "Wittbrodt MT, Millard-Stafford M, Dehydration Impairs Cognitive Performance, a meta-analysis",
+      "t": "Wittbrodt MT, Millard-Stafford M, Dehydration Impairs Cognitive Performance, a meta-analysis"
+    },
+    "57c1d8e3": {
+      "src": "Your browser does not support video playback.",
+      "t": "Tu navegador no admite la reproducción de video."
+    },
+    "84b45728": {
+      "src": "access to clean water, eating iron-rich foods, and allowing the body time to replenish its reserves.",
+      "t": "acceso a agua limpia, comer alimentos ricos en hierro y dar al cuerpo tiempo para reponer sus reservas."
+    },
+    "f590ee38": {
+      "src": "comes from.",
+      "t": "esta información."
+    },
+    "9868340a": {
+      "src": "everything.",
+      "t": "todo."
+    },
+    "cc144dd6": {
+      "src": "her grandfather’s hair.",
+      "t": "el cabello de su abuelo."
+    },
+    "7aaf91e7": {
+      "src": "moving with the same relentless rhythm.",
+      "t": "que se mueve con el mismo ritmo implacable."
+    },
+    "b06add7f": {
+      "src": "one by one, bit by bit",
+      "t": "uno a uno, poco a poco"
+    },
+    "d02e3d93": {
+      "src": "the brain, approximately 73% water",
+      "t": "el cerebro, que es agua en aproximadamente un 73%"
+    },
+    "02e15709": {
+      "src": "the fluid outside the body and the fluid inside respond to similar care and respect.",
+      "t": "el fluido de fuera del cuerpo y el de dentro responden a un cuidado y un respeto parecidos."
+    },
+    "ed1e35b7": {
+      "src": "the foundation further.",
+      "t": "aún más esa base."
+    },
+    "ea769aff": {
+      "src": "through every cell.",
+      "t": "a través de cada célula."
+    },
+    "8c18532b": {
+      "src": "to understand the other.",
+      "t": "para comprender el otro."
+    },
+    "9d402049": {
+      "src": "warning signs.",
+      "t": "señales de alerta."
+    },
+    "c1fc1341": {
+      "src": "we see you as passionate individuals deserving of respect and joy",
+      "t": "te vemos como personas apasionadas que merecen respeto y alegría"
+    },
+    "7a14caa0": {
+      "src": "while Ayurveda describes it as",
+      "t": "mientras que el Ayurveda lo describe como"
+    },
+    "c6e462cb": {
+      "src": "with a shared origin.",
+      "t": "con un origen compartido."
+    },
+    "2d9ec0fa": {
+      "src": "— Co-Founder, CFO & Co-Developer.",
+      "t": ", cofundador, director financiero y codesarrollador."
+    },
+    "cc365e5c": {
+      "src": "— because, in practice, the body makes it impossible to separate their roles.",
+      "t": ", porque, en la práctica, el cuerpo hace imposible separar sus funciones."
+    },
+    "a384792a": {
+      "src": "— embodying traditional practices passed down through countless generations: water used for cleansing, spiritual connection, and renewal; care as a vital, intentional act; and lineage representing the ongoing thread of community unity, all united in this profound life-affirming ritual.",
+      "t": ", y encarnan prácticas tradicionales transmitidas a lo largo de incontables generaciones: el agua usada para la limpieza, la conexión espiritual y la renovación; el cuidado como acto vital e intencionado; y el linaje como hilo continuo de la unidad comunitaria, todo ello unido en este profundo ritual que afirma la vida."
+    },
+    "452918b1": {
+      "src": "— without body shaming. You are our family, our neighbours, our friends — every one of you contributes to our community. You deserve nothing but the best.",
+      "t": ", sin criticar el cuerpo de nadie. Eres parte de nuestra familia, de nuestro vecindario, de nuestras amistades, y cada persona aporta algo a nuestra comunidad. Mereces lo mejor, nada menos."
+    },
+    "656f140d": {
+      "src": "“Water surrounds us constantly and invisibly. Blood performs an identical pattern within our bodies —",
+      "t": "“El agua nos rodea de forma constante e invisible. La sangre repite un patrón idéntico dentro de nuestro cuerpo,"
+    },
+    "163fc339": {
+      "src": "“ase,”",
+      "t": "“ase”,"
+    },
+    "5c851fe8": {
+      "src": "“prana.”",
+      "t": "“prana”."
+    },
+    "b4a656c0": {
+      "src": "🌳 Roots Never Seen — Water vs Blood",
+      "t": "🌳 Raíces que nunca se ven, agua frente a sangre"
+    }
+  }
+}

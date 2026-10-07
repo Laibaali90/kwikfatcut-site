@@ -1,0 +1,787 @@
+{
+  "_note": "Page content for learn-spirit-is-the-root.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "686dd61c": {
+      "src": "(PLOS One meta-analysis, 2013). The Rastafarian ethic of Irie sharing — the expectation that what one has is shared with the community — is a documented longevity practice.",
+      "t": "(metaanálisis de PLOS One, 2013). La ética rastafari de compartir en Irie, la expectativa de que lo que uno tiene se comparte con la comunidad, es una práctica de longevidad documentada."
+    },
+    "1da2231d": {
+      "src": ", producing states of focused calm, reduced pain perception, and elevated mood. The drum is medicine. Jamaica has always known this.",
+      "t": ", y producen estados de calma concentrada, menor percepción del dolor y mejor estado de ánimo. El tambor es medicina. Jamaica siempre lo ha sabido."
+    },
+    "520abfaa": {
+      "src": "12 min",
+      "t": "12 min"
+    },
+    "e457ef4c": {
+      "src": "2.5x",
+      "t": "2,5x"
+    },
+    "9d2ff464": {
+      "src": "40%",
+      "t": "40%"
+    },
+    "2098915f": {
+      "src": "50%",
+      "t": "50%"
+    },
+    "e60c461d": {
+      "src": "7 years longer",
+      "t": "7 años más"
+    },
+    "5256384a": {
+      "src": "7yrs",
+      "t": "7 años"
+    },
+    "eb6a19d4": {
+      "src": "A 2009 National Institutes of Health study found that regular prayer practice was associated with a 40% lower risk of hypertension.",
+      "t": "Un estudio de 2009 de los National Institutes of Health encontró que la práctica regular de la oración se asociaba con un riesgo de hipertensión un 40% menor."
+    },
+    "d1ff285b": {
+      "src": "A 2015 University of California study found that people who kept gratitude journals showed",
+      "t": "Un estudio de 2015 de la University of California encontró que las personas que llevaban un diario de gratitud mostraban"
+    },
+    "07a0e34e": {
+      "src": "A person isolated from community is considered spiritually and physically diminished.",
+      "t": "Una persona aislada de la comunidad se considera disminuida espiritual y físicamente."
+    },
+    "4a9c24d7": {
+      "src": "Acts of service to others trigger the release of oxytocin — sometimes called the “bonding hormone” — which reduces blood pressure, lowers cortisol, and increases pain tolerance.",
+      "t": "Los actos de servicio a los demás provocan la liberación de oxitocina, a veces llamada la “hormona del vínculo”, que reduce la presión arterial, baja el cortisol y aumenta la tolerancia al dolor."
+    },
+    "7cdda8e0": {
+      "src": "African ancestral connection",
+      "t": "Conexión ancestral africana"
+    },
+    "7add485b": {
+      "src": "All three parts are free. Share them with someone who needs to read them.",
+      "t": "Las tres partes son gratis. Compártelas con alguien que necesite leerlas."
+    },
+    "73e91091": {
+      "src": "All three parts free. Share them with someone who needs to read them.",
+      "t": "Las tres partes, gratis. Compártelas con alguien que necesite leerlas."
+    },
+    "af30692f": {
+      "src": "All three. Together. Always.",
+      "t": "Los tres. Juntos. Siempre."
+    },
+    "6d7dab35": {
+      "src": "Ancestral connection — the identity medicine",
+      "t": "Conexión ancestral: la medicina de la identidad"
+    },
+    "b3e38e01": {
+      "src": "Ancestral traditions",
+      "t": "Tradiciones ancestrales"
+    },
+    "61d3b624": {
+      "src": "Average lifespan increase associated with having a strong sense of purpose (University of Michigan longitudinal study, 50,000 participants)",
+      "t": "Aumento medio de la esperanza de vida asociado a tener un fuerte sentido de propósito (estudio longitudinal de la University of Michigan, 50.000 participantes)"
+    },
+    "995959c1": {
+      "src": "Ayurveda — India, 3,000+ years",
+      "t": "Ayurveda · India, más de 3.000 años"
+    },
+    "f7398511": {
+      "src": "Ayurvedic medicine holds that disease begins when a person departs from their",
+      "t": "La medicina ayurvédica sostiene que la enfermedad empieza cuando una persona se aparta de su"
+    },
+    "6ad4d4ba": {
+      "src": "Before the body. Before the mind. There is something deeper — the animating force that gives life its direction, its meaning, and its will to continue. Science calls it purpose. Rastafari calls it livity. The elders called it different names in different languages. They all pointed at the same root.",
+      "t": "Antes del cuerpo. Antes de la mente. Hay algo más profundo: la fuerza que anima la vida y le da dirección, sentido y voluntad de seguir. La ciencia lo llama propósito. Rastafari lo llama livity. Los mayores le dieron distintos nombres en distintas lenguas. Todos señalaban la misma raíz."
+    },
+    "2953b236": {
+      "src": "Beginning the morning with prayer, meditation, or intentional stillness redirects this cortisol surge toward productive alertness rather than anxiety. The Rastafarian practice of morning chanting and the Ayurvedic practice of morning routine are both, physiologically, cortisol management strategies.",
+      "t": "Empezar la mañana con oración, meditación o una quietud intencional orienta ese aumento de cortisol hacia un estado de alerta productivo en lugar de ansiedad. El canto matutino rastafari y la rutina matutina del Ayurveda son, fisiológicamente, estrategias de gestión del cortisol."
+    },
+    "7a19436c": {
+      "src": "Buddhism — 2,500 years",
+      "t": "Budismo · 2.500 años"
+    },
+    "6895a716": {
+      "src": "Buddhist teachings on mindfulness — now the most studied psychological intervention in clinical history — were developed as a path to spiritual liberation. The fact that they also produce",
+      "t": "Las enseñanzas budistas sobre la atención plena, hoy la intervención psicológica más estudiada de la historia clínica, se desarrollaron como un camino hacia la liberación espiritual. Que además produzcan"
+    },
+    "0fb8e156": {
+      "src": "But it is the spirit that gives the body and mind their reason to move, their will to rest, their purpose to persist.",
+      "t": "Pero es el espíritu el que da al cuerpo y a la mente su razón para moverse, su voluntad de descansar, su propósito para perseverar."
+    },
+    "6974a5a2": {
+      "src": "Called the miracle tree.",
+      "t": "La llaman el árbol milagroso."
+    },
+    "f30e27ec": {
+      "src": "Chanting and drumming — the neurological rhythm",
+      "t": "Canto y tambores: el ritmo neurológico"
+    },
+    "7daca7cf": {
+      "src": "Contains over 90 nutrients, 46 antioxidants, and 36 anti-inflammatory compounds. In Ital tradition it is considered one of the most spiritually grounding plants — providing mental clarity, calm energy, and connection to the earth. Emerging research confirms neuroprotective and adaptogenic properties.",
+      "t": "Contiene más de 90 nutrientes, 46 antioxidantes y 36 compuestos antiinflamatorios. En la tradición Ital se considera una de las plantas que más arraigan el espíritu: da claridad mental, energía serena y conexión con la tierra. La investigación emergente confirma sus propiedades neuroprotectoras y adaptógenas."
+    },
+    "67582aa0": {
+      "src": "Cortisol peaks in the first 30-45 minutes of waking — the cortisol awakening response.",
+      "t": "El cortisol alcanza su pico en los primeros 30 a 45 minutos después de despertar: es la respuesta del cortisol al despertar."
+    },
+    "d549daf4": {
+      "src": "Deep Research",
+      "t": "Investigación profunda"
+    },
+    "f8080e29": {
+      "src": "Dharma — living in alignment with purpose",
+      "t": "Dharma: vivir alineado con el propósito"
+    },
+    "5093f2c7": {
+      "src": "Embrace Healthy Living — 3 of 3",
+      "t": "Abraza la vida sana · 3 de 3"
+    },
+    "83e2b24d": {
+      "src": "Embrace Healthy Living — Part 3 of 3 — Spiritual",
+      "t": "Abraza la Vida Sana, Parte 3 de 3, Espiritual"
+    },
+    "e88a1c7b": {
+      "src": "Embrace Healthy Living — Physical, Mental & Spiritual",
+      "t": "Abraza la vida sana · Física, mental y espiritual"
+    },
+    "2b1ac3f8": {
+      "src": "Every element of Ital living flows from this root awareness.",
+      "t": "Cada elemento de la vida Ital nace de esta conciencia de raíz."
+    },
+    "1ed00b1a": {
+      "src": "Every major healing tradition in human history understood that the spirit was the foundation, not an add-on. The body healed when the spirit was aligned. The body suffered when the spirit was fractured.",
+      "t": "Todas las grandes tradiciones de sanación de la historia humana entendían que el espíritu era la base, no un añadido. El cuerpo sanaba cuando el espíritu estaba alineado. El cuerpo sufría cuando el espíritu estaba fracturado."
+    },
+    "c95d268f": {
+      "src": "Every spiritual tradition has its sacred foods — plants understood to carry not only physical but spiritual nourishment. In Rastafarian and Caribbean tradition, these are not mystical claims. They are observations about how certain foods affect consciousness, calm, and clarity. Science is beginning to understand the mechanisms behind what was always known through experience.",
+      "t": "Toda tradición espiritual tiene sus alimentos sagrados: plantas que se entiende que aportan no solo alimento físico sino también espiritual. En la tradición rastafari y caribeña, no son afirmaciones místicas. Son observaciones sobre cómo ciertos alimentos afectan la conciencia, la calma y la claridad. La ciencia empieza a entender los mecanismos detrás de lo que siempre se supo por experiencia."
+    },
+    "8a1afdda": {
+      "src": "Faster healing",
+      "t": "sanación más rápida"
+    },
+    "1b3ce8aa": {
+      "src": "Foods That Ground the Spirit",
+      "t": "Alimentos que arraigan el espíritu"
+    },
+    "ee3e1585": {
+      "src": "Full Learn Hub",
+      "t": "Centro de aprendizaje completo"
+    },
+    "777c26f2": {
+      "src": "Gratitude — the inflammation reducer",
+      "t": "Gratitud: la que reduce la inflamación"
+    },
+    "3a20f1c2": {
+      "src": "Healing in West African tradition always involved restoring the individual’s connection to the community, the ancestors, and the natural world. Modern research on social isolation confirms this intuition with striking precision.",
+      "t": "En la tradición de África Occidental, sanar siempre implicaba restaurar la conexión de la persona con la comunidad, los antepasados y el mundo natural. La investigación moderna sobre el aislamiento social confirma esta intuición con una precisión sorprendente."
+    },
+    "1f5413cc": {
+      "src": "How this peak is directed determines the stress tone of the entire day.",
+      "t": "Cómo se orienta ese pico determina el tono de estrés de todo el día."
+    },
+    "4a646beb": {
+      "src": "In Alzheimer’s risk among people with strong purpose — even when amyloid plaques were present on brain scans (Rush Memory and Aging Project)",
+      "t": "en el riesgo de alzhéimer entre personas con un fuerte propósito, incluso cuando los escáneres cerebrales mostraban placas de amiloide (Rush Memory and Aging Project)"
+    },
+    "df380946": {
+      "src": "In Rastafarian and Caribbean spiritual tradition, the coconut is considered a complete food — sustaining body and spirit together. MCTs from coconut provide the brain with rapid, clean fuel. Coconut water restores the body’s mineral balance. Spiritually, the coconut represents self-sufficiency and the abundance of the earth.",
+      "t": "En la tradición espiritual rastafari y caribeña, el coco se considera un alimento completo, que sostiene a la vez el cuerpo y el espíritu. Los MCT del coco dan al cerebro un combustible rápido y limpio. El agua de coco restablece el equilibrio mineral del cuerpo. En lo espiritual, el coco representa la autosuficiencia y la abundancia de la tierra."
+    },
+    "7ae4c3fd": {
+      "src": "Indigenous Jamaica — Taino & African synthesis",
+      "t": "Jamaica indígena · Síntesis taína y africana"
+    },
+    "af8f55ba": {
+      "src": "Ital livity",
+      "t": "Livity Ital"
+    },
+    "28fffb75": {
+      "src": "Jah consciousness",
+      "t": "Conciencia de Jah"
+    },
+    "2ccc16ac": {
+      "src": "Knowing your roots keeps you standing when the storm comes.",
+      "t": "Conocer tus raíces te mantiene en pie cuando llega la tormenta."
+    },
+    "908d7dd5": {
+      "src": "Kwik Fat Cut was built on this understanding. Education before intervention. Because you cannot truly take care of what you do not understand. And you cannot sustain what you do not love.",
+      "t": "Kwik Fat Cut se construyó sobre esta comprensión. La educación antes que la intervención. Porque no puedes cuidar de verdad lo que no entiendes. Y no puedes sostener lo que no amas."
+    },
+    "b7c9f5e2": {
+      "src": "Kwik Fat Cut — Education First — Rooted in Jamaica — Built for the World",
+      "t": "Kwik Fat Cut · La educación primero · Con raíces en Jamaica · Hecho para el mundo"
+    },
+    "cbf90970": {
+      "src": "Livity —",
+      "t": "Livity:"
+    },
+    "e37dca22": {
+      "src": "Longer life",
+      "t": "más de vida"
+    },
+    "b83ec07c": {
+      "src": "Love the body. Love the mind. Go back to the root.",
+      "t": "Ama el cuerpo. Ama la mente. Vuelve a la raíz."
+    },
+    "66d2b035": {
+      "src": "Lower risk",
+      "t": "menos riesgo"
+    },
+    "e541fdd9": {
+      "src": "Morning intention — the cortisol redirect",
+      "t": "Intención matutina: la que redirige el cortisol"
+    },
+    "99d27b25": {
+      "src": "Not wealth. Not achievement. Not diet alone.",
+      "t": "No la riqueza. No los logros. No solo la dieta."
+    },
+    "3acad977": {
+      "src": "Nyahbinghi drumming — the foundational Rastafarian musical practice — produces rhythmic entrainment in the brain. Research by neurologist Oliver Sacks documented that",
+      "t": "Los tambores nyahbinghi, la práctica musical fundamental de los rastafaris, producen una sincronización rítmica en el cerebro. Las investigaciones del neurólogo Oliver Sacks documentaron que"
+    },
+    "4775e9dc": {
+      "src": "Obeah healing — spirit and plant combined",
+      "t": "Sanación obeah: espíritu y planta combinados"
+    },
+    "a4cf0108": {
+      "src": "Of cardiovascular events in people who reported high levels of life purpose (Rush University, 2015 — 6,000 participants, 14-year follow-up)",
+      "t": "de eventos cardiovasculares en personas que declararon un alto nivel de propósito vital (Rush University, 2015, 6.000 participantes, 14 años de seguimiento)"
+    },
+    "51df5fc7": {
+      "src": "Overstanding",
+      "t": "Overstanding"
+    },
+    "20de3d88": {
+      "src": "Part 1 — Movement Is Medicine (Physical)",
+      "t": "Parte 1 · El movimiento es medicina (física)"
+    },
+    "9841c8dc": {
+      "src": "Part 1 — Physical",
+      "t": "Parte 1 · Física"
+    },
+    "02166847": {
+      "src": "Part 2 — Mental",
+      "t": "Parte 2 · Mental"
+    },
+    "52083965": {
+      "src": "Part 2 — Stillness Is Medicine (Mental)",
+      "t": "Parte 2 · La quietud es medicina (mental)"
+    },
+    "1689173b": {
+      "src": "Part 3 — Spirit Is the Root (Spiritual)",
+      "t": "Parte 3 · El espíritu es la raíz (espiritual)"
+    },
+    "ba1f4044": {
+      "src": "Part 3 — Spiritual",
+      "t": "Parte 3 · Espiritual"
+    },
+    "d657e6fe": {
+      "src": "Prayer and communion — the coherence practice",
+      "t": "Oración y comunión: la práctica de la coherencia"
+    },
+    "9b16e994": {
+      "src": "Purpose as Physiology",
+      "t": "El propósito como fisiología"
+    },
+    "3bb66645": {
+      "src": "Purpose as medicine",
+      "t": "El propósito como medicina"
+    },
+    "33516f44": {
+      "src": "Purpose is not a soft concept. It has documented physiological effects. Research from UCLA (2015) found that people with high levels of eudaimonic wellbeing — a sense of meaning and purpose — had",
+      "t": "El propósito no es un concepto blando. Tiene efectos fisiológicos documentados. Una investigación de UCLA (2015) encontró que las personas con un alto bienestar eudaimónico (un sentido de significado y propósito) tenían"
+    },
+    "74f8f4ca": {
+      "src": "Rastafari is not simply a religion. It is a complete philosophy of existence — one that integrates physical health, mental clarity, spiritual alignment, community, and ancestral connection into a single, unified way of being. The concept of",
+      "t": "Rastafari no es simplemente una religión. Es una filosofía completa de la existencia que integra la salud física, la claridad mental, la alineación espiritual, la comunidad y la conexión ancestral en una sola forma de ser. El concepto de"
+    },
+    "03e785ae": {
+      "src": "Rastafarian livity",
+      "t": "La livity rastafari"
+    },
+    "8e2e13e7": {
+      "src": "Reasoning",
+      "t": "Reasoning"
+    },
+    "941d9ab2": {
+      "src": "Reduction",
+      "t": "Reducción"
+    },
+    "0162e178": {
+      "src": "Regardless of theological framework, the act of prayer — focused, intentional communication with something greater than the self — has been shown to",
+      "t": "Sea cual sea el marco teológico, se ha demostrado que el acto de orar, una comunicación enfocada e intencional con algo más grande que uno mismo, puede"
+    },
+    "975bd11a": {
+      "src": "Research from psychologist Marshall Duke at Emory University found that children who knew the stories of their ancestors — who understood where they came from —",
+      "t": "La investigación del psicólogo Marshall Duke en Emory University encontró que los niños que conocían las historias de sus antepasados, que entendían de dónde venían,"
+    },
+    "e5442ca5": {
+      "src": "Sacred and grounding",
+      "t": "Alimentos vegetales sagrados"
+    },
+    "ddfd890c": {
+      "src": "Sacred and grounding foods",
+      "t": "Alimentos sagrados y que dan arraigo"
+    },
+    "b0144850": {
+      "src": "Sati — mindful presence as healing",
+      "t": "Sati: la presencia consciente como sanación"
+    },
+    "0aec4c22": {
+      "src": "Science is increasingly confirming what livity has always held.",
+      "t": "La ciencia confirma cada vez más lo que la livity siempre ha sostenido."
+    },
+    "ea4744c7": {
+      "src": "Series Complete",
+      "t": "Serie completa"
+    },
+    "b01caff6": {
+      "src": "Service — the oxytocin economy",
+      "t": "Servicio: la economía de la oxitocina"
+    },
+    "7e1fc32b": {
+      "src": "Smile for me, Jamaica. 🇯🇲❤️💚",
+      "t": "Sonríe para mí, Jamaica. 🇯🇲❤️💚"
+    },
+    "77d4d61c": {
+      "src": "Soursop leaf tea is used across the Caribbean for anxiety, insomnia, and nervous tension. Contains annonamine and other alkaloids documented to have sedative and anxiolytic effects. Spiritually, it represents the medicine of surrender — releasing the need to control.",
+      "t": "El té de hoja de guanábana se usa en todo el Caribe para la ansiedad, el insomnio y la tensión nerviosa. Contiene anonamina y otros alcaloides con efectos sedantes y ansiolíticos documentados. En lo espiritual, representa la medicina de la entrega: soltar la necesidad de controlar."
+    },
+    "38825d08": {
+      "src": "Spirit",
+      "t": "El espíritu"
+    },
+    "2187c179": {
+      "src": "Spirit Is the Root",
+      "t": "El espíritu es la raíz"
+    },
+    "2b7ad643": {
+      "src": "Spirit Is the Root — Spiritual Health — Kwik Fat Cut",
+      "t": "El espíritu es la raíz: salud espiritual · Kwik Fat Cut"
+    },
+    "055abba4": {
+      "src": "Spiritual misalignment creates physical imbalance.",
+      "t": "El desajuste espiritual crea desequilibrio físico."
+    },
+    "af8b5148": {
+      "src": "Spiritual practices",
+      "t": "Prácticas espirituales"
+    },
+    "4e747d06": {
+      "src": "Surgical patients who used spiritual coping mechanisms healed measurably faster and reported significantly lower pain levels (Duke University Medical Center)",
+      "t": "Los pacientes quirúrgicos que usaron recursos espirituales para afrontar la situación sanaron de forma medible más rápido y refirieron niveles de dolor significativamente más bajos (Duke University Medical Center)"
+    },
+    "8bbc5e44": {
+      "src": "The African philosophy of Ubuntu holds that personhood is constituted through relationship.",
+      "t": "La filosofía africana del Ubuntu sostiene que la persona se construye a través de las relaciones."
+    },
+    "11eb894b": {
+      "src": "The Daily Root",
+      "t": "La raíz diaria"
+    },
+    "af8734a3": {
+      "src": "The Elders Speak",
+      "t": "Hablan los mayores"
+    },
+    "61295859": {
+      "src": "The Harvard Study of Adult Development — the longest running study of adult life ever conducted, tracking 724 men across 80 years — found one factor that predicted health, happiness, and longevity above all others:",
+      "t": "El Harvard Study of Adult Development, el estudio más largo jamás realizado sobre la vida adulta, que siguió a 724 hombres durante 80 años, encontró un factor que predecía la salud, la felicidad y la longevidad por encima de todos los demás:"
+    },
+    "54ba3393": {
+      "src": "The Principles of Livity",
+      "t": "Los principios de la livity"
+    },
+    "c11a7b52": {
+      "src": "The Rastafarian Dimension",
+      "t": "La dimensión rastafari"
+    },
+    "d96adc04": {
+      "src": "The Root",
+      "t": "La Raíz"
+    },
+    "b9ac3344": {
+      "src": "The banana plant — every part of it — has been used in Jamaican and African spiritual traditions. In Ital eating, the banana represents reliable nourishment, everyday abundance, and connection to the land. Nutritionally, its tryptophan and B6 support the serotonin that underlies spiritual contentment.",
+      "t": "La planta del banano, cada parte de ella, se ha usado en las tradiciones espirituales jamaicanas y africanas. En la alimentación Ital, el banano representa un alimento confiable, la abundancia de cada día y la conexión con la tierra. En lo nutricional, su triptófano y su B6 apoyan la serotonina que sostiene la satisfacción espiritual."
+    },
+    "7d9b6710": {
+      "src": "The body",
+      "t": "El cuerpo"
+    },
+    "e6893a7d": {
+      "src": "The body responds to purpose at the molecular level.",
+      "t": "El cuerpo responde al propósito a nivel molecular."
+    },
+    "45cdc7db": {
+      "src": "The body, mind, and spirit are not three separate things.",
+      "t": "El cuerpo, la mente y el espíritu no son tres cosas separadas."
+    },
+    "63ecb5b6": {
+      "src": "The calmer.",
+      "t": "La que calma."
+    },
+    "80a3001b": {
+      "src": "The connector.",
+      "t": "La que conecta."
+    },
+    "22001538": {
+      "src": "The data is not ambiguous. The mechanism is still being studied. But the observation — repeated across cultures, across continents, across centuries — is one of the most robust findings in all of health science.",
+      "t": "Los datos no son ambiguos. El mecanismo aún se está estudiando. Pero la observación, repetida en distintas culturas, continentes y siglos, es uno de los hallazgos más sólidos de toda la ciencia de la salud."
+    },
+    "bf2354d9": {
+      "src": "The depth of human connection.",
+      "t": "La profundidad de la conexión humana."
+    },
+    "ee883acc": {
+      "src": "The grounding provision.",
+      "t": "La provisión que da arraigo."
+    },
+    "6661eee7": {
+      "src": "The healer addressed both dimensions simultaneously. This integration of physical and spiritual medicine is now being validated by research into the placebo effect, psychoneuroimmunology, and epigenetics.",
+      "t": "El sanador atendía ambas dimensiones a la vez. Esta integración de la medicina física y espiritual está siendo validada hoy por la investigación sobre el efecto placebo, la psiconeuroinmunología y la epigenética."
+    },
+    "e7fe6604": {
+      "src": "The knowledge tree was planted for you. The fruit is free. The roots go deep.",
+      "t": "El árbol del conocimiento se plantó para ti. El fruto es gratis. Las raíces son profundas."
+    },
+    "eb7c8e24": {
+      "src": "The mind",
+      "t": "La mente"
+    },
+    "f0bb1fe4": {
+      "src": "The prescription is not only herbs and diet but the restoration of purposeful engagement with life. The concept predates modern psychology by three millennia.",
+      "t": "La receta no son solo hierbas y dieta, sino volver a comprometerse con la vida con propósito. El concepto es tres milenios anterior a la psicología moderna."
+    },
+    "062359f2": {
+      "src": "The purifier.",
+      "t": "La que purifica."
+    },
+    "9c2e186a": {
+      "src": "The root is spirit. The root is meaning. The root is the understanding that this life, this body, this breath, this moment — it all matters.",
+      "t": "La raíz es el espíritu. La raíz es el sentido. La raíz es entender que esta vida, este cuerpo, esta respiración, este momento: todo importa."
+    },
+    "10bb092d": {
+      "src": "The root of it all",
+      "t": "La raíz de todo"
+    },
+    "f29ba34e": {
+      "src": "The science",
+      "t": "La ciencia"
+    },
+    "c951737c": {
+      "src": "The science of spirit",
+      "t": "La ciencia del espíritu"
+    },
+    "e9781891": {
+      "src": "The series",
+      "t": "La serie"
+    },
+    "97cbb00d": {
+      "src": "The spirit",
+      "t": "El espíritu"
+    },
+    "91b73410": {
+      "src": "The sustainer.",
+      "t": "El que sostiene."
+    },
+    "15948d81": {
+      "src": "The tree survives because the roots go deep.",
+      "t": "El árbol sobrevive porque sus raíces son profundas."
+    },
+    "57850ca1": {
+      "src": "The tree survives the storm not because its branches are strong — though they are — and not because its trunk is thick — though it is.",
+      "t": "El árbol sobrevive a la tormenta no porque sus ramas sean fuertes, aunque lo son, ni porque su tronco sea grueso, aunque lo es."
+    },
+    "9162eb73": {
+      "src": "They are three dimensions of one living system. Treating them separately — as Western medicine has done for centuries — produces incomplete healing. Treating them as one produces extraordinary resilience.",
+      "t": "Son tres dimensiones de un mismo sistema vivo. Tratarlos por separado, como ha hecho la medicina occidental durante siglos, produce una sanación incompleta. Tratarlos como uno solo produce una resiliencia extraordinaria."
+    },
+    "42b7931a": {
+      "src": "This Series",
+      "t": "Esta serie"
+    },
+    "6506f93a": {
+      "src": "This is not a theological argument. It is a scientific one. Across the largest and most rigorous longitudinal studies in human health research, a consistent finding keeps emerging:",
+      "t": "No es un argumento teológico. Es científico. En los estudios longitudinales más grandes y rigurosos de la investigación sobre la salud humana, se repite un hallazgo constante:"
+    },
+    "6283d186": {
+      "src": "This is not metaphor. Frankl’s clinical observations, later validated by decades of research, establish that",
+      "t": "No es una metáfora. Las observaciones clínicas de Frankl, validadas después por décadas de investigación, establecen que"
+    },
+    "73a15746": {
+      "src": "This means that how you understand your life — whether you feel it has meaning —",
+      "t": "Esto significa que cómo entiendes tu vida, si sientes que tiene sentido,"
+    },
+    "cdc3f040": {
+      "src": "This series has traced three dimensions of one reality. The body that moves is the body that heals. The mind that rests is the mind that thinks clearly.",
+      "t": "Esta serie ha recorrido tres dimensiones de una misma realidad. El cuerpo que se mueve es el cuerpo que sana. La mente que descansa es la mente que piensa con claridad."
+    },
+    "d59543cd": {
+      "src": "This was not superstition. It was careful, multigenerational clinical observation.",
+      "t": "No era superstición. Era una observación clínica cuidadosa, transmitida durante generaciones."
+    },
+    "e8ccf610": {
+      "src": "Traditional Jamaican healing systems, drawing from both Taino indigenous and West African roots, understood that",
+      "t": "Los sistemas de sanación tradicionales de Jamaica, con raíces taínas indígenas y de África Occidental, entendían que"
+    },
+    "d7ecf5a9": {
+      "src": "Ubuntu — I am because we are",
+      "t": "Ubuntu: soy porque somos"
+    },
+    "fd47d1bf": {
+      "src": "Used across Jamaica for physical cleansing — and in spiritual tradition for clearing mental and energetic heaviness. Bitterness in Ital philosophy represents honest confrontation with truth. Cerasee teaches the body and spirit to process what is bitter and release it.",
+      "t": "Se usa en toda Jamaica para la limpieza física y, en la tradición espiritual, para despejar el peso mental y energético. En la filosofía Ital, lo amargo representa enfrentar la verdad con honestidad. El cerasee enseña al cuerpo y al espíritu a procesar lo amargo y soltarlo."
+    },
+    "56b2bf27": {
+      "src": "Used in Ital teas for fever, anxiety, and spiritual clarity. Its citral compounds reduce cortisol and activate the parasympathetic nervous system. In traditional spiritual practice, fever grass is understood to clear confusion and restore clear perception — which is exactly what reduced cortisol enables neurologically.",
+      "t": "Se usa en tés Ital para la fiebre, la ansiedad y la claridad espiritual. Sus compuestos de citral reducen el cortisol y activan el sistema nervioso parasimpático. En la práctica espiritual tradicional se entiende que el fever grass despeja la confusión y devuelve una percepción clara, que es exactamente lo que permite, a nivel neurológico, un cortisol más bajo."
+    },
+    "f3f0910e": {
+      "src": "Volunteering regularly is associated with a 22% reduction in mortality risk",
+      "t": "Hacer voluntariado con regularidad se asocia a una reducción del 22% del riesgo de mortalidad"
+    },
+    "ea62ba4c": {
+      "src": "West Africa",
+      "t": "África Occidental"
+    },
+    "785e0159": {
+      "src": "What ancestral traditions",
+      "t": "Lo que las tradiciones ancestrales"
+    },
+    "65cc239f": {
+      "src": "What the Research Shows",
+      "t": "Lo que muestra la investigación"
+    },
+    "b9777a5a": {
+      "src": "When all three",
+      "t": "Cuando las tres"
+    },
+    "f06fe22a": {
+      "src": "Why meaning",
+      "t": "Por qué el sentido"
+    },
+    "babedd14": {
+      "src": "You do not believe health is important. You live it.",
+      "t": "No crees que la salud es importante. La vives."
+    },
+    "daef9dfe": {
+      "src": "activate the prefrontal cortex, reduce amygdala reactivity, and produce heart rate variability patterns associated with calm and resilience.",
+      "t": "activar la corteza prefrontal, reducir la reactividad de la amígdala y producir patrones de variabilidad del ritmo cardíaco asociados a la calma y la resiliencia."
+    },
+    "0121b3bb": {
+      "src": "changes the body.",
+      "t": "cambia el cuerpo."
+    },
+    "212fc06d": {
+      "src": "come together.",
+      "t": "se unen."
+    },
+    "5905d32c": {
+      "src": "compared to people seeking only pleasure. Specifically, their immune cells showed lower expression of inflammatory genes and stronger antiviral response.",
+      "t": "de los de las personas que solo buscaban placer. En concreto, sus células inmunitarias mostraban una menor expresión de genes inflamatorios y una respuesta antiviral más fuerte."
+    },
+    "e154e5c0": {
+      "src": "dharma",
+      "t": "dharma"
+    },
+    "f1652d46": {
+      "src": "different gene expression patterns",
+      "t": "patrones de expresión génica distintos"
+    },
+    "a4d14f04": {
+      "src": "encompasses all of this.",
+      "t": "abarca todo esto."
+    },
+    "571b87e0": {
+      "src": "in the most meaningless circumstances imaginable.”",
+      "t": "en las circunstancias más carentes de sentido que se puedan imaginar.”"
+    },
+    "29e679d6": {
+      "src": "is complete.",
+      "t": "está completa."
+    },
+    "fa6a45ea": {
+      "src": "is the",
+      "t": "es la"
+    },
+    "6fb7eb53": {
+      "src": "literally changes which genes are switched on or off in your immune cells.",
+      "t": "cambia literalmente qué genes se activan o se desactivan en tus células inmunitarias."
+    },
+    "0fb0b56c": {
+      "src": "livity",
+      "t": "livity"
+    },
+    "5a2984a8": {
+      "src": "lower levels of inflammatory biomarkers, better sleep, and reduced depression symptoms",
+      "t": "niveles más bajos de biomarcadores inflamatorios, mejor sueño y menos síntomas de depresión"
+    },
+    "5495559e": {
+      "src": "maintained a sense of meaning",
+      "t": "mantenían un sentido de significado"
+    },
+    "d66c55da": {
+      "src": "measurable reductions in chronic pain, anxiety, depression, and inflammatory markers",
+      "t": "reducciones medibles del dolor crónico, la ansiedad, la depresión y los marcadores inflamatorios"
+    },
+    "e5c21751": {
+      "src": "moves.",
+      "t": "se mueve."
+    },
+    "00541985": {
+      "src": "of spirit.",
+      "t": "del espíritu."
+    },
+    "3ba8ce53": {
+      "src": "on average than those without it. Purpose is not philosophy. It is physiology.”",
+      "t": "de media que quienes no lo tienen. El propósito no es filosofía. Es fisiología.”"
+    },
+    "e4fe3a23": {
+      "src": "over six weeks. Gratitude activates the hypothalamus — which regulates sleep, metabolism, and stress hormones — and increases dopamine and serotonin simultaneously. It is one of the simplest spiritual practices available and one of the most physiologically powerful.",
+      "t": "a lo largo de seis semanas. La gratitud activa el hipotálamo, que regula el sueño, el metabolismo y las hormonas del estrés, y aumenta a la vez la dopamina y la serotonina. Es una de las prácticas espirituales más sencillas que existen y una de las más poderosas desde el punto de vista fisiológico."
+    },
+    "39468885": {
+      "src": "people who hold a sense of meaning, purpose, and spiritual connection live longer, heal faster, experience less pain, and maintain better cognitive function into old age.",
+      "t": "las personas que tienen un sentido de significado, propósito y conexión espiritual viven más, sanan más rápido, sienten menos dolor y conservan mejor su función cognitiva en la vejez."
+    },
+    "2bb215d3": {
+      "src": "plant foods.",
+      "t": "y que dan arraigo."
+    },
+    "4547b9a3": {
+      "src": "plants carried spiritual as well as physical medicine.",
+      "t": "las plantas llevaban medicina espiritual además de física."
+    },
+    "a0e4c866": {
+      "src": "rests.",
+      "t": "descansa."
+    },
+    "a0662745": {
+      "src": "rhythmic drumming synchronises neural oscillations across brain regions",
+      "t": "los tambores rítmicos sincronizan las oscilaciones neuronales entre regiones del cerebro"
+    },
+    "595db271": {
+      "src": "root.",
+      "t": "raíz."
+    },
+    "6afcd244": {
+      "src": "roots.",
+      "t": "echa raíces."
+    },
+    "b52136a4": {
+      "src": "showed greater resilience, higher self-esteem, and better mental health outcomes",
+      "t": "mostraban más resiliencia, más autoestima y mejor salud mental"
+    },
+    "666e5411": {
+      "src": "than those who did not. Ancestral connection is not sentiment. It is psychological infrastructure.",
+      "t": "que los que no las conocían. La conexión ancestral no es sentimentalismo. Es infraestructura psicológica."
+    },
+    "31eec7da": {
+      "src": "the conscious way of life.",
+      "t": "la forma consciente de vivir."
+    },
+    "05f7a921": {
+      "src": "the quality of relationships.",
+      "t": "la calidad de las relaciones."
+    },
+    "c9cc46c0": {
+      "src": "the will to meaning is a primary biological drive",
+      "t": "la voluntad de sentido es un impulso biológico primario"
+    },
+    "56f03d97": {
+      "src": "understood about spirit and health.",
+      "t": "entendían sobre el espíritu y la salud."
+    },
+    "5187c6c9": {
+      "src": "was a secondary discovery. The spiritual practice was primary. The physical benefits were the fruit.",
+      "t": "fue un descubrimiento secundario. La práctica espiritual era lo principal. Los beneficios físicos eran el fruto."
+    },
+    "96992621": {
+      "src": "with documented health effects.",
+      "t": "con efectos documentados en la salud."
+    },
+    "c3b45b7e": {
+      "src": "— as fundamental as hunger or thirst. When it is present, the body mobilises extraordinary resources. When it is absent, the body begins to disengage from life.",
+      "t": ", tan fundamental como el hambre o la sed. Cuando está presente, el cuerpo moviliza recursos extraordinarios. Cuando falta, el cuerpo empieza a desconectarse de la vida."
+    },
+    "cfb32581": {
+      "src": "— eating pure, natural, unprocessed food as an act of honouring the body as a temple. The physical and the spiritual are not separate. How you feed the body is how you honour the Creator within it.",
+      "t": ": comer alimentos puros, naturales y sin procesar como un acto de honrar el cuerpo como un templo. Lo físico y lo espiritual no están separados. Cómo alimentas el cuerpo es cómo honras al Creador que está en él."
+    },
+    "6b8f71ad": {
+      "src": "— going beyond simple understanding to a deeper, lived comprehension of truth. Rastafari values direct experience of spiritual reality over inherited doctrine.",
+      "t": ": ir más allá del simple entendimiento hacia una comprensión más profunda y vivida de la verdad. Rastafari valora la experiencia directa de la realidad espiritual por encima de la doctrina heredada."
+    },
+    "b15f6f04": {
+      "src": "— the Rastafarian practice of gathering in community to discuss spiritual and practical matters, share knowledge, and support one another. Documented by sociologists as one of the most effective community mental health practices in the Caribbean diaspora.",
+      "t": ": la práctica rastafari de reunirse en comunidad para hablar de asuntos espirituales y prácticos, compartir conocimiento y apoyarse mutuamente. Los sociólogos la han documentado como una de las prácticas de salud mental comunitaria más eficaces de la diáspora caribeña."
+    },
+    "483a8e5c": {
+      "src": "— the awareness of divine presence in all living things. This is not passive. It is active reverence — for the body, the earth, the plant that grows from the soil, the community gathered around the fire.",
+      "t": ": la conciencia de la presencia divina en todos los seres vivos. No es pasiva. Es una reverencia activa: por el cuerpo, la tierra, la planta que crece del suelo, la comunidad reunida alrededor del fuego."
+    },
+    "73059619": {
+      "src": "— the grounding of identity in the lineage, the land, and the wisdom of those who came before. This ancestral rootedness is itself a documented protective factor against depression, anxiety, and substance use — particularly in Black diaspora communities.",
+      "t": ": el arraigo de la identidad en el linaje, la tierra y la sabiduría de quienes vinieron antes. Este arraigo ancestral es en sí mismo un factor protector documentado frente a la depresión, la ansiedad y el consumo de sustancias, sobre todo en las comunidades de la diáspora negra."
+    },
+    "441a4ad4": {
+      "src": "— their right action and purpose.",
+      "t": ", su acción correcta y su propósito."
+    },
+    "4dec7e9f": {
+      "src": "“People with a strong sense of purpose live",
+      "t": "“Las personas con un fuerte sentido de propósito viven"
+    },
+    "98fa13f2": {
+      "src": "“Viktor Frankl, who survived four Nazi concentration camps, wrote that the prisoners who survived longest were not the physically strongest. They were the ones who",
+      "t": "“Viktor Frankl, que sobrevivió a cuatro campos de concentración nazis, escribió que los prisioneros que sobrevivieron más tiempo no eran los más fuertes físicamente. Eran los que"
+    },
+    "f42f8ada": {
+      "src": "🌅",
+      "t": "🌅"
+    },
+    "b72f2ad3": {
+      "src": "🌺",
+      "t": "🌺"
+    },
+    "b88a11a6": {
+      "src": "🌺 Soursop Leaf",
+      "t": "🌺 Hoja de guanábana"
+    },
+    "2822dcff": {
+      "src": "🌾 Fever Grass (Lemongrass)",
+      "t": "🌾 Fever grass (hierba de limón)"
+    },
+    "ba2f2f8c": {
+      "src": "🌿",
+      "t": "🌿"
+    },
+    "f6d22945": {
+      "src": "🌿 Moringa",
+      "t": "🌿 Moringa"
+    },
+    "03eb3be4": {
+      "src": "🍃 Cerasee",
+      "t": "🍃 Cerasee"
+    },
+    "ef80ca06": {
+      "src": "🍌 Banana",
+      "t": "🍌 Banana"
+    },
+    "8a315e65": {
+      "src": "🙏",
+      "t": "🙏"
+    },
+    "582b3374": {
+      "src": "🤝",
+      "t": "🤝"
+    },
+    "7c2b6c20": {
+      "src": "🥁",
+      "t": "🥁"
+    },
+    "62262553": {
+      "src": "🥥 Coconut",
+      "t": "🥥 Coco"
+    }
+  }
+}

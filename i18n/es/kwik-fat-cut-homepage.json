@@ -1,0 +1,467 @@
+{
+  "_note": "Page content for kwik-fat-cut-homepage.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "270c92a5": {
+      "src": "\"",
+      "t": "\""
+    },
+    "714c332f": {
+      "src": "\"Many people today are eating more food",
+      "t": "\"Hoy muchas personas comen más comida"
+    },
+    "2b0c98f1": {
+      "src": ".",
+      "t": "."
+    },
+    "273db946": {
+      "src": "A family in Jamaica preparing and sharing a meal together.",
+      "t": "Una familia en Jamaica preparando y compartiendo una comida."
+    },
+    "cb6b5a08": {
+      "src": "And at Kwik Fat Cut, it costs nothing.",
+      "t": "Y en Kwik Fat Cut no cuesta nada."
+    },
+    "cd57903d": {
+      "src": "App coming soon for",
+      "t": "App próximamente para"
+    },
+    "534181df": {
+      "src": "App coming soon for free download.",
+      "t": "App próximamente, con descarga gratuita."
+    },
+    "105e9304": {
+      "src": "App coming soon.",
+      "t": "App próximamente."
+    },
+    "b57fcebb": {
+      "src": "App coming soon. It is not built yet, so there is nothing to download and nothing to sign up for. When it is ready we will say so here.",
+      "t": "App próximamente. Todavía no está construida, así que no hay nada que descargar ni nada a lo que suscribirse. Cuando esté lista, lo diremos aquí."
+    },
+    "96957bf3": {
+      "src": "Are environmental factors quietly changing the quality of our food?",
+      "t": "¿Están los factores ambientales cambiando en silencio la calidad de nuestra comida?"
+    },
+    "c7c4ebae": {
+      "src": "Awareness",
+      "t": "Conciencia"
+    },
+    "43efd5be": {
+      "src": "Confidence, not confusion",
+      "t": "Confianza, no confusión"
+    },
+    "48abfa7e": {
+      "src": "Context transforms data into something you can actually act on.",
+      "t": "El contexto convierte los datos en algo sobre lo que de verdad puedes actuar."
+    },
+    "4091b620": {
+      "src": "Download it instead",
+      "t": "Descárgalo en su lugar"
+    },
+    "7f1f1583": {
+      "src": "Everything else follows from clarity — not pressure.",
+      "t": "Todo lo demás nace de la claridad, no de la presión."
+    },
+    "fcc06fce": {
+      "src": "Everything we have today is on this site, free, with no account and no subscription.",
+      "t": "Todo lo que tenemos hoy está en este sitio, gratis, sin cuenta y sin suscripción."
+    },
+    "73266766": {
+      "src": "Explore the full picture",
+      "t": "Explora el panorama completo"
+    },
+    "05f7d5f3": {
+      "src": "Food is information for the body.",
+      "t": "La comida es información para el cuerpo."
+    },
+    "54bcee11": {
+      "src": "Food is more than fuel",
+      "t": "La comida es más que combustible"
+    },
+    "7aa12cad": {
+      "src": "Free Download",
+      "t": "Descarga gratuita"
+    },
+    "986145af": {
+      "src": "Health",
+      "t": "Salud"
+    },
+    "34fec5cc": {
+      "src": "How your body responds.",
+      "t": "Cómo responde tu cuerpo."
+    },
+    "ce8060ca": {
+      "src": "Identity is limitless and adaptable",
+      "t": "La identidad es ilimitada y adaptable"
+    },
+    "aa8ffdcc": {
+      "src": "Is economic pressure shaping what ends up on our shelves?",
+      "t": "¿Está la presión económica moldeando lo que termina en nuestros estantes?"
+    },
+    "732fc9e5": {
+      "src": "It's a principle. Education comes first — and it's free. Always.",
+      "t": "Es un principio. La educación va primero, y es gratuita. Siempre."
+    },
+    "14e2dd4e": {
+      "src": "It's not forgetfulness.",
+      "t": "No es un olvido."
+    },
+    "a1f24fc8": {
+      "src": "Kwik Fat Cut doesn’t sell anything. We build kin.",
+      "t": "Kwik Fat Cut doesn’t sell anything. We build kin."
+    },
+    "f07aa164": {
+      "src": "Kwik Fat Cut is a free health education platform grounded in one belief:",
+      "t": "Kwik Fat Cut es una plataforma gratuita de educación en salud basada en una sola convicción:"
+    },
+    "c4ccf859": {
+      "src": "Kwik Fat Cut is not designed to",
+      "t": "Kwik Fat Cut no está diseñado para"
+    },
+    "7b1f628a": {
+      "src": "Kwik Fat Cut — Start Free. Learn First.",
+      "t": "Kwik Fat Cut · Empieza gratis. Aprende primero."
+    },
+    "88b8a84c": {
+      "src": "Many traditional and indigenous diets were built around whole foods, healthy fats, fibre-rich vegetables, and legumes — with no refined sugar, no heavily processed ingredients.",
+      "t": "Muchas dietas tradicionales e indígenas se construyeron en torno a alimentos integrales, grasas saludables, verduras ricas en fibra y legumbres, sin azúcar refinada y sin ingredientes muy procesados."
+    },
+    "33aabdb0": {
+      "src": "Modern diets have shifted heavily toward processed, refined, and convenience foods. High in calories, often low in the vitamins, minerals, and fibre our bodies depend on.",
+      "t": "Las dietas modernas se han desplazado con fuerza hacia alimentos procesados, refinados y de conveniencia. Altos en calorías y a menudo bajos en las vitaminas, los minerales y la fibra de los que depende nuestro cuerpo."
+    },
+    "7187b873": {
+      "src": "No subscription. No pressure. No body shaming.",
+      "t": "Sin suscripción. Sin presión. Sin criticar el cuerpo de nadie."
+    },
+    "4ed1faf4": {
+      "src": "Nobody shamed. Nobody pressured.",
+      "t": "Nadie avergonzado. Nadie presionado."
+    },
+    "336274f8": {
+      "src": "Nothing to install yet.",
+      "t": "Todavía no hay nada que instalar."
+    },
+    "c54502ba": {
+      "src": "Opportunity",
+      "t": "Oportunidad"
+    },
+    "0246e793": {
+      "src": "Our Approach",
+      "t": "Nuestro enfoque"
+    },
+    "d9391a5c": {
+      "src": "Our Community",
+      "t": "Nuestra comunidad"
+    },
+    "7041628c": {
+      "src": "Our goal is to create a",
+      "t": "Nuestro objetivo es crear un"
+    },
+    "21fc22af": {
+      "src": "Our mission is to provide education that helps people make informed decisions about their health, nutrition, and lifestyle.",
+      "t": "Nuestra misión es ofrecer educación que ayude a las personas a tomar decisiones informadas sobre su salud, su nutrición y su estilo de vida."
+    },
+    "791143ab": {
+      "src": "Our platform functions as a family health community dedicated to helping individuals understand their unique body identity — specifically its relationship with food, nutrition, and overall health.",
+      "t": "Nuestra plataforma funciona como una comunidad familiar de salud dedicada a ayudar a cada persona a entender la identidad única de su cuerpo, en concreto su relación con la comida, la nutrición y la salud en general."
+    },
+    "bfb5e924": {
+      "src": "Pollution, soil erosion, and climate change are affecting what nutrients make it onto our plates — often before anyone notices at the table.",
+      "t": "La contaminación, la erosión del suelo y el cambio climático están afectando a qué nutrientes llegan a nuestros platos, a menudo antes de que alguien lo note en la mesa."
+    },
+    "796ecef7": {
+      "src": "Read our full position",
+      "t": "Lee nuestra posición completa"
+    },
+    "b18c04b1": {
+      "src": "Read our full story",
+      "t": "Lee nuestra historia completa"
+    },
+    "6eda38a3": {
+      "src": "So, where did",
+      "t": "Entonces, ¿en qué momento"
+    },
+    "c124b04f": {
+      "src": "Start Free. Learn First.",
+      "t": "Empieza gratis. Aprende primero."
+    },
+    "1a44c74c": {
+      "src": "Start wherever you are",
+      "t": "Empieza donde estés"
+    },
+    "e92b5dc9": {
+      "src": "Start with the Learn hub →",
+      "t": "Empieza por el centro de aprendizaje →"
+    },
+    "6e02097d": {
+      "src": "Systems that favour cheap, processed foods spread additives, preservatives, and artificial ingredients at scale — often prioritising profit over nourishment.",
+      "t": "Los sistemas que favorecen los alimentos baratos y procesados difunden aditivos, conservantes e ingredientes artificiales a gran escala, y a menudo priorizan el beneficio por encima de la nutrición."
+    },
+    "b90938ee": {
+      "src": "The Bigger Picture",
+      "t": "La imagen completa"
+    },
+    "45623925": {
+      "src": "The Learn hub is open now.",
+      "t": "El centro de aprendizaje ya está abierto."
+    },
+    "3c148ae3": {
+      "src": "The answer is likely a mix of both environment and economy.",
+      "t": "La respuesta probablemente sea una mezcla de las dos cosas, entorno y economía."
+    },
+    "8180463a": {
+      "src": "The education is already here.",
+      "t": "La educación ya está aquí."
+    },
+    "2b2248d6": {
+      "src": "The foods we consume should strengthen our health — providing essential nutrients, supporting our immune system, helping us maintain a healthy weight, and aiding our bodies in repairing themselves.",
+      "t": "Los alimentos que consumimos deberían fortalecer nuestra salud, aportando nutrientes esenciales, apoyando nuestro sistema inmunitario, ayudándonos a mantener un peso saludable y ayudando a nuestro cuerpo a repararse."
+    },
+    "0ecf7005": {
+      "src": "The foundation",
+      "t": "La base"
+    },
+    "c41cd1ff": {
+      "src": "The goal",
+      "t": "El objetivo"
+    },
+    "6f96ea40": {
+      "src": "The outcome",
+      "t": "El resultado"
+    },
+    "eccad61d": {
+      "src": "The practice",
+      "t": "La práctica"
+    },
+    "ecb9155f": {
+      "src": "There's a reason you won't see a \"Subscription\" button on Kwik Fat Cut.",
+      "t": "Hay una razón por la que no verás un botón de \"Suscripción\" en Kwik Fat Cut."
+    },
+    "8070be70": {
+      "src": "These are the questions Kwik Fat Cut was built to help answer. Not to alarm — but to invite understanding. The more you know about the world your food comes from, the better equipped you are to make decisions that serve you.",
+      "t": "Estas son las preguntas que Kwik Fat Cut se construyó para ayudar a responder. No para alarmar, sino para invitar a la comprensión. Cuanto más sepas sobre el mundo del que viene tu comida, mejor preparado estarás para tomar decisiones que te sirvan."
+    },
+    "8e782ece": {
+      "src": "This drives",
+      "t": "Esto impulsa"
+    },
+    "6d3b770e": {
+      "src": "This foundation isn't optional — it's essential.",
+      "t": "Esta base no es opcional, es esencial."
+    },
+    "4e436353": {
+      "src": "This is exactly why education matters first.",
+      "t": "Exactamente por eso la educación importa primero."
+    },
+    "ae44d3f2": {
+      "src": "This is why understanding comes first.",
+      "t": "Por eso la comprensión va primero."
+    },
+    "bbe6a08f": {
+      "src": "This is why understanding food matters. This is the reason Kwik Fat Cut exists.",
+      "t": "Por eso importa entender la comida. Esa es la razón por la que existe Kwik Fat Cut."
+    },
+    "a500faa7": {
+      "src": "Track patterns, spot gaps, and begin to read the signals your body sends.",
+      "t": "Sigue patrones, detecta carencias y empieza a leer las señales que envía tu cuerpo."
+    },
+    "4f3d2ccb": {
+      "src": "Understand",
+      "t": "Comprende"
+    },
+    "15008edd": {
+      "src": "Understand your food — not just its calorie count, but what it's doing inside you.",
+      "t": "Comprende tu comida, no solo su recuento de calorías, sino lo que está haciendo dentro de ti."
+    },
+    "5ef49c18": {
+      "src": "Understanding comes first.",
+      "t": "La comprensión va primero."
+    },
+    "1bd777a1": {
+      "src": "Unlike traditional programmes with fixed plans or subscriptions, Kwik Fat Cut fosters a personalised, self-aware approach — encouraging you to tailor your health journey to your unique needs and goals.",
+      "t": "A diferencia de los programas tradicionales con planes fijos o suscripciones, Kwik Fat Cut fomenta un enfoque personalizado y consciente de uno mismo, que te anima a adaptar tu camino de salud a tus necesidades y objetivos únicos."
+    },
+    "6fa8626a": {
+      "src": "Until then, everything Kwik Fat Cut offers is free on this website, with no account and no subscription.",
+      "t": "Mientras tanto, todo lo que ofrece Kwik Fat Cut es gratuito en este sitio web, sin cuenta y sin suscripción."
+    },
+    "719b7de6": {
+      "src": "We are listeners, not lecturers. At Kwik Fat Cut, understanding always comes before instruction — because lasting change is built on clarity, not compliance.",
+      "t": "Somos oyentes, no predicadores. En Kwik Fat Cut, la comprensión siempre va antes que la instrucción, porque el cambio duradero se construye sobre la claridad, no sobre la obediencia."
+    },
+    "17be5773": {
+      "src": "We are what",
+      "t": "Somos lo que"
+    },
+    "867a72b6": {
+      "src": "We don’t tell you what to eat. We help you understand enough to choose for yourself.",
+      "t": "No te decimos qué comer. Te ayudamos a entender lo suficiente para elegir por ti mismo."
+    },
+    "c642ee56": {
+      "src": "We focus on understanding first",
+      "t": "Nos centramos primero en la comprensión"
+    },
+    "21bb5791": {
+      "src": "We help people understand before they commit to programmes, strict diets, or major lifestyle changes.",
+      "t": "Ayudamos a las personas a entender antes de comprometerse con programas, dietas estrictas o grandes cambios de estilo de vida."
+    },
+    "3b287744": {
+      "src": "We meet you where you are. No body shaming. No gatekeeping. No alarm bells.",
+      "t": "Te encontramos donde estás. Sin criticar el cuerpo de nadie. Sin guardianes en la puerta. Sin alarmas."
+    },
+    "ff211e08": {
+      "src": "We prioritise education and a calm, supportive environment —",
+      "t": "Damos prioridad a la educación y a un entorno tranquilo y de apoyo,"
+    },
+    "17e18f2d": {
+      "src": "We row.",
+      "t": "Nosotros remamos."
+    },
+    "72e2afee": {
+      "src": "Wellness",
+      "t": "Bienestar"
+    },
+    "5392df52": {
+      "src": "What Sets Us Apart",
+      "t": "Lo que nos distingue"
+    },
+    "e5c487eb": {
+      "src": "What We Are",
+      "t": "Lo que somos"
+    },
+    "2904ddf0": {
+      "src": "What happened to the traditional wisdom of how we used to eat?",
+      "t": "¿Qué pasó con la sabiduría tradicional sobre cómo solíamos comer?"
+    },
+    "9fac1bb0": {
+      "src": "What you eat.",
+      "t": "Lo que comes."
+    },
+    "5f3b8155": {
+      "src": "Why are so many people eating more — and getting less nutrition?",
+      "t": "¿Por qué tantas personas comen más y obtienen menos nutrición?"
+    },
+    "57f794ba": {
+      "src": "Why some habits help or hinder.",
+      "t": "Por qué algunos hábitos ayudan o estorban."
+    },
+    "25317c21": {
+      "src": "You should never",
+      "t": "Nunca deberías"
+    },
+    "5edcca11": {
+      "src": "You steer.",
+      "t": "Tú diriges."
+    },
+    "e2442c72": {
+      "src": "Your body",
+      "t": "Tu identidad"
+    },
+    "2a819d7e": {
+      "src": "Your browser cannot play this video.",
+      "t": "Tu navegador no puede reproducir este video."
+    },
+    "0f29c2a6": {
+      "src": "and",
+      "t": "y"
+    },
+    "56ed399c": {
+      "src": "but getting",
+      "t": "pero obtienen"
+    },
+    "75eb773d": {
+      "src": "education before intervention.",
+      "t": "la educación antes que la intervención."
+    },
+    "e3924df9": {
+      "src": "free download.",
+      "t": "descarga gratuita."
+    },
+    "c938a5af": {
+      "src": "go wrong?",
+      "t": "tomaron el rumbo equivocado?"
+    },
+    "75023ecf": {
+      "src": "have to pay to",
+      "t": "tener que pagar por"
+    },
+    "c14b27f1": {
+      "src": "identity is",
+      "t": "corporal es"
+    },
+    "2086b949": {
+      "src": "knowledge tree",
+      "t": "árbol de conocimiento"
+    },
+    "3c0281ea": {
+      "src": "less nutrition.",
+      "t": "menos nutrición."
+    },
+    "7b7d1659": {
+      "src": "limitless.",
+      "t": "ilimitada."
+    },
+    "0adbcb3d": {
+      "src": "modern diets",
+      "t": "las dietas modernas"
+    },
+    "2b099a91": {
+      "src": "no body shaming.",
+      "t": "sin criticar el cuerpo de nadie."
+    },
+    "7c095609": {
+      "src": "own body.",
+      "t": "propio cuerpo."
+    },
+    "f41124ab": {
+      "src": "sell products.",
+      "t": "vender productos."
+    },
+    "296f76df": {
+      "src": "sustainable, meaningful progress",
+      "t": "un progreso sostenible y significativo"
+    },
+    "6b610b25": {
+      "src": "that fosters health, wellness, awareness, and opportunity. We aim to empower people with genuine strength and confidence — through education alone.",
+      "t": "que fomente la salud, el bienestar, la conciencia y la oportunidad. Buscamos dar a las personas fuerza y confianza genuinas, solo a través de la educación."
+    },
+    "0ec63aab": {
+      "src": "understand",
+      "t": "entender"
+    },
+    "86f74a23": {
+      "src": "we eat.",
+      "t": "comemos."
+    },
+    "009acb0a": {
+      "src": "what you eat —",
+      "t": "lo que comes"
+    },
+    "486a5e62": {
+      "src": "why it matters.",
+      "t": "por qué importa."
+    },
+    "00f0e6aa": {
+      "src": "your",
+      "t": "tu"
+    },
+    "1ab34574": {
+      "src": "— not quick fixes, not short-term results, not shame-based motivation. Real change, built on real understanding.",
+      "t": "en lugar de soluciones rápidas, resultados a corto plazo o motivación basada en la vergüenza. Un cambio real, construido sobre una comprensión real."
+    },
+    "284af0d5": {
+      "src": "— reflecting the evolving nature of personal health. Your body is not a fixed problem to be solved. It is a living system to be understood, supported, and respected at every stage of the journey.",
+      "t": "y refleja la naturaleza cambiante de la salud personal. Tu cuerpo no es un problema fijo que resolver. Es un sistema vivo al que hay que entender, apoyar y respetar en cada etapa del camino."
+    },
+    "398c3cf6": {
+      "src": "— so that every change you make is driven by knowledge, not guesswork.",
+      "t": "para que cada cambio que hagas nazca del conocimiento y no de la conjetura."
+    },
+    "3d6ffbd8": {
+      "src": "— the only requirement is curiosity.",
+      "t": "y el único requisito es la curiosidad."
+    }
+  }
+}

@@ -1,0 +1,675 @@
+{
+  "_note": "Page content for learn-family-tree-origin.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "4a792c93": {
+      "src": ", and every observant culture arrived at the same description independently.",
+      "t": ", y cada cultura observadora llegó por su cuenta a la misma descripción."
+    },
+    "8e90c401": {
+      "src": "13 min",
+      "t": "13 min"
+    },
+    "997f4810": {
+      "src": "A complete biological archive of their ancestry",
+      "t": "Un archivo biológico completo de su ascendencia"
+    },
+    "4ea749d9": {
+      "src": "A family tree is not a chart, a hobby, or a sentimental record of names. A family tree is the",
+      "t": "Un árbol genealógico no es un gráfico, un pasatiempo ni un registro sentimental de nombres. Un árbol genealógico es el"
+    },
+    "97b9522a": {
+      "src": "A full genetic map of their ancestry",
+      "t": "Un mapa genético completo de su ascendencia"
+    },
+    "b2b91275": {
+      "src": "Access to land",
+      "t": "El acceso a la tierra"
+    },
+    "c72d30c7": {
+      "src": "Across civilisations, lineage determined who could marry whom — managing genetic diversity, political alliances, and property consolidation simultaneously.",
+      "t": "En todas las civilizaciones, el linaje determinaba quién podía casarse con quién, gestionando a la vez la diversidad genética, las alianzas políticas y la consolidación de la propiedad."
+    },
+    "77704407": {
+      "src": "All articles free. The knowledge tree keeps growing. Education first.",
+      "t": "Todos los artículos son gratis. El árbol del conocimiento sigue creciendo. La educación primero."
+    },
+    "6a43f5dc": {
+      "src": "Ancestral connection — Purpose — Identity as medicine",
+      "t": "Conexión ancestral · Propósito · La identidad como medicina"
+    },
+    "121453ce": {
+      "src": "Ancestral foods — Ground provisions — Cultural nutrition",
+      "t": "Alimentos ancestrales · Víveres · Nutrición cultural"
+    },
+    "01c946f2": {
+      "src": "Before Identity — There Was Authority",
+      "t": "Antes de la identidad, existía la autoridad"
+    },
+    "c58746d6": {
+      "src": "Before family trees became about “who you are,” they were about who controls resources. Anthropological records across every continent show that lineage determined:",
+      "t": "Antes de que los árboles genealógicos trataran de “quién eres”, trataban de quién controla los recursos. Los registros antropológicos de todos los continentes muestran que el linaje determinaba:"
+    },
+    "d7a5fc1c": {
+      "src": "Before writing, lineage was preserved orally — and with precision that modern archivists have struggled to equal.",
+      "t": "Antes de la escritura, el linaje se conservaba de forma oral, y con una precisión que a los archivistas modernos les ha costado igualar."
+    },
+    "c50b2e49": {
+      "src": "Brand origins — Logo story — Cultural identity",
+      "t": "Orígenes de la marca · La historia del logotipo · Identidad cultural"
+    },
+    "892784bb": {
+      "src": "Burial rights",
+      "t": "El derecho a sepultura"
+    },
+    "c0b39dc3": {
+      "src": "Clean the Blood. The Symptoms Follow.",
+      "t": "Limpia la Sangre. Los Síntomas Vienen Detrás."
+    },
+    "d4afcffd": {
+      "src": "Cultural amnesia",
+      "t": "Amnesia cultural"
+    },
+    "d549daf4": {
+      "src": "Deep Research",
+      "t": "Investigación profunda"
+    },
+    "36715127": {
+      "src": "Dr. Sebi — Ancestral herbs — Blood health",
+      "t": "Dr. Sebi · Hierbas ancestrales · Salud de la sangre"
+    },
+    "76db8f87": {
+      "src": "Early hominins did not reproduce blindly. They learned — through failure — that mating within close bloodlines led to weakness, deformity, and death. This is not theory; it is biologically measurable through genetic bottleneck studies and inbreeding depression.",
+      "t": "Los primeros homínidos no se reproducían a ciegas. Aprendieron, a base de fracasos, que aparearse dentro de linajes cercanos llevaba a la debilidad, la deformidad y la muerte. No es teoría; se puede medir biológicamente mediante estudios de cuellos de botella genéticos y de depresión por endogamia."
+    },
+    "21b98470": {
+      "src": "Epigenetic markers showing how ancestors lived",
+      "t": "Marcadores epigenéticos que muestran cómo vivían los antepasados"
+    },
+    "351e33d4": {
+      "src": "Every court, every council, every negotiation of consequence across the ancient world referenced lineage as its ultimate authority. This is not primitive thinking. It is the most sophisticated information system of its era.",
+      "t": "Cada tribunal, cada consejo, cada negociación importante del mundo antiguo tomaba el linaje como su autoridad máxima. No es un pensamiento primitivo. Es el sistema de información más sofisticado de su época."
+    },
+    "28d6b782": {
+      "src": "Every human carries",
+      "t": "Cada ser humano lleva"
+    },
+    "fb349e4b": {
+      "src": "Everything alive today is here because its family tree — known or unknown — worked. Every person reading this is the direct biological descendant of an unbroken chain of survival stretching back across hundreds of thousands of years.",
+      "t": "Todo lo que está vivo hoy está aquí porque su árbol genealógico, conocido o no, funcionó. Cada persona que lee esto es descendiente biológica directa de una cadena ininterrumpida de supervivencia que se remonta a cientos de miles de años."
+    },
+    "aa90c42b": {
+      "src": "Everything else — culture, surnames, inheritance laws, genealogy websites — came later.",
+      "t": "Todo lo demás (la cultura, los apellidos, las leyes de herencia, los sitios web de genealogía) llegó después."
+    },
+    "b17cf117": {
+      "src": "Family trees do not fade naturally. They are broken by force.",
+      "t": "Los árboles genealógicos no se desvanecen de forma natural. Se rompen por la fuerza."
+    },
+    "fce3a1ae": {
+      "src": "Final Truth",
+      "t": "La verdad final"
+    },
+    "2ae91f0e": {
+      "src": "Final truth",
+      "t": "La verdad final"
+    },
+    "0f7e1b30": {
+      "src": "For",
+      "t": "Por"
+    },
+    "476bb8c2": {
+      "src": "Genealogical memory embedded in landscape and song, accurate across an estimated 60,000 years — the longest living oral tradition documented on earth.",
+      "t": "Una memoria genealógica integrada en el paisaje y en el canto, precisa a lo largo de unos 60.000 años: la tradición oral viva más larga documentada en el planeta."
+    },
+    "94a3b500": {
+      "src": "Go deeper",
+      "t": "Profundiza"
+    },
+    "4f848ac1": {
+      "src": "Identity instability",
+      "t": "Inestabilidad de la identidad"
+    },
+    "997565c5": {
+      "src": "In many societies, entire genealogies were memorised and recited publicly. Errors were corrected immediately, because mistakes threatened group cohesion and mating rules. The consequence of error was social, legal, and biological.",
+      "t": "En muchas sociedades se memorizaban genealogías enteras y se recitaban en público. Los errores se corregían al instante, porque las equivocaciones amenazaban la cohesión del grupo y las reglas de apareamiento. Las consecuencias de un error eran sociales, legales y biológicas."
+    },
+    "4fa64f64": {
+      "src": "Indigenous Australian songlines:",
+      "t": "Los songlines de los aborígenes australianos:"
+    },
+    "54dead2e": {
+      "src": "Inheritance rights",
+      "t": "Los derechos de herencia"
+    },
+    "f3768f6c": {
+      "src": "Intergenerational trauma",
+      "t": "Trauma intergeneracional"
+    },
+    "e8a8aea8": {
+      "src": "It emerged because life that failed to track lineage did not survive.",
+      "t": "Surgió porque la vida que no llevaba la cuenta de su linaje no sobrevivía."
+    },
+    "fc3855c4": {
+      "src": "It is life’s receipt.",
+      "t": "Es el recibo de la vida."
+    },
+    "30a35d89": {
+      "src": "It is lineage restoration.",
+      "t": "Es la restauración del linaje."
+    },
+    "c8c9ef89": {
+      "src": "It is not",
+      "t": "No es"
+    },
+    "24df8b38": {
+      "src": "It is not about",
+      "t": "No se trata de"
+    },
+    "35888011": {
+      "src": "It started because forgetting the past led to death.",
+      "t": "Empezó porque olvidar el pasado llevaba a la muerte."
+    },
+    "c688824a": {
+      "src": "It was recognised.",
+      "t": "Se reconoció."
+    },
+    "c38b55d6": {
+      "src": "Its true definition: the biological record of how life successfully reproduced, survived environmental pressure, avoided extinction, and transmitted identity across time.",
+      "t": "Su verdadera definición: el registro biológico de cómo la vida logró reproducirse, sobrevivió a la presión del entorno, evitó la extinción y transmitió su identidad a lo largo del tiempo."
+    },
+    "f254862a": {
+      "src": "Jamaican Foods A to Z",
+      "t": "Alimentos jamaicanos de la A a la Z"
+    },
+    "ebe31a2c": {
+      "src": "Kings did not rule because they were strong. They ruled because they were connected. Bloodline was the authority that no army alone could manufacture.",
+      "t": "Los reyes no gobernaban porque fueran fuertes. Gobernaban porque estaban conectados. El linaje de sangre era la autoridad que ningún ejército por sí solo podía fabricar."
+    },
+    "32101c59": {
+      "src": "Know your",
+      "t": "Conoce tus"
+    },
+    "565616c8": {
+      "src": "Knowing who your mother was, who your mother’s mother was, and which group you belonged to prevented extinction. This memory system — initially stored in the brain, not on paper — was the first family tree.",
+      "t": "Saber quién era tu madre, quién era la madre de tu madre y a qué grupo pertenecías evitaba la extinción. Este sistema de memoria, guardado al principio en el cerebro y no en papel, fue el primer árbol genealógico."
+    },
+    "b7c9f5e2": {
+      "src": "Kwik Fat Cut — Education First — Rooted in Jamaica — Built for the World",
+      "t": "Kwik Fat Cut · La educación primero · Con raíces en Jamaica · Hecho para el mundo"
+    },
+    "afd61e60": {
+      "src": "Leadership legitimacy",
+      "t": "La legitimidad del liderazgo"
+    },
+    "3258f1b3": {
+      "src": "Lineage as power",
+      "t": "El linaje como poder"
+    },
+    "86b31d90": {
+      "src": "Marriage eligibility",
+      "t": "La posibilidad de casarse"
+    },
+    "14fcddfa": {
+      "src": "Memorised genealogical sequences that also encoded navigational knowledge — the lineage and the route were the same document. The family tree was also the map.",
+      "t": "Memorizaban secuencias genealógicas que además codificaban conocimientos de navegación: el linaje y la ruta eran el mismo documento. El árbol genealógico también era el mapa."
+    },
+    "17c4d298": {
+      "src": "Mitochondrial DNA tracing maternal lineage",
+      "t": "ADN mitocondrial que rastrea el linaje materno"
+    },
+    "bc4b3dee": {
+      "src": "No dilution.",
+      "t": "Sin rebajas."
+    },
+    "81396c9b": {
+      "src": "No softening.",
+      "t": "Sin suavizar."
+    },
+    "8a279ef5": {
+      "src": "Not for",
+      "t": "No por"
+    },
+    "71adc60e": {
+      "src": "Not one link in that chain failed. Not one ancestor failed to reproduce before they died.",
+      "t": "Ni un solo eslabón de esa cadena falló. Ni un solo antepasado dejó de reproducirse antes de morir."
+    },
+    "fd099ba5": {
+      "src": "Oral lineage accuracy",
+      "t": "La precisión del linaje oral"
+    },
+    "4d7ec9e0": {
+      "src": "Oral lineage was more accurate",
+      "t": "El linaje oral era más preciso"
+    },
+    "9ad9f580": {
+      "src": "Origins & Identity",
+      "t": "Orígenes e identidad"
+    },
+    "38ef18b5": {
+      "src": "Origins — Deep Research — Identity & Survival",
+      "t": "Orígenes, Investigación Profunda, Identidad y Supervivencia"
+    },
+    "ea8e45fd": {
+      "src": "Our Roots — The Kwik Fat Cut Foundation",
+      "t": "Nuestras raíces · La base de Kwik Fat Cut"
+    },
+    "0a155405": {
+      "src": "Polynesian navigators:",
+      "t": "Los navegantes polinesios:"
+    },
+    "6c26a484": {
+      "src": "Professional genealogists who memorised and publicly recited family histories spanning 20–40 generations. Anthropologists studying these lineages found them accurate when cross-referenced against independent sources. The griots were not storytellers. They were living archives.",
+      "t": "Genealogistas profesionales que memorizaban y recitaban en público historias familiares de 20 a 40 generaciones. Los antropólogos que estudiaron estos linajes comprobaron que eran precisos al contrastarlos con fuentes independientes. Los griots no eran narradores de cuentos. Eran archivos vivientes."
+    },
+    "d6886975": {
+      "src": "Property, title, and wealth passed through lineage. Severing the lineage severed the chain of accumulation.",
+      "t": "La propiedad, los títulos y la riqueza pasaban a través del linaje. Cortar el linaje cortaba la cadena de acumulación."
+    },
+    "b98465fb": {
+      "src": "Reproduction",
+      "t": "Reproducción"
+    },
+    "20ab4958": {
+      "src": "Reproduction under pressure",
+      "t": "Reproducción bajo presión"
+    },
+    "2f6bcb0d": {
+      "src": "Right to protection",
+      "t": "El derecho a la protección"
+    },
+    "a20baa2a": {
+      "src": "Slavery, colonisation, forced migration, religious erasure, and caste violence all share one tactic:",
+      "t": "La esclavitud, la colonización, la migración forzada, el borrado religioso y la violencia de casta comparten una misma táctica:"
+    },
+    "009effbc": {
+      "src": "Smile for me, Jamaica — you are the living proof that the family tree survived everything thrown at it.",
+      "t": "Sonríe para mí, Jamaica: eres la prueba viviente de que el árbol genealógico sobrevivió a todo lo que le lanzaron."
+    },
+    "d1e99e07": {
+      "src": "So humans developed an instinct to remember lineage.",
+      "t": "Así que los humanos desarrollaron el instinto de recordar el linaje."
+    },
+    "2187c179": {
+      "src": "Spirit Is the Root",
+      "t": "El espíritu es la raíz"
+    },
+    "b5735cd2": {
+      "src": "Stripped",
+      "t": "Al"
+    },
+    "26a55b04": {
+      "src": "That is the truth. Stripped clean.",
+      "t": "Esa es la verdad. Al desnudo."
+    },
+    "64f76dbb": {
+      "src": "The Beginning",
+      "t": "El comienzo"
+    },
+    "4a3327a4": {
+      "src": "The Family Tree",
+      "t": "El Árbol Genealógico"
+    },
+    "3ca9aefc": {
+      "src": "The Family Tree: Where Our Food Knowledge Began",
+      "t": "El árbol genealógico: donde empezó nuestro saber alimentario"
+    },
+    "9ca1c7eb": {
+      "src": "The First Record",
+      "t": "El primer registro"
+    },
+    "5b1476c2": {
+      "src": "The Hardest Truth",
+      "t": "La verdad más dura"
+    },
+    "a493234d": {
+      "src": "The Memory Systems",
+      "t": "Los sistemas de memoria"
+    },
+    "3b3f9b6f": {
+      "src": "The Metaphor That Is Not a Metaphor",
+      "t": "La metáfora que no es una metáfora"
+    },
+    "df33941c": {
+      "src": "The Truest Definition",
+      "t": "La definición más verdadera"
+    },
+    "eed14b18": {
+      "src": "The body is",
+      "t": "El cuerpo es"
+    },
+    "c8f39752": {
+      "src": "The body is the first document",
+      "t": "El cuerpo es el primer documento"
+    },
+    "f0692af6": {
+      "src": "The definition — no dilution",
+      "t": "La definición, sin rebajas"
+    },
+    "5bbd5226": {
+      "src": "The family tree began before language was written, before religion was formalised, and before societies were organised into nations.",
+      "t": "El árbol genealógico comenzó antes de que se escribiera el lenguaje, antes de que se formalizara la religión y antes de que las sociedades se organizaran en naciones."
+    },
+    "56a11776": {
+      "src": "The family tree began when reproduction became selective rather than random.",
+      "t": "El árbol genealógico comenzó cuando la reproducción dejó de ser aleatoria y pasó a ser selectiva."
+    },
+    "89df65fe": {
+      "src": "The family tree began with a memory under consequence.",
+      "t": "El árbol genealógico empezó con una memoria que tenía consecuencias."
+    },
+    "76913b28": {
+      "src": "The family tree did not start because humans wanted to remember the past.",
+      "t": "El árbol genealógico no empezó porque los humanos quisieran recordar el pasado."
+    },
+    "b68f767d": {
+      "src": "The family tree was the original legal document.",
+      "t": "El árbol genealógico fue el documento legal original."
+    },
+    "35a8bcfe": {
+      "src": "The family tree.",
+      "t": "El árbol genealógico."
+    },
+    "f3cdc3c3": {
+      "src": "The group defended its members. Outside the lineage, you had no claim on defence in conflict or crisis.",
+      "t": "El grupo defendía a sus miembros. Fuera del linaje, no tenías derecho a que te defendieran en un conflicto o una crisis."
+    },
+    "ec3a7387": {
+      "src": "The mechanism of control",
+      "t": "El mecanismo de control"
+    },
+    "54a39348": {
+      "src": "The memory was accurate because it had to be.",
+      "t": "La memoria era precisa porque tenía que serlo."
+    },
+    "c5c0bb23": {
+      "src": "The odds of any individual existing are so astronomically improbable that the only honest response to one’s own existence is awe.",
+      "t": "Las probabilidades de que exista cualquier persona son tan astronómicamente improbables que la única respuesta honesta ante la propia existencia es el asombro."
+    },
+    "ad03c08a": {
+      "src": "The original structure",
+      "t": "La estructura original"
+    },
+    "b19fb832": {
+      "src": "The right to farm, settle, and graze. Disconnected from lineage, you were disconnected from sustenance.",
+      "t": "El derecho a cultivar, asentarse y pastorear. Si estabas desconectado del linaje, estabas desconectado del sustento."
+    },
+    "e2ae2e05": {
+      "src": "The same structure appears in West African ancestor trees, in Polynesian genealogical chants, in Norse Yggdrasil mythology, in Mesoamerican lineage codices, and in the Arabic and Hebrew traditions of the tree of life. Not because they copied each other. Because",
+      "t": "La misma estructura aparece en los árboles ancestrales de África Occidental, en los cantos genealógicos polinesios, en la mitología nórdica del Yggdrasil, en los códices de linaje mesoamericanos y en las tradiciones árabe y hebrea del árbol de la vida. No porque se copiaran entre sí. Sino porque"
+    },
+    "fc8b6a71": {
+      "src": "The strongest proof that family trees are real — not symbolic — is DNA inheritance.",
+      "t": "La prueba más sólida de que los árboles genealógicos son reales, y no simbólicos, es la herencia del ADN."
+    },
+    "97ab471b": {
+      "src": "The strongest, most defensible definition possible",
+      "t": "La definición más sólida y defendible posible"
+    },
+    "c5d9021b": {
+      "src": "The tree is the body. The body is the tree.",
+      "t": "El árbol es el cuerpo. El cuerpo es el árbol."
+    },
+    "89309f90": {
+      "src": "The tree metaphor",
+      "t": "La metáfora del árbol"
+    },
+    "140610dc": {
+      "src": "The truest definition",
+      "t": "La definición más verdadera"
+    },
+    "aba4ad89": {
+      "src": "The written record is a recent, impoverished substitute.",
+      "t": "El registro escrito es un sustituto reciente y empobrecido."
+    },
+    "ad374625": {
+      "src": "The “tree” metaphor did not arise from imagination. It arose from observation. Life grows vertically and outward, not in straight lines. Branching occurs through reproduction. Dead branches stop. Living branches continue. Roots remain unseen but determine stability.",
+      "t": "La metáfora del “árbol” no nació de la imaginación. Nació de la observación. La vida crece hacia arriba y hacia afuera, no en líneas rectas. Las ramificaciones se producen por la reproducción. Las ramas muertas se detienen. Las ramas vivas continúan. Las raíces siguen ocultas, pero determinan la estabilidad."
+    },
+    "94431bca": {
+      "src": "These are not psychological metaphors. They are measurable biological and sociological outcomes documented across the African diaspora, Indigenous populations globally, and every community subjected to forced lineage severance.",
+      "t": "No son metáforas psicológicas. Son resultados biológicos y sociológicos medibles, documentados en la diáspora africana, en las poblaciones indígenas de todo el mundo y en cada comunidad sometida a la ruptura forzada de su linaje."
+    },
+    "03ba746d": {
+      "src": "They are inherited outcomes of ancestral survival strategies.",
+      "t": "Son resultados heredados de las estrategias de supervivencia de los antepasados."
+    },
+    "a43a27c6": {
+      "src": "This demolishes the myth that “history began with writing.”",
+      "t": "Esto derriba el mito de que “la historia empezó con la escritura”."
+    },
+    "52c691e4": {
+      "src": "This is why Kwik Fat Cut is rooted where it is. The work of restoring health knowledge to communities whose ancestral food wisdom was deliberately erased is not wellness marketing.",
+      "t": "Por eso Kwik Fat Cut tiene sus raíces donde las tiene. El trabajo de devolver el conocimiento sobre la salud a las comunidades cuya sabiduría alimentaria ancestral fue borrada deliberadamente no es marketing de bienestar."
+    },
+    "13dc7bcb": {
+      "src": "This is why famine leaves genetic scars generations later. This is why migration patterns show up in blood chemistry.",
+      "t": "Por eso las hambrunas dejan cicatrices genéticas generaciones después. Por eso los patrones migratorios aparecen en la química de la sangre."
+    },
+    "3be3a4f7": {
+      "src": "This means",
+      "t": "Esto significa que"
+    },
+    "ff182441": {
+      "src": "This metaphor appears",
+      "t": "Esta metáfora aparece"
+    },
+    "57baaee0": {
+      "src": "Three documented examples",
+      "t": "Tres ejemplos documentados"
+    },
+    "a5d17996": {
+      "src": "To be buried with the ancestors was to be remembered. Without lineage, there was no place in the earth — and no place in ancestral memory.",
+      "t": "Ser enterrado con los antepasados era ser recordado. Sin linaje, no había lugar en la tierra, ni lugar en la memoria ancestral."
+    },
+    "c90c044c": {
+      "src": "Traits like bone density, fat storage, disease vulnerability, metabolic efficiency, and stress response are not random.",
+      "t": "Rasgos como la densidad ósea, el almacenamiento de grasa, la vulnerabilidad a enfermedades, la eficiencia metabólica y la respuesta al estrés no son aleatorios."
+    },
+    "946a4143": {
+      "src": "We row. You steer.” 🇯🇲❤️💚",
+      "t": "Nosotros remamos. Tú diriges.” 🇯🇲❤️💚"
+    },
+    "f44a3f65": {
+      "src": "West African griot tradition:",
+      "t": "La tradición de los griots de África Occidental:"
+    },
+    "c4c04ade": {
+      "src": "When family trees",
+      "t": "Cuando los árboles genealógicos"
+    },
+    "d69423d0": {
+      "src": "When family trees were destroyed",
+      "t": "Cuando se destruyeron los árboles genealógicos"
+    },
+    "8f4ee69e": {
+      "src": "When people lose their ancestors’ names, languages, and kinship structures, control becomes easier. The break is not accidental. It is strategic.",
+      "t": "Cuando las personas pierden los nombres, las lenguas y las estructuras de parentesco de sus antepasados, el control se vuelve más fácil. La ruptura no es accidental. Es estratégica."
+    },
+    "1ee98363": {
+      "src": "When the family tree is broken, the following become observable across displaced populations globally:",
+      "t": "Cuando se rompe el árbol genealógico, en las poblaciones desplazadas de todo el mundo se observa lo siguiente:"
+    },
+    "da9c6b91": {
+      "src": "When the family tree is broken, the future weakens.",
+      "t": "Cuando se rompe el árbol genealógico, el futuro se debilita."
+    },
+    "0b93b5a8": {
+      "src": "Why lineage was power",
+      "t": "Por qué el linaje fue poder"
+    },
+    "4f0dbc02": {
+      "src": "Y-chromosome markers tracing paternal lineage",
+      "t": "Marcadores del cromosoma Y que rastrean el linaje paterno"
+    },
+    "618ed4e1": {
+      "src": "Your body remembers what your mind may not.",
+      "t": "Tu cuerpo recuerda lo que tu mente quizá no."
+    },
+    "db64bcae": {
+      "src": "before it was identity.",
+      "t": "antes de ser identidad."
+    },
+    "ad288630": {
+      "src": "clean.",
+      "t": "desnudo."
+    },
+    "717742e0": {
+      "src": "independently across Africa, Asia, Europe, and the Americas",
+      "t": "de forma independiente en África, Asia, Europa y América"
+    },
+    "2120161b": {
+      "src": "nostalgia.",
+      "t": "nostalgia."
+    },
+    "8f83c841": {
+      "src": "of human survival.",
+      "t": "de la supervivencia humana."
+    },
+    "eea381be": {
+      "src": "oldest survival system humanity ever created.",
+      "t": "sistema de supervivencia más antiguo que la humanidad haya creado."
+    },
+    "f9745a75": {
+      "src": "optional.",
+      "t": "opcional."
+    },
+    "cfe0cd9b": {
+      "src": "preserving survival knowledge, identity, and continuity",
+      "t": "preservando el conocimiento para sobrevivir, la identidad y la continuidad"
+    },
+    "0123aa49": {
+      "src": "pride.",
+      "t": "orgullo."
+    },
+    "6afcd244": {
+      "src": "roots.",
+      "t": "raíces."
+    },
+    "348d3cd4": {
+      "src": "severing lineage memory.",
+      "t": "cortar la memoria del linaje."
+    },
+    "05cd84d3": {
+      "src": "status.",
+      "t": "estatus."
+    },
+    "1eff2d13": {
+      "src": "survival.",
+      "t": "supervivencia."
+    },
+    "7268dc64": {
+      "src": "tens of thousands of years back — passed exclusively through the mother, unchanged",
+      "t": "decenas de miles de años atrás, transmitido solo a través de la madre, sin cambios"
+    },
+    "42175a53": {
+      "src": "than written records.",
+      "t": "que los registros escritos."
+    },
+    "dde89a7e": {
+      "src": "the family tree exists even if you do not know it.",
+      "t": "el árbol genealógico existe aunque no lo conozcas."
+    },
+    "9201fad7": {
+      "src": "the first document.",
+      "t": "el primer documento."
+    },
+    "45bc59f5": {
+      "src": "the structure of biological descent is genuinely tree-shaped",
+      "t": "la estructura de la descendencia biológica tiene realmente forma de árbol"
+    },
+    "6ea57517": {
+      "src": "under environmental and social pressure.”",
+      "t": "bajo la presión del entorno y de la sociedad.”"
+    },
+    "8900852e": {
+      "src": "under pressure.",
+      "t": "bajo presión."
+    },
+    "9f0d0c66": {
+      "src": "was never poetic.",
+      "t": "nunca fue poética."
+    },
+    "1e74053b": {
+      "src": "were destroyed.",
+      "t": "fueron destruidos."
+    },
+    "113ed003": {
+      "src": "—",
+      "t": "y"
+    },
+    "a584d7fd": {
+      "src": "— an unbroken record of every father in that line",
+      "t": ": un registro ininterrumpido de cada padre de esa línea"
+    },
+    "2f3af7a0": {
+      "src": "— encoding every ancestral line that successfully survived to reproduce",
+      "t": ", que codifica cada línea ancestral que logró sobrevivir hasta reproducirse"
+    },
+    "2a373d97": {
+      "src": "— how they ate, what stress they survived, what environments they adapted to",
+      "t": ": cómo comían, qué estrés superaron, a qué entornos se adaptaron"
+    },
+    "d1aa9efb": {
+      "src": "— long before cultural exchange made borrowing possible. That convergence matters. It means the family tree was not invented.",
+      "t": ", mucho antes de que el intercambio cultural hiciera posible tomarla prestada. Esa coincidencia importa. Significa que el árbol genealógico no se inventó."
+    },
+    "54884762": {
+      "src": "— measurable in epigenetic markers, cortisol baselines, and stress response patterns that pass from parent to child without the original trauma needing to be re-experienced",
+      "t": ": medible en marcadores epigenéticos, niveles basales de cortisol y patrones de respuesta al estrés que pasan de padres a hijos sin que haya que volver a vivir el trauma original"
+    },
+    "8cfcc003": {
+      "src": "— the absence of ancestral grounding produces fragmented self-concept that no individual therapy alone can repair",
+      "t": ": la falta de un arraigo ancestral produce una imagen fragmentada de uno mismo que ninguna terapia individual puede reparar por sí sola"
+    },
+    "5c5b78b7": {
+      "src": "— the loss not only of names but of the knowledge systems, food traditions, and healing practices that were encoded within them",
+      "t": ": la pérdida no solo de los nombres, sino también de los sistemas de conocimiento, las tradiciones alimentarias y las prácticas de sanación que estaban codificadas en ellos"
+    },
+    "0efe3836": {
+      "src": "“A family tree is the cumulative biological, genetic, and social record of how life successfully reproduced and adapted across generations,",
+      "t": "“Un árbol genealógico es el registro biológico, genético y social acumulado de cómo la vida logró reproducirse y adaptarse a lo largo de las generaciones,"
+    },
+    "01acaeab": {
+      "src": "“Know your roots. Feed your roots. Protect your roots. The tree that forgets where it came from cannot grow where it needs to go.",
+      "t": "“Conoce tus raíces. Alimenta tus raíces. Protege tus raíces. El árbol que olvida de dónde viene no puede crecer hacia donde necesita ir."
+    },
+    "79d66311": {
+      "src": "“The cumulative biological, genetic, and social record of how life successfully reproduced and adapted across generations, preserving survival knowledge, identity, and continuity under environmental and social pressure.”",
+      "t": "“El registro biológico, genético y social acumulado de cómo la vida logró reproducirse y adaptarse a lo largo de las generaciones, preservando el conocimiento para sobrevivir, la identidad y la continuidad bajo la presión del entorno y de la sociedad.”"
+    },
+    "e10c2185": {
+      "src": "“The family tree is not stored in an archive. It is stored in every cell of every living body descended from it.",
+      "t": "“El árbol genealógico no se guarda en un archivo. Se guarda en cada célula de cada cuerpo vivo que desciende de él."
+    },
+    "973c7cf5": {
+      "src": "→",
+      "t": "→"
+    },
+    "6a7cac52": {
+      "src": "⚖️",
+      "t": "⚖️"
+    },
+    "ec2f7e42": {
+      "src": "🌍",
+      "t": "🌍"
+    },
+    "9c2e54bb": {
+      "src": "👑",
+      "t": "👑"
+    },
+    "482f637f": {
+      "src": "💍",
+      "t": "💍"
+    },
+    "752d742c": {
+      "src": "🛡️",
+      "t": "🛡️"
+    },
+    "a326f085": {
+      "src": "🪦",
+      "t": "🪦"
+    }
+  }
+}

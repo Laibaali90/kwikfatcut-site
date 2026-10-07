@@ -1,5 +1,5 @@
 {
-  "_comment": "Proper nouns that must never be respelled, in any locale. Institution names, study names, brand names and citations are what they are called, not a spelling choice. Read by build/migrate.py, build/extract-strings.py and kfc-i18n.js, so one entry covers the normaliser, the audit and the runtime transform.",
+  "_comment": "Proper nouns that must never be respelled, in any locale. Institution names, study names, brand names and citations are what they are called, not a spelling choice. Read by build/migrate.py, build/extract-strings.py and kwik-fat-cut-i18n.js, so one entry covers the normaliser, the audit and the runtime transform.",
   "_examples": [
     "World Health Organization keeps the z even in British copy.",
     "Labour Party would keep the u even in American copy.",

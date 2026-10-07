@@ -1,0 +1,51 @@
+# Cloudflare Pages headers.
+#
+# HTML always revalidates, so a visitor never sits on an outdated page.
+# The shared CSS and JS are linked with a ?v= content hash, so a new build
+# changes the URL and they can be cached for a year safely.
+# Images, video and fonts are cached for a year. They are not fingerprinted,
+# so "immutable" is left off: a reload can still pick up a replaced file.
+# Compression (gzip / Brotli) is applied by Cloudflare at the edge and has
+# to be confirmed on the deployed site; it cannot be set from this file.
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+/
+  Cache-Control: public, max-age=0, must-revalidate
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/kwik-fat-cut*.css
+  Cache-Control: public, max-age=31536000
+/kwik-fat-cut*.js
+  Cache-Control: public, max-age=31536000
+
+/i18n/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+/sitemap.xml
+  Cache-Control: public, max-age=3600
+/robots.txt
+  Cache-Control: public, max-age=3600
+
+/*.jpg
+  Cache-Control: public, max-age=31536000
+/*.jpeg
+  Cache-Control: public, max-age=31536000
+/*.png
+  Cache-Control: public, max-age=31536000
+/*.webp
+  Cache-Control: public, max-age=31536000
+/*.svg
+  Cache-Control: public, max-age=31536000
+/*.ico
+  Cache-Control: public, max-age=31536000
+/*.mp4
+  Cache-Control: public, max-age=31536000
+/*.woff2
+  Cache-Control: public, max-age=31536000
+/*.woff
+  Cache-Control: public, max-age=31536000

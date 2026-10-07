@@ -1,0 +1,1011 @@
+{
+  "_note": "Page content for learn-living-longer.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "509eba01": {
+      "src": "(eating to 80% fullness). This is not starvation. It is a documented caloric restriction practice shown in animal studies to extend lifespan by up to 30%.",
+      "t": "(comer hasta llenarse al 80%). No es pasar hambre. Es una práctica documentada de restricción calórica que en estudios con animales alarga la vida hasta en un 30%."
+    },
+    "15d7991a": {
+      "src": "):",
+      "t": "):"
+    },
+    "1fb668a6": {
+      "src": ", after controlling for all other lifestyle variables.",
+      "t": ", tras controlar todas las demás variables del estilo de vida."
+    },
+    "6f4a2599": {
+      "src": ", dominated by sweet potatoes, green and yellow vegetables, tofu, and miso — with small amounts of fish and pork on ceremonial occasions. It contained virtually no refined sugar, very little processed food, and exceptional dietary diversity.",
+      "t": ", dominada por las batatas, las verduras verdes y amarillas, el tofu y el miso, con pequeñas cantidades de pescado y cerdo en ocasiones ceremoniales. Prácticamente no tenía azúcar refinada, casi nada de comida procesada y una diversidad alimentaria excepcional."
+    },
+    "f86c38bf": {
+      "src": ", with dramatically lower rates of dementia, depression, and cardiovascular disease. A 2013 study published in the Journal of the American College of Cardiology found Ikarian men aged 65–100 had significantly lower rates of hypertension and depression than Americans of the same age.",
+      "t": ", con tasas mucho más bajas de demencia, depresión y enfermedad cardiovascular. Un estudio de 2013 publicado en el Journal of the American College of Cardiology encontró que los hombres de Icaria de 65 a 100 años tenían tasas de hipertensión y depresión bastante más bajas que los estadounidenses de la misma edad."
+    },
+    "1b835109": {
+      "src": ". All Blue Zone populations have a clear reason to get up in the morning — that goes beyond personal achievement and connects to family, community, and something larger than themselves. Purpose, as documented by Rush University (2015), adds an average of 7 years to life.",
+      "t": ". Todas las poblaciones de las Zonas Azules tienen una razón clara para levantarse por la mañana, que va más allá del logro personal y conecta con la familia, la comunidad y algo más grande que ellas mismas. Según Rush University (2015), el propósito añade de media 7 años de vida."
+    },
+    "3f022a08": {
+      "src": ". Costa Ricans call it",
+      "t": ". En Costa Rica lo llaman"
+    },
+    "654ec49f": {
+      "src": "01 — The Ancient Archive",
+      "t": "01 · El archivo antiguo"
+    },
+    "2b457935": {
+      "src": "02 — The Taino Diet",
+      "t": "02 · La dieta taína"
+    },
+    "e8e82dd6": {
+      "src": "03 — West African Roots",
+      "t": "03 · Raíces de África Occidental"
+    },
+    "f9108205": {
+      "src": "04 — The Moorish Table",
+      "t": "04 · La mesa mora"
+    },
+    "a21d0f20": {
+      "src": "05 — A Nation’s Guide",
+      "t": "05 · La guía de una nación"
+    },
+    "bad6d953": {
+      "src": "06 — Building the Community",
+      "t": "06 · Construir la comunidad"
+    },
+    "295e8bc5": {
+      "src": "07 — Living Longer & Happier",
+      "t": "07 · Vivir más y más felices"
+    },
+    "09bca229": {
+      "src": "10 years of biological ageing.",
+      "t": "10 años de envejecimiento biológico."
+    },
+    "2f337c74": {
+      "src": "10x",
+      "t": "10x"
+    },
+    "8a5ab8a4": {
+      "src": "14 min",
+      "t": "14 min"
+    },
+    "bc7908b0": {
+      "src": "2.5 times the rate of reaching age 90 compared to Americans",
+      "t": "2,5 veces más probabilidades de llegar a los 90 años que los estadounidenses"
+    },
+    "b0ab1653": {
+      "src": "200 nucleotides longer",
+      "t": "200 nucleótidos más largos"
+    },
+    "1793e961": {
+      "src": "7–10 years longer than other Americans",
+      "t": "7 a 10 años más que otros estadounidenses"
+    },
+    "24fc5bea": {
+      "src": "85% plant-based",
+      "t": "un 85% vegetal"
+    },
+    "9802e6aa": {
+      "src": "90–95%",
+      "t": "90 a 95%"
+    },
+    "49a3428f": {
+      "src": "90–95% whole plant foods, legumes daily, minimal processed food, strong community.",
+      "t": "entre un 90 y un 95% de alimentos vegetales integrales, legumbres cada día, mínima comida procesada, una comunidad fuerte."
+    },
+    "89ad45a7": {
+      "src": "A landmark 2015 study by Brigham Young University researchers analysed telomere length in 5,823 adults across different levels of physical activity and dietary quality. They found that the most active, healthiest-eating participants had telomeres",
+      "t": "Un estudio de referencia de 2015 de investigadores de Brigham Young University analizó la longitud de los telómeros de 5.823 adultos con distintos niveles de actividad física y calidad de la dieta. Encontraron que los participantes más activos y que mejor comían tenían telómeros"
+    },
+    "d70e31d6": {
+      "src": "A single community in California changed global dietary guidelines.",
+      "t": "Una sola comunidad de California cambió las pautas alimentarias mundiales."
+    },
+    "77544f00": {
+      "src": "A staple of Okinawan cooking, consumed daily. Contains charantin — the same compound found in Jamaican cerasee — with documented blood sugar lowering effects.",
+      "t": "Un básico de la cocina de Okinawa que se come a diario. Contiene charantina, el mismo compuesto que el cerasee jamaicano, con efectos documentados para bajar el azúcar en sangre."
+    },
+    "042c13e8": {
+      "src": "A staple of the Sardinian diet for millennia. High in L-dopa — a neurotransmitter precursor that supports dopamine production. High in plant protein and fibre. Eaten daily across all age groups.",
+      "t": "Un básico de la dieta sarda desde hace milenios. Ricas en L-dopa, un precursor de neurotransmisores que apoya la producción de dopamina. Ricas en proteína vegetal y fibra. Se comen a diario en todas las edades."
+    },
+    "8f433b8c": {
+      "src": "Adventist Health Study I found that eating nuts five or more times per week was associated with a 50% reduction in heart attack risk. This finding contributed directly to the major dietary guidelines recommending nuts as a protective food — and led to the PREDIMED trial’s investigation of Mediterranean nut consumption.",
+      "t": "El Adventist Health Study I encontró que comer frutos secos cinco o más veces por semana se asociaba a una reducción del 50% del riesgo de infarto. Este hallazgo contribuyó directamente a que las grandes pautas alimentarias recomendaran los frutos secos como alimento protector, y llevó al ensayo PREDIMED a investigar el consumo mediterráneo de frutos secos."
+    },
+    "43d8ad09": {
+      "src": "Adventist vegetarians consume legumes as their primary protein source. The documented outcomes: lower BMI, lower cholesterol, lower blood pressure, lower cancer risk, and longer lifespan compared to omnivorous populations in the same geographic area, with the same healthcare access, socioeconomic status, and lifestyle factors otherwise controlled.",
+      "t": "Los adventistas vegetarianos consumen legumbres como principal fuente de proteína. Los resultados documentados: un IMC más bajo, colesterol más bajo, presión arterial más baja, menor riesgo de cáncer y una vida más larga que las poblaciones omnívoras de la misma zona, con el mismo acceso a la atención médica, el mismo nivel socioeconómico y los demás factores de estilo de vida controlados."
+    },
+    "e69966ca": {
+      "src": "After American fast food arrived in Okinawa following World War II, younger generations shifted to processed food diets. By 2000, Okinawa had dropped from Japan’s longest-lived prefecture to one of the unhealthiest. The dietary change produced measurable increases in obesity, diabetes, and cardiovascular disease within a single generation.",
+      "t": "Cuando la comida rápida estadounidense llegó a Okinawa después de la Segunda Guerra Mundial, las generaciones más jóvenes pasaron a dietas de comida procesada. En el año 2000, Okinawa había pasado de ser la prefectura más longeva de Japón a una de las menos sanas. El cambio de dieta produjo aumentos medibles de obesidad, diabetes y enfermedad cardiovascular en una sola generación."
+    },
+    "ee3c82a7": {
+      "src": "Afternoon rest:",
+      "t": "Descanso por la tarde:"
+    },
+    "691d51bd": {
+      "src": "All seven parts are free. All seven are backed by documented evidence. Share them with someone who needs to read them. Tell a friend to tell a friend.",
+      "t": "Las siete partes son gratis. Las siete están respaldadas por evidencia documentada. Compártelas con alguien que necesite leerlas. Dile a un amigo que le diga a otro."
+    },
+    "1409d3e9": {
+      "src": "All seven parts free. Share them. Tell a friend to tell a friend.",
+      "t": "Las siete partes, gratis. Compártelas. Dile a un amigo que le diga a otro."
+    },
+    "b7be799a": {
+      "src": "Before 1980, Okinawan women had the longest life expectancy of any population on earth. Their diet was",
+      "t": "Antes de 1980, las mujeres de Okinawa tenían la mayor esperanza de vida de cualquier población del planeta. Su dieta era"
+    },
+    "9f805f1f": {
+      "src": "Bitter melon (goya)",
+      "t": "Melón amargo (goya)"
+    },
+    "3c15c73f": {
+      "src": "Bitter melon (goya):",
+      "t": "El melón amargo (goya):"
+    },
+    "e1817ddf": {
+      "src": "Black beans (daily)",
+      "t": "Frijoles negros (cada día)"
+    },
+    "7a978a30": {
+      "src": "Blue Zone 01 — Okinawa, Japan",
+      "t": "Zona Azul 01 · Okinawa, Japón"
+    },
+    "c412ae5b": {
+      "src": "Blue Zone 02 — Sardinia, Italy",
+      "t": "Zona Azul 02 · Cerdeña, Italia"
+    },
+    "c9ee03ee": {
+      "src": "Blue Zone 03 — Nicoya, Costa Rica",
+      "t": "Zona Azul 03 · Nicoya, Costa Rica"
+    },
+    "63f20257": {
+      "src": "Blue Zone 04 — Ikaria, Greece",
+      "t": "Zona Azul 04 · Icaria, Grecia"
+    },
+    "345905c4": {
+      "src": "Blue Zone 05 — Loma Linda, California, USA",
+      "t": "Zona Azul 05 · Loma Linda, California, EE. UU."
+    },
+    "1cd4033b": {
+      "src": "Blue Zone research, Harvard, WHO, Lancet",
+      "t": "Investigación sobre las Zonas Azules, Harvard, OMS, Lancet"
+    },
+    "30745bd8": {
+      "src": "Caloric intake:",
+      "t": "Consumo de calorías:"
+    },
+    "07a434d5": {
+      "src": "Cannonau wine (moderate)",
+      "t": "Vino Cannonau (con moderación)"
+    },
+    "7b027d1b": {
+      "src": "Cannonau wine:",
+      "t": "El vino Cannonau:"
+    },
+    "efc332ee": {
+      "src": "Chronic psychological stress — measured through cortisol elevation and documented in telomere studies across multiple populations. Ultra-processed food consumption — directly associated with shorter telomeres in a 2020 study of 886 adults in the American Journal of Clinical Nutrition. Sedentary behaviour — independent of diet, linked to shorter telomeres. Social isolation — documented to accelerate biological ageing through multiple pathways.",
+      "t": "El estrés psicológico crónico, medido por la subida del cortisol y documentado en estudios sobre telómeros en varias poblaciones. El consumo de ultraprocesados, asociado directamente a telómeros más cortos en un estudio de 2020 con 886 adultos en el American Journal of Clinical Nutrition. El sedentarismo, relacionado con telómeros más cortos con independencia de la dieta. El aislamiento social, documentado como acelerador del envejecimiento biológico por varias vías."
+    },
+    "a2b4d3d6": {
+      "src": "Consumed in every Blue Zone population — black beans, lentils, fava beans, soybeans. The single most consistent dietary finding across all five regions.",
+      "t": "Se comen en todas las poblaciones de las Zonas Azules: frijoles negros, lentejas, habas, soya. El hallazgo alimentario más constante en las cinco regiones."
+    },
+    "26393816": {
+      "src": "Context matters: small amount, with food, in community. Not alone and in excess.",
+      "t": "El contexto importa: poca cantidad, con comida, en comunidad. No a solas ni en exceso."
+    },
+    "bc3889be": {
+      "src": "Daily",
+      "t": "Cada día"
+    },
+    "5901f298": {
+      "src": "Daily consumption of tofu and fermented soy products (miso, natto) provides plant protein, isoflavones documented for cardiovascular protection, and probiotic bacteria supporting the gut microbiome. Okinawan rates of cardiovascular disease were a fraction of contemporary American rates before dietary Westernisation.",
+      "t": "Comer a diario tofu y productos de soya fermentada (miso, natto) aporta proteína vegetal, isoflavonas documentadas por su protección cardiovascular y bacterias probióticas que apoyan el microbioma intestinal. Las tasas de enfermedad cardiovascular de Okinawa eran una fracción de las de Estados Unidos en la misma época, antes de que la dieta se occidentalizara."
+    },
+    "b2ef9787": {
+      "src": "Every Blue Zone diet is built around foods recognisable as what they are — a sweet potato, a lentil, a fig, an almond. Not a product. Not a formulation.",
+      "t": "Todas las dietas de las Zonas Azules se basan en alimentos que se reconocen como lo que son: una batata, una lenteja, un higo, una almendra. No un producto. No una fórmula."
+    },
+    "3ac16419": {
+      "src": "Every Blue Zone has a documented culture of community belonging, intergenerational connection, and shared purpose.",
+      "t": "Todas las Zonas Azules tienen una cultura documentada de pertenencia comunitaria, conexión entre generaciones y propósito compartido."
+    },
+    "414e20a2": {
+      "src": "Extra-virgin olive oil",
+      "t": "Aceite de oliva extra virgen"
+    },
+    "f068a792": {
+      "src": "Fava beans (daily)",
+      "t": "Habas (cada día)"
+    },
+    "30c6732d": {
+      "src": "Fava beans and legumes:",
+      "t": "Habas y legumbres:"
+    },
+    "f9580149": {
+      "src": "Fennel",
+      "t": "Hinojo"
+    },
+    "76e3df7c": {
+      "src": "Figs & almonds",
+      "t": "Higos y almendras"
+    },
+    "cf5c7af3": {
+      "src": "Five Blue Zones. Okinawa. Sardinia. Nicoya. Ikaria. Loma Linda. Five cultures with no connection to each other, no shared language, no shared religion, and no shared pharmaceutical regime. All living dramatically longer than the global average. All eating plant-dominant whole food diets. All belonging to strong communities. All moving daily through natural activity. All holding a sense of purpose larger than themselves.",
+      "t": "Cinco Zonas Azules. Okinawa. Cerdeña. Nicoya. Icaria. Loma Linda. Cinco culturas sin conexión entre sí, sin un idioma común, sin una religión común y sin un régimen farmacológico común. Todas viven mucho más que la media mundial. Todas comen dietas de alimentos integrales predominantemente vegetales. Todas pertenecen a comunidades fuertes. Todas se mueven cada día con actividad natural. Todas tienen un sentido de propósito más grande que ellas mismas."
+    },
+    "90ac84a1": {
+      "src": "Five cultures separated by oceans and languages, with no contact with each other, who had independently arrived at extraordinary longevity through different cultural traditions.",
+      "t": "Cinco culturas separadas por océanos e idiomas, sin contacto entre sí, que habían llegado por su cuenta a una longevidad extraordinaria a través de tradiciones culturales distintas."
+    },
+    "9019f80f": {
+      "src": "Five cultures. Five different languages. Five completely different culinary traditions. Five independent paths to the same extraordinary outcome. And when researchers examined what they shared, the convergence was so complete that it defies any explanation other than biological truth.",
+      "t": "Cinco culturas. Cinco idiomas distintos. Cinco tradiciones culinarias completamente diferentes. Cinco caminos independientes hacia el mismo resultado extraordinario. Y cuando los investigadores examinaron lo que compartían, la convergencia era tan completa que no admite otra explicación que una verdad biológica."
+    },
+    "1511ee6d": {
+      "src": "Five cultures. One conclusion.",
+      "t": "Cinco culturas. Una conclusión."
+    },
+    "11f2804d": {
+      "src": "Five zones. One truth.",
+      "t": "Cinco zonas. Una verdad."
+    },
+    "6f4c751a": {
+      "src": "Food quality and community connection dominated the list.",
+      "t": "La calidad de la comida y los lazos comunitarios dominaban la lista."
+    },
+    "ee3e1585": {
+      "src": "Full Learn Hub",
+      "t": "Centro de aprendizaje completo"
+    },
+    "0890a8ee": {
+      "src": "Grass-fed pecorino",
+      "t": "Pecorino de pasto"
+    },
+    "21881c8e": {
+      "src": "Green & yellow vegetables",
+      "t": "Verduras verdes y amarillas"
+    },
+    "416c5f9c": {
+      "src": "Happier.",
+      "t": "Más felices."
+    },
+    "d4f0e8b1": {
+      "src": "Healthier.",
+      "t": "Más sanos."
+    },
+    "987ca97a": {
+      "src": "Honey (local)",
+      "t": "Miel (local)"
+    },
+    "9cdc68f3": {
+      "src": "If there is one food that all the evidence points to as the most universally protective, it is the humble legume.",
+      "t": "Si hay un alimento que toda la evidencia señala como el más universalmente protector, es la humilde legumbre."
+    },
+    "e7f49cd6": {
+      "src": "Ikaria consumes some of the highest per-capita olive oil in the world. Extra-virgin olive oil’s oleocanthal has been shown to inhibit the same inflammatory enzymes as ibuprofen. Polyphenols protect LDL cholesterol from oxidation — the specific form of cholesterol associated with arterial plaque formation. The PREDIMED trial confirmed a 30% reduction in cardiovascular events in Mediterranean populations eating olive oil at Ikarian levels.",
+      "t": "Icaria tiene uno de los consumos de aceite de oliva por habitante más altos del mundo. Se ha demostrado que el oleocantal del aceite de oliva extra virgen inhibe las mismas enzimas inflamatorias que el ibuprofeno. Los polifenoles protegen de la oxidación al colesterol LDL, la forma de colesterol asociada a la formación de placas en las arterias. El ensayo PREDIMED confirmó una reducción del 30% de los eventos cardiovasculares en poblaciones mediterráneas que consumían aceite de oliva a niveles como los de Icaria."
+    },
+    "264a078c": {
+      "src": "Ikaria is a Greek island in the Aegean Sea where residents have roughly",
+      "t": "Icaria es una isla griega del mar Egeo cuyos habitantes tienen aproximadamente"
+    },
+    "d1975f1f": {
+      "src": "Ikaria, Greece",
+      "t": "Icaria, Grecia"
+    },
+    "ff02aad6": {
+      "src": "Ikaria, Greece — documented by Christina Chrysohoou, University of Athens, and Dan Buettner’s team",
+      "t": "Icaria, Grecia · documentado por Christina Chrysohoou, Universidad de Atenas, y el equipo de Dan Buettner"
+    },
+    "eaeae97c": {
+      "src": "Ikarians drink teas made from wild rosemary, wild sage, marjoram, and artemisia — herbs that grow on the island. These teas contain significant quantities of antioxidants and are also natural diuretics — supporting blood pressure regulation through mild, consistent reduction of fluid retention.",
+      "t": "En Icaria se toman tés de romero silvestre, salvia silvestre, mejorana y artemisa, hierbas que crecen en la isla. Estos tés contienen cantidades importantes de antioxidantes y además son diuréticos naturales, lo que ayuda a regular la presión arterial reduciendo la retención de líquidos de forma suave y constante."
+    },
+    "95501d99": {
+      "src": "Ikarians have been drinking these teas for generations. Their blood pressure reflects it.",
+      "t": "En Icaria llevan generaciones tomando estos tés. Su presión arterial lo refleja."
+    },
+    "6333fcac": {
+      "src": "Ikarians maintain a daily rest period — what is sometimes called a siesta. A 2007 study in Archives of Internal Medicine followed 23,681 Greeks and found that regular afternoon rest was associated with a 37% reduction in cardiovascular mortality. The biological mechanism: cortisol reduction and immune system repair activity that occurs during rest periods.",
+      "t": "En Icaria se mantiene un periodo de descanso diario, lo que a veces se llama siesta. Un estudio de 2007 en Archives of Internal Medicine siguió a 23.681 griegos y encontró que descansar con regularidad por la tarde se asociaba a una reducción del 37% de la mortalidad cardiovascular. El mecanismo biológico: la reducción del cortisol y la actividad de reparación del sistema inmunitario que se produce durante el descanso."
+    },
+    "cdd83abc": {
+      "src": "In 2004, National Geographic Fellow and longevity researcher Dan Buettner partnered with demographer Michel Poulain and a team of scientists to identify the regions of the world where people consistently lived past 100 in good health. They called these regions Blue Zones — named after the blue ink Poulain used to circle them on a map as the data mounted.",
+      "t": "En 2004, el investigador de la longevidad y miembro de National Geographic Dan Buettner se asoció con el demógrafo Michel Poulain y un equipo de científicos para identificar las regiones del mundo donde la gente vivía de forma habitual más de 100 años con buena salud. Las llamaron Zonas Azules, por la tinta azul con la que Poulain las rodeaba en un mapa a medida que se acumulaban los datos."
+    },
+    "3422addc": {
+      "src": "In every single Blue Zone, legumes are eaten daily. Black beans in Nicoya. Fava beans in Sardinia. Lentils and chickpeas in Ikaria. Soybeans and tofu in Okinawa. Legumes in Loma Linda. The most consistent single dietary finding across all five populations.",
+      "t": "En todas las Zonas Azules sin excepción se comen legumbres a diario. Frijoles negros en Nicoya. Habas en Cerdeña. Lentejas y garbanzos en Icaria. Soya y tofu en Okinawa. Legumbres en Loma Linda. El hallazgo alimentario más constante en las cinco poblaciones."
+    },
+    "e9972a4a": {
+      "src": "In most populations worldwide, women significantly outlive men. In the mountain villages of Sardinia’s Nuoro province — particularly the Barbagia region — men and women live to comparable ages. This demographic anomaly attracted researchers who found that the answer lay in a combination of diet, terrain, and community that produced extraordinary longevity outcomes in both sexes.",
+      "t": "En la mayoría de las poblaciones del mundo, las mujeres viven bastante más que los hombres. En los pueblos de montaña de la provincia de Nuoro, en Cerdeña, sobre todo en la región de Barbagia, hombres y mujeres llegan a edades parecidas. Esta anomalía demográfica atrajo a investigadores que descubrieron que la respuesta estaba en una combinación de dieta, terreno y comunidad que producía una longevidad extraordinaria en ambos sexos."
+    },
+    "5fd752a4": {
+      "src": "It is built through food, movement, and community.",
+      "t": "Se construye con comida, movimiento y comunidad."
+    },
+    "e52be98a": {
+      "src": "It needs its own knowledge returned to it — the Taino understanding of the land, the West African nutritional intelligence that crossed the Atlantic, the Ital philosophy that the Rastafarian tradition has maintained, the bush medicine wisdom that grandmothers still hold — all of it articulated clearly, backed by science, and made available to everyone, freely.",
+      "t": "Necesita que le devuelvan su propio conocimiento: el entendimiento taíno de la tierra, la inteligencia nutricional de África Occidental que cruzó el Atlántico, la filosofía Ital que ha mantenido la tradición rastafari, la sabiduría de la medicina tradicional que todavía guardan las abuelas. Todo ello explicado con claridad, respaldado por la ciencia y puesto al alcance de todos, gratis."
+    },
+    "7f4614ad": {
+      "src": "Jamaica already has",
+      "t": "Jamaica ya tiene"
+    },
+    "f03a15b9": {
+      "src": "Jamaica is not a Blue Zone. But it has every ingredient required to become one. The food grows here. The knowledge exists in the community. The cultural traditions that sustain long life — strong family bonds, community belonging, purposeful work, daily movement, herbal medicine — are embedded in Jamaican culture.",
+      "t": "Jamaica no es una Zona Azul. Pero tiene todos los ingredientes para llegar a serlo. La comida crece aquí. El conocimiento existe en la comunidad. Las tradiciones culturales que sostienen una vida larga (fuertes lazos familiares, pertenencia comunitaria, trabajo con propósito, movimiento diario, medicina de hierbas) están arraigadas en la cultura jamaicana."
+    },
+    "51ac79f0": {
+      "src": "Jamaica — the potential",
+      "t": "Jamaica: el potencial"
+    },
+    "96873778": {
+      "src": "Kwik Fat Cut — Return to Real Food Series Complete — Education First — A knowledge tree for health, wellness, awareness & opportunity.",
+      "t": "Kwik Fat Cut · Serie Volver a la Comida Real completa · La educación primero · Un árbol del conocimiento para la salud, el bienestar, la conciencia y la oportunidad."
+    },
+    "7ceb019d": {
+      "src": "Legumes",
+      "t": "legumbres"
+    },
+    "95bcf3c7": {
+      "src": "Legumes (4-5x/week)",
+      "t": "Legumbres (4 a 5 veces por semana)"
+    },
+    "4379a22d": {
+      "src": "Legumes (daily)",
+      "t": "Legumbres (cada día)"
+    },
+    "beccd5e2": {
+      "src": "Legumes as the protein foundation:",
+      "t": "Las legumbres como base de la proteína:"
+    },
+    "f8ccf572": {
+      "src": "Legumes daily:",
+      "t": "Legumbres cada día:"
+    },
+    "5ac8109b": {
+      "src": "Legumes four to five times per week:",
+      "t": "Legumbres de cuatro a cinco veces por semana:"
+    },
+    "496f0551": {
+      "src": "Lentils, chickpeas, and black-eyed peas feature regularly in the Ikarian diet. Black-eyed peas — the same legume documented in West African diets, brought to the Caribbean by enslaved Africans, and eaten in Jamaican cooking to this day — appear in every Blue Zone on earth.",
+      "t": "Las lentejas, los garbanzos y los frijoles de ojo negro aparecen con frecuencia en la dieta de Icaria. Los frijoles de ojo negro, la misma legumbre documentada en las dietas de África Occidental, llevada al Caribe por los africanos esclavizados y que se sigue comiendo en la cocina jamaicana, están en todas las Zonas Azules del planeta."
+    },
+    "c12462bc": {
+      "src": "Less food",
+      "t": "menos comida"
+    },
+    "c13f01f3": {
+      "src": "Living Longer, Healthier & Happier — Kwik Fat Cut",
+      "t": "Vivir más, con más salud y más felicidad · Kwik Fat Cut"
+    },
+    "3512bc3d": {
+      "src": "Living longer.",
+      "t": "Vivir más."
+    },
+    "5a6b49a1": {
+      "src": "Loma Linda Adventists drink 5–6 glasses of water per day and avoid alcohol, tobacco, and stimulants. A 2002 study found that high water intake alone was associated with a 54% reduction in coronary heart disease risk in this population — among the most dramatic single dietary variable findings in the literature.",
+      "t": "Los adventistas de Loma Linda beben de 5 a 6 vasos de agua al día y evitan el alcohol, el tabaco y los estimulantes. Un estudio de 2002 encontró que beber mucha agua, por sí solo, se asociaba a una reducción del 54% del riesgo de enfermedad coronaria en esta población, uno de los hallazgos más espectaculares sobre una sola variable alimentaria en la literatura científica."
+    },
+    "87c98b75": {
+      "src": "Loma Linda is a small city in California’s Inland Empire where a community of Seventh-day Adventists lives an average of",
+      "t": "Loma Linda es una pequeña ciudad del Inland Empire de California donde una comunidad de adventistas del séptimo día vive una media de"
+    },
+    "2b12f522": {
+      "src": "Loma Linda, California — Adventist Health Studies I (1958–1966) and II (1974–2000), University of California",
+      "t": "Loma Linda, California · Adventist Health Studies I (1958 a 1966) y II (1974 a 2000), Universidad de California"
+    },
+    "24ed72b1": {
+      "src": "Loma Linda, USA",
+      "t": "Loma Linda, EE. UU."
+    },
+    "5b459259": {
+      "src": "Maize tortillas (Three Sisters)",
+      "t": "Tortillas de maíz (Tres Hermanas)"
+    },
+    "9d30fd19": {
+      "src": "Mineral-rich water",
+      "t": "Agua rica en minerales"
+    },
+    "971e7e19": {
+      "src": "Mineral-rich water:",
+      "t": "Agua rica en minerales:"
+    },
+    "0e2ed7be": {
+      "src": "Minimal processed food:",
+      "t": "Mínima comida procesada:"
+    },
+    "362cc66b": {
+      "src": "More centenarians",
+      "t": "más centenarios"
+    },
+    "1303e7a8": {
+      "src": "Movements are medicines. Smile for me, Jamaica. We row. You steer. 🇯🇲❤️💚",
+      "t": "Los movimientos son medicina. Sonríe para mí, Jamaica. Nosotros remamos. Tú diriges. 🇯🇲❤️💚"
+    },
+    "c65b4866": {
+      "src": "Natural daily movement:",
+      "t": "Movimiento natural cada día:"
+    },
+    "f3936b62": {
+      "src": "Nicoya is a peninsula on Costa Rica’s Pacific coast. Its residents have lower incomes than most Blue Zone populations — and yet they consistently outlive wealthier populations with far better access to modern healthcare.",
+      "t": "Nicoya es una península de la costa pacífica de Costa Rica. Sus habitantes tienen ingresos más bajos que la mayoría de las poblaciones de las Zonas Azules y, aun así, viven sistemáticamente más que poblaciones más ricas con mucho mejor acceso a la atención médica moderna."
+    },
+    "792f7879": {
+      "src": "Nicoya, Costa Rica",
+      "t": "Nicoya, Costa Rica"
+    },
+    "bd2be0c8": {
+      "src": "Nicoya, Costa Rica — documented by Luis Rosero-Bixby, University of Costa Rica",
+      "t": "Nicoya, Costa Rica · documentado por Luis Rosero-Bixby, Universidad de Costa Rica"
+    },
+    "bf2aada9": {
+      "src": "Nicoyans maintain a strong sense of life purpose well into old age — documented in structured interviews as one of the primary predictors of longevity in the region. Purpose is not philosophy. As documented in the Rush University study (2015), a strong sense of purpose is associated with a 7-year longer lifespan and 40% lower cardiovascular risk.",
+      "t": "Los nicoyanos mantienen un fuerte sentido de propósito vital hasta bien entrada la vejez, documentado en entrevistas estructuradas como uno de los principales predictores de longevidad en la región. El propósito no es filosofía. Según el estudio de Rush University (2015), un fuerte sentido de propósito se asocia a 7 años más de vida y a un riesgo cardiovascular un 40% menor."
+    },
+    "542c4339": {
+      "src": "Nicoya’s water supply is naturally high in calcium and magnesium — minerals documented for bone density support and cardiovascular protection. Nicoyan men aged 60 have the lowest rates of cardiovascular disease mortality in the world, documented in studies published in the Vienna Yearbook of Population Research.",
+      "t": "El agua de Nicoya es naturalmente rica en calcio y magnesio, minerales documentados por su apoyo a la densidad ósea y su protección cardiovascular. Los hombres de Nicoya de 60 años tienen las tasas de mortalidad por enfermedad cardiovascular más bajas del mundo, según estudios publicados en el Vienna Yearbook of Population Research."
+    },
+    "791bc9b6": {
+      "src": "No exceptions.",
+      "t": "Sin excepciones."
+    },
+    "dfe21aa7": {
+      "src": "Not plant-exclusive in most cases — but overwhelmingly plant-based. Whole grains, legumes, vegetables, fruits, and nuts providing the vast majority of nutrition. Animal products present but not central.",
+      "t": "En la mayoría de los casos no es exclusivamente vegetal, pero sí abrumadoramente basada en plantas. Los cereales integrales, las legumbres, las verduras, las frutas y los frutos secos aportan la inmensa mayoría de la nutrición. Los productos animales están presentes, pero no son centrales."
+    },
+    "16e5b46d": {
+      "src": "Not structured gym sessions. Walking, farming, tending, building, carrying. Movement embedded in daily life at a pace and frequency that maintains cardiovascular fitness without the cortisol elevation of high-intensity training.",
+      "t": "No sesiones estructuradas de gimnasio. Caminar, cultivar, cuidar, construir, cargar. Movimiento integrado en la vida diaria a un ritmo y una frecuencia que mantienen la forma cardiovascular sin la subida de cortisol del entrenamiento de alta intensidad."
+    },
+    "cc351e92": {
+      "src": "Not to create something new, but to restore something that was always there — and to make sure it reaches the next generation intact.",
+      "t": "No crear algo nuevo, sino recuperar algo que siempre estuvo ahí, y asegurarse de que llegue intacto a la próxima generación."
+    },
+    "fac904f0": {
+      "src": "Nuts (5x/week)",
+      "t": "Frutos secos (5 veces por semana)"
+    },
+    "79bd1830": {
+      "src": "Nuts five times per week:",
+      "t": "Frutos secos cinco veces por semana:"
+    },
+    "2fb6abc0": {
+      "src": "Oatmeal",
+      "t": "Avena"
+    },
+    "f5aa6531": {
+      "src": "Okinawa and Jamaica, opposite sides of the earth, independently developed the same medicinal food into a dietary staple.",
+      "t": "Okinawa y Jamaica, en extremos opuestos del planeta, convirtieron por su cuenta el mismo alimento medicinal en un básico de su dieta."
+    },
+    "8ec89569": {
+      "src": "Okinawa, Japan",
+      "t": "Okinawa, Japón"
+    },
+    "af9e97e3": {
+      "src": "Okinawa, Japan — documented",
+      "t": "Okinawa, Japón · documentado"
+    },
+    "3295f0f8": {
+      "src": "Okinawa, Japan; Sardinia, Italy; Nicoya, Costa Rica; Ikaria, Greece; and Loma Linda, California, USA.",
+      "t": "Okinawa (Japón), Cerdeña (Italia), Nicoya (Costa Rica), Icaria (Grecia) y Loma Linda (California, EE. UU.)."
+    },
+    "ee0c7bb9": {
+      "src": "Okinawans call it",
+      "t": "En Okinawa lo llaman"
+    },
+    "b476f349": {
+      "src": "Okinawans follow",
+      "t": "Los habitantes de Okinawa siguen el"
+    },
+    "184f737a": {
+      "src": "Olive oil as medicine:",
+      "t": "El aceite de oliva como medicina:"
+    },
+    "7c83320d": {
+      "src": "Papaya & tropical fruit",
+      "t": "Papaya y frutas tropicales"
+    },
+    "19cd8b21": {
+      "src": "Part 1 — Archive",
+      "t": "Parte 1 · Archivo"
+    },
+    "06abfce7": {
+      "src": "Part 2 — Taino",
+      "t": "Parte 2 · Taínos"
+    },
+    "21a9fdba": {
+      "src": "Part 3 — West Africa",
+      "t": "Parte 3 · África Occidental"
+    },
+    "0b65299e": {
+      "src": "Part 4 — Moors",
+      "t": "Parte 4 · Moros"
+    },
+    "da2b8ea2": {
+      "src": "Part 5 — Nation",
+      "t": "Parte 5 · Nación"
+    },
+    "6a05996b": {
+      "src": "Part 6 — Community",
+      "t": "Parte 6 · Comunidad"
+    },
+    "a4280566": {
+      "src": "Pass it forward.",
+      "t": "Pásala a otros."
+    },
+    "e1916cb0": {
+      "src": "Pecorino cheese from grass-fed sheep:",
+      "t": "Queso pecorino de ovejas alimentadas con pasto:"
+    },
+    "16aad3b6": {
+      "src": "Per capita in Blue Zones compared to the United States average, despite no better access to modern medicine.",
+      "t": "por habitante en las Zonas Azules que la media de Estados Unidos, sin un mejor acceso a la medicina moderna."
+    },
+    "1573bf2c": {
+      "src": "Plant-based",
+      "t": "vegetal"
+    },
+    "6eef1aca": {
+      "src": "Plant-based whole food diet — specifically Mediterranean and plant-forward patterns. Regular moderate movement — particularly walking and nature exposure. Strong social connection — documented in multiple studies to protect telomere length. Stress reduction through meditation, community, and purpose.",
+      "t": "Una dieta de alimentos integrales basada en plantas, en concreto los patrones mediterráneos y predominantemente vegetales. El movimiento moderado regular, sobre todo caminar y el contacto con la naturaleza. Los fuertes lazos sociales, documentados en varios estudios como protectores de la longitud de los telómeros. La reducción del estrés mediante la meditación, la comunidad y el propósito."
+    },
+    "df855a56": {
+      "src": "Plant-dominant diet (90–95% of calories):",
+      "t": "Dieta predominantemente vegetal (90 a 95% de las calorías):"
+    },
+    "f20b3532": {
+      "src": "Potatoes",
+      "t": "Papas"
+    },
+    "9e5b50eb": {
+      "src": "Proportion of calories from whole plant foods across all five Blue Zone populations, despite their entirely different cultural traditions.",
+      "t": "Proporción de calorías que viene de alimentos vegetales integrales en las cinco poblaciones de las Zonas Azules, pese a sus tradiciones culturales completamente distintas."
+    },
+    "7cd1628b": {
+      "src": "Real food, prepared simply, eaten with people you love.",
+      "t": "Comida real, preparada de forma sencilla y comida con la gente que quieres."
+    },
+    "370ff0b1": {
+      "src": "Researchers Dan Buettner and Michel Poulain identified five regions worldwide where people consistently live past 100 in good health. All five share the same dietary pattern:",
+      "t": "Los investigadores Dan Buettner y Michel Poulain identificaron cinco regiones del mundo donde la gente vive de forma habitual más de 100 años con buena salud. Las cinco comparten el mismo patrón alimentario:"
+    },
+    "013e0adc": {
+      "src": "Return to",
+      "t": "Vuelve a"
+    },
+    "02949b44": {
+      "src": "Return to Real Food",
+      "t": "Volver a la Comida Real"
+    },
+    "86256a6f": {
+      "src": "Return to Real Food — 7 of 7 — Final",
+      "t": "Volver a la Comida Real · 7 de 7 · Final"
+    },
+    "f77f3e45": {
+      "src": "Sardinia, Italy",
+      "t": "Cerdeña, Italia"
+    },
+    "a9bb3e0a": {
+      "src": "Sardinia, Italy — Barbagia region — documented by Michel Poulain, Gianni Pes, and colleagues",
+      "t": "Cerdeña, Italia · región de Barbagia · documentado por Michel Poulain, Gianni Pes y colegas"
+    },
+    "3a0715b2": {
+      "src": "Sardinian Cannonau wine contains 2–3 times the polyphenol content of other red wines due to the sun-stressed growing conditions of the Sardinian grape. Consumed in small amounts daily with food and in social context. Polyphenols in red wine — particularly resveratrol and quercetin — are documented cardiovascular protectants.",
+      "t": "El vino sardo Cannonau contiene de 2 a 3 veces más polifenoles que otros vinos tintos, por las duras condiciones de sol en que crece la uva sarda. Se toma en pequeñas cantidades a diario, con la comida y en contexto social. Los polifenoles del vino tinto, en particular el resveratrol y la quercetina, son protectores cardiovasculares documentados."
+    },
+    "89418eb6": {
+      "src": "Sardinian shepherds walk an average of 8 miles daily tending flocks across mountainous terrain. This is not structured exercise. It is embedded daily movement — exactly the type documented as most protective against chronic disease in the Blue Zone literature.",
+      "t": "Los pastores sardos caminan una media de 8 millas (unos 13 km) al día cuidando sus rebaños por terreno montañoso. No es ejercicio estructurado. Es movimiento integrado en la vida diaria, justo el tipo que la literatura sobre las Zonas Azules documenta como el más protector frente a las enfermedades crónicas."
+    },
+    "5962846c": {
+      "src": "Sea vegetables",
+      "t": "Vegetales marinos"
+    },
+    "aa681990": {
+      "src": "Sense of purpose (",
+      "t": "Sentido de propósito ("
+    },
+    "4191c9d6": {
+      "src": "Sense of purpose:",
+      "t": "Sentido de propósito:"
+    },
+    "3645cda0": {
+      "src": "Series Complete — Return to Real Food",
+      "t": "Serie completa · Volver a la Comida Real"
+    },
+    "e8cb53a1": {
+      "src": "Seven parts. Seven archives. One truth.",
+      "t": "Siete partes. Siete archivos. Una verdad."
+    },
+    "4f2288d1": {
+      "src": "Share this series",
+      "t": "Comparte esta serie"
+    },
+    "e4bc96c4": {
+      "src": "Smile for me, Jamaica. The blueprint was always here.",
+      "t": "Sonríe para mí, Jamaica. El plano siempre estuvo aquí."
+    },
+    "69c7d91d": {
+      "src": "Soy milk",
+      "t": "Leche de soya"
+    },
+    "21c78b34": {
+      "src": "Squash",
+      "t": "Calabaza"
+    },
+    "ace2bd47": {
+      "src": "Strong social connection:",
+      "t": "Fuertes lazos sociales:"
+    },
+    "5fa5aac2": {
+      "src": "Sweet potato (70% of calories)",
+      "t": "Batata (70% de las calorías)"
+    },
+    "be9f655c": {
+      "src": "Sweet potato dominance:",
+      "t": "El predominio de la batata:"
+    },
+    "08737381": {
+      "src": "Telomeres are protective caps on the ends of chromosomes — analogous to the plastic tips on shoelaces that prevent fraying. Every time a cell divides, telomeres shorten slightly. When they become too short, the cell can no longer divide and enters senescence — contributing to the physical and cognitive decline associated with ageing.",
+      "t": "Los telómeros son capuchones protectores en los extremos de los cromosomas, parecidos a las puntas de plástico de los cordones que evitan que se deshilachen. Cada vez que una célula se divide, los telómeros se acortan un poco. Cuando se vuelven demasiado cortos, la célula ya no puede dividirse y entra en senescencia, lo que contribuye al deterioro físico y cognitivo asociado al envejecimiento."
+    },
+    "4f55a0c9": {
+      "src": "Telomeres —",
+      "t": "Los telómeros:"
+    },
+    "a855f120": {
+      "src": "Telomeres — ageing at the cellular level",
+      "t": "Los telómeros: el envejecimiento a nivel celular"
+    },
+    "1936170f": {
+      "src": "Terrain and natural movement:",
+      "t": "El terreno y el movimiento natural:"
+    },
+    "9451c3a7": {
+      "src": "That is the mission of this series. That is the mission of Kwik Fat Cut.",
+      "t": "Esa es la misión de esta serie. Esa es la misión de Kwik Fat Cut."
+    },
+    "738c1e44": {
+      "src": "The Adventist Health Study II (96,000 participants, documented across decades) found that vegetarian Adventists lived significantly longer than meat-eating Adventists — and that vegans lived longest of all. Specifically:",
+      "t": "El Adventist Health Study II (96.000 participantes, documentado durante décadas) encontró que los adventistas vegetarianos vivían bastante más que los adventistas que comían carne, y que los veganos eran los que más vivían. En concreto:"
+    },
+    "84b14279": {
+      "src": "The Biology of Ageing",
+      "t": "La biología del envejecimiento"
+    },
+    "a9b0a537": {
+      "src": "The Blue Zones",
+      "t": "Las Zonas Azules"
+    },
+    "a0858ea4": {
+      "src": "The Blue Zones finding:",
+      "t": "El hallazgo de las Zonas Azules:"
+    },
+    "681c2cf3": {
+      "src": "The Blue Zones —",
+      "t": "Las Zonas Azules:"
+    },
+    "07f85cb0": {
+      "src": "The Great Convergence",
+      "t": "La gran convergencia"
+    },
+    "e82f581f": {
+      "src": "The Ikarian diet — wild herbs, olive oil, and rest",
+      "t": "La dieta de Icaria: hierbas silvestres, aceite de oliva y descanso"
+    },
+    "22116066": {
+      "src": "The Jamaican Potential",
+      "t": "El potencial de Jamaica"
+    },
+    "f6e7843b": {
+      "src": "The Nicoya diet and its documented outcomes",
+      "t": "La dieta de Nicoya y sus resultados documentados"
+    },
+    "2438ec3d": {
+      "src": "The Nicoya diet centres on maize, beans, and squash — the same Three Sisters documented in Mesoamerican agriculture going back 5,000 years, examined in Part 1 of this series. Complete plant protein from the maize-bean combination. Fibre and beta-carotene from squash.",
+      "t": "La dieta de Nicoya se centra en el maíz, el frijol y la calabaza, las mismas Tres Hermanas documentadas en la agricultura mesoamericana desde hace 5.000 años y examinadas en la Parte 1 de esta serie. Proteína vegetal completa de la combinación de maíz y frijol. Fibra y betacaroteno de la calabaza."
+    },
+    "1476ddd9": {
+      "src": "The Research",
+      "t": "La investigación"
+    },
+    "2a8caa28": {
+      "src": "The Sardinian shepherd diet",
+      "t": "La dieta de los pastores sardos"
+    },
+    "2f8b92b1": {
+      "src": "The Series",
+      "t": "La serie"
+    },
+    "6f5e2a11": {
+      "src": "The Three Sisters again:",
+      "t": "Otra vez las Tres Hermanas:"
+    },
+    "8a0ec19f": {
+      "src": "The evidence from the longest-lived populations on earth. What they eat. How they move. What they believe. How they connect. Five Blue Zones. Five independent conclusions. One truth. Available to everyone. Always has been.",
+      "t": "La evidencia de las poblaciones más longevas del planeta. Qué comen. Cómo se mueven. En qué creen. Cómo se relacionan. Cinco Zonas Azules. Cinco conclusiones independientes. Una verdad. Al alcance de todos. Siempre lo ha estado."
+    },
+    "bc8b7877": {
+      "src": "The evidence is complete. The conclusion is unavoidable. The food is available. The community exists. The knowledge is here.",
+      "t": "La evidencia es completa. La conclusión es inevitable. La comida está disponible. La comunidad existe. El conocimiento está aquí."
+    },
+    "36e73267": {
+      "src": "The food was the variable. The outcome confirmed it.",
+      "t": "La comida era la variable. El resultado lo confirmó."
+    },
+    "076b5470": {
+      "src": "The great convergence",
+      "t": "La gran convergencia"
+    },
+    "9b0ad246": {
+      "src": "The island where men",
+      "t": "La isla donde los hombres"
+    },
+    "9c1a7d65": {
+      "src": "The island where people",
+      "t": "La isla donde la gente"
+    },
+    "84bec2fc": {
+      "src": "The island where women",
+      "t": "La isla donde las mujeres"
+    },
+    "46fc938b": {
+      "src": "The loneliest populations age fastest. The most connected populations age slowest.",
+      "t": "Las poblaciones más solas envejecen más rápido. Las más conectadas envejecen más despacio."
+    },
+    "4d3fe94d": {
+      "src": "The longest life is not",
+      "t": "La vida más larga no es"
+    },
+    "cb59b7c2": {
+      "src": "The most scientifically documented longevity diet in American history",
+      "t": "La dieta de longevidad mejor documentada científicamente de la historia de Estados Unidos"
+    },
+    "e12b7e30": {
+      "src": "The only Blue Zone",
+      "t": "La única Zona Azul"
+    },
+    "35330d86": {
+      "src": "The poorest Blue Zone —",
+      "t": "La Zona Azul más pobre,"
+    },
+    "17ee5378": {
+      "src": "The same foods that sustained ancient Aztec civilisation sustain the world’s longest-lived population in the Americas.",
+      "t": "Los mismos alimentos que sostuvieron a la antigua civilización azteca sostienen hoy a la población más longeva de América."
+    },
+    "e9781891": {
+      "src": "The series",
+      "t": "La serie"
+    },
+    "d939c994": {
+      "src": "The series is complete.",
+      "t": "La serie está completa."
+    },
+    "f5c3f547": {
+      "src": "The traditional Okinawan diet and its outcomes",
+      "t": "La dieta tradicional de Okinawa y sus resultados"
+    },
+    "8d1f6f6d": {
+      "src": "Their appearance is not coincidence. It is nutritional inevitability.",
+      "t": "Que estén ahí no es casualidad. Es una inevitabilidad nutricional."
+    },
+    "0014d3b9": {
+      "src": "These are not pharmaceutical interventions. They are the way human beings were always designed to live.",
+      "t": "No son intervenciones farmacológicas. Son la forma en que los seres humanos siempre estuvieron diseñados para vivir."
+    },
+    "fa321c69": {
+      "src": "They ate real food. They moved naturally. They belonged to something.",
+      "t": "Comían comida real. Se movían de forma natural. Pertenecían a algo."
+    },
+    "c89b850d": {
+      "src": "They found five:",
+      "t": "Encontraron cinco:"
+    },
+    "f0ce0955": {
+      "src": "This convergence is not coincidence.",
+      "t": "Esta convergencia no es casualidad."
+    },
+    "77b02a5f": {
+      "src": "This finding is not soft science. It is documented in telomere length, inflammatory markers, and mortality statistics.",
+      "t": "Este hallazgo no es ciencia blanda. Está documentado en la longitud de los telómeros, los marcadores inflamatorios y las estadísticas de mortalidad."
+    },
+    "03764e8e": {
+      "src": "This is among the most important findings in the Blue Zone research: longevity is not primarily purchased.",
+      "t": "Es uno de los hallazgos más importantes de la investigación sobre las Zonas Azules: la longevidad no se compra, al menos no principalmente."
+    },
+    "8a139527": {
+      "src": "This is the way to a longer, healthier, happier life.",
+      "t": "Este es el camino hacia una vida más larga, más sana y más feliz."
+    },
+    "39c1851d": {
+      "src": "Tofu & miso",
+      "t": "Tofu y miso"
+    },
+    "1b8ccf51": {
+      "src": "Tofu and fermented soy:",
+      "t": "El tofu y la soya fermentada:"
+    },
+    "80a425bd": {
+      "src": "Tomatoes & salads",
+      "t": "Tomates y ensaladas"
+    },
+    "184035bf": {
+      "src": "Traditional Okinawa derived up to 70% of calories from sweet potato — the same batata brought to the Caribbean by the Taino. Rich in beta-carotene, resistant starch, and anthocyanins. Low glycaemic. Extraordinarily nutrient-dense. The food at the foundation of the world’s longest-lived female population.",
+      "t": "La Okinawa tradicional obtenía hasta el 70% de sus calorías de la batata, la misma batata que los taínos llevaron al Caribe. Rica en betacaroteno, almidón resistente y antocianinas. De índice glucémico bajo. Extraordinariamente densa en nutrientes. El alimento base de la población femenina más longeva del mundo."
+    },
+    "90182f22": {
+      "src": "Traditional Okinawans consumed approximately 1,800 calories per day — significantly less than modern Western populations — guided by the Confucian principle of",
+      "t": "Los habitantes tradicionales de Okinawa consumían unas 1.800 calorías al día, bastante menos que las poblaciones occidentales modernas, guiados por el principio confuciano del"
+    },
+    "106b2d64": {
+      "src": "Turmeric",
+      "t": "Cúrcuma"
+    },
+    "4e1062b0": {
+      "src": "Unusually high in omega-3 fatty acids compared to conventional dairy, due to the grass-fed nature of Sardinian sheep. Omega-3s are documented anti-inflammatory agents. The contrast between grass-fed and grain-fed animal products is nutritionally significant.",
+      "t": "Excepcionalmente rico en ácidos grasos omega-3 frente a los lácteos convencionales, porque las ovejas sardas se alimentan de pasto. Los omega-3 son antiinflamatorios documentados. La diferencia entre los productos animales de pasto y los de grano es nutricionalmente importante."
+    },
+    "b768bda6": {
+      "src": "Vegetarianism documented across 50 years:",
+      "t": "Vegetarianismo documentado durante 50 años:"
+    },
+    "ab68413c": {
+      "src": "Water as the primary beverage:",
+      "t": "El agua como bebida principal:"
+    },
+    "2f1014b8": {
+      "src": "What Jamaica needs is not new products, new programmes, or new institutions.",
+      "t": "Lo que Jamaica necesita no son productos nuevos, programas nuevos ni instituciones nuevas."
+    },
+    "adf1d50a": {
+      "src": "What accelerates telomere shortening (documented):",
+      "t": "Lo que acelera el acortamiento de los telómeros (documentado):"
+    },
+    "b8fcc83d": {
+      "src": "What happened after Westernisation:",
+      "t": "Lo que pasó tras la occidentalización:"
+    },
+    "82851d63": {
+      "src": "What protects or lengthens telomeres (documented):",
+      "t": "Lo que protege o alarga los telómeros (documentado):"
+    },
+    "73743736": {
+      "src": "When Buettner’s team analysed what these populations had in common, the findings were so consistent that they published them as the “Power 9” — nine lifestyle factors shared across all five Blue Zones.",
+      "t": "Cuando el equipo de Buettner analizó lo que tenían en común estas poblaciones, los hallazgos fueron tan coherentes que los publicaron como el “Power 9”: nueve factores de estilo de vida compartidos por las cinco Zonas Azules."
+    },
+    "1d1fc055": {
+      "src": "Whole grain bread",
+      "t": "Pan integral"
+    },
+    "9f0e2161": {
+      "src": "Whole grain flatbread (pane carasau)",
+      "t": "Pan plano integral (pane carasau)"
+    },
+    "d78e727e": {
+      "src": "Wild greens (horta)",
+      "t": "Verduras silvestres (horta)"
+    },
+    "5c2808a0": {
+      "src": "Wild herbal teas (daily)",
+      "t": "Tés de hierbas silvestres (cada día)"
+    },
+    "602072d1": {
+      "src": "Wild herbal teas daily:",
+      "t": "Tés de hierbas silvestres cada día:"
+    },
+    "cb18610f": {
+      "src": "Yams",
+      "t": "Ñame"
+    },
+    "d80fcd6a": {
+      "src": "and among the longest-lived.",
+      "t": "y una de las más longevas."
+    },
+    "d631e652": {
+      "src": "everything it needs.",
+      "t": "todo lo que necesita."
+    },
+    "0f960c0f": {
+      "src": "five places where people forget to die.",
+      "t": "cinco lugares donde la gente se olvida de morir."
+    },
+    "79a4b904": {
+      "src": "forget to get dementia.",
+      "t": "se olvida de tener demencia."
+    },
+    "cd18b13d": {
+      "src": "hara hachi bu",
+      "t": "hara hachi bu"
+    },
+    "9bb54d6b": {
+      "src": "ikigai",
+      "t": "ikigai"
+    },
+    "cd383c4a": {
+      "src": "in the same geographic region. The Adventist Health Studies — one of the largest and longest-running dietary research projects in history — have followed this community since 1958, producing landmark findings on the relationship between diet and longevity.",
+      "t": "de la misma región. Los Adventist Health Studies, uno de los proyectos de investigación alimentaria más grandes y largos de la historia, siguen a esta comunidad desde 1958 y han producido hallazgos de referencia sobre la relación entre la dieta y la longevidad."
+    },
+    "a6fffebf": {
+      "src": "in the western world.",
+      "t": "del mundo occidental."
+    },
+    "29e679d6": {
+      "src": "is complete.",
+      "t": "está completa."
+    },
+    "ab65499d": {
+      "src": "live as long as women.",
+      "t": "viven tanto como las mujeres."
+    },
+    "37c5b844": {
+      "src": "live longest on earth.",
+      "t": "viven más tiempo en el planeta."
+    },
+    "74e5a2f1": {
+      "src": "plan de vida",
+      "t": "plan de vida"
+    },
+    "635e4e4a": {
+      "src": "real community.",
+      "t": "la comunidad real."
+    },
+    "75a9a523": {
+      "src": "real food.",
+      "t": "la comida real."
+    },
+    "d5df830f": {
+      "src": "real purpose.",
+      "t": "un propósito real."
+    },
+    "7b3f9e55": {
+      "src": "than the most sedentary, poorest-eating participants — a difference representing approximately",
+      "t": "que los más sedentarios y que peor comían, una diferencia que equivale aproximadamente a"
+    },
+    "54a05040": {
+      "src": "the most medicated. It is the best fed.",
+      "t": "la más medicada. Es la mejor alimentada."
+    },
+    "b2fa079a": {
+      "src": "vegan Adventists had a 15% lower risk of premature death than meat-eating Adventists",
+      "t": "los adventistas veganos tenían un riesgo de muerte prematura un 15% menor que los adventistas que comían carne"
+    },
+    "c0b2a2a9": {
+      "src": "why whole food eating slows ageing at the cellular level.",
+      "t": "por qué comer alimentos integrales frena el envejecimiento a nivel celular."
+    },
+    "7c1640da": {
+      "src": "~20%",
+      "t": "~20%"
+    },
+    "287f2652": {
+      "src": "— eating to 80% fullness. A documented caloric restriction practice producing measurable longevity benefits without hunger.",
+      "t": ": comer hasta llenarse al 80%. Una práctica documentada de restricción calórica que produce beneficios medibles para la longevidad sin pasar hambre."
+    },
+    "052a70b6": {
+      "src": "“The world’s longest-lived people didn’t try to live long. They set up their environments so that healthy choices were easy and unconscious.",
+      "t": "“Las personas más longevas del mundo no intentaban vivir mucho. Organizaron su entorno para que las decisiones sanas fueran fáciles e inconscientes."
+    },
+    "ccf18d56": {
+      "src": "← Part 6",
+      "t": "← Parte 6"
+    },
+    "e8c33e18": {
+      "src": "🇯🇲❤️💚",
+      "t": "🇯🇲❤️💚"
+    },
+    "2b7f16a4": {
+      "src": "🌳 Return to Real Food Series — Part 7 of 7 — Final",
+      "t": "🌳 Serie Volver a la Comida Real, Parte 7 de 7, Final"
+    }
+  }
+}

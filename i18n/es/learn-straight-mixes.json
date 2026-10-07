@@ -1,0 +1,887 @@
+{
+  "_note": "Page content for learn-straight-mixes.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "c09a3fb7": {
+      "src": ", reducing the burden on the body’s own digestive system and ensuring that nutrients are broken down and absorbed at maximum efficiency.",
+      "t": ", porque reducen la carga del propio sistema digestivo del cuerpo y hacen que los nutrientes se descompongan y se absorban con la máxima eficiencia."
+    },
+    "1ced6a6e": {
+      "src": "05",
+      "t": "05"
+    },
+    "1bed68db": {
+      "src": "06",
+      "t": "06"
+    },
+    "95cf3da0": {
+      "src": "10 min",
+      "t": "10 min"
+    },
+    "e84e43a1": {
+      "src": "A Day of Medicine",
+      "t": "Un día de medicina"
+    },
+    "adff1460": {
+      "src": "A day of medicine moments",
+      "t": "Un día de momentos medicinales"
+    },
+    "f99ad819": {
+      "src": "A light vegetable stew or hydrating straight mix",
+      "t": "Un guiso ligero de verduras o una straight mix hidratante"
+    },
+    "ee490dbd": {
+      "src": "A light, enzyme-rich straight mix between meals supports continued digestion of the midday meal.",
+      "t": "Una straight mix ligera y rica en enzimas entre comidas ayuda a seguir digiriendo la comida del mediodía."
+    },
+    "740f137e": {
+      "src": "A straight mix is exactly what it sounds like.",
+      "t": "Una straight mix es exactamente lo que parece: una mezcla directa."
+    },
+    "0cc20db7": {
+      "src": "Afternoon",
+      "t": "Tarde"
+    },
+    "35ee5718": {
+      "src": "Alive.",
+      "t": "Vivo."
+    },
+    "a7184e7f": {
+      "src": "All articles free. No subscription. The knowledge tree keeps growing.",
+      "t": "Todos los artículos son gratis. Sin suscripción. El árbol del conocimiento sigue creciendo."
+    },
+    "5a694e86": {
+      "src": "Allicin and gingerols work synergistically on inflammation pathways",
+      "t": "La alicina y los gingeroles actúan en sinergia sobre las vías de la inflamación"
+    },
+    "5e4c5e64": {
+      "src": "Anti-Inflammatory Synergy",
+      "t": "Sinergia antiinflamatoria"
+    },
+    "5ff2f6aa": {
+      "src": "Anti-inflammatory effect multiplied dramatically",
+      "t": "Efecto antiinflamatorio muy multiplicado"
+    },
+    "ed68f4d9": {
+      "src": "Approach",
+      "t": "Enfoque"
+    },
+    "ef5525f9": {
+      "src": "Avocado fat unlocks fat-soluble vitamins that would otherwise pass through unused.",
+      "t": "La grasa del aguacate libera las vitaminas liposolubles que de otro modo pasarían sin aprovecharse."
+    },
+    "27e15a87": {
+      "src": "Before any food, warm water with fresh lime juice",
+      "t": "Antes de cualquier alimento, el agua tibia con jugo de limón fresco"
+    },
+    "578b8958": {
+      "src": "Before rest",
+      "t": "Antes de descansar"
+    },
+    "3d4b0c38": {
+      "src": "Before rising",
+      "t": "Antes de levantarte"
+    },
+    "34f0cda3": {
+      "src": "Beta-Carotene & Fat Synergy",
+      "t": "Sinergia de betacaroteno y grasa"
+    },
+    "5c9a941b": {
+      "src": "Beta-carotene from mango and carrot converts to vitamin A — critical for vision, skin, and immunity.",
+      "t": "El betacaroteno del mango y la zanahoria se convierte en vitamina A, fundamental para la vista, la piel y la inmunidad."
+    },
+    "37c1a75b": {
+      "src": "Black pepper activates curcumin from turmeric by 2,000%.",
+      "t": "La pimienta negra activa la curcumina de la cúrcuma en un 2.000%."
+    },
+    "bd87c037": {
+      "src": "Calcium and iron from greens fully released to the body",
+      "t": "El calcio y el hierro de las verduras quedan totalmente disponibles para el cuerpo"
+    },
+    "390b514f": {
+      "src": "Cardiovascular support — overnight repair preparation",
+      "t": "Apoyo cardiovascular · preparación para la reparación nocturna"
+    },
+    "04f909e8": {
+      "src": "Cerasee supports blood sugar regulation. Moringa contains more vitamin C than oranges, more calcium than milk.",
+      "t": "El cerasee ayuda a regular el azúcar en sangre. La moringa contiene más vitamina C que las naranjas y más calcio que la leche."
+    },
+    "aa979013": {
+      "src": "Cerasee, fever grass, or moringa tea",
+      "t": "Té de cerasee, fever grass o moringa"
+    },
+    "765f6121": {
+      "src": "Chia seeds provide omega-3 fatty acids in a bioavailable raw form.",
+      "t": "Las semillas de chía aportan ácidos grasos omega-3 en una forma cruda y biodisponible."
+    },
+    "73d2ac04": {
+      "src": "Chilled coconut water",
+      "t": "Agua de coco fría"
+    },
+    "c3cba4f3": {
+      "src": "Choose straight. Choose living. Choose with full awareness. That is the Kwik Fat Cut way. 🌿🇯🇲❤️💚",
+      "t": "Elige lo directo. Elige lo vivo. Elige con plena conciencia. Esa es la manera de Kwik Fat Cut. 🌿🇯🇲❤️💚"
+    },
+    "706a205c": {
+      "src": "Citric acid breaks down oxalates that block mineral absorption",
+      "t": "El ácido cítrico descompone los oxalatos que bloquean la absorción de minerales"
+    },
+    "876eb583": {
+      "src": "Coconut water",
+      "t": "Agua de coco"
+    },
+    "931a9db7": {
+      "src": "Combined raw, they break down protein, reduce bloating, and soothe the intestinal lining. Mint calms gut spasms. Coconut water replaces electrolytes.",
+      "t": "Combinadas en crudo, descomponen las proteínas, reducen la hinchazón y calman el revestimiento intestinal. La menta calma los espasmos intestinales. El agua de coco repone los electrolitos."
+    },
+    "000ccc9f": {
+      "src": "Continued enzyme support — afternoon vitality",
+      "t": "Apoyo enzimático continuo · vitalidad por la tarde"
+    },
+    "532a43fd": {
+      "src": "Cooked Ital meal — legumes, grains, greens",
+      "t": "Comida Ital cocinada: legumbres, cereales, verduras"
+    },
+    "b1fbc400": {
+      "src": "Cucumber slices",
+      "t": "Rodajas de pepino"
+    },
+    "c8bb44f7": {
+      "src": "Energy levels, digestion quality, and mental clarity all shift when living food becomes a consistent part of the day.",
+      "t": "Los niveles de energía, la calidad de la digestión y la claridad mental cambian cuando los alimentos vivos pasan a formar parte constante del día."
+    },
+    "47fd175f": {
+      "src": "Enzyme Activation",
+      "t": "Activación de enzimas"
+    },
+    "4a5908cf": {
+      "src": "Evening",
+      "t": "Noche"
+    },
+    "b7f18b06": {
+      "src": "Evening is the time to wind down the digestive system, not load it.",
+      "t": "La noche es el momento de relajar el sistema digestivo, no de cargarlo."
+    },
+    "15cbf466": {
+      "src": "Every bite is a decision. Every swallow is a conversation between you and your body.",
+      "t": "Cada bocado es una decisión. Cada vez que tragas es una conversación entre tú y tu cuerpo."
+    },
+    "dc25cb58": {
+      "src": "Every moment",
+      "t": "Cada momento"
+    },
+    "9b9b40db": {
+      "src": "Fresh cerasee or moringa leaves",
+      "t": "Hojas frescas de cerasee o de moringa"
+    },
+    "42fde22b": {
+      "src": "Fresh ginger (grated)",
+      "t": "Jengibre fresco (rallado)"
+    },
+    "aa4a25b5": {
+      "src": "Fresh ginger root (grated)",
+      "t": "Raíz de jengibre fresca (rallada)"
+    },
+    "c9f1d356": {
+      "src": "Fresh hibiscus (or sorrel)",
+      "t": "Hibisco fresco (o flor de Jamaica)"
+    },
+    "8b693ec8": {
+      "src": "Fresh mint & basil",
+      "t": "Menta y albahaca frescas"
+    },
+    "4d38861f": {
+      "src": "Fresh mint leaves",
+      "t": "Hojas de menta fresca"
+    },
+    "956bb391": {
+      "src": "Fresh orange or lime juice",
+      "t": "Jugo fresco de naranja o de limón"
+    },
+    "f9809b9b": {
+      "src": "Fresh papaya chunks",
+      "t": "Trozos de papaya fresca"
+    },
+    "0a677c10": {
+      "src": "Fresh soursop flesh",
+      "t": "Pulpa fresca de guanábana"
+    },
+    "c85fe384": {
+      "src": "Fresh turmeric root (grated)",
+      "t": "Raíz de cúrcuma fresca (rallada)"
+    },
+    "a04e4b36": {
+      "src": "Garlic + ginger",
+      "t": "Ajo + jengibre"
+    },
+    "e3c8dbbb": {
+      "src": "Generations of observation produced the same conclusions that laboratory research is now confirming.",
+      "t": "Generaciones de observación llegaron a las mismas conclusiones que la investigación de laboratorio hoy confirma."
+    },
+    "722559a7": {
+      "src": "Ginger adds its own anti-inflammatory gingerols.",
+      "t": "El jengibre añade sus propios gingeroles antiinflamatorios."
+    },
+    "7ffb7600": {
+      "src": "Ginger opens circulation so nutrients reach the blood faster. Cayenne boosts metabolism. Together: a blood-building medicine moment.",
+      "t": "El jengibre activa la circulación para que los nutrientes lleguen antes a la sangre. La cayena acelera el metabolismo. Juntos: un momento medicinal que forma sangre."
+    },
+    "f4b13c75": {
+      "src": "Grated coconut flesh",
+      "t": "Pulpa de coco rallada"
+    },
+    "66b988a3": {
+      "src": "Guinep and star apple are Caribbean fruits rarely documented in mainstream nutrition — deeply medicinal, deeply Ital. This is the medicine of the land.",
+      "t": "La quenepa y el caimito son frutas caribeñas poco documentadas en la nutrición convencional: profundamente medicinales, profundamente Ital. Esta es la medicina de la tierra."
+    },
+    "f7465afc": {
+      "src": "Guinep flesh (seasonal)",
+      "t": "Pulpa de quenepa (según la temporada)"
+    },
+    "9125001f": {
+      "src": "Handful of soaked almonds",
+      "t": "Un puñado de almendras remojadas"
+    },
+    "de861c8b": {
+      "src": "Healthy fat + fat-soluble vitamins",
+      "t": "Grasa saludable + vitaminas liposolubles"
+    },
+    "6cd90883": {
+      "src": "Hibiscus is one of the most clinically studied natural blood pressure reducers. Potassium from coconut water counteracts sodium. Together: gentle, sustained cardiovascular support.",
+      "t": "El hibisco es uno de los reductores naturales de la presión arterial más estudiados clínicamente. El potasio del agua de coco contrarresta el sodio. Juntos: un apoyo cardiovascular suave y sostenido."
+    },
+    "9b4619ec": {
+      "src": "Hippocrates had a name for it. They simply lived it, meal by meal, generation by generation.”",
+      "t": "Hipócrates le pusiera nombre. Simplemente lo vivían, comida a comida, generación tras generación.”"
+    },
+    "14f4d7a7": {
+      "src": "Ingredients",
+      "t": "Ingredientes"
+    },
+    "471d5faf": {
+      "src": "Iron & Vitamin C Synergy",
+      "t": "Sinergia de hierro y vitamina C"
+    },
+    "64e71fc6": {
+      "src": "Iron absorption from plants increases 3–6 fold",
+      "t": "La absorción del hierro vegetal se multiplica por 3 a 6"
+    },
+    "13055183": {
+      "src": "It is medicine, whether you intend it that way or not.",
+      "t": "Es medicina, lo quieras o no."
+    },
+    "6864ccaa": {
+      "src": "It receives medicine with every meal.",
+      "t": "Recibe medicina en cada comida."
+    },
+    "dc2a3290": {
+      "src": "Ital & Nutritional Science",
+      "t": "Ital y ciencia de la nutrición"
+    },
+    "1dfaa70d": {
+      "src": "Ital is vital",
+      "t": "Ital es vital"
+    },
+    "fcb57c46": {
+      "src": "Kwik Fat Cut — Education First — We row. You steer.",
+      "t": "Kwik Fat Cut. La educación primero. Nosotros remamos. Tú diriges."
+    },
+    "8d02dfd8": {
+      "src": "Light Ital stew or The Pressure Drop mix",
+      "t": "Guiso Ital ligero o la mezcla La que baja la presión"
+    },
+    "73265ad4": {
+      "src": "Lime + dark leafy greens",
+      "t": "Limón + verduras de hoja oscura"
+    },
+    "acca0818": {
+      "src": "Lime juice",
+      "t": "Jugo de limón"
+    },
+    "c050983a": {
+      "src": "Lime juice & fresh mint",
+      "t": "Jugo de limón y menta fresca"
+    },
+    "fc33a28d": {
+      "src": "Liver activation — bile stimulation — alkalising",
+      "t": "Activación del hígado · estimulación de la bilis · alcalinización"
+    },
+    "6c921ace": {
+      "src": "Living food science",
+      "t": "La ciencia de los alimentos vivos"
+    },
+    "accbed57": {
+      "src": "Living foods — raw, unprocessed plants — contain active enzymes that cooked food does not. These enzymes are not just beneficial; they are",
+      "t": "Los alimentos vivos, las plantas crudas y sin procesar, contienen enzimas activas que la comida cocinada no tiene. Estas enzimas no solo son beneficiosas; son"
+    },
+    "04b40c54": {
+      "src": "Many of these synergistic compounds are heat-sensitive. Bromelain in pineapple begins to degrade above 60°C. Myrosinase in cruciferous vegetables — needed to activate cancer-protective sulforaphane — is destroyed by cooking.",
+      "t": "Muchos de estos compuestos sinérgicos son sensibles al calor. La bromelina de la piña empieza a degradarse por encima de los 60 °C. La mirosinasa de las verduras crucíferas, necesaria para activar el sulforafano protector frente al cáncer, se destruye al cocinar."
+    },
+    "ad7287bd": {
+      "src": "Midday",
+      "t": "Mediodía"
+    },
+    "99b97f3b": {
+      "src": "Moment is",
+      "t": "El momento es"
+    },
+    "1da225c5": {
+      "src": "More living",
+      "t": "Más conocimiento"
+    },
+    "02e055cf": {
+      "src": "Morning",
+      "t": "Mañana"
+    },
+    "ff17729c": {
+      "src": "Nervous system calm — blood sugar balance — deep sleep",
+      "t": "Calma del sistema nervioso · equilibrio del azúcar en sangre · sueño profundo"
+    },
+    "5e29babc": {
+      "src": "No cooking. No processing. No heat that destroys enzymes and depletes water-soluble vitamins.",
+      "t": "Sin cocinar. Sin procesar. Sin calor que destruya las enzimas y agote las vitaminas hidrosolubles."
+    },
+    "e7e72464": {
+      "src": "No industrial process in between deciding what gets kept and what gets discarded.",
+      "t": "Sin un proceso industrial de por medio que decida qué se conserva y qué se descarta."
+    },
+    "c7ab860a": {
+      "src": "Nutrients from greens and vegetables fully absorbed",
+      "t": "Los nutrientes de las verduras de hoja y las hortalizas se absorben por completo"
+    },
+    "72ae6ebc": {
+      "src": "Nutritional science has a concept called",
+      "t": "La ciencia de la nutrición tiene un concepto llamado"
+    },
+    "d8e26a84": {
+      "src": "Option Meals",
+      "t": "Option Meals"
+    },
+    "74a25995": {
+      "src": "Papain + bromelain — two digestive enzymes working together on protein breakdown",
+      "t": "Papaína + bromelina: dos enzimas digestivas que trabajan juntas para descomponer las proteínas"
+    },
+    "f957bf02": {
+      "src": "Papain from papaya and bromelain from pineapple are",
+      "t": "La papaína de la papaya y la bromelina de la piña son"
+    },
+    "cb781c40": {
+      "src": "Papaya + pineapple",
+      "t": "Papaya + piña"
+    },
+    "8d991084": {
+      "src": "Papaya, pineapple, or seasonal Jamaican fruit",
+      "t": "Papaya, piña o fruta jamaicana de temporada"
+    },
+    "947fffda": {
+      "src": "Peak digestive capacity — heaviest meal here",
+      "t": "Máxima capacidad digestiva · la comida más fuerte aquí"
+    },
+    "ca37947e": {
+      "src": "Peak enzyme activity — maximum absorption",
+      "t": "Máxima actividad enzimática · máxima absorción"
+    },
+    "a90b0e75": {
+      "src": "Pinch of black pepper",
+      "t": "Una pizca de pimienta negra"
+    },
+    "5461a149": {
+      "src": "Pinch of cayenne",
+      "t": "Una pizca de cayena"
+    },
+    "7de76241": {
+      "src": "Pinch of sea salt",
+      "t": "Una pizca de sal marina"
+    },
+    "a2bbbc30": {
+      "src": "Pineapple pieces",
+      "t": "Trozos de piña"
+    },
+    "5cecabd7": {
+      "src": "Piperine in black pepper increases curcumin absorption by up to 2,000%",
+      "t": "La piperina de la pimienta negra aumenta la absorción de la curcumina hasta en un 2.000%"
+    },
+    "9259b9af": {
+      "src": "Plant Synergy",
+      "t": "Sinergia vegetal"
+    },
+    "5b321e73": {
+      "src": "Plant synergy — why mixing matters",
+      "t": "Sinergia vegetal: por qué importa mezclar"
+    },
+    "aec82961": {
+      "src": "Plants combined in their raw, living state — each chosen deliberately for what it brings to the body, and for what it brings out in the other plants it is mixed with.",
+      "t": "Plantas combinadas en su estado crudo y vivo, cada una elegida a propósito por lo que aporta al cuerpo y por lo que despierta en las demás plantas con las que se mezcla."
+    },
+    "a88bbc24": {
+      "src": "Potassium & Nitrate Synergy",
+      "t": "Sinergia de potasio y nitratos"
+    },
+    "56b5858a": {
+      "src": "Pumpkin seeds add zinc and additional iron.",
+      "t": "Las semillas de calabaza aportan zinc y más hierro."
+    },
+    "66b46563": {
+      "src": "Rastafarian Ital tradition has always understood this.",
+      "t": "La tradición Ital rastafari siempre lo ha entendido."
+    },
+    "736f4a25": {
+      "src": "Raw & Living Foods",
+      "t": "Alimentos crudos y vivos"
+    },
+    "030d7296": {
+      "src": "Raw & Living Foods — Ital Philosophy",
+      "t": "Alimentos crudos y vivos, filosofía Ital"
+    },
+    "1cb232d3": {
+      "src": "Raw callaloo or baby spinach",
+      "t": "Callaloo crudo o espinaca baby"
+    },
+    "2722eb85": {
+      "src": "Raw honey (optional)",
+      "t": "Miel cruda (opcional)"
+    },
+    "21716b7c": {
+      "src": "Raw plants also contain higher concentrations of",
+      "t": "Las plantas crudas también contienen concentraciones más altas de"
+    },
+    "a5ff39f3": {
+      "src": "Raw, living food first. Before cooked food. The digestive enzymes are fully active, the gut is empty and receptive, and",
+      "t": "Primero, comida cruda y viva. Antes que la comida cocinada. Las enzimas digestivas están plenamente activas, el intestino está vacío y receptivo, y"
+    },
+    "4c55f955": {
+      "src": "Raw, whole, alive.",
+      "t": "Crudo, entero, vivo."
+    },
+    "f46baf50": {
+      "src": "Ripe mango slices",
+      "t": "Rodajas de mango maduro"
+    },
+    "ce85db15": {
+      "src": "Shredded carrot",
+      "t": "Zanahoria rallada"
+    },
+    "30da6fb1": {
+      "src": "Sliced avocado (pear)",
+      "t": "Aguacate en rodajas (pear)"
+    },
+    "ec0ed02d": {
+      "src": "Sliced mango",
+      "t": "Mango en rodajas"
+    },
+    "29c8c5ad": {
+      "src": "Soaked chia seeds",
+      "t": "Semillas de chía remojadas"
+    },
+    "fc4ce0a4": {
+      "src": "Soaked pumpkin seeds",
+      "t": "Semillas de calabaza remojadas"
+    },
+    "2ee80478": {
+      "src": "Soursop adds vitamin C. This is a straight mix that works on three body systems simultaneously.",
+      "t": "La guanábana aporta vitamina C. Es una straight mix que actúa a la vez sobre tres sistemas del cuerpo."
+    },
+    "6d9e7e74": {
+      "src": "Spring water base",
+      "t": "Base de agua de manantial"
+    },
+    "7fed3155": {
+      "src": "Star apple or Otaheiti apple",
+      "t": "Caimito o manzana de Otaheite"
+    },
+    "4f0ff167": {
+      "src": "Straight",
+      "t": "Straight"
+    },
+    "077872cd": {
+      "src": "Straight Mixes",
+      "t": "Straight Mixes"
+    },
+    "90122060": {
+      "src": "Straight Mixes — Moment Is Medicine — Kwik Fat Cut",
+      "t": "Straight Mixes: el momento es medicina · Kwik Fat Cut"
+    },
+    "3303872d": {
+      "src": "Straight mixes",
+      "t": "Straight Mixes"
+    },
+    "90aee2f4": {
+      "src": "Straight mixes are not a meal replacement or a supplement. They are a return to the most ancient form of eating — the way the body has been receiving food for most of human history, before fire, before agriculture, before processing.",
+      "t": "Las straight mixes no son un sustituto de comidas ni un suplemento. Son un regreso a la forma más antigua de comer: la manera en que el cuerpo ha recibido los alimentos durante la mayor parte de la historia humana, antes del fuego, antes de la agricultura, antes del procesamiento."
+    },
+    "fe0a3475": {
+      "src": "Straight. Real.",
+      "t": "Directo. Real."
+    },
+    "aa53013c": {
+      "src": "Stronger antimicrobial and anti-inflammatory action",
+      "t": "Mayor acción antimicrobiana y antiinflamatoria"
+    },
+    "e2960913": {
+      "src": "Superior protein digestion, reduced bloating",
+      "t": "Mejor digestión de las proteínas, menos hinchazón"
+    },
+    "1c98d4f3": {
+      "src": "The Blood Builder",
+      "t": "La formadora de sangre"
+    },
+    "2bfb2228": {
+      "src": "The Concept",
+      "t": "El concepto"
+    },
+    "9728c162": {
+      "src": "The Digestive Fire",
+      "t": "El fuego digestivo"
+    },
+    "1f1f3399": {
+      "src": "The Digestive Fire mix or seasonal fruit",
+      "t": "La mezcla El fuego digestivo o fruta de temporada"
+    },
+    "27e1ce25": {
+      "src": "The Foundation",
+      "t": "El Fundamento"
+    },
+    "cd8eda17": {
+      "src": "The Inflammation Quench",
+      "t": "El apagafuegos de la inflamación"
+    },
+    "3b163605": {
+      "src": "The Ital Morning Roots",
+      "t": "Las raíces Ital de la mañana"
+    },
+    "6d8ef0b0": {
+      "src": "The Ital Morning Roots mix or The Blood Builder",
+      "t": "La mezcla Raíces Ital de la mañana o La formadora de sangre"
+    },
+    "ae4b72ca": {
+      "src": "The Mixes",
+      "t": "Las mezclas"
+    },
+    "b3a8f44c": {
+      "src": "The Pressure Drop",
+      "t": "La que baja la presión"
+    },
+    "1329c970": {
+      "src": "The Science of Living Food",
+      "t": "La ciencia de los alimentos vivos"
+    },
+    "4afef7b7": {
+      "src": "The Skin & Vision Mix",
+      "t": "La mezcla para la piel y la vista"
+    },
+    "a0bb3b5b": {
+      "src": "The body enters sleep nourished, not burdened.",
+      "t": "El cuerpo entra en el sueño nutrido, no sobrecargado."
+    },
+    "ad6159fe": {
+      "src": "The body’s digestive fire (",
+      "t": "El fuego digestivo del cuerpo ("
+    },
+    "dfe79eed": {
+      "src": "The choice is",
+      "t": "La decisión es"
+    },
+    "24bd67d3": {
+      "src": "The combination",
+      "t": "La combinación"
+    },
+    "ef7b74de": {
+      "src": "The elders knew this not as science but as wisdom. Certain herbs were always combined. Certain fruits were always eaten together. Certain roots were always paired.",
+      "t": "Los mayores lo sabían, no como ciencia, sino como sabiduría. Ciertas hierbas siempre se combinaban. Ciertas frutas siempre se comían juntas. Ciertas raíces siempre iban en pareja."
+    },
+    "9bb654c8": {
+      "src": "The enzyme is",
+      "t": "La enzima está"
+    },
+    "3c4e79cf": {
+      "src": "The final medicine moment. A warm herbal tea — cerasee for blood sugar, fever grass for nervous system calm, moringa for its extraordinary micronutrient density —",
+      "t": "El último momento medicinal. Un té de hierbas tibio (cerasee para el azúcar en sangre, fever grass para calmar el sistema nervioso, moringa por su extraordinaria densidad de micronutrientes)"
+    },
+    "29ab8f18": {
+      "src": "The meal you eat right now is already becoming the chemistry of your blood, the lining of your gut, the signal sent to your immune system.",
+      "t": "La comida que estás comiendo ahora ya se está convirtiendo en la química de tu sangre, en el revestimiento de tu intestino, en la señal que recibe tu sistema inmunitario."
+    },
+    "3e8e79f1": {
+      "src": "The mechanism",
+      "t": "El mecanismo"
+    },
+    "88044d6c": {
+      "src": "The medicine",
+      "t": "La medicina"
+    },
+    "34d41052": {
+      "src": "The mixes themselves",
+      "t": "Las mezclas"
+    },
+    "d33f9290": {
+      "src": "The moment as medicine",
+      "t": "El momento como medicina"
+    },
+    "209c6a08": {
+      "src": "The moment is",
+      "t": "El momento es"
+    },
+    "40636f4f": {
+      "src": "The moment you eat is the moment you heal",
+      "t": "El momento en que comes es el momento en que sanas"
+    },
+    "9173aeed": {
+      "src": "The only question is: what kind of medicine are you administering?",
+      "t": "La única pregunta es: ¿qué tipo de medicina estás administrando?"
+    },
+    "70c08b3f": {
+      "src": "The plant gives everything it has. The body receives everything it needs.",
+      "t": "La planta da todo lo que tiene. El cuerpo recibe todo lo que necesita."
+    },
+    "f5a614cf": {
+      "src": "The plant is",
+      "t": "La planta está"
+    },
+    "053bc863": {
+      "src": "The question is only whether you are giving it the right kind.”",
+      "t": "La única pregunta es si le estás dando la adecuada.”"
+    },
+    "b03cde4d": {
+      "src": "The straight mix preserves the full compound profile",
+      "t": "La straight mix conserva el perfil completo de compuestos"
+    },
+    "26740936": {
+      "src": "The two together target multiple inflammation pathways simultaneously. Used warm, not hot, to preserve enzyme activity. This is not a wellness trend. It is ancient medicine.",
+      "t": "Los dos juntos actúan a la vez sobre varias vías de la inflamación. Se toma tibio, no caliente, para conservar la actividad de las enzimas. No es una moda de bienestar. Es medicina antigua."
+    },
+    "d4e3c157": {
+      "src": "The word “straight” carries weight. Straight means direct. Unmediated. Nothing between the earth and your body.",
+      "t": "La palabra “straight” (directo) tiene peso. Directo significa sin rodeos. Sin intermediarios. Nada entre la tierra y tu cuerpo."
+    },
+    "8433e5ee": {
+      "src": "These are living combinations. Each one is a medicine moment in a bowl or a glass. Each ingredient is chosen for what it does alone and for what it unlocks in the others.",
+      "t": "Son combinaciones vivas. Cada una es un momento medicinal en un tazón o en un vaso. Cada ingrediente se elige por lo que hace solo y por lo que despierta en los demás."
+    },
+    "fb99d296": {
+      "src": "This is not a metaphor. It is biology. Every time food enters the mouth, the body begins responding — enzymatically, hormonally, immunologically.",
+      "t": "No es una metáfora. Es biología. Cada vez que la comida entra en la boca, el cuerpo empieza a responder: con enzimas, con hormonas, con el sistema inmunitario."
+    },
+    "db93b3da": {
+      "src": "This is the time for the main cooked meal",
+      "t": "Es el momento de la comida principal cocinada"
+    },
+    "9721c4b0": {
+      "src": "This is when the straight mix delivers the most.",
+      "t": "Es cuando la straight mix aporta más."
+    },
+    "608f16fa": {
+      "src": "Turmeric + black pepper",
+      "t": "Cúrcuma + pimienta negra"
+    },
+    "b57d5d39": {
+      "src": "Vitamin C converts non-haem iron to absorbable form",
+      "t": "La vitamina C convierte el hierro no hemo en una forma absorbible"
+    },
+    "c4bb1ec3": {
+      "src": "Vitamin C foods + iron-rich plants",
+      "t": "Alimentos con vitamina C + plantas ricas en hierro"
+    },
+    "89535b0f": {
+      "src": "Vitamin C from citrus triples iron absorption from callaloo.",
+      "t": "La vitamina C de los cítricos triplica la absorción del hierro del callaloo."
+    },
+    "9c801d7d": {
+      "src": "Vitamins A, D, E, K require fat for absorption — avocado, coconut, seeds unlock them",
+      "t": "Las vitaminas A, D, E y K necesitan grasa para absorberse: el aguacate, el coco y las semillas las liberan"
+    },
+    "4948c2e9": {
+      "src": "Warm (not hot) coconut water",
+      "t": "Agua de coco tibia (no caliente)"
+    },
+    "2825030b": {
+      "src": "Warm spring water with lime",
+      "t": "Agua de manantial tibia con limón"
+    },
+    "22417234": {
+      "src": "Watermelon chunks (with white rind)",
+      "t": "Trozos de sandía (con la parte blanca de la cáscara)"
+    },
+    "1709e8a2": {
+      "src": "Watermelon rind contains citrulline — converted by the body to arginine, which produces",
+      "t": "La cáscara de la sandía contiene citrulina, que el cuerpo convierte en arginina, la cual produce"
+    },
+    "48820f9f": {
+      "src": "What straight",
+      "t": "Qué son las"
+    },
+    "11071437": {
+      "src": "What straight mixes are",
+      "t": "Qué son las straight mixes"
+    },
+    "dd073474": {
+      "src": "When you understand that every meal is medicine, the structure of your day changes. Not through willpower or restriction — through awareness. Here is how a day of medicine moments can flow, rooted in Ital tradition and plant science combined.",
+      "t": "Cuando entiendes que cada comida es medicina, la estructura de tu día cambia. No por fuerza de voluntad ni por restricción, sino por conciencia. Así puede fluir un día de momentos medicinales, con raíces en la tradición Ital y la ciencia vegetal combinadas."
+    },
+    "bd129128": {
+      "src": "Whole Ital Tradition",
+      "t": "La tradición Ital completa"
+    },
+    "9cf4118d": {
+      "src": "Why mixing",
+      "t": "Por qué mezclar"
+    },
+    "4093aa75": {
+      "src": "Why raw food",
+      "t": "Por qué la comida cruda"
+    },
+    "1520ea27": {
+      "src": "Why raw matters for synergy",
+      "t": "Por qué lo crudo importa para la sinergia"
+    },
+    "3f8fee60": {
+      "src": "You do not need a programme. You do not need a subscription. You do not need permission.",
+      "t": "No necesitas un programa. No necesitas una suscripción. No necesitas permiso."
+    },
+    "2e48293e": {
+      "src": "You need understanding",
+      "t": "Necesitas comprensión"
+    },
+    "d477be11": {
+      "src": "activates the liver, stimulates bile production, and alkalises the body",
+      "t": "activa el hígado, estimula la producción de bilis y alcaliniza el cuerpo"
+    },
+    "551fdc93": {
+      "src": "active.",
+      "t": "activa."
+    },
+    "7fe17dcc": {
+      "src": "agni",
+      "t": "agni"
+    },
+    "efdadcf8": {
+      "src": "alive.",
+      "t": "viva."
+    },
+    "3845ff3e": {
+      "src": "before",
+      "t": "antes de que"
+    },
+    "f11465c7": {
+      "src": "before the day’s demands begin. The moment of waking is the moment of medicine.",
+      "t": "antes de que empiecen las exigencias del día. El momento de despertar es el momento de la medicina."
+    },
+    "10ac67c0": {
+      "src": "biophotons",
+      "t": "biofotones"
+    },
+    "c329c671": {
+      "src": "carries more life.",
+      "t": "lleva más vida."
+    },
+    "46d69f13": {
+      "src": "closes the day the same way it opened: with intention.",
+      "t": "cierra el día igual que lo abrió: con intención."
+    },
+    "8a3c2b08": {
+      "src": "essential participants in digestion",
+      "t": "participantes esenciales de la digestión"
+    },
+    "c90adf58": {
+      "src": "food synergy",
+      "t": "sinergia alimentaria"
+    },
+    "60c1057e": {
+      "src": "from morning to night.",
+      "t": "de la mañana a la noche."
+    },
+    "4f492afb": {
+      "src": "in Ayurveda; the Ital equivalent is “heat of life”) is at its strongest at midday.",
+      "t": "en el Ayurveda; el equivalente Ital es el “calor de la vida”) alcanza su máxima fuerza al mediodía."
+    },
+    "ec7ed98b": {
+      "src": "in practice.",
+      "t": "en la práctica."
+    },
+    "c1886eab": {
+      "src": "is medicine.",
+      "t": "es medicina."
+    },
+    "1b1e5c98": {
+      "src": "keeps the digestive system active without burdening it.",
+      "t": "mantiene activo el sistema digestivo sin sobrecargarlo."
+    },
+    "7d80101f": {
+      "src": "knowledge.",
+      "t": "vivo."
+    },
+    "0fdcca49": {
+      "src": "medicine.",
+      "t": "medicina."
+    },
+    "bd2007f3": {
+      "src": "mixes are.",
+      "t": "straight mixes."
+    },
+    "091afcb9": {
+      "src": "mixes.",
+      "t": "Mixes."
+    },
+    "741fb99c": {
+      "src": "multiplies the medicine.",
+      "t": "multiplica la medicina."
+    },
+    "d71a4845": {
+      "src": "nitric oxide that relaxes blood vessels.",
+      "t": "óxido nítrico, que relaja los vasos sanguíneos."
+    },
+    "3d6da270": {
+      "src": "so that synergy can happen as nature designed it.",
+      "t": "para que la sinergia ocurra tal como la diseñó la naturaleza."
+    },
+    "3e7c8543": {
+      "src": "the body absorbs living plant nutrients at peak efficiency.",
+      "t": "el cuerpo absorbe los nutrientes vegetales vivos con la máxima eficiencia."
+    },
+    "18fdb68b": {
+      "src": "two of the most powerful plant-based digestive enzymes known.",
+      "t": "dos de las enzimas digestivas vegetales más potentes que se conocen."
+    },
+    "313a9588": {
+      "src": "with hibiscus, cucumber, and coconut water gives the body what it needs for overnight repair without overtaxing the organs that do their deepest work during sleep.",
+      "t": "con hibisco, pepino y agua de coco da al cuerpo lo que necesita para repararse durante la noche sin sobrecargar los órganos que hacen su trabajo más profundo mientras duermes."
+    },
+    "4e8441ef": {
+      "src": "yours.",
+      "t": "tuya."
+    },
+    "ebff9377": {
+      "src": "— eating as a sacred act, not a mechanical one. Every meal is a choice to honour or dishonour the body. Every combination of plants is a conversation with the Creator’s design. And science, arriving thousands of years later with its instruments and its data, confirms what the Ital practitioner already knew intuitively.",
+      "t": ": comer como un acto sagrado, no mecánico. Cada comida es una elección de honrar o deshonrar el cuerpo. Cada combinación de plantas es una conversación con el diseño del Creador. Y la ciencia, llegando miles de años después con sus instrumentos y sus datos, confirma lo que quien practica Ital ya sabía por intuición."
+    },
+    "cdcf3efc": {
+      "src": "— light energy stored in living cells. This is an area of emerging research, but one that Ital tradition anticipated intuitively. A living plant carries something that a dead, processed food does not. The body knows the difference.",
+      "t": ": energía luminosa almacenada en las células vivas. Es un campo de investigación emergente, pero la tradición Ital ya lo intuía. Una planta viva lleva algo que un alimento muerto y procesado no tiene. El cuerpo nota la diferencia."
+    },
+    "3b83d96e": {
+      "src": "— of what the plants do, of what your body is asking for, and of the simple, ancient truth that every moment you eat is a moment of medicine, for better or for worse.",
+      "t": ": de lo que hacen las plantas, de lo que tu cuerpo te pide y de la verdad sencilla y antigua de que cada momento en que comes es un momento de medicina, para bien o para mal."
+    },
+    "c7c26721": {
+      "src": "— or the moment you burden. Understanding which is which is everything.",
+      "t": ", o el momento en que te cargas. Entender cuál es cuál lo es todo."
+    },
+    "b061bd92": {
+      "src": "— slow-cooked peas, brown rice, steamed callaloo, roasted provisions.",
+      "t": ": frijoles cocidos a fuego lento, arroz integral, callaloo al vapor, víveres asados."
+    },
+    "184ef088": {
+      "src": "— the idea that certain plant compounds work dramatically better together than they do alone. This is not additive. It is multiplicative. The combination creates an effect that neither plant could produce independently.",
+      "t": ": la idea de que ciertos compuestos vegetales funcionan muchísimo mejor juntos que por separado. No es una suma. Es una multiplicación. La combinación crea un efecto que ninguna de las plantas podría producir por sí sola."
+    },
+    "52a80095": {
+      "src": "“Hippocrates said: let food be thy medicine. But the elders understood this",
+      "t": "“Hipócrates dijo: que la comida sea tu medicina. Pero los mayores lo entendían"
+    },
+    "f65c1726": {
+      "src": "“The body does not wait for medicine.",
+      "t": "“El cuerpo no espera a la medicina."
+    }
+  }
+}

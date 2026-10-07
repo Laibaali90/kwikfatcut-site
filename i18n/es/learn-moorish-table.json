@@ -1,0 +1,831 @@
+{
+  "_note": "Page content for learn-moorish-table.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "2b7e8eed": {
+      "src": "(1025 CE) — British Library Add MS 23407",
+      "t": "(1025 d. C.) · British Library Add MS 23407"
+    },
+    "c6d88518": {
+      "src": "(1162 CE) — General principles of medicine",
+      "t": "(1162 d. C.) · Principios generales de la medicina"
+    },
+    "5fcd8d38": {
+      "src": "(Book of Agriculture, c.1180 CE) — document crop varieties, cultivation methods, and the nutritional properties of hundreds of plants grown in Al-Andalus.",
+      "t": "(Libro de agricultura, hacia 1180 d. C.) de Ibn al-ʿAwwām, documentan variedades de cultivos, métodos de cultivo y las propiedades nutricionales de cientos de plantas cultivadas en Al-Ándalus."
+    },
+    "f3cffd62": {
+      "src": "(Excellence of the Table, on the Delicacies of Food and the Different Dishes). Written in 13th-century Al-Andalus, the Fidāla is one of the most important food manuscripts in Islamic history — and one of the most nutritionally sophisticated documents ever produced.",
+      "t": "(La excelencia de la mesa, sobre las delicias de la comida y los distintos platos). Escrita en el Al-Ándalus del siglo XIII, la Fidāla es uno de los manuscritos culinarios más importantes de la historia islámica, y uno de los documentos nutricionalmente más sofisticados jamás escritos."
+    },
+    "b1666f32": {
+      "src": "(The Canon of Medicine) is the most comprehensive and influential medical text produced by a single author in human history.",
+      "t": "(El Canon de medicina) es el texto médico más completo e influyente escrito por un solo autor en la historia humana."
+    },
+    "fa057948": {
+      "src": "(c.1260 CE) — Chapters rediscovered British Library 2018",
+      "t": "(hacia 1260 d. C.) · Capítulos redescubiertos, British Library 2018"
+    },
+    "74cadc14": {
+      "src": "(c.900 CE) — Ten books on medicine",
+      "t": "(hacia 900 d. C.) · Diez libros sobre medicina"
+    },
+    "75106bbc": {
+      "src": "(irrigation canal) to Iberian agriculture. These allowed cultivation of crops that previously required monsoon rainfall in a semi-arid climate.",
+      "t": "(canal de riego). Esto permitió cultivar, en un clima semiárido, plantas que antes necesitaban lluvias monzónicas."
+    },
+    "45ee9390": {
+      "src": "(natural, in bioavailable form) — strengthens enamel.",
+      "t": "(natural y en forma biodisponible): fortalece el esmalte."
+    },
+    "e40773b3": {
+      "src": "(underground water channel), and the",
+      "t": "(canal subterráneo de agua) y la"
+    },
+    "fda08443": {
+      "src": "(waterwheel), the",
+      "t": "(rueda hidráulica), el"
+    },
+    "c421021f": {
+      "src": "). Its use is documented in hadith literature from the 7th century CE, prescribed as a daily practice to be performed multiple times a day — before prayer, before eating, and upon waking.",
+      "t": "). Su uso está documentado en los hadices desde el siglo VII, recomendado como práctica diaria varias veces al día: antes de rezar, antes de comer y al despertar."
+    },
+    "71d74546": {
+      "src": ", holding an estimated 400,000 manuscripts at its peak. Among them: every available Greek medical text, every Persian herbal, every Indian Ayurvedic work.",
+      "t": ", con unos 400.000 manuscritos en su apogeo. Entre ellos: todos los textos médicos griegos disponibles, todos los herbarios persas, todas las obras ayurvédicas indias."
+    },
+    "654ec49f": {
+      "src": "01 — The Ancient Archive",
+      "t": "01 · El archivo antiguo"
+    },
+    "2b457935": {
+      "src": "02 — The Taino Diet",
+      "t": "02 · La dieta taína"
+    },
+    "e8e82dd6": {
+      "src": "03 — West African Roots",
+      "t": "03 · Raíces de África Occidental"
+    },
+    "f9108205": {
+      "src": "04 — The Moorish Table",
+      "t": "04 · La mesa mora"
+    },
+    "a21d0f20": {
+      "src": "05 — A Nation’s Guide",
+      "t": "05 · La guía de una nación"
+    },
+    "bad6d953": {
+      "src": "06 — Building the Community",
+      "t": "06 · Construir la comunidad"
+    },
+    "295e8bc5": {
+      "src": "07 — Living Longer & Happier",
+      "t": "07 · Vivir más y más felices"
+    },
+    "ad7f2e53": {
+      "src": "1,001",
+      "t": "1.001"
+    },
+    "8e90c401": {
+      "src": "13 min",
+      "t": "13 min"
+    },
+    "85e143c6": {
+      "src": "52",
+      "t": "52"
+    },
+    "b4f87f37": {
+      "src": "600yrs",
+      "t": "600 años"
+    },
+    "5ea451f7": {
+      "src": "700+",
+      "t": "Más de 700"
+    },
+    "fd963b76": {
+      "src": "7th-century oral medicine confirmed by 21st-century science.",
+      "t": "una medicina bucal del siglo VII confirmada por la ciencia del siglo XXI."
+    },
+    "e732bd39": {
+      "src": "Abu Ali al-Husayn ibn Sina — known in the West as Avicenna — was born in Persia in 980 CE and died in 1037 CE. In his 57 years, he wrote over 450 works on medicine, philosophy, mathematics, and astronomy. His",
+      "t": "Abu Ali al-Husayn ibn Sina, conocido en Occidente como Avicena, nació en Persia en el año 980 y murió en 1037. En sus 57 años escribió más de 450 obras sobre medicina, filosofía, matemáticas y astronomía. Su"
+    },
+    "842ae469": {
+      "src": "Agricultural Revolution",
+      "t": "La revolución agrícola"
+    },
+    "43b58549": {
+      "src": "Agricultural revolution",
+      "t": "La revolución agrícola"
+    },
+    "176624ac": {
+      "src": "Al-Andalus to Jamaica —",
+      "t": "De Al-Ándalus a Jamaica:"
+    },
+    "b3955723": {
+      "src": "Al-Razi:",
+      "t": "Al-Razi:"
+    },
+    "e1271163": {
+      "src": "Almonds",
+      "t": "Almendras"
+    },
+    "d5ea934c": {
+      "src": "Among the most documented practices of Islamic medicine is the use of the",
+      "t": "Entre las prácticas más documentadas de la medicina islámica está el uso del"
+    },
+    "725d7229": {
+      "src": "Benzyl isothiocyanate",
+      "t": "Isotiocianato de bencilo"
+    },
+    "30452eed": {
+      "src": "Between the 8th and 13th centuries CE, the Islamic world produced an explosion of scientific knowledge that had no parallel anywhere on earth. While much of Europe was in the early medieval period, the scholars of Baghdad, Cairo, and Al-Andalus (Muslim-ruled Iberia) were translating, synthesising, and extending the knowledge of ancient Greece, Persia, India, and the Arab world into comprehensive medical and nutritional texts.",
+      "t": "Entre los siglos VIII y XIII, el mundo islámico produjo una explosión de conocimiento científico sin paralelo en ningún otro lugar del planeta. Mientras gran parte de Europa vivía la Alta Edad Media, los eruditos de Bagdad, El Cairo y Al-Ándalus (la península ibérica bajo dominio musulmán) traducían, sintetizaban y ampliaban el saber de la antigua Grecia, Persia, la India y el mundo árabe en textos médicos y nutricionales completos."
+    },
+    "24d5f76a": {
+      "src": "Between the 8th and 15th centuries, the Islamic scholars of Al-Andalus produced the most advanced nutritional science in human history. Their manuscripts — preserved in the British Library, the Real Biblioteca de El Escorial, and the Bibliothèque nationale de France — document a food medicine system that modern clinical research continues to validate, one study at a time.",
+      "t": "Entre los siglos VIII y XV, los eruditos islámicos de Al-Ándalus produjeron la ciencia nutricional más avanzada de la historia humana. Sus manuscritos, conservados en la British Library, la Real Biblioteca de El Escorial y la Bibliothèque nationale de France, documentan un sistema de medicina alimentaria que la investigación clínica moderna sigue validando, estudio a estudio."
+    },
+    "b3ab4003": {
+      "src": "Both contain nutritional knowledge that modern research is still working to fully document.",
+      "t": "Ambos contienen conocimiento nutricional que la investigación moderna todavía trabaja por documentar del todo."
+    },
+    "9d1e736a": {
+      "src": "British Library, Ibn Sina, Al-Andalus manuscripts",
+      "t": "British Library, Ibn Sina, manuscritos de Al-Ándalus"
+    },
+    "40b8d7e3": {
+      "src": "Canon of Medicine",
+      "t": "Canon de medicina"
+    },
+    "7c8f8a40": {
+      "src": "Canon of Medicine, Book II — Simple Drugs — Ibn Sina, c.1020 CE — British Library Add MS 23407",
+      "t": "Canon de medicina, Libro II · Medicamentos simples · Ibn Sina, hacia 1020 d. C. · British Library Add MS 23407"
+    },
+    "cc99de7f": {
+      "src": "Chickpeas (Garbanzo)",
+      "t": "Garbanzos"
+    },
+    "1b117e4b": {
+      "src": "Chickpeas appear in virtually every Andalusian cookbook recipe collection. Ibn Sina prescribes them for “building body strength without producing excess heat.” A 100g serving provides 19g of protein, 17g of fibre, and 105% of daily folate requirements — with a glycaemic index of 28 (very low).",
+      "t": "Los garbanzos aparecen en casi todos los recetarios andalusíes. Ibn Sina los receta para “dar fuerza al cuerpo sin producir un calor excesivo”. Una porción de 100 g aporta 19 g de proteína, 17 g de fibra y el 105% del folato diario necesario, con un índice glucémico de 28 (muy bajo)."
+    },
+    "2958667e": {
+      "src": "Citrus fruits",
+      "t": "Cítricos"
+    },
+    "a23e7e7f": {
+      "src": "Continue the",
+      "t": "Continúa la"
+    },
+    "6cad9aa7": {
+      "src": "Core of the Andalusian diet across all social classes",
+      "t": "Base de la dieta andalusí en todas las clases sociales"
+    },
+    "fddc8344": {
+      "src": "Cotton, silk, figs, pomegranates, saffron, carob, and artichokes",
+      "t": "El algodón, la seda, los higos, las granadas, el azafrán, el algarrobo y las alcachofas"
+    },
+    "08d9476d": {
+      "src": "Crocin, crocetin, and safranal — documented antidepressant and neuroprotective compounds.",
+      "t": "Crocina, crocetina y safranal: compuestos antidepresivos y neuroprotectores documentados."
+    },
+    "6ccb18be": {
+      "src": "Dates",
+      "t": "Dátiles"
+    },
+    "0edcdde8": {
+      "src": "Detailed recipes for chickpea, lentil, and fava bean dishes, with specific notes on their role in “strengthening the body without heating the blood” — a description that corresponds precisely to their documented effect of providing plant protein without the inflammatory compounds found in animal sources.",
+      "t": "Recetas detalladas de platos de garbanzos, lentejas y habas, con notas concretas sobre su papel para “fortalecer el cuerpo sin calentar la sangre”, una descripción que corresponde exactamente a su efecto documentado de aportar proteína vegetal sin los compuestos inflamatorios de las fuentes animales."
+    },
+    "987dffb0": {
+      "src": "Documented across Ibn Sina and Fidāla",
+      "t": "Documentado por Ibn Sina y en la Fidāla"
+    },
+    "e6627792": {
+      "src": "Documented for its astringent properties in treating diarrhoea, its role in “strengthening the stomach,” and its effects on fever. The Canon recommends pomegranate juice for inflammatory conditions. Modern research has identified punicalagins and punicic acid as potent antioxidants with documented anti-inflammatory effects that reduce inflammatory markers including C-reactive protein.",
+      "t": "Documentada por sus propiedades astringentes para tratar la diarrea, su papel para “fortalecer el estómago” y sus efectos sobre la fiebre. El Canon recomienda el jugo de granada para las afecciones inflamatorias. La investigación moderna ha identificado las punicalaginas y el ácido punícico como potentes antioxidantes con efectos antiinflamatorios documentados que reducen marcadores inflamatorios como la proteína C reactiva."
+    },
+    "e4e3556c": {
+      "src": "Documented in Fidāla and Ibn Sina",
+      "t": "Documentado en la Fidāla y por Ibn Sina"
+    },
+    "a156aa2b": {
+      "src": "Documented in Ibn Sina's Canon of Medicine (1025 CE), with specific dosing, preparation methods, and clinical indications.",
+      "t": "documentadas en el Canon de medicina de Ibn Sina (1025 d. C.), con dosis, métodos de preparación e indicaciones clínicas concretas."
+    },
+    "e34cc18a": {
+      "src": "Documented in all major Moorish medical texts",
+      "t": "Documentado en todos los grandes textos médicos moros"
+    },
+    "ce87e2a1": {
+      "src": "Documented in the Andalusian Cookbook (Fidālat al-Khiwān, c.1260 CE) — including detailed medicinal and nutritional annotations for each dish.",
+      "t": "documentadas en el Recetario andalusí (Fidālat al-Khiwān, hacia 1260 d. C.), con anotaciones medicinales y nutricionales detalladas para cada plato."
+    },
+    "8cce9b4e": {
+      "src": "Eggplant (Aubergine)",
+      "t": "Berenjena"
+    },
+    "54c3072d": {
+      "src": "Eggplant was unknown in Europe before Moorish introduction. Ibn Sina documents specific preparation methods (salting to remove bitterness) identical to modern preparation. Nasunin has been shown to protect brain lipids from free radical damage and support iron absorption.",
+      "t": "La berenjena era desconocida en Europa antes de que la introdujeran los moros. Ibn Sina documenta métodos de preparación concretos (salarla para quitarle el amargor) idénticos a los actuales. Se ha demostrado que la nasunina protege los lípidos del cerebro del daño de los radicales libres y favorece la absorción del hierro."
+    },
+    "780dd9e9": {
+      "src": "Every Jamaican kitchen holds at least one ingredient or technique whose lineage traces back to the Moorish table.",
+      "t": "Cada cocina jamaicana tiene al menos un ingrediente o una técnica cuyo linaje se remonta a la mesa mora."
+    },
+    "727d4da0": {
+      "src": "Every spice in the Andalusian kitchen is documented with its specific therapeutic properties. Cumin for digestion. Coriander for fever. Saffron for mood. Turmeric — introduced to Al-Andalus via trade — for inflammation.",
+      "t": "Cada especia de la cocina andalusí está documentada con sus propiedades terapéuticas concretas. Comino para la digestión. Cilantro para la fiebre. Azafrán para el ánimo. Cúrcuma, llegada a Al-Ándalus por el comercio, para la inflamación."
+    },
+    "b8030173": {
+      "src": "Fermented and preserved foods:",
+      "t": "Alimentos fermentados y en conserva:"
+    },
+    "53b1c624": {
+      "src": "Fidālat al-Khiwān",
+      "t": "Fidālat al-Khiwān"
+    },
+    "845d9d2a": {
+      "src": "Fidālat al-Khiwān fī Ṭayyibāt al-Ṭa‘ām wa-l-Alwān",
+      "t": "Fidālat al-Khiwān fī Ṭayyibāt al-Ṭa‘ām wa-l-Alwān"
+    },
+    "3c1dd288": {
+      "src": "Fidālat al-Khiwān —",
+      "t": "Fidālat al-Khiwān:"
+    },
+    "2c4043c6": {
+      "src": "Fidālat al-Khiwān — c.1260 CE — Chapters rediscovered British Library, 2018",
+      "t": "Fidālat al-Khiwān · hacia 1260 d. C. · Capítulos redescubiertos, British Library, 2018"
+    },
+    "fed4862a": {
+      "src": "Figs (tin):",
+      "t": "Higos (tin):"
+    },
+    "44a9f5e1": {
+      "src": "Fluoride",
+      "t": "Flúor"
+    },
+    "f3454fb5": {
+      "src": "Foods the Moors documented",
+      "t": "Los alimentos que documentaron los moros"
+    },
+    "a3b4914a": {
+      "src": "Garlic (thum):",
+      "t": "Ajo (thum):"
+    },
+    "4bb17ac1": {
+      "src": "Ginger (zanjabil):",
+      "t": "Jengibre (zanjabil):"
+    },
+    "bf4eeb13": {
+      "src": "Honey Ras’s Ital kitchen and Ibn Sina’s Canon of Medicine are 1,000 years and an ocean apart. Their nutritional principles are the same.",
+      "t": "La cocina Ital de Honey Ras y el Canon de medicina de Ibn Sina están separados por 1.000 años y un océano. Sus principios nutricionales son los mismos."
+    },
+    "8c705ba4": {
+      "src": "Ibn Rushd:",
+      "t": "Ibn Rushd:"
+    },
+    "339fb684": {
+      "src": "Ibn Sina classifies olive oil as having “moderate warmth” and documents its role in “softening the bowels, cleansing the arteries, and nourishing the body.” The PREDIMED trial (7,447 participants, 2013) confirmed that extra-virgin olive oil reduces cardiovascular events by 30%. Ibn Sina was correct about every documented use.",
+      "t": "Ibn Sina clasifica el aceite de oliva como de “calor moderado” y documenta su papel para “ablandar el vientre, limpiar las arterias y nutrir el cuerpo”. El ensayo PREDIMED (7.447 participantes, 2013) confirmó que el aceite de oliva extra virgen reduce los eventos cardiovasculares en un 30%. Ibn Sina acertó en todos los usos documentados."
+    },
+    "cfed4de6": {
+      "src": "Ibn Sina documents dates as “strengthening for the whole body.” They deliver glucose with a fibre buffer that moderates blood sugar response — the exact mechanism now documented for preventing insulin spikes. The hadith (Islamic teachings) specifically recommend dates as a foundation food, reflecting their nutritional completeness.",
+      "t": "Ibn Sina documenta los dátiles como “fortalecedores para todo el cuerpo”. Aportan glucosa con un amortiguador de fibra que modera la respuesta del azúcar en sangre, justo el mecanismo que hoy se documenta para evitar los picos de insulina. Los hadices (enseñanzas islámicas) recomiendan expresamente los dátiles como alimento básico, lo que refleja lo completos que son nutricionalmente."
+    },
+    "a24ff352": {
+      "src": "Ibn Sina documents garlic as effective for “cold diseases of the chest” (respiratory infections), as a blood purifier, and as a treatment for intestinal parasites. He notes its warming properties and recommends it for the elderly and those with weak digestion. Modern research has confirmed allicin’s antimicrobial, cardiovascular, and immune-stimulating properties across hundreds of clinical trials — exactly the conditions Ibn Sina described.",
+      "t": "Ibn Sina documenta el ajo como eficaz para las “enfermedades frías del pecho” (infecciones respiratorias), como purificador de la sangre y como tratamiento contra los parásitos intestinales. Destaca sus propiedades calientes y lo recomienda para los mayores y para quienes tienen una digestión débil. La investigación moderna ha confirmado las propiedades antimicrobianas, cardiovasculares e inmunoestimulantes de la alicina en cientos de ensayos clínicos: exactamente las afecciones que describía Ibn Sina."
+    },
+    "83064830": {
+      "src": "Ibn Sina prescribes almonds for strengthening the brain and nervous system. Spain today produces 25% of the world’s almonds — on orchards descended from Moorish plantings. The almond milk documented in 13th-century Andalusian recipes is identical to what is now marketed as a modern health food.",
+      "t": "Ibn Sina receta las almendras para fortalecer el cerebro y el sistema nervioso. España produce hoy el 25% de las almendras del mundo, en huertos que descienden de plantaciones moras. La leche de almendras documentada en recetas andalusíes del siglo XIII es idéntica a la que hoy se vende como alimento saludable moderno."
+    },
+    "05516845": {
+      "src": "Ibn Sina prescribes figs for constipation, respiratory conditions, and as a general tonic for the liver. He documents their laxative properties and their role in “opening obstructions.” Modern analysis confirms figs are among the highest dietary fibre fruits available, with documented prebiotic effects and liver-protective compounds.",
+      "t": "Ibn Sina receta los higos para el estreñimiento, las afecciones respiratorias y como tónico general del hígado. Documenta sus propiedades laxantes y su papel para “abrir las obstrucciones”. El análisis moderno confirma que los higos están entre las frutas con más fibra dietética, con efectos prebióticos documentados y compuestos que protegen el hígado."
+    },
+    "5fb2fc10": {
+      "src": "Ibn Sina prescribes saffron for “lifting the spirits and brightening the mood.” Multiple clinical trials have since confirmed saffron extract’s efficacy for mild-to-moderate depression — comparable to standard antidepressants in several studies. The most expensive spice on earth, and among the most medicinally validated.",
+      "t": "Ibn Sina receta el azafrán para “levantar el ánimo y alegrar el humor”. Desde entonces, varios ensayos clínicos han confirmado la eficacia del extracto de azafrán para la depresión leve a moderada, comparable a la de los antidepresivos habituales en varios estudios. La especia más cara del mundo, y una de las más validadas como medicina."
+    },
+    "c3d2dd0c": {
+      "src": "Ibn Sina then immediately proceeds to discuss food — because",
+      "t": "Ibn Sina pasa enseguida a hablar de la comida, porque"
+    },
+    "8bbed6e4": {
+      "src": "Ibn Sina wrote the Canon of Medicine over a thousand years ago. The Fidāla was written 760 years ago. Both are preserved in the British Library. Both are available to scholars.",
+      "t": "Ibn Sina escribió el Canon de medicina hace más de mil años. La Fidāla se escribió hace 760 años. Ambos se conservan en la British Library. Ambos están al alcance de los investigadores."
+    },
+    "7d72a301": {
+      "src": "Ibn Sina —",
+      "t": "Ibn Sina:"
+    },
+    "4e61871d": {
+      "src": "Ibn Sina — Canon of Medicine",
+      "t": "Ibn Sina y el Canon de medicina"
+    },
+    "08806139": {
+      "src": "Ibn Sina, Canon of Medicine, Book I — 1025 CE",
+      "t": "Ibn Sina, Canon de medicina, Libro I · 1025 d. C."
+    },
+    "eb50cc1d": {
+      "src": "Ibn Sina:",
+      "t": "Ibn Sina:"
+    },
+    "45812448": {
+      "src": "Ibn Sina’s Canon of Medicine specifically discusses oral health as the gateway to systemic health — recommending daily oral cleaning as a preventive medicine practice.",
+      "t": "El Canon de medicina de Ibn Sina trata expresamente la salud bucal como la puerta de entrada a la salud de todo el cuerpo, y recomienda la limpieza bucal diaria como práctica de medicina preventiva."
+    },
+    "36fa9831": {
+      "src": "In 2018, Dr. Bink Hallum, the British Library’s curator of Arabic scientific manuscripts, announced the discovery of previously unknown chapters of the",
+      "t": "En 2018, el Dr. Bink Hallum, conservador de manuscritos científicos árabes de la British Library, anunció el hallazgo de capítulos hasta entonces desconocidos de la"
+    },
+    "4773e11d": {
+      "src": "In use",
+      "t": "en uso"
+    },
+    "3ee1230d": {
+      "src": "Introduced to Europe by the Moors",
+      "t": "Introducidos en Europa por los moros"
+    },
+    "fabf3805": {
+      "src": "Introduced to Iberia by the Moors",
+      "t": "Introducida en la península ibérica por los moros"
+    },
+    "525adb79": {
+      "src": "Irrigation technology:",
+      "t": "Tecnología de riego:"
+    },
+    "36d11f64": {
+      "src": "It became the largest library in human history up to that point",
+      "t": "Se convirtió en la mayor biblioteca de la historia humana hasta ese momento"
+    },
+    "0c35624f": {
+      "src": "It is not a recipe book in the modern sense. It is a clinical nutritional text that happens to contain recipes.",
+      "t": "No es un libro de recetas en el sentido moderno. Es un texto clínico de nutrición que además contiene recetas."
+    },
+    "220aaf2d": {
+      "src": "Kitab al-Mansuri",
+      "t": "Kitab al-Mansuri"
+    },
+    "8576b7ec": {
+      "src": "Kitāb al-Filāḥa",
+      "t": "Kitāb al-Filāḥa"
+    },
+    "5577845a": {
+      "src": "Kulliyat",
+      "t": "Kulliyat"
+    },
+    "9dc37988": {
+      "src": "Kwik Fat Cut — Return to Real Food Series — Education First",
+      "t": "Kwik Fat Cut · Serie Volver a la Comida Real · La educación primero"
+    },
+    "fcdffd40": {
+      "src": "Legume preparations:",
+      "t": "Preparaciones de legumbres:"
+    },
+    "fcd51902": {
+      "src": "Li Shizhen's Ben Cao Gang Mu (1596) — the Chinese equivalent — took 27 years to compile. Ibn Sina's Canon was written in the 1010s-1020s and used as a European medical textbook until 1650.",
+      "t": "El Ben Cao Gang Mu de Li Shizhen (1596), el equivalente chino, tardó 27 años en compilarse. El Canon de Ibn Sina se escribió entre las décadas de 1010 y 1020 y se usó como manual de medicina en Europa hasta 1650."
+    },
+    "5e9aaef2": {
+      "src": "More directly: the olive oil, almonds, and Mediterranean herbs that arrived with Spanish colonists combined with West African, Taino, and indigenous Caribbean food knowledge to create the complex nutritional ecosystem from which modern Jamaican cuisine grew.",
+      "t": "De forma más directa: el aceite de oliva, las almendras y las hierbas mediterráneas que llegaron con los colonos españoles se combinaron con el saber alimentario de África Occidental, de los taínos y de los pueblos indígenas del Caribe para crear el complejo ecosistema nutricional del que nació la cocina jamaicana moderna."
+    },
+    "adc44201": {
+      "src": "Movements are medicines. We row. You steer. 🇯🇲",
+      "t": "Los movimientos son medicina. Nosotros remamos. Tú diriges. 🇯🇲"
+    },
+    "7321d8ea": {
+      "src": "Multiple preparations involving vinegar, fermented vegetables, and dairy ferments, with annotations on their role in “supporting the stomach’s digestive function.” The gut microbiome science of fermented foods — their role in supporting beneficial bacterial populations — was understood functionally 760 years before the gut-brain axis was named.",
+      "t": "Varias preparaciones con vinagre, verduras fermentadas y fermentos lácteos, con anotaciones sobre su papel para “apoyar la función digestiva del estómago”. La ciencia del microbioma intestinal sobre los alimentos fermentados, su papel en el apoyo a las poblaciones de bacterias beneficiosas, ya se entendía en la práctica 760 años antes de que se le pusiera nombre al eje intestino-cerebro."
+    },
+    "7670a9d4": {
+      "src": "Nasunin — a potent anthocyanin antioxidant concentrated in the skin.",
+      "t": "Nasunina: un potente antioxidante de la familia de las antocianinas, concentrado en la piel."
+    },
+    "11109d1f": {
+      "src": "Natural sugars with fibre, potassium, magnesium, and antioxidants.",
+      "t": "Azúcares naturales con fibra, potasio, magnesio y antioxidantes."
+    },
+    "201a1a81": {
+      "src": "Next in the series",
+      "t": "Siguiente en la serie"
+    },
+    "098f8e40": {
+      "src": "Olive oil (zayt al-zaytun):",
+      "t": "Aceite de oliva (zayt al-zaytun):"
+    },
+    "a7695095": {
+      "src": "Olive oil as foundation:",
+      "t": "El aceite de oliva como base:"
+    },
+    "38b5a1e9": {
+      "src": "One of the most extensively documented spices in the Canon. Ibn Sina prescribes it for digestive weakness, nausea, respiratory congestion, and joint pain. He notes its ability to “warm the stomach and aid digestion.” Gingerols and shogaols — ginger’s active compounds — have now been confirmed across 150+ clinical studies as anti-inflammatory, antiemetic, and gastroprotective.",
+      "t": "Una de las especias más documentadas del Canon. Ibn Sina lo receta para la debilidad digestiva, las náuseas, la congestión respiratoria y el dolor articular. Destaca su capacidad de “calentar el estómago y ayudar a la digestión”. Los gingeroles y los shogaoles, los compuestos activos del jengibre, se han confirmado en más de 150 estudios clínicos como antiinflamatorios, antieméticos y protectores del estómago."
+    },
+    "6283f7fb": {
+      "src": "Oral Health as Daily Practice",
+      "t": "La salud bucal como práctica diaria"
+    },
+    "8036de79": {
+      "src": "Oranges, lemons, and limes were unknown in Europe before Moorish cultivation in Iberia. Ibn al-ʿAwwām documents detailed citrus cultivation techniques. Citrus groves planted by Moorish farmers in the 10th century formed the foundation of Spanish and Portuguese citrus industries that persist today.",
+      "t": "Las naranjas, los limones y las limas eran desconocidos en Europa antes de que los moros los cultivaran en la península ibérica. Ibn al-ʿAwwām documenta técnicas detalladas para cultivar cítricos. Los naranjales plantados por agricultores moros en el siglo X fueron la base de las industrias citrícolas española y portuguesa que siguen existiendo hoy."
+    },
+    "7e218f44": {
+      "src": "Part 5 — A Nation’s Guide to Health, Wealth & Wisdom",
+      "t": "Parte 5 · La guía de una nación para la salud, la riqueza y la sabiduría"
+    },
+    "f8d4c3de": {
+      "src": "Part 5 — A Nation’s Guide to Health, Wealth & Wisdom.",
+      "t": "Parte 5 · La guía de una nación para la salud, la riqueza y la sabiduría."
+    },
+    "04f25bb9": {
+      "src": "Part 5 →",
+      "t": "Parte 5 →"
+    },
+    "8f2475c7": {
+      "src": "Plant medicines",
+      "t": "medicinas vegetales"
+    },
+    "89c2dc76": {
+      "src": "Plant protein, folate, iron, soluble fibre, resistant starch.",
+      "t": "Proteína vegetal, folato, hierro, fibra soluble, almidón resistente."
+    },
+    "8d3e1a4b": {
+      "src": "Pomegranate (rumman):",
+      "t": "Granada (rumman):"
+    },
+    "575f4a00": {
+      "src": "Primary sources used",
+      "t": "Fuentes principales utilizadas"
+    },
+    "b2fff18b": {
+      "src": "Read Part 5 →",
+      "t": "Lee la Parte 5 →"
+    },
+    "1ea50394": {
+      "src": "Recipes",
+      "t": "recetas"
+    },
+    "02949b44": {
+      "src": "Return to Real Food",
+      "t": "Volver a la Comida Real"
+    },
+    "ed51cb60": {
+      "src": "Return to Real Food — 4 of 7",
+      "t": "Volver a la Comida Real · 4 de 7"
+    },
+    "cbdefb67": {
+      "src": "Rice cultivation in Europe",
+      "t": "El cultivo del arroz en Europa"
+    },
+    "98274d24": {
+      "src": "Saffron",
+      "t": "Azafrán"
+    },
+    "2557c060": {
+      "src": "Salvadora persica contains:",
+      "t": "La Salvadora persica contiene:"
+    },
+    "1b75190f": {
+      "src": "Salvadorine",
+      "t": "Salvadorina"
+    },
+    "e2ac66fe": {
+      "src": "Silica",
+      "t": "Sílice"
+    },
+    "d1707419": {
+      "src": "Spice as medicine:",
+      "t": "La especia como medicina:"
+    },
+    "71344962": {
+      "src": "Sugar cane",
+      "t": "La caña de azúcar"
+    },
+    "fa18f4b6": {
+      "src": "The Canon of Medicine remained the standard medical textbook at European universities from the 12th to 17th century — longer than any other medical text in history.",
+      "t": "El Canon de medicina fue el manual de medicina de referencia en las universidades europeas desde el siglo XII hasta el XVII, más tiempo que cualquier otro texto médico de la historia."
+    },
+    "30a580bc": {
+      "src": "The Canon of Medicine — 1025 CE",
+      "t": "El Canon de medicina · 1025 d. C."
+    },
+    "c547947b": {
+      "src": "The Canon opens with a statement that Kwik Fat Cut makes its own:",
+      "t": "El Canon empieza con una afirmación que Kwik Fat Cut hace suya:"
+    },
+    "666517c5": {
+      "src": "The Caribbean Connection",
+      "t": "La conexión caribeña"
+    },
+    "98ec84a5": {
+      "src": "The Caribbean connection",
+      "t": "La conexión caribeña"
+    },
+    "0eab8c57": {
+      "src": "The Fidala manuscript",
+      "t": "El manuscrito de la Fidāla"
+    },
+    "8a57d833": {
+      "src": "The Fidāla treats olive oil not as a cooking medium but as a medicinal foundation — used in virtually every dish as a nutritional carrier. This aligns exactly with modern understanding of extra-virgin olive oil’s role in improving the bioavailability of fat-soluble vitamins and phytochemicals in other foods.",
+      "t": "La Fidāla trata el aceite de oliva no como un medio para cocinar, sino como una base medicinal, presente en casi todos los platos como vehículo nutricional. Esto coincide exactamente con lo que hoy se sabe sobre el papel del aceite de oliva extra virgen para mejorar la biodisponibilidad de las vitaminas liposolubles y los fitoquímicos de otros alimentos."
+    },
+    "9a7a1975": {
+      "src": "The Foods They Ate",
+      "t": "Los alimentos que comían"
+    },
+    "789ef673": {
+      "src": "The House of Wisdom in Baghdad — established by Caliph Harun al-Rashid (reigned 786–809 CE) and expanded by Al-Mamun (reigned 813–833 CE) — employed scholars from across the known world to translate every available scientific manuscript into Arabic.",
+      "t": "La Casa de la Sabiduría de Bagdad, fundada por el califa Harún al-Rashid (que reinó entre 786 y 809) y ampliada por Al-Mamún (que reinó entre 813 y 833), empleaba a eruditos de todo el mundo conocido para traducir al árabe todos los manuscritos científicos disponibles."
+    },
+    "a3042d10": {
+      "src": "The Islamic Golden Age",
+      "t": "La Edad de Oro islámica"
+    },
+    "ef8a46e8": {
+      "src": "The Islamic Golden Age (750–1258 CE)",
+      "t": "La Edad de Oro islámica (750 a 1258 d. C.)"
+    },
+    "3e28baf7": {
+      "src": "The Lost Cookbook",
+      "t": "El recetario perdido"
+    },
+    "0389e965": {
+      "src": "The Moorish Table — Foods That Changed the World — Kwik Fat Cut",
+      "t": "La mesa mora: los alimentos que cambiaron el mundo · Kwik Fat Cut"
+    },
+    "6904a3cc": {
+      "src": "The Moorish period in Iberia (711–1492 CE) produced one of the most significant agricultural transformations in European history. Arab and Berber farmers introduced sophisticated irrigation systems (the",
+      "t": "El periodo moro en la península ibérica (711 a 1492 d. C.) produjo una de las transformaciones agrícolas más importantes de la historia de Europa. Los agricultores árabes y bereberes introdujeron sofisticados sistemas de riego (la red de"
+    },
+    "bc2ad48f": {
+      "src": "The Moorish table.",
+      "t": "La mesa mora."
+    },
+    "63492612": {
+      "src": "The Moors introduced the",
+      "t": "Los moros introdujeron en la agricultura ibérica la"
+    },
+    "2f8b92b1": {
+      "src": "The Series",
+      "t": "La serie"
+    },
+    "306b4e26": {
+      "src": "The World Health Organization (WHO, 1986) published a report recommending the miswak as an effective oral hygiene tool after multiple studies confirmed its antimicrobial properties. The Journal of Periodontology (2002) published a study finding that miswak users showed",
+      "t": "La Organización Mundial de la Salud (OMS, 1986) publicó un informe que recomendaba el miswak como herramienta eficaz de higiene bucal después de que varios estudios confirmaran sus propiedades antimicrobianas. El Journal of Periodontology (2002) publicó un estudio que encontró que quienes usaban miswak tenían"
+    },
+    "8a2031fc": {
+      "src": "The ancient archive is not closed. It is waiting. Smile for me, Jamaica — the table was set long before we arrived.",
+      "t": "El archivo antiguo no está cerrado. Está esperando. Sonríe para mí, Jamaica: la mesa estaba puesta mucho antes de que llegáramos."
+    },
+    "16246e4c": {
+      "src": "The connection between Moorish food knowledge and Jamaica is not direct — but it is real, and it is documented. When Spanish colonisers arrived in Jamaica in 1494, they brought with them an agricultural tradition that had been profoundly shaped by 700 years of Moorish food culture. The citrus trees, the chickpeas, the spice knowledge, the irrigation methods —",
+      "t": "La conexión entre el saber alimentario moro y Jamaica no es directa, pero es real y está documentada. Cuando los colonizadores españoles llegaron a Jamaica en 1494, trajeron una tradición agrícola profundamente moldeada por 700 años de cultura alimentaria mora. Los cítricos, los garbanzos, el conocimiento de las especias, los métodos de riego:"
+    },
+    "5da52f41": {
+      "src": "The diet of Moorish Al-Andalus was a synthesis of Arab, Persian, Berber, and Iberian food traditions, refined across 700 years of agricultural experimentation and nutritional observation. Arabic agricultural manuals — particularly Ibn al-ʿAwwām’s",
+      "t": "La dieta del Al-Ándalus moro era una síntesis de las tradiciones alimentarias árabes, persas, bereberes e ibéricas, perfeccionada durante 700 años de experimentación agrícola y observación nutricional. Los manuales agrícolas árabes, en particular el"
+    },
+    "040fc042": {
+      "src": "The foods that",
+      "t": "Los alimentos que"
+    },
+    "609a093a": {
+      "src": "The knowledge is yours.",
+      "t": "El conocimiento es tuyo."
+    },
+    "033e21f9": {
+      "src": "The manuscript documents over 1,000 recipes, each with detailed annotations on their medicinal properties, digestive effects, and appropriate use by body type and season.",
+      "t": "El manuscrito documenta más de 1.000 recetas, cada una con anotaciones detalladas sobre sus propiedades medicinales, sus efectos digestivos y su uso adecuado según el tipo de cuerpo y la estación."
+    },
+    "7cac0ab2": {
+      "src": "The manuscript is open.",
+      "t": "El manuscrito está abierto."
+    },
+    "b97be018": {
+      "src": "The miswak & oral health",
+      "t": "El miswak y la salud bucal"
+    },
+    "7179a56c": {
+      "src": "The miswak —",
+      "t": "El miswak:"
+    },
+    "9e17c84e": {
+      "src": "The recovered chapters focus on",
+      "t": "Los capítulos recuperados se centran en"
+    },
+    "5360c871": {
+      "src": "The relationship between oral bacteria, cardiovascular disease, and systemic inflammation that modern cardiology documents was understood functionally by Ibn Sina 1,000 years ago.",
+      "t": "La relación entre las bacterias de la boca, las enfermedades cardiovasculares y la inflamación sistémica que documenta la cardiología moderna ya la entendía en la práctica Ibn Sina hace 1.000 años."
+    },
+    "ddbc9955": {
+      "src": "The same irrigation principles are used in modern Jamaican agricultural practice today.",
+      "t": "Los mismos principios de riego se usan hoy en la práctica agrícola jamaicana moderna."
+    },
+    "8aaaae84": {
+      "src": "The spice traditions of Jamaica — allspice, scotch bonnet, ginger, cinnamon, nutmeg — reflect a spice philosophy whose sophistication matches and extends the Moorish understanding of spice as medicine.",
+      "t": "Las tradiciones de especias de Jamaica (pimienta de Jamaica, ají scotch bonnet, jengibre, canela, nuez moscada) reflejan una filosofía de las especias cuya sofisticación iguala y amplía la comprensión mora de la especia como medicina."
+    },
+    "d45c32e7": {
+      "src": "These are not flavour preferences. They are prescriptions.",
+      "t": "No son preferencias de sabor. Son recetas médicas."
+    },
+    "c6b1c4b0": {
+      "src": "Vitamin C",
+      "t": "Vitamina C"
+    },
+    "5043b27e": {
+      "src": "Vitamin C, bioflavonoids, limonene.",
+      "t": "Vitamina C, bioflavonoides, limoneno."
+    },
+    "8ea6c41f": {
+      "src": "Vitamin E (highest of any nut), magnesium, calcium, riboflavin.",
+      "t": "Vitamina E (la más alta de todos los frutos secos), magnesio, calcio, riboflavina."
+    },
+    "fa6a1c54": {
+      "src": "Volumes",
+      "t": "volúmenes"
+    },
+    "f0044a9b": {
+      "src": "What Ibn Sina documented about specific foods",
+      "t": "Lo que Ibn Sina documentó sobre alimentos concretos"
+    },
+    "18342da4": {
+      "src": "What Moorish Al-Andalus",
+      "t": "Lo que el Al-Ándalus moro"
+    },
+    "adf5ca8c": {
+      "src": "What clinical research has confirmed about the miswak:",
+      "t": "Lo que la investigación clínica ha confirmado sobre el miswak:"
+    },
+    "f4bc22bb": {
+      "src": "What emerged from this synthesis was not a copy of ancient knowledge. It was something entirely new:",
+      "t": "Lo que surgió de esta síntesis no fue una copia del saber antiguo. Fue algo completamente nuevo:"
+    },
+    "a0ff3bc6": {
+      "src": "What the Andalusian manuscript documents",
+      "t": "Lo que documenta el manuscrito andalusí"
+    },
+    "415110ce": {
+      "src": "What the Moors planted",
+      "t": "Lo que plantaron los moros"
+    },
+    "07a6eaa5": {
+      "src": "When the most advanced",
+      "t": "Cuando se estaba escribiendo"
+    },
+    "ba43eb99": {
+      "src": "a systematic, tested, evidence-based nutritional science",
+      "t": "una ciencia nutricional sistemática, probada y basada en la evidencia"
+    },
+    "e33e96c8": {
+      "src": "acequia",
+      "t": "acequias"
+    },
+    "12cf79f0": {
+      "src": "al-Qanun fi al-Tibb",
+      "t": "al-Qanun fi al-Tibb"
+    },
+    "abdd5e3d": {
+      "src": "all bore the fingerprints of Al-Andalus.",
+      "t": "todos llevaban la huella de Al-Ándalus."
+    },
+    "8d0610de": {
+      "src": "arak",
+      "t": "arak"
+    },
+    "1b5c5dfe": {
+      "src": "changed the world.",
+      "t": "cambiaron el mundo."
+    },
+    "ce87374d": {
+      "src": "he understood that food was the primary means of both maintaining and restoring health.",
+      "t": "entendía que la comida era el medio principal tanto para mantener como para recuperar la salud."
+    },
+    "ded83325": {
+      "src": "miswak",
+      "t": "miswak"
+    },
+    "8422f0c1": {
+      "src": "network), crop rotation practices, and hundreds of new plant species to a landscape that had previously sustained far simpler agriculture.",
+      "t": "), prácticas de rotación de cultivos y cientos de nuevas especies vegetales en un paisaje que hasta entonces había sostenido una agricultura mucho más sencilla."
+    },
+    "cffabaa6": {
+      "src": "noria",
+      "t": "noria"
+    },
+    "4413ce0b": {
+      "src": "nutritional science in history",
+      "t": "la ciencia nutricional más avanzada"
+    },
+    "a5d14eda": {
+      "src": "put on the table — documented.",
+      "t": "ponía en la mesa, según los documentos."
+    },
+    "2598bbde": {
+      "src": "qanat",
+      "t": "qanat"
+    },
+    "25604bba": {
+      "src": "series.",
+      "t": "serie."
+    },
+    "01fec310": {
+      "src": "significantly lower plaque levels and lower rates of periodontal disease",
+      "t": "niveles de placa y tasas de enfermedad periodontal mucho más bajos"
+    },
+    "d6a1396f": {
+      "src": "still feeds the world.",
+      "t": "sigue alimentando al mundo."
+    },
+    "05dbf4a7": {
+      "src": "than toothbrush users in matched populations.",
+      "t": "que quienes usaban cepillo de dientes, en poblaciones comparables."
+    },
+    "3e12949e": {
+      "src": "that integrated food, medicine, body constitution, and seasonal variation into a coherent framework — 700 years before the modern scientific method was formalised.",
+      "t": "que integraba la comida, la medicina, la constitución del cuerpo y las variaciones de las estaciones en un marco coherente, 700 años antes de que se formalizara el método científico moderno."
+    },
+    "550af394": {
+      "src": "the 13th-century Andalusian manuscript rediscovered in 2018.",
+      "t": "el manuscrito andalusí del siglo XIII redescubierto en 2018."
+    },
+    "1132762b": {
+      "src": "the journey of food knowledge.",
+      "t": "el viaje del saber alimentario."
+    },
+    "7ff8402b": {
+      "src": "the physician who documented food as the first medicine.",
+      "t": "el médico que documentó la comida como primera medicina."
+    },
+    "1c656909": {
+      "src": "vegetable dishes, grain preparations, and fermented foods",
+      "t": "platos de verduras, preparaciones de cereales y alimentos fermentados"
+    },
+    "d0059b24": {
+      "src": "was being written.",
+      "t": "de la historia."
+    },
+    "b44dedb8": {
+      "src": "was brought to Iberia by Arab farmers from its origins in India, via Persia and North Africa. From Iberia, it was later carried to the Canary Islands and then to the Caribbean — where it reshaped the Atlantic economy and, catastrophically, drove the demand for enslaved labour that brought West African food knowledge to Jamaica.",
+      "t": "la llevaron a la península ibérica agricultores árabes desde su origen en la India, pasando por Persia y el norte de África. Desde la península se llevó después a las islas Canarias y luego al Caribe, donde transformó la economía atlántica y, de forma catastrófica, impulsó la demanda de mano de obra esclavizada que trajo el saber alimentario de África Occidental a Jamaica."
+    },
+    "f34b369c": {
+      "src": "was introduced by the Moors. The Valencian rice paddies that produce paella rice today are fed by irrigation systems built by Moorish engineers in the 10th century. Rice remains one of the world’s three most important staple crops.",
+      "t": "lo introdujeron los moros. Los arrozales valencianos que hoy producen el arroz de la paella se riegan con sistemas construidos por ingenieros moros en el siglo X. El arroz sigue siendo uno de los tres cultivos básicos más importantes del mundo."
+    },
+    "62916d82": {
+      "src": "were all introduced or significantly expanded in cultivation by Moorish farmers in Iberia. The citrus groves of Andalusia and the almond orchards of southern Spain are living memorials to this agricultural revolution.",
+      "t": "fueron introducidos o extendidos de forma importante por los agricultores moros en la península ibérica. Los naranjales de Andalucía y los almendrales del sur de España son monumentos vivos de esta revolución agrícola."
+    },
+    "82a3db36": {
+      "src": "— a teeth-cleaning twig cut from the Salvadora persica tree (known in Arabic as",
+      "t": ", una ramita para limpiar los dientes cortada del árbol Salvadora persica (conocido en árabe como"
+    },
+    "34cb7eef": {
+      "src": "— alkaloid with documented antibacterial activity against Streptococcus mutans (primary cavity-causing bacteria).",
+      "t": ": alcaloide con actividad antibacteriana documentada contra Streptococcus mutans (la principal bacteria causante de caries)."
+    },
+    "3e82ee37": {
+      "src": "— antibacterial compound.",
+      "t": ": compuesto antibacteriano."
+    },
+    "748508ae": {
+      "src": "— gentle abrasive that removes surface stains.",
+      "t": ": abrasivo suave que elimina las manchas superficiales."
+    },
+    "f0e29003": {
+      "src": "— specifically the sections most relevant to plant-based nutrition. They document:",
+      "t": ", justo las secciones más relevantes para la nutrición basada en plantas. Documentan:"
+    },
+    "a7df9b4a": {
+      "src": "— supports gum tissue integrity. The mechanical action of miswak fibres on the tooth surface also provides superior interproximal cleaning compared to standard toothbrush bristles for certain tooth geometries.",
+      "t": ": favorece la integridad del tejido de las encías. La acción mecánica de las fibras del miswak sobre la superficie del diente también limpia mejor entre los dientes que las cerdas de un cepillo común en ciertas formas dentales."
+    },
+    "17396e89": {
+      "src": "“Medicine considers the human body as to the means by which it may be maintained in health and the means by which health may be restored after it has been lost.”",
+      "t": "“La medicina estudia el cuerpo humano en cuanto a los medios por los que puede mantenerse sano y los medios por los que puede recuperarse la salud una vez perdida.”"
+    },
+    "12a99e6e": {
+      "src": "“The physician who does not know the properties of food cannot know the properties of medicine. Food comes first — always. It is the foundation, not the supplement.”",
+      "t": "“El médico que no conoce las propiedades de la comida no puede conocer las propiedades de la medicina. La comida va primero, siempre. Es la base, no el complemento.”"
+    },
+    "d1f19535": {
+      "src": "← Part 3",
+      "t": "← Parte 3"
+    },
+    "e8c33e18": {
+      "src": "🇯🇲❤️💚",
+      "t": "🇯🇲❤️💚"
+    },
+    "b349eb1f": {
+      "src": "📜 Return to Real Food Series — Part 4 of 7",
+      "t": "📜 Serie Volver a la Comida Real, Parte 4 de 7"
+    }
+  }
+}

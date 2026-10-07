@@ -1,0 +1,543 @@
+{
+  "_note": "Page content for learn-ancient-oral-wisdom.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "230c8c59": {
+      "src": "&",
+      "t": "y"
+    },
+    "8bcef550": {
+      "src": "9 min",
+      "t": "9 min"
+    },
+    "13db655e": {
+      "src": "Across both civilisations,",
+      "t": "En ambas civilizaciones,"
+    },
+    "e6136cf7": {
+      "src": "Across early societies, daily habits — not products — protected the mouth.”",
+      "t": "En las primeras sociedades, eran los hábitos diarios, y no los productos, los que protegían la boca.”"
+    },
+    "15bc4e91": {
+      "src": "Across the Atlantic —",
+      "t": "Al otro lado del Atlántico,"
+    },
+    "c82d1511": {
+      "src": "Across the Atlantic, the Aztecs demonstrated a similar alignment with nature. Archaeological and colonial records show diets built on",
+      "t": "Al otro lado del Atlántico, los aztecas mostraban una sintonía similar con la naturaleza. Los registros arqueológicos y coloniales muestran dietas basadas en"
+    },
+    "66523f89": {
+      "src": "All articles free. No subscription. No pressure. The knowledge tree keeps growing.",
+      "t": "Todos los artículos son gratis. Sin suscripción. Sin presión. El árbol del conocimiento sigue creciendo."
+    },
+    "65bd0d22": {
+      "src": "Always. Kwik Fat Cut exists to help you find your way back to what the body already knows.",
+      "t": "Siempre. Kwik Fat Cut existe para ayudarte a volver a lo que el cuerpo ya sabe."
+    },
+    "456a2a00": {
+      "src": "Amaranth (high in calcium & protein)",
+      "t": "Amaranto (rico en calcio y proteína)"
+    },
+    "155db9d3": {
+      "src": "Among the Moors, historic Islamic medical texts describe the use of the",
+      "t": "Entre los moros, los textos médicos islámicos históricos describen el uso del"
+    },
+    "1d979ea0": {
+      "src": "Ancient Oral Wisdom",
+      "t": "Sabiduría bucal ancestral"
+    },
+    "3941fbed": {
+      "src": "Ancient Oral Wisdom — Kwik Fat Cut",
+      "t": "Sabiduría bucal ancestral · Kwik Fat Cut"
+    },
+    "474f634a": {
+      "src": "Ancient Wisdom & Oral Health",
+      "t": "Sabiduría antigua y salud bucal"
+    },
+    "fa3b9beb": {
+      "src": "Aztec Diet & Oral Practice",
+      "t": "Dieta azteca y práctica bucal"
+    },
+    "c94d4171": {
+      "src": "Back to Learn",
+      "t": "Volver a Aprende"
+    },
+    "b74dfa5e": {
+      "src": "Beans (black, pinto, ayocote)",
+      "t": "Frijoles (negros, pintos, ayocote)"
+    },
+    "f207d4b5": {
+      "src": "Because the family tree does not begin in the clinic. It does not begin with the dentist, the mouthwash, or the whitening strip. It begins in behaviour — in the daily, repeated choices that either support or undermine the oral environment, and through it, the whole body.",
+      "t": "Porque el árbol genealógico no empieza en la clínica. No empieza con el dentista, el enjuague bucal ni la tira blanqueadora. Empieza en el comportamiento: en las decisiones diarias y repetidas que apoyan o debilitan el entorno bucal y, a través de él, todo el cuerpo."
+    },
+    "85e16205": {
+      "src": "Before modern",
+      "t": "Antes de la"
+    },
+    "9d32fbc3": {
+      "src": "Before modern dentistry",
+      "t": "Antes de la odontología moderna"
+    },
+    "5362c4d5": {
+      "src": "Before modern dentistry, across early societies worldwide, daily habits — not products — protected the mouth. There were no clinics on every corner, no fluoride treatments, no electric toothbrushes. And yet, the archaeological and historical record shows communities with strong oral structures, low decay rates, and sophisticated daily hygiene practices rooted entirely in what grew from the earth.",
+      "t": "Antes de la odontología moderna, en las primeras sociedades de todo el mundo, eran los hábitos diarios, y no los productos, los que protegían la boca. No había clínicas en cada esquina, ni tratamientos con flúor, ni cepillos eléctricos. Y aun así, el registro arqueológico e histórico muestra comunidades con estructuras bucales fuertes, bajas tasas de caries y prácticas de higiene diaria sofisticadas, basadas por completo en lo que crecía de la tierra."
+    },
+    "207dbe9e": {
+      "src": "Cacao (unprocessed)",
+      "t": "Cacao (sin procesar)"
+    },
+    "22aef7f0": {
+      "src": "Cacao, used in its unprocessed form, contains compounds with antimicrobial properties. Chili and herbs contributed to the microbial environment of the mouth.",
+      "t": "El cacao, usado sin procesar, contiene compuestos con propiedades antimicrobianas. El chile y las hierbas contribuían al entorno microbiano de la boca."
+    },
+    "8fd030cd": {
+      "src": "Chewing as daily oral exercise",
+      "t": "Masticar como ejercicio bucal diario"
+    },
+    "51c3e65c": {
+      "src": "Chili & wild herbs",
+      "t": "Chile y hierbas silvestres"
+    },
+    "f5c996ab": {
+      "src": "Coarse, fibrous Aztec staples required sustained chewing — which naturally stimulated saliva production and acted as mechanical cleaning for the teeth.",
+      "t": "Los alimentos básicos aztecas, ásperos y fibrosos, exigían masticar durante un buen rato, lo que estimulaba de forma natural la producción de saliva y funcionaba como una limpieza mecánica de los dientes."
+    },
+    "ab43d664": {
+      "src": "Continue",
+      "t": "Sigue"
+    },
+    "87ced916": {
+      "src": "Daily habits — not products — maintained balance.",
+      "t": "Los hábitos diarios, y no los productos, mantenían el equilibrio."
+    },
+    "dac0371f": {
+      "src": "Dates & dried fruits",
+      "t": "Dátiles y frutas secas"
+    },
+    "0e788e3d": {
+      "src": "Deep Read",
+      "t": "Lectura profunda"
+    },
+    "edb9f90b": {
+      "src": "Education First",
+      "t": "La educación primero"
+    },
+    "45caf627": {
+      "src": "Education First. Start Free. Learn First.",
+      "t": "La educación primero. Empieza gratis. Aprende primero."
+    },
+    "77e6b7dd": {
+      "src": "Education before intervention.",
+      "t": "La educación antes que la intervención."
+    },
+    "4cfc57e7": {
+      "src": "Explore — Kwik Fat Cut Foods Hub",
+      "t": "Explora: Centro de Alimentos de Kwik Fat Cut"
+    },
+    "4da06932": {
+      "src": "Fibrous food → natural mechanical clean",
+      "t": "Comida fibrosa → limpieza mecánica natural"
+    },
+    "70d434c9": {
+      "src": "Fibrous plant foods acted as a daily scrub — no toothbrush required. The food itself contributed to its own cleanup.",
+      "t": "Los alimentos vegetales fibrosos funcionaban como un cepillado diario, sin necesidad de cepillo. La propia comida ayudaba a limpiar lo que dejaba."
+    },
+    "e9478ffb": {
+      "src": "Food as oral medicine",
+      "t": "La comida como medicina bucal"
+    },
+    "5a45fe86": {
+      "src": "For hygiene, they used",
+      "t": "Para la higiene usaban"
+    },
+    "ec9112d8": {
+      "src": "Fresh herbs & spices",
+      "t": "Hierbas y especias frescas"
+    },
+    "a53cfddb": {
+      "src": "Herbal preparations for gum health",
+      "t": "Preparaciones de hierbas para la salud de las encías"
+    },
+    "0655991d": {
+      "src": "Herbal preparations → gum support",
+      "t": "Preparaciones de hierbas → apoyo a las encías"
+    },
+    "4802a0b5": {
+      "src": "High fibre → mechanical cleaning",
+      "t": "Mucha fibra → limpieza mecánica"
+    },
+    "ef6ef93e": {
+      "src": "How you",
+      "t": "Cómo"
+    },
+    "bb551b5b": {
+      "src": "Hygiene was woven into the rhythm of daily life. It was behaviour, not product, that preserved the oral environment.",
+      "t": "La higiene estaba integrada en el ritmo de la vida diaria. Era el comportamiento, no el producto, lo que preservaba el entorno bucal."
+    },
+    "05e082b4": {
+      "src": "In what we eat. In how we chew. In what we choose to repeat.",
+      "t": "En lo que comemos. En cómo masticamos. En lo que elegimos repetir."
+    },
+    "090c4de2": {
+      "src": "Islamic medical tradition",
+      "t": "La tradición médica islámica"
+    },
+    "7e4e24e0": {
+      "src": "It begins in behaviour.",
+      "t": "Empieza en el comportamiento."
+    },
+    "2bf8db95": {
+      "src": "It was routine — often practised multiple times daily.",
+      "t": "Era una rutina, a menudo practicada varias veces al día."
+    },
+    "8136da6a": {
+      "src": "Kwik Fat Cut — Foods Hub",
+      "t": "Kwik Fat Cut · Centro de Alimentos"
+    },
+    "ca66fd01": {
+      "src": "Legumes (lentils, chickpeas, fava beans)",
+      "t": "Legumbres (lentejas, garbanzos, habas)"
+    },
+    "cfbd86c1": {
+      "src": "Low refined sugar → fewer acids",
+      "t": "Poca azúcar refinada → menos ácidos"
+    },
+    "b5547c96": {
+      "src": "Maize (nixtamalised, whole)",
+      "t": "Maíz (nixtamalizado, entero)"
+    },
+    "426e5361": {
+      "src": "Minimal refined sugar reduced decay.",
+      "t": "El mínimo de azúcar refinada reducía las caries."
+    },
+    "c2e8b4b7": {
+      "src": "Miswak routine → antimicrobial balance",
+      "t": "Rutina de miswak → equilibrio antimicrobiano"
+    },
+    "99726e25": {
+      "src": "Moderate animal foods",
+      "t": "Alimentos de origen animal con moderación"
+    },
+    "f15d5866": {
+      "src": "Moorish Diet & Oral Health",
+      "t": "Dieta morisca y salud bucal"
+    },
+    "2f39a787": {
+      "src": "Natural fibres supported mechanical cleaning.",
+      "t": "Las fibras naturales ayudaban a la limpieza mecánica."
+    },
+    "734f01a3": {
+      "src": "No refined sugar in traditional diet",
+      "t": "Sin azúcar refinada en la dieta tradicional"
+    },
+    "225193e9": {
+      "src": "Not in a product. Not in a subscription.",
+      "t": "No en un producto. No en una suscripción."
+    },
+    "cc61be95": {
+      "src": "Not luxury — function. Not products designed for profit — practices designed for results. The mouth was understood as a site of daily attention, not periodic intervention.",
+      "t": "No era lujo, era función. No eran productos diseñados para el lucro, sino prácticas diseñadas para dar resultados. La boca se entendía como un lugar de atención diaria, no de intervención ocasional."
+    },
+    "0b0a30e8": {
+      "src": "Olives & olive oil",
+      "t": "Aceitunas y aceite de oliva"
+    },
+    "867af3f7": {
+      "src": "Oral Health Article",
+      "t": "Artículo sobre salud bucal"
+    },
+    "9c165191": {
+      "src": "Oral health was not",
+      "t": "La salud bucal no se"
+    },
+    "b3a48a4e": {
+      "src": "Plant-based abrasives for cleaning",
+      "t": "Abrasivos vegetales para la limpieza"
+    },
+    "1488d37b": {
+      "src": "Restore memory — trace the roots.",
+      "t": "Recupera la memoria, sigue las raíces."
+    },
+    "d65274f6": {
+      "src": "Restore memory.",
+      "t": "Recupera la memoria."
+    },
+    "b3a746b2": {
+      "src": "Salt rinses for antimicrobial balance",
+      "t": "Enjuagues con sal para el equilibrio antimicrobiano"
+    },
+    "09700501": {
+      "src": "Salvadora persica",
+      "t": "Salvadora persica"
+    },
+    "0f84ff28": {
+      "src": "Squash & seeds",
+      "t": "Calabaza y semillas"
+    },
+    "d81d25d5": {
+      "src": "Stay seated. We go further back.",
+      "t": "Quédate sentado. Vamos más atrás."
+    },
+    "983e5879": {
+      "src": "Strong enamel outcomes recorded",
+      "t": "Esmalte fuerte documentado"
+    },
+    "5e0d3e08": {
+      "src": "That effort was the point — activating saliva, strengthening jaw muscles, mechanically cleaning tooth surfaces with every bite.",
+      "t": "Ese esfuerzo era justamente la clave: activaba la saliva, fortalecía los músculos de la mandíbula y limpiaba mecánicamente la superficie de los dientes en cada bocado."
+    },
+    "3b3a6b66": {
+      "src": "That power is already within us. ❤️💚",
+      "t": "Ese poder ya está dentro de nosotros. ❤️💚"
+    },
+    "cb2e942a": {
+      "src": "The Aztecs",
+      "t": "Los aztecas"
+    },
+    "712e82fa": {
+      "src": "The Aztecs & whole foods",
+      "t": "Los aztecas y los alimentos integrales"
+    },
+    "da13f3a2": {
+      "src": "The Closing Truth",
+      "t": "La verdad final"
+    },
+    "b651b149": {
+      "src": "The Evidence",
+      "t": "La evidencia"
+    },
+    "c009a554": {
+      "src": "The Family Tree Begins Here",
+      "t": "El árbol genealógico empieza aquí"
+    },
+    "4ae41f96": {
+      "src": "The Moors",
+      "t": "Los moros"
+    },
+    "812cefb5": {
+      "src": "The Moors & the miswak",
+      "t": "Los moros y el miswak"
+    },
+    "81928672": {
+      "src": "The Moors knew it. The Aztecs lived it. And the body still carries that wisdom, waiting to be remembered.",
+      "t": "Los moros lo sabían. Los aztecas lo vivían. Y el cuerpo aún lleva esa sabiduría, esperando ser recordada."
+    },
+    "ac1a33d0": {
+      "src": "The Root Question",
+      "t": "La pregunta de raíz"
+    },
+    "d72f96d0": {
+      "src": "The act of eating whole foods was itself a hygiene practice.",
+      "t": "El simple hecho de comer alimentos integrales ya era una práctica de higiene."
+    },
+    "3168317d": {
+      "src": "The miswak was not a remedy for a problem. It was a prevention woven into the rhythm of the day, as natural and as consistent as prayer or meals.",
+      "t": "El miswak no era un remedio para un problema. Era una prevención integrada en el ritmo del día, tan natural y constante como la oración o las comidas."
+    },
+    "4efae9ff": {
+      "src": "The mouth",
+      "t": "La boca"
+    },
+    "5610a8ba": {
+      "src": "The mouth remembers. It carries the memory of every civilisation that understood nourishment before the industry arrived to complicate it. It reminds us that our power to create change begins with recognising the strength already within us.",
+      "t": "La boca recuerda. Lleva la memoria de cada civilización que entendió la nutrición antes de que llegara la industria a complicarla. Nos recuerda que nuestro poder para crear cambios empieza por reconocer la fuerza que ya llevamos dentro."
+    },
+    "a209483d": {
+      "src": "The pattern that holds",
+      "t": "El patrón que se mantiene"
+    },
+    "988df4e8": {
+      "src": "The power within us",
+      "t": "El poder dentro de nosotros"
+    },
+    "e6fb0552": {
+      "src": "The root of modern oral health crisis is not a lack of products — it is a departure from the behaviours and foods that kept the mouth in balance for millennia.",
+      "t": "La raíz de la crisis actual de salud bucal no es la falta de productos: es el abandono de los comportamientos y los alimentos que mantuvieron la boca en equilibrio durante milenios."
+    },
+    "6fdeb36b": {
+      "src": "Their diet leaned toward",
+      "t": "Su dieta se inclinaba hacia"
+    },
+    "d3b55f4c": {
+      "src": "These are not medical interventions. They are",
+      "t": "No son intervenciones médicas. Son"
+    },
+    "ad11dd1e": {
+      "src": "This is evidence.",
+      "t": "Es evidencia."
+    },
+    "47ec7a30": {
+      "src": "This is not nostalgia.",
+      "t": "Esto no es nostalgia."
+    },
+    "4a66f7c4": {
+      "src": "This is what happens when human communities live in alignment with the body’s actual needs.",
+      "t": "Es lo que pasa cuando las comunidades humanas viven en sintonía con las necesidades reales del cuerpo."
+    },
+    "dde36b20": {
+      "src": "To clarify: this was not occasional.",
+      "t": "Para que quede claro: no era algo ocasional."
+    },
+    "2c73c996": {
+      "src": "Trace the roots.",
+      "t": "Sigue las raíces."
+    },
+    "ed546db0": {
+      "src": "Two civilisations. Two continents. No contact with one another. And yet the same pattern emerges — independently, consistently, across generations. This is not coincidence.",
+      "t": "Dos civilizaciones. Dos continentes. Sin contacto entre sí. Y aun así surge el mismo patrón, de forma independiente y constante, a lo largo de generaciones. No es una coincidencia."
+    },
+    "c7ff7044": {
+      "src": "Understanding, so that behaviour can change from the inside out.",
+      "t": "Por la comprensión, para que el comportamiento pueda cambiar de dentro hacia fuera."
+    },
+    "3430a88e": {
+      "src": "What sustained the teeth",
+      "t": "Lo que sostenía los dientes"
+    },
+    "8bb66b44": {
+      "src": "What you",
+      "t": "Lo que"
+    },
+    "3c7e7e7a": {
+      "src": "Whole foods required effort to chew.",
+      "t": "Los alimentos integrales exigían esfuerzo para masticarlos."
+    },
+    "154fa6db": {
+      "src": "Whole foods → chewing stimulates saliva",
+      "t": "Alimentos integrales → masticar estimula la saliva"
+    },
+    "a4944320": {
+      "src": "Whole grains (wheat, barley, millet)",
+      "t": "Cereales integrales (trigo, cebada, mijo)"
+    },
+    "f308f9c9": {
+      "src": "Why is this",
+      "t": "¿Por qué esto es"
+    },
+    "f456a0de": {
+      "src": "Why this is the root",
+      "t": "Por qué esta es la raíz"
+    },
+    "21d4b231": {
+      "src": "With no industrial sugar supply, the acid attacks on enamel that now drive the global dental caries epidemic simply did not occur at scale.",
+      "t": "Sin un suministro industrial de azúcar, los ataques ácidos al esmalte que hoy impulsan la epidemia mundial de caries dental simplemente no ocurrían a gran escala."
+    },
+    "aab73d42": {
+      "src": "a pattern holds.",
+      "t": "se repite un patrón."
+    },
+    "5b4cc725": {
+      "src": "behaviours",
+      "t": "comportamientos"
+    },
+    "6e529a94": {
+      "src": "chew.",
+      "t": "masticas."
+    },
+    "f7d7ede5": {
+      "src": "dentistry —",
+      "t": "odontología moderna,"
+    },
+    "bc645051": {
+      "src": "eat.",
+      "t": "comes."
+    },
+    "c4edbf6f": {
+      "src": "it was lived.",
+      "t": "se vivía."
+    },
+    "e639bd9f": {
+      "src": "learning.",
+      "t": "aprendiendo."
+    },
+    "0d4a08ea": {
+      "src": "maize, beans, squash, amaranth, cacao, and chili",
+      "t": "el maíz, los frijoles, la calabaza, el amaranto, el cacao y el chile"
+    },
+    "ded83325": {
+      "src": "miswak",
+      "t": "miswak"
+    },
+    "7ba162d4": {
+      "src": "oral health was lived.",
+      "t": "la salud bucal se vivía."
+    },
+    "a8758b0e": {
+      "src": "outsourced —",
+      "t": "delegaba:"
+    },
+    "c4655f53": {
+      "src": "plant-based abrasives, salt rinses, and herbal preparations.",
+      "t": "abrasivos vegetales, enjuagues con sal y preparaciones de hierbas."
+    },
+    "11535897": {
+      "src": "remembers.",
+      "t": "recuerda."
+    },
+    "7e6a85ff": {
+      "src": "repeat daily.",
+      "t": "repites cada día."
+    },
+    "e3a3b3da": {
+      "src": "the miswak.",
+      "t": "el miswak."
+    },
+    "5dede321": {
+      "src": "the root?",
+      "t": "la raíz?"
+    },
+    "a472c6bf": {
+      "src": "the same alignment.",
+      "t": "la misma sintonía."
+    },
+    "8d99a5db": {
+      "src": "tree, also known as the toothbrush tree or arak. Its fibres mechanically cleaned teeth while its natural compounds demonstrated antimicrobial activity against the bacteria associated with decay and gum disease.",
+      "t": ", también conocido como árbol cepillo de dientes o arak. Sus fibras limpiaban los dientes de forma mecánica, mientras que sus compuestos naturales mostraban actividad antimicrobiana contra las bacterias asociadas a las caries y a las enfermedades de las encías."
+    },
+    "8459b2f2": {
+      "src": "whole grains, olives, dates, legumes, herbs, and moderate amounts of animal foods",
+      "t": "los cereales integrales, las aceitunas, los dátiles, las legumbres, las hierbas y cantidades moderadas de alimentos de origen animal"
+    },
+    "109ac26d": {
+      "src": "— a natural toothbrush made from the",
+      "t": ", un cepillo de dientes natural hecho del árbol"
+    },
+    "eaa757bc": {
+      "src": "— and behaviours are within reach of every person, regardless of income, geography, or access to healthcare. This is precisely why Kwik Fat Cut begins with education. Not products. Not programmes.",
+      "t": ", y los comportamientos están al alcance de cualquier persona, sin importar sus ingresos, dónde viva o su acceso a la atención médica. Precisamente por eso Kwik Fat Cut empieza por la educación. No por productos. No por programas."
+    },
+    "2b985fc0": {
+      "src": "— coarse, fibrous foods that require chewing, naturally stimulate saliva, strengthen gums, and support oral cleansing with every meal.",
+      "t": ": alimentos ásperos y fibrosos que exigen masticar, estimulan de forma natural la saliva, fortalecen las encías y ayudan a limpiar la boca en cada comida."
+    },
+    "28271d03": {
+      "src": "— low in refined sugar and high in fibre. Less sugar meant fewer acids. Fewer acids meant stronger enamel. The connection between diet and dental outcome was not theoretical. It was lived, daily, across generations.",
+      "t": ": poca azúcar refinada y mucha fibra. Menos azúcar significaba menos ácidos. Menos ácidos significaban un esmalte más fuerte. La relación entre la dieta y la salud dental no era teórica. Se vivía, a diario, generación tras generación."
+    },
+    "451ccf04": {
+      "src": "“Before modern dentistry, oral health was not outsourced —",
+      "t": "“Antes de la odontología moderna, la salud bucal no se delegaba:"
+    },
+    "acb9a337": {
+      "src": "“The Family Tree does not begin in the clinic.",
+      "t": "“El árbol genealógico no empieza en la clínica."
+    },
+    "c48c7de0": {
+      "src": "🌽 Core Foods",
+      "t": "🌽 Alimentos básicos"
+    },
+    "97323a53": {
+      "src": "🌾 Core Foods",
+      "t": "🌾 Alimentos básicos"
+    },
+    "366b472f": {
+      "src": "🦷 Oral Outcomes",
+      "t": "🦷 Resultados bucales"
+    },
+    "957e12cf": {
+      "src": "🦷 Oral Practice",
+      "t": "🦷 Práctica bucal"
+    }
+  }
+}
