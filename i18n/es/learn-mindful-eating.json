@@ -1,0 +1,367 @@
+{
+  "_note": "Page content for learn-mindful-eating.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "230c8c59": {
+      "src": "&",
+      "t": "y"
+    },
+    "53fc8af6": {
+      "src": "7 min",
+      "t": "7 min"
+    },
+    "8bdc9729": {
+      "src": "A non-profit commitment",
+      "t": "Un compromiso sin fines de lucro"
+    },
+    "2a64fc15": {
+      "src": "Aim for 20–30 chews per mouthful for solid food. Saliva contains amylase — a digestive enzyme that begins breaking down carbohydrates in the mouth, reducing the burden on the stomach.",
+      "t": "Intenta masticar de 20 a 30 veces cada bocado de comida sólida. La saliva contiene amilasa, una enzima digestiva que empieza a descomponer los carbohidratos en la boca y alivia la carga del estómago."
+    },
+    "4b7a788b": {
+      "src": "Balance",
+      "t": "Equilibrio"
+    },
+    "6a2a6a65": {
+      "src": "Begin your",
+      "t": "Empieza tu"
+    },
+    "5a7f5705": {
+      "src": "Begin your journey with a risk-free approach — focus on understanding basic health principles first. Explore simple, nutrient-rich foods. See how different aspects of health connect. Take the first step today.",
+      "t": "Empieza tu camino con un enfoque sin riesgos: céntrate primero en entender los principios básicos de la salud. Explora alimentos sencillos y ricos en nutrientes. Descubre cómo se conectan los distintos aspectos de la salud. Da el primer paso hoy."
+    },
+    "1b4675ef": {
+      "src": "Begin your journey with a risk-free approach. Initially, focus on understanding basic health principles. Explore simple, nutrient-rich foods and see how different aspects of health connect — digestion to immunity, sleep to metabolism, food quality to mental clarity.",
+      "t": "Empieza tu camino con un enfoque sin riesgos. Al principio, céntrate en entender los principios básicos de la salud. Explora alimentos sencillos y ricos en nutrientes y descubre cómo se conectan los distintos aspectos de la salud: la digestión con la inmunidad, el sueño con el metabolismo, la calidad de la comida con la claridad mental."
+    },
+    "3bdad46e": {
+      "src": "Built on trust, integrity, and education first",
+      "t": "Construida sobre la confianza, la integridad y la educación primero"
+    },
+    "2e64a0ff": {
+      "src": "Chew thoroughly",
+      "t": "Mastica a fondo"
+    },
+    "95608a7e": {
+      "src": "Chew your food carefully and break it into manageable pieces. This practice helps digestion by allowing saliva and stomach enzymes to work effectively. It also supports oxygen absorption in the small intestine — a key factor in maintaining energy and vitality throughout the day.",
+      "t": "Mastica bien la comida y divídela en trozos manejables. Esta práctica ayuda a la digestión porque permite que la saliva y las enzimas del estómago actúen con eficacia. También favorece la absorción de oxígeno en el intestino delgado, un factor clave para mantener la energía y la vitalidad a lo largo del día."
+    },
+    "a6c988c7": {
+      "src": "Consistency",
+      "t": "Constancia"
+    },
+    "bbb8d67b": {
+      "src": "Food & balance",
+      "t": "Comida y equilibrio"
+    },
+    "3864222d": {
+      "src": "Food is fundamental to life.",
+      "t": "La comida es fundamental para la vida."
+    },
+    "691005b2": {
+      "src": "Food is not",
+      "t": "La comida no es"
+    },
+    "d3bd8504": {
+      "src": "Foundation",
+      "t": "Fundamento"
+    },
+    "f1f96094": {
+      "src": "Free. No subscription. No pressure. Just clarity and understanding.",
+      "t": "Gratis. Sin suscripción. Sin presión. Solo claridad y comprensión."
+    },
+    "ab65ee69": {
+      "src": "Habits & steady growth",
+      "t": "Hábitos y crecimiento constante"
+    },
+    "59d0dcf1": {
+      "src": "Habits grow",
+      "t": "Los hábitos crecen"
+    },
+    "730b3ba1": {
+      "src": "Harmony",
+      "t": "Armonía"
+    },
+    "6aa56802": {
+      "src": "Health Education — Practice",
+      "t": "Educación en Salud (Práctica)"
+    },
+    "4d11a151": {
+      "src": "It begins in the mouth.",
+      "t": "Empieza en la boca."
+    },
+    "117acc5e": {
+      "src": "It is not a luxury but a necessity. Energy is vital for daily survival — not just physical energy for movement, but cellular energy for repair, immune function, cognitive clarity, and emotional resilience.",
+      "t": "No es un lujo, sino una necesidad. La energía es vital para la supervivencia diaria: no solo la energía física para moverse, sino la energía celular para la reparación, la función inmunitaria, la claridad mental y la resiliencia emocional."
+    },
+    "ba223085": {
+      "src": "Just as roots grow steadily over time, habits and health improvements also need consistent effort.",
+      "t": "Así como las raíces crecen poco a poco con el tiempo, los hábitos y las mejoras en la salud también necesitan un esfuerzo constante."
+    },
+    "332bc6e9": {
+      "src": "Just as roots search for the most fertile soil for nourishment, Kwik Fat Cut is dedicated to providing a strong moral foundation.",
+      "t": "Así como las raíces buscan el suelo más fértil para nutrirse, Kwik Fat Cut se dedica a ofrecer una base moral sólida."
+    },
+    "4d3f556b": {
+      "src": "Kwik Fat Cut is a",
+      "t": "Kwik Fat Cut es una"
+    },
+    "67bfe2fc": {
+      "src": "Kwik Fat Cut is designed to support healthy weight management, improve metabolic function, and foster mindful eating habits. Not through programmes sold at a premium. Through understanding provided freely.",
+      "t": "Kwik Fat Cut está pensado para apoyar un control saludable del peso, mejorar la función metabólica y fomentar hábitos de alimentación consciente. No con programas vendidos a precio alto. Con comprensión ofrecida gratuitamente."
+    },
+    "de95bdaa": {
+      "src": "Kwik Fat Cut is here to help you understand the rest.",
+      "t": "Kwik Fat Cut está aquí para ayudarte a entender el resto."
+    },
+    "1f1957ca": {
+      "src": "Kwik Fat Cut — Start Free. Learn First. — Education Before Intervention.",
+      "t": "Kwik Fat Cut. Empieza Gratis. Aprende Primero. La Educación Antes Que la Intervención."
+    },
+    "b80ea59a": {
+      "src": "Mindful Eating",
+      "t": "Alimentación consciente"
+    },
+    "c19715ed": {
+      "src": "Mindful Eating & Metabolism",
+      "t": "Alimentación consciente y metabolismo"
+    },
+    "5cc8a9f5": {
+      "src": "Mindful Eating & The Foundation — Kwik Fat Cut",
+      "t": "La alimentación consciente y la base · Kwik Fat Cut"
+    },
+    "c838ff7a": {
+      "src": "Mindful eating",
+      "t": "La alimentación consciente"
+    },
+    "cf43a3ab": {
+      "src": "Mindful eating encourages balance and harmony. Your dietary choices show your care.",
+      "t": "La alimentación consciente fomenta el equilibrio y la armonía. Tus elecciones alimentarias muestran cuánto te cuidas."
+    },
+    "83551055": {
+      "src": "Mindful eating is not a trend or a dietary philosophy. It is a return to how eating was always meant to be — present, deliberate, and connected to the body’s signals.",
+      "t": "La alimentación consciente no es una moda ni una filosofía dietética. Es un regreso a como siempre debió ser el comer: presente, deliberado y conectado con las señales del cuerpo."
+    },
+    "d9742e9e": {
+      "src": "Mindful eating is not perfection. It is practice. Steady, consistent, caring practice — the same kind that grows roots deep enough to weather any season.",
+      "t": "La alimentación consciente no es perfección. Es práctica. Una práctica constante, regular y cuidadosa, la misma que hace crecer raíces lo bastante profundas como para resistir cualquier estación."
+    },
+    "4080389b": {
+      "src": "More Articles",
+      "t": "Más Artículos"
+    },
+    "453c2f71": {
+      "src": "Neither excess nor restriction — a steady relationship with food built on understanding, not fear.",
+      "t": "Ni exceso ni restricción: una relación estable con la comida, basada en la comprensión y no en el miedo."
+    },
+    "165db536": {
+      "src": "Notice flavour and texture",
+      "t": "Fíjate en el sabor y la textura"
+    },
+    "d04d176b": {
+      "src": "Our mission",
+      "t": "Nuestra misión"
+    },
+    "c0ad16d0": {
+      "src": "Prioritise education before intervention. Learn first. Start free. Understand first. The rest follows naturally — just as the branches follow the roots.",
+      "t": "Prioriza la educación antes que la intervención. Aprende primero. Empieza gratis. Entiende primero. El resto llega de forma natural, así como las ramas siguen a las raíces."
+    },
+    "3dacbce7": {
+      "src": "Rooted in trust,",
+      "t": "Con raíces en la confianza,"
+    },
+    "e0885a56": {
+      "src": "Slow down before you eat",
+      "t": "Tómate un momento antes de comer"
+    },
+    "ece3aaf7": {
+      "src": "Start free.",
+      "t": "Empieza gratis."
+    },
+    "c76ab4fb": {
+      "src": "Start where you are. Use what you have. Do what you can.",
+      "t": "Empieza donde estás. Usa lo que tienes. Haz lo que puedas."
+    },
+    "b1ca5971": {
+      "src": "Start with",
+      "t": "Empieza con la"
+    },
+    "11728fae": {
+      "src": "Start with a free trial today and see how Kwik Fat Cut can support your health journey.",
+      "t": "Empieza hoy con una prueba gratuita y descubre cómo Kwik Fat Cut puede apoyar tu camino de salud."
+    },
+    "97fa98e0": {
+      "src": "Start with mindful eating",
+      "t": "Empieza con la alimentación consciente"
+    },
+    "0acab716": {
+      "src": "Steady, daily choices that accumulate into lasting change. No quick fixes. No shortcuts.",
+      "t": "Decisiones diarias y constantes que se suman hasta crear un cambio duradero. Sin soluciones rápidas. Sin atajos."
+    },
+    "43f50401": {
+      "src": "Stop when satisfied, not full",
+      "t": "Para cuando estés satisfecho, no lleno"
+    },
+    "a19eb4d0": {
+      "src": "Take a breath. Acknowledge your food. Rushing into a meal bypasses the body’s preparation signals and reduces digestive efficiency before a single bite is swallowed.",
+      "t": "Respira. Presta atención a tu comida. Lanzarte a comer con prisa se salta las señales de preparación del cuerpo y reduce la eficiencia digestiva antes de tragar el primer bocado."
+    },
+    "07ea7f5f": {
+      "src": "Taste buds are not passive. They communicate with the brain, signalling what the body is receiving and preparing the digestive system to process it. Paying attention activates this system more fully.",
+      "t": "Las papilas gustativas no son pasivas. Se comunican con el cerebro, le indican lo que el cuerpo está recibiendo y preparan el sistema digestivo para procesarlo. Prestar atención activa este sistema más a fondo."
+    },
+    "8c7d53da": {
+      "src": "The Fundamental Truth",
+      "t": "La verdad fundamental"
+    },
+    "a375ce57": {
+      "src": "The Long View",
+      "t": "La visión a largo plazo"
+    },
+    "93575fa4": {
+      "src": "The Moral Foundation",
+      "t": "La base moral"
+    },
+    "56173714": {
+      "src": "The body and the food it receives working together — not in opposition.",
+      "t": "El cuerpo y la comida que recibe trabajando juntos, no enfrentados."
+    },
+    "52f69b24": {
+      "src": "The moral foundation",
+      "t": "La base moral"
+    },
+    "3124f0da": {
+      "src": "The satiety signal takes approximately 20 minutes to reach the brain from the stomach. Eating slowly enough to receive that signal prevents chronic overeating — one of the most common contributors to weight gain.",
+      "t": "La señal de saciedad tarda unos 20 minutos en llegar del estómago al cerebro. Comer lo bastante despacio como para recibir esa señal evita comer de más de forma crónica, uno de los factores que más contribuyen al aumento de peso."
+    },
+    "26c9f46b": {
+      "src": "There are no shortcuts to roots. A tree with a shallow root system cannot withstand the storm.",
+      "t": "No hay atajos para las raíces. Un árbol con raíces poco profundas no resiste la tormenta."
+    },
+    "2d38f65e": {
+      "src": "Think of your stomach as the foundation — like the roots supporting the branches. It is essential to long-term well-being. When the foundation is cared for, everything built on top of it stands stronger.",
+      "t": "Piensa en tu estómago como la base, como las raíces que sostienen las ramas. Es esencial para el bienestar a largo plazo. Cuando la base está bien cuidada, todo lo que se construye encima se sostiene con más fuerza."
+    },
+    "9f60cf1c": {
+      "src": "This balance is crucial.",
+      "t": "Este equilibrio es crucial."
+    },
+    "72ae3edf": {
+      "src": "This ongoing growth and adaptation reflects life’s natural process.",
+      "t": "Este crecimiento y adaptación continuos reflejan el proceso natural de la vida."
+    },
+    "4a1a6b66": {
+      "src": "This ongoing growth and adaptation reflects life’s natural process.”",
+      "t": "Este crecimiento y adaptación continuos reflejan el proceso natural de la vida.”"
+    },
+    "6f6f17b4": {
+      "src": "Where to Begin",
+      "t": "Por dónde empezar"
+    },
+    "56fc36b1": {
+      "src": "Why This Exists",
+      "t": "Por qué existe esto"
+    },
+    "d26dbf4c": {
+      "src": "Your effort is",
+      "t": "Tu esfuerzo se"
+    },
+    "15919087": {
+      "src": "Your effort is evident in your results",
+      "t": "Tu esfuerzo se nota en tus resultados"
+    },
+    "9d26ba0b": {
+      "src": "Your effort is evident in your results.",
+      "t": "Tu esfuerzo se nota en tus resultados."
+    },
+    "ff705f74": {
+      "src": "Your pathway",
+      "t": "Tu camino"
+    },
+    "f7897b60": {
+      "src": "Your pathway to wellness begins here",
+      "t": "Tu camino hacia el bienestar empieza aquí"
+    },
+    "7af5a52e": {
+      "src": "a luxury — it is",
+      "t": "un lujo, es"
+    },
+    "0cff39e3": {
+      "src": "dedicated to promoting healthy living practices, methods, and tools that enhance mental balance, resilience, and mental clarity. We are committed to indigenous whole-foods health education — making that knowledge accessible to every community, regardless of economic background.",
+      "t": "dedicada a promover prácticas, métodos y herramientas de vida sana que mejoran el equilibrio mental, la resiliencia y la claridad mental. Estamos comprometidos con la educación en salud basada en alimentos indígenas e integrales, y con hacer que ese conocimiento llegue a todas las comunidades, sin importar su situación económica."
+    },
+    "78c16761": {
+      "src": "education.",
+      "t": "la educación."
+    },
+    "75004eb2": {
+      "src": "evident in your results.",
+      "t": "nota en tus resultados."
+    },
+    "08afbb1b": {
+      "src": "habits and health improvements also need consistent effort.",
+      "t": "los hábitos y las mejoras en la salud también necesitan un esfuerzo constante."
+    },
+    "6f0b5d36": {
+      "src": "integrity &",
+      "t": "la integridad y"
+    },
+    "99948de4": {
+      "src": "journey today.",
+      "t": "camino hoy."
+    },
+    "cfae6163": {
+      "src": "life.",
+      "t": "vida."
+    },
+    "0be7cf36": {
+      "src": "like",
+      "t": "como"
+    },
+    "74771f9c": {
+      "src": "mindful eating.",
+      "t": "alimentación consciente."
+    },
+    "b4817564": {
+      "src": "non-profit platform",
+      "t": "plataforma sin fines de lucro"
+    },
+    "d82182c8": {
+      "src": "of lasting health.",
+      "t": "de una salud duradera."
+    },
+    "6afcd244": {
+      "src": "roots.",
+      "t": "raíces."
+    },
+    "1076d4e5": {
+      "src": "the foundation",
+      "t": "la base"
+    },
+    "8db7d0d7": {
+      "src": "to wellness begins here.",
+      "t": "hacia el bienestar empieza aquí."
+    },
+    "648162a7": {
+      "src": "— not immediately, but consistently. The tree does not grow overnight. But every day that the roots are tended, the foundation deepens.",
+      "t": ", no de inmediato, sino de forma constante. El árbol no crece de la noche a la mañana. Pero cada día que se cuidan las raíces, la base se hace más profunda."
+    },
+    "50772a68": {
+      "src": "— not with a payment, not with a programme, but with understanding.",
+      "t": ": no con un pago, no con un programa, sino con comprensión."
+    },
+    "d28cd7c3": {
+      "src": "— these are not marketing words. They are the commitments that determine every decision made on this platform.",
+      "t": ": no son palabras de marketing. Son los compromisos que determinan cada decisión que se toma en esta plataforma."
+    },
+    "38be16db": {
+      "src": "“Just as roots grow steadily over time,",
+      "t": "“Así como las raíces crecen poco a poco con el tiempo,"
+    },
+    "5e7c3401": {
+      "src": "“Your dietary choices show your care.",
+      "t": "“Tus elecciones alimentarias muestran cuánto te cuidas."
+    }
+  }
+}

@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Donate to Kwik Fat Cut and help keep free, education-first health resources open to every family. Give securely with PayPal or WiPay in under a minute.">
+<title>Donate to Kwik Fat Cut | Help Keep Health Education Free</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png"><link rel="icon" href="favicon-512.png" sizes="512x512" type="image/png"><link rel="apple-touch-icon" href="favicon-180.png">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&amp;family=Montserrat:ital,wght@0,300;0,400;0,500;1,300;1,400&amp;family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400&amp;display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  /* DONATE: one screen, form first */
+  .give{position:relative;overflow:hidden;padding:max(104px,min(14vh,150px)) var(--gutter) clamp(3rem,7vh,5rem);border-bottom:1px solid var(--c10);}
+  .give::before{content:'';position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(ellipse 55% 60% at 78% 35%,rgba(218,165,32,0.08) 0%,transparent 62%),
+    radial-gradient(ellipse 40% 50% at 6% 85%,rgba(46,107,62,0.07) 0%,transparent 55%);}
+  .give-inner{position:relative;max-width:1120px;margin:0 auto;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,470px);gap:clamp(2.5rem,6vw,5.5rem);align-items:center;}
+  .give-welcome{animation:up 0.8s 0.05s ease both;}
+  .gw-title{font-family:'Cormorant Garamond',serif;font-size:clamp(2.8rem,6vw,4.6rem);font-weight:300;font-style:italic;line-height:1;color:var(--gold);}
+  .gw-text{margin-top:1.1rem;max-width:34ch;font-size:clamp(1.05rem,1.6vw,1.2rem);line-height:1.65;color:var(--c60);}
+  .gw-text strong{color:var(--cream);font-weight:600;}
+  .gw-photo{margin-top:2.2rem;max-width:520px;}
+  .gw-photo img{display:block;width:100%;height:auto;aspect-ratio:1167/879;object-fit:cover;border-radius:6px;border:1px solid var(--g20);}
+  .colour-band{display:grid;grid-template-columns:repeat(4,1fr);height:4px;max-width:520px;margin-top:1rem;border-radius:2px;overflow:hidden;}
+  .cb-black{background:#222;}.cb-red{background:var(--red);}.cb-gold{background:var(--gold);}.cb-green{background:var(--green);}
+
+  /* CARD (client reference style) */
+  .give-card{background:#fdf6e3;color:#1a0e08;border-radius:10px;padding:clamp(1.6rem,4vw,2.4rem);box-shadow:0 24px 60px rgba(0,0,0,0.45),0 0 0 1px rgba(218,165,32,0.25);animation:up 0.8s 0.15s ease both;}
+  .gc-eyebrow{font-family:'Montserrat',sans-serif;font-size:0.74rem;font-weight:600;letter-spacing:0.14em;text-transform:uppercase;color:#2e6b3e;}
+  .gc-sub{margin-top:0.2rem;font-size:1.05rem;font-weight:600;color:#6b5a4a;}
+  .gc-title{margin-top:0.55rem;font-family:'Cormorant Garamond',serif;font-size:clamp(2.1rem,4.4vw,2.6rem);font-weight:600;font-style:italic;line-height:1.05;letter-spacing:-0.01em;color:#1a0e08;}
+  .gc-text{margin-top:0.8rem;font-size:1rem;line-height:1.6;color:#3d2e22;}
+  .gc-form{margin-top:1.4rem;}
+  .gc-fieldset{border:0;margin:0;padding:0;min-width:0;}
+  .gc-label{display:block;font-size:0.95rem;font-weight:600;color:#1a0e08;margin-bottom:0.5rem;}
+  .gc-amounts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0.7rem;}
+  .gc-amt{position:relative;}
+  .gc-amt input{position:absolute;opacity:0;width:1px;height:1px;}
+  .gc-amt span{display:flex;align-items:center;justify-content:center;min-height:3.1rem;background:#fff;border:2px solid #f0dfb0;border-radius:8px;font-size:1.1rem;font-weight:600;color:#1a0e08;cursor:pointer;transition:background 0.15s,border-color 0.15s;}
+  .gc-amt span:hover{border-color:#daa520;}
+  .gc-amt input:checked+span{background:#daa520;border-color:#daa520;}
+  .gc-amt input:focus-visible+span{outline:2px solid #1a0e08;outline-offset:2px;}
+  .gc-amt--any span{font-size:0.92rem;line-height:1.15;text-align:center;padding:0 0.3rem;}
+  .gc-field{margin-top:1.1rem;}
+  .gc-input-wrap{display:flex;align-items:center;background:#fff;border:1px solid #e0d4bd;border-radius:8px;transition:border-color 0.15s,box-shadow 0.15s;}
+  .gc-input-wrap:focus-within{border-color:#daa520;box-shadow:0 0 0 3px rgba(218,165,32,0.22);}
+  .gc-prefix{padding-left:1rem;font-size:1.1rem;font-weight:700;color:#1a0e08;}
+  .gc-input{flex:1;min-width:0;width:100%;background:transparent;border:0;outline:0;padding:0.85rem 1rem;font-family:'Source Sans Pro','Source Sans 3',sans-serif;font-size:1rem;color:#1a0e08;-webkit-appearance:none;}
+  .gc-prefix+.gc-input{padding-left:0.5rem;}
+  .gc-input::placeholder{color:#8a7d6e;}
+  .gc-field.is-invalid .gc-input-wrap,.gc-fieldset.is-invalid .gc-amt span{border-color:#b3261e;}
+  .gc-error{margin-top:0.35rem;font-size:0.85rem;font-weight:600;color:#b3261e;}
+  .gc-head{display:flex;flex-wrap:wrap-reverse;align-items:baseline;justify-content:space-between;column-gap:1rem;row-gap:0.35rem;}
+  .gc-thanks{margin-left:auto;font-family:'Cormorant Garamond',serif;font-size:1.18rem;font-style:italic;font-weight:600;line-height:1.25;color:#2e6b3e;text-align:right;}
+  .gc-methods{margin-top:1.4rem;}
+  .gc-pay{display:grid;grid-template-columns:1fr 1fr;gap:0.7rem;}
+  .gc-pay-btn{display:flex;align-items:center;justify-content:center;gap:0.55rem;min-height:3.3rem;padding:0 0.8rem;background:#fff;border:2px solid #c6d3ea;border-radius:8px;font-family:'Source Sans Pro','Source Sans 3',sans-serif;font-size:1.3rem;font-weight:700;letter-spacing:0.01em;color:#003087;cursor:pointer;transition:border-color 0.15s,background 0.15s,transform 0.15s;}
+  .gc-pay-btn:hover{border-color:#003087;background:#f3f6fb;}
+  .gc-pay-btn:active{transform:translateY(1px);}
+  .gc-pay-btn:focus-visible{outline:2px solid #1a0e08;outline-offset:3px;}
+  .gc-pay-btn[disabled]{opacity:0.7;cursor:progress;}
+  .gc-spin{display:none;width:1.05rem;height:1.05rem;border:2px solid rgba(0,48,135,0.25);border-top-color:#003087;border-radius:50%;animation:spin 0.8s linear infinite;}
+  .gc-pay-btn.is-busy .gc-spin{display:inline-block;}
+  .gc-method-title{margin:0 0 0.8rem;font-family:'Montserrat',sans-serif;font-size:0.78rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;line-height:1.4;color:#2e6b3e;}
+  .gc-pay-btn--wide{width:100%;margin-top:1.1rem;text-decoration:none;}
+  .gc-note{margin-top:0.6rem;font-size:0.85rem;line-height:1.5;color:#6b5a4a;text-align:center;}
+  .gc-or{display:flex;align-items:center;gap:0.8rem;margin-top:1.5rem;font-size:0.78rem;font-weight:600;letter-spacing:0.14em;text-transform:uppercase;color:#8a7d6e;}
+  .gc-or::before,.gc-or::after{content:'';flex:1;height:1px;background:#e0d4bd;}
+  .gc-or+.gc-form{margin-top:1.2rem;}
+  .gc-secure{margin-top:0.85rem;font-size:0.82rem;line-height:1.5;color:#6b5a4a;text-align:center;}
+  .gc-help{margin-top:0.3rem;font-size:0.82rem;line-height:1.5;color:#6b5a4a;text-align:center;}
+  .gc-help a{color:#1f5a30;font-weight:700;text-decoration:underline;text-underline-offset:0.15em;}
+  .gc-notice{margin-top:1rem;padding:0.9rem 1rem;border-radius:8px;background:#f3ead4;border-left:3px solid #c1440e;font-size:0.92rem;line-height:1.55;color:#3d2e22;}
+  .gc-notice a{color:#1f5a30;font-weight:700;text-decoration:underline;text-underline-offset:0.15em;}
+  .gc-status{margin-top:1rem;padding:0.9rem 1rem;border-radius:8px;background:#f3ead4;border-left:3px solid #2e6b3e;font-size:0.92rem;line-height:1.55;color:#3d2e22;}
+  .gc-status a{color:#1f5a30;font-weight:700;text-decoration:underline;text-underline-offset:0.15em;}
+
+  /* TELL A FRIEND */
+  .pass{padding:clamp(3rem,8vh,5rem) var(--gutter);text-align:center;background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .pass-inner{max-width:640px;margin:0 auto;}
+  .pass-title{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.4vw,2.5rem);font-weight:400;line-height:1.2;color:var(--cream);}
+  .pass-title em{font-style:italic;color:var(--gold);}
+  .pass-text{margin:1rem auto 0;max-width:52ch;font-size:1.05rem;line-height:1.7;color:var(--c60);}
+  .pass-sign{margin-top:1.4rem;font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.6vw,1.9rem);font-style:italic;color:var(--gold);}
+  .pass-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:1.8rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.8rem 1.5rem;border-radius:2px;font-size:0.8rem;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,color 0.25s;cursor:pointer;border:none;font-family:'Montserrat',sans-serif;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.45);color:var(--gold);background:transparent;}
+  .ss-btn.follow:hover{background:var(--g08);}
+
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+
+  @keyframes up{from{opacity:0;transform:translateY(18px);}to{opacity:1;transform:translateY(0);}}
+  @keyframes spin{to{transform:rotate(360deg);}}
+  @media(max-width:900px){
+    .give-inner{grid-template-columns:1fr;gap:1.6rem;}
+    .give-card{max-width:520px;width:100%;margin:0 auto;}
+    .give-welcome{max-width:520px;width:100%;margin:0 auto;}
+    .gw-title{font-size:clamp(2.4rem,10vw,3.2rem);}
+    .gw-text{max-width:none;}
+    .gw-photo,.give-welcome .colour-band{display:none;}
+  }
+  @media(max-width:480px){.gc-amounts{grid-template-columns:1fr 1fr;}}
+  @media(max-width:380px){.gc-amounts{gap:0.5rem;}}
+  @media(prefers-reduced-motion:reduce){.give-welcome,.give-card{animation:none;}.gc-spin{animation-duration:2s;}}
+</style>
+<!-- KWIK:SCHEMA START -->
+<script type="application/ld+json">{"@context":"https://schema.org","@type":["Organization","NGO"],"name":"Kwik Fat Cut","alternateName":"Kwik Fat Cut Health Education","url":"https://kwikfatcut.com/","logo":"https://kwikfatcut.com/favicon-512.png","email":"kwik@kwikfatcut.com","slogan":"Education before intervention","description":"A free health education platform for the Caribbean and its diaspora, grounded in ancestral food knowledge. No subscriptions, no products, no paywall.","foundingDate":"2014-01-01","areaServed":"Worldwide","knowsAbout":["Caribbean health education","Jamaican food traditions","nutrition education","ancestral food knowledge","whole food nutrition"],"address":{"@type":"PostalAddress","addressLocality":"Kingston","addressCountry":"JM"}}</script>
+<!-- KWIK:SCHEMA END -->
+<link rel="stylesheet" href="kwik-fat-cut.min.css?v=84c5a305">
+<link rel="canonical" href="https://kwikfatcut.com/support">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Kwik Fat Cut">
+<meta property="og:locale" content="en_GB">
+<meta property="og:title" content="Donate to Kwik Fat Cut | Help Keep Health Education Free">
+<meta property="og:description" content="Donate to Kwik Fat Cut and help keep free, education-first health resources open to every family. Give securely with PayPal or WiPay in under a minute.">
+<meta property="og:url" content="https://kwikfatcut.com/support">
+<meta property="og:image" content="https://kwikfatcut.com/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Ripe ackee pods split open on the grass, showing their black seeds and cream arils.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@KwikFatCut">
+<meta name="twitter:title" content="Donate to Kwik Fat Cut | Help Keep Health Education Free">
+<meta name="twitter:description" content="Donate to Kwik Fat Cut and help keep free, education-first health resources open to every family. Give securely with PayPal or WiPay in under a minute.">
+<meta name="twitter:image" content="https://kwikfatcut.com/og-image.jpg">
+<meta name="twitter:image:alt" content="Ripe ackee pods split open on the grass, showing their black seeds and cream arils.">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<nav class="site-nav" aria-label="Main">
+  <a href="/" class="logo" aria-label="Kwik Fat Cut home">
+    <img class="logo-shield" src="data:image/webp;base64,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" alt="Kwik Fat Cut logo" width="57" height="64" decoding="async">
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="/about">About</a>
+    <a href="/why-free">Why Free</a>
+    <a href="/our-roots">Our Roots</a>
+    <a href="/learn">Learn</a>
+    <a href="/support" class="nav-btn nav-btn--support">Support</a>
+    <a href="/foods-hub" class="nav-btn">Begin Free</a>
+  </div>
+</nav>
+<main id="main">
+
+<!-- DONATE -->
+<section class="give" aria-labelledby="give-title">
+  <div class="give-inner">
+
+    <div class="give-welcome">
+      <p class="gw-title">Welcome!</p>
+      <p class="gw-text">We&rsquo;re so glad you&rsquo;re here and grateful to have you in the <strong>Kwik Fat Cut education-first community</strong>, where education comes before intervention.</p>
+      <div class="colour-band" aria-hidden="true"><div class="cb-black"></div><div class="cb-red"></div><div class="cb-gold"></div><div class="cb-green"></div></div>
+      <figure class="gw-photo">
+        <picture>
+          <source srcset="honey-ras-family-md.webp 780w, honey-ras-family.webp 1167w" sizes="(max-width: 1120px) 45vw, 520px" type="image/webp">
+          <img src="honey-ras-family.jpg" alt="The Honey Ras family together at home in Kingston, Jamaica." width="1167" height="879" loading="lazy" decoding="async">
+        </picture>
+      </figure>
+    </div>
+
+    <div class="give-card">
+      <div class="gc-head">
+        <p class="gc-eyebrow">Support the work</p>
+        <p class="gc-thanks">Thank you for being part of it.</p>
+      </div>
+      <p class="gc-sub">Be part of the community</p>
+      <h1 class="gc-title" id="give-title">Help Us Keep It Free</h1>
+      <p class="gc-text">Your support helps us continue offering free educational resources. Every seed you plant helps our community take root, grow, and build a brighter future.</p>
+
+      <div class="gc-notice" id="giveNotice" role="status" hidden>
+        <p data-gift="cancelled" hidden>Your gift was not completed. You can try again whenever you are ready.</p>
+        <p data-gift="failed" hidden>The payment did not go through. Please try again, or choose the other payment method.</p>
+        <p data-gift="unverified" hidden>We could not confirm your payment automatically. If your card was charged, your gift went through and WiPay will email your receipt. Questions? Email <a href="mailto:kwik@kwikfatcut.com?subject=Checking%20my%20donation">kwik@kwikfatcut.com</a></p>
+      </div>
+
+      <div class="gc-form" id="giveForm">
+        <h2 class="gc-method-title">Give in US dollars with PayPal</h2>
+        <fieldset class="gc-fieldset" id="amountSet">
+          <legend class="gc-label">Choose an amount (USD)</legend>
+          <div class="gc-amounts">
+            <label class="gc-amt"><input type="radio" name="amount" value="10"><span>$10</span></label>
+            <label class="gc-amt"><input type="radio" name="amount" value="25" checked><span>$25</span></label>
+            <label class="gc-amt"><input type="radio" name="amount" value="50"><span>$50</span></label>
+            <label class="gc-amt"><input type="radio" name="amount" value="100"><span>$100</span></label>
+            <label class="gc-amt"><input type="radio" name="amount" value="500"><span>$500</span></label>
+            <label class="gc-amt"><input type="radio" name="amount" value="1000"><span>$1,000</span></label>
+            <label class="gc-amt"><input type="radio" name="amount" value="5000"><span>$5,000</span></label>
+            <label class="gc-amt gc-amt--any"><input type="radio" name="amount" value="any"><span>Any amount</span></label>
+          </div>
+        </fieldset>
+        <a class="gc-pay-btn gc-pay-btn--wide" id="paypalBtn" href="https://www.paypal.com/ncp/payment/TDYJDSWGRFSDA" target="_blank" rel="noopener" aria-label="Give with PayPal (opens in a new tab)">Give with PayPal</a>
+        <p class="gc-note" id="paypalNote">PayPal opens in a new tab. Enter $25 there to complete your gift.</p>
+      </div>
+
+      <p class="gc-or">or</p>
+
+      <form class="gc-form" id="wipayForm" novalidate>
+        <h2 class="gc-method-title">Give in Jamaican dollars (JMD) with WiPay</h2>
+        <div class="gc-field" id="jmdField">
+          <label class="gc-label" for="jmdAmount">Amount in Jamaican dollars (JMD)</label>
+          <div class="gc-input-wrap">
+            <span class="gc-prefix" aria-hidden="true">J$</span>
+            <input class="gc-input" type="text" id="jmdAmount" name="amount" inputmode="decimal" autocomplete="off" placeholder="5000" aria-describedby="jmdErr">
+          </div>
+          <p class="gc-error" id="jmdErr" hidden>Please enter an amount between J$100 and J$1,000,000.</p>
+        </div>
+
+        <div class="gc-field" id="nameField">
+          <label class="gc-label" for="donorName">Full name</label>
+          <div class="gc-input-wrap">
+            <input class="gc-input" type="text" id="donorName" name="name" placeholder="Your name" autocomplete="name" maxlength="60" required aria-describedby="nameErr">
+          </div>
+          <p class="gc-error" id="nameErr" hidden>Please enter your name.</p>
+        </div>
+
+        <div class="gc-field" id="emailField">
+          <label class="gc-label" for="donorEmail">Email</label>
+          <div class="gc-input-wrap">
+            <input class="gc-input" type="email" id="donorEmail" name="email" placeholder="you@email.com" autocomplete="email" maxlength="50" required aria-describedby="emailErr">
+          </div>
+          <p class="gc-error" id="emailErr" hidden>Please enter a valid email address.</p>
+        </div>
+
+        <button class="gc-pay-btn gc-pay-btn--wide" type="submit" id="wipayBtn"><span class="gc-spin" aria-hidden="true"></span><span>Give with WiPay (JMD)</span></button>
+
+        <div class="gc-status" id="giveStatus" role="status" hidden>
+          <p>Online giving is being connected. To give today, email <a id="giveMail" href="mailto:kwik@kwikfatcut.com?subject=Donation%20to%20Kwik%20Fat%20Cut">kwik@kwikfatcut.com</a> and we will arrange your gift personally. Thank you!</p>
+        </div>
+      </form>
+
+      <!-- Hidden on purpose. Remove "hidden" once a live PayPal gift and a live WiPay gift have both been tested. -->
+      <p class="gc-secure" hidden>Secure checkout by PayPal or WiPay. Kwik Fat Cut never sees or stores your card details.</p>
+      <p class="gc-help">Problem with your gift? Email <a href="mailto:kwik@kwikfatcut.com?subject=Help%20with%20my%20donation">kwik@kwikfatcut.com</a></p>
+    </div>
+
+  </div>
+</section>
+
+<!-- TELL A FRIEND -->
+<section class="pass" aria-labelledby="pass-title">
+  <div class="pass-inner">
+    <h2 class="pass-title" id="pass-title">Tell a friend to <em>tell a friend.</em></h2>
+    <p class="pass-text">Invite anyone who wants to help Kwik Fat Cut grow. No body shaming. No pressure. We row together. You steer. Thank you!</p>
+    <p class="pass-sign">A suh wi stay!</p>
+    <div class="pass-actions">
+      <button class="ss-btn share" type="button" onclick="shareKwikFatCut()">Share Kwik Fat Cut</button>
+      <a href="https://x.com/KwikFatCut" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div>
+    <a href="/" class="footer-logo" aria-label="Kwik Fat Cut home">
+    <img class="logo-shield" src="data:image/webp;base64,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" alt="Kwik Fat Cut logo" width="57" height="64" decoding="async">
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav" aria-label="Footer">
+    <a href="/about">About</a>
+    <a href="/why-free">Why Free</a>
+    <a href="/our-roots">Our Roots</a>
+    <a href="/foods-hub">Foods Hub</a>
+    <a href="/learn">Learn</a>
+    <a href="/team">Team</a>
+    <a href="/support">Support</a>
+    <a href="/privacy">Privacy</a>
+  </nav>
+  <div class="kwik-social" role="group" aria-label="Kwik Fat Cut on social media"><a class="kwik-social-item kwik-social--x" href="https://x.com/KwikFatCut" target="_blank" rel="noopener" aria-label="Kwik Fat Cut on X"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg><span>X</span></a><span class="kwik-social-item kwik-social--facebook is-soon" aria-disabled="true" title="Facebook: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M24 12.07C24 5.4 18.63 0 12 0S0 5.4 0 12.07C0 18.1 4.39 23.09 10.13 24v-8.44H7.08v-3.49h3.05V9.43c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.24 2.69.24v2.95h-1.52c-1.49 0-1.95.93-1.95 1.87v2.25h3.33l-.53 3.49h-2.8V24C19.61 23.09 24 18.1 24 12.07z"/></svg><span>Facebook</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--instagram is-soon" aria-disabled="true" title="Instagram: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg><span>Instagram</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--tiktok is-soon" aria-disabled="true" title="TikTok: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12.53.02C13.84 0 15.14.01 16.44 0c.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></svg><span>TikTok</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--youtube is-soon" aria-disabled="true" title="YouTube: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M23.5 6.19a3.02 3.02 0 0 0-2.12-2.14C19.5 3.55 12 3.55 12 3.55s-7.5 0-9.38.5A3.02 3.02 0 0 0 .5 6.19C0 8.07 0 12 0 12s0 3.93.5 5.81a3.02 3.02 0 0 0 2.12 2.14c1.87.5 9.38.5 9.38.5s7.5 0 9.38-.5a3.02 3.02 0 0 0 2.12-2.14C24 15.93 24 12 24 12s0-3.93-.5-5.81zM9.55 15.57V8.43L15.82 12l-6.27 3.57z"/></svg><span>YouTube</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--linkedin is-soon" aria-disabled="true" title="LinkedIn: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg><span>LinkedIn</span><em>Coming Soon</em></span></div>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+  <div class="kwik-signoff">
+    <span class="kwik-triband" aria-hidden="true"><i></i><i></i><i></i></span>
+    <p class="kwik-signoff-text">A suh wi stay 🌿</p>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var EMAIL=/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
+  function setErr(wrapId,errId,on){
+    var w=document.getElementById(wrapId),e=document.getElementById(errId);
+    if(w)w.classList.toggle('is-invalid',on);
+    if(e)e.hidden=!on;
+  }
+
+  // PAYPAL (USD). Every amount and "Any amount" go to the same PayPal link.
+  // PayPal pay links do not accept an amount from the site, so the donor
+  // confirms the amount on PayPal. The note under the button tells them what to enter.
+  var pp=document.getElementById('paypalBtn');
+  var note=document.getElementById('paypalNote');
+  var radios=document.querySelectorAll('#amountSet input[name="amount"]');
+  function picked(){
+    for(var i=0;i<radios.length;i++)if(radios[i].checked)return radios[i].value;
+    return 'any';
+  }
+  function syncNote(){
+    if(!note)return;
+    var v=picked();
+    note.textContent=v==='any'
+      ?'PayPal opens in a new tab. Enter any amount you like there to complete your gift.'
+      :'PayPal opens in a new tab. Enter $'+Number(v).toLocaleString('en-US')+' there to complete your gift.';
+  }
+  for(var r=0;r<radios.length;r++)radios[r].addEventListener('change',syncNote);
+  syncNote();
+  if(pp)pp.addEventListener('click',function(){
+    var v=picked();
+    if(typeof window.kfcTrack==='function')window.kfcTrack('donate_click',{method:'paypal',value:v==='any'?0:Number(v),currency:'USD',choice:v});
+  });
+
+  // WIPAY (JMD).
+  var form=document.getElementById('wipayForm');
+  if(!form)return;
+  var jmd=document.getElementById('jmdAmount');
+  var nameIn=document.getElementById('donorName');
+  var emailIn=document.getElementById('donorEmail');
+  var btn=document.getElementById('wipayBtn');
+  var status=document.getElementById('giveStatus');
+  var mail=document.getElementById('giveMail');
+  var MIN=100,MAX=1000000;
+
+  function amount(){
+    var raw=(jmd.value||'').replace(/[^0-9.]/g,'');
+    return raw?Math.round(parseFloat(raw)*100)/100:0;
+  }
+  function busy(on){btn.disabled=on;btn.classList.toggle('is-busy',on);}
+
+  jmd.addEventListener('input',function(){
+    jmd.value=jmd.value.replace(/[^0-9.]/g,'').replace(/(\..*)\./g,'$1');
+    setErr('jmdField','jmdErr',false);
+  });
+  nameIn.addEventListener('input',function(){setErr('nameField','nameErr',false);});
+  emailIn.addEventListener('input',function(){setErr('emailField','emailErr',false);});
+
+  function fallback(amt,name){
+    var body='Hello Kwik Fat Cut,\n\nI would like to give J$'+amt+' (JMD) through WiPay to help keep Kwik Fat Cut free.\n\nName: '+name+'\n';
+    mail.href='mailto:kwik@kwikfatcut.com?subject='+encodeURIComponent('Donation to Kwik Fat Cut')+'&body='+encodeURIComponent(body);
+    status.hidden=false;
+    status.scrollIntoView({block:'nearest',behavior:'smooth'});
+  }
+
+  form.addEventListener('submit',function(e){
+    e.preventDefault();
+    status.hidden=true;
+    var amt=amount(),name=nameIn.value.trim(),email=emailIn.value.trim();
+    var badAmt=!(amt>=MIN&&amt<=MAX),badName=name.length<2,badEmail=!EMAIL.test(email);
+    setErr('jmdField','jmdErr',badAmt);
+    setErr('nameField','nameErr',badName);
+    setErr('emailField','emailErr',badEmail);
+    if(badAmt){jmd.focus();return;}
+    if(badName){nameIn.focus();return;}
+    if(badEmail){emailIn.focus();return;}
+
+    busy(true);
+    // Donate click, sent to whichever analytics tool the site runs.
+    if(typeof window.kfcTrack==='function')window.kfcTrack('donate_click',{method:'wipay',value:amt,currency:'JMD'});
+    // /api/donate returns the WiPay checkout address (charged in JMD).
+    // If WiPay is not connected yet, donors get the email route instead.
+    fetch('/api/donate',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
+      body:JSON.stringify({method:'wipay',amount:amt,name:name,email:email})})
+      .then(function(r){return r.ok?r.json():null;})
+      .then(function(d){
+        if(d&&typeof d.url==='string'&&/^https:\/\//.test(d.url)){window.location.href=d.url;return;}
+        busy(false);fallback(amt,name);
+      })
+      .catch(function(){busy(false);fallback(amt,name);});
+  });
+  // Restore the button if the visitor comes back from checkout with the back button.
+  window.addEventListener('pageshow',function(ev){if(ev.persisted)busy(false);});
+
+  // A note when the donor comes back from WiPay without finishing.
+  var gift=null;try{gift=new URLSearchParams(window.location.search).get('gift');}catch(err){}
+  var box=document.getElementById('giveNotice');
+  var line=gift&&box?box.querySelector('[data-gift="'+gift.replace(/[^a-z]/g,'')+'"]'):null;
+  if(line){line.hidden=false;box.hidden=false;}
+})();
+function shareKwikFatCut(){var url=window.location.href;if(navigator.share){navigator.share({title:'Kwik Fat Cut: Free Health Education',url:url}).catch(function(){copyURL(url);});}else{copyURL(url);}}
+function copyURL(url){if(!navigator.clipboard)return;navigator.clipboard.writeText(url).then(function(){var b=document.querySelector('.ss-btn.share');if(b){var o=b.textContent;b.textContent='✓ Copied!';setTimeout(function(){b.textContent=o;},2500);}});}
+</script>
+<script src="kwik-fat-cut.min.js?v=a15e9c12" defer></script>
+<script src="kwik-fat-cut-i18n.min.js?v=3909a36f" defer></script>
+<script src="kwik-fat-cut-chat.min.js?v=e2d189bc" defer></script>
+</body>
+</html>

@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Kwik Fat Cut is a family health community. Not a platform that tells you what to do — a space that helps you understand your body, your food, and your.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About Kwik Fat Cut: Caribbean Health Education, Free</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png"><link rel="icon" href="favicon-512.png" sizes="512x512" type="image/png"><link rel="apple-touch-icon" href="favicon-180.png">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&amp;family=Montserrat:ital,wght@0,300;0,400;0,500;1,300;1,400&amp;family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400&amp;display=swap" rel="stylesheet">
+<style>
+  .nav-links a.active{color:var(--gold);}
+  .nav-btn:hover{background:var(--cream)!important;}
+  /* PAGE HEADER */
+  .page-header::before{content:'';position:absolute;top:0;right:0;width:55vw;height:100%;background:radial-gradient(ellipse at 80% 40%,rgba(218,165,32,0.05) 0%,transparent 65%);pointer-events:none;}
+  .breadcrumb{font-size:0.68rem;letter-spacing:0.28em;text-transform:uppercase;color:var(--c30);margin-bottom:2rem;opacity:0;animation:up 0.9s 0.1s ease forwards;}
+  .breadcrumb a{color:var(--c30);text-decoration:none;}
+  .breadcrumb a:hover{color:var(--c60);}
+  .breadcrumb span{margin:0 0.6rem;}
+  .page-header h1{font-family:'Cormorant Garamond',serif;font-size:clamp(3rem,7vw,6.5rem);font-weight:300;line-height:1.08;color:var(--cream);max-width:780px;opacity:0;animation:up 0.9s 0.2s ease forwards;}
+  .page-header h1 em{font-style:italic;color:var(--gold);}
+  .page-header .lede{max-width:540px;margin-top:2rem;font-size:1rem;line-height:1.9;color:var(--c60);opacity:0;animation:up 0.9s 0.35s ease forwards;}
+  .rule{height:1px;margin:0 6vw;background:linear-gradient(to right,transparent,rgba(218,165,32,0.15),transparent);}
+  .section-tag{font-size:0.66rem;letter-spacing:0.32em;text-transform:uppercase;color:var(--red);font-weight:500;margin-bottom:1rem;}
+  .section-title{font-family:'Montserrat',sans-serif;font-size-adjust:0.40;font-size:clamp(2rem,3.5vw,3rem);font-weight:300;line-height:1.15;color:var(--cream);}
+  .section-title em{font-style:italic;color:var(--gold);}
+  /* COMMUNITY WELCOME */
+  .community{padding:7rem 6vw;display:grid;grid-template-columns:1fr 2fr;gap:6rem;align-items:start;}
+  .community-left{position:sticky;top:110px;}
+  .community-left p{margin-top:1.4rem;font-size:0.9rem;line-height:1.9;color:var(--c60);}
+  .community-right{display:flex;flex-direction:column;gap:0;}
+  .comm-para{padding:2.2rem 0;border-bottom:1px solid var(--c10);font-size:1rem;line-height:1.95;color:var(--c60);}
+  .comm-para:first-child{padding-top:0;}
+  .comm-para strong{color:var(--cream);font-weight:400;}
+  .comm-para em{font-style:italic;}
+  /* HEALTH IS PERSONAL — three-line statement */
+  .health-statement{padding:6rem 6vw;background:linear-gradient(to bottom,transparent,rgba(218,165,32,0.03),transparent);}
+  .hs-inner{max-width:680px;margin:0 auto;text-align:center;}
+  .hs-inner .section-tag{text-align:center;}
+  .hs-lines{margin-top:3rem;display:flex;flex-direction:column;gap:1.5rem;}
+  .hs-line{font-family:'Cormorant Garamond',serif;font-size:clamp(1.6rem,3.5vw,2.8rem);font-weight:300;line-height:1.2;color:var(--cream);}
+  .hs-line em{font-style:italic;color:var(--gold);}
+  .hs-line span{display:block;font-size:0.75rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--c30);font-family:'Source Sans Pro',sans-serif;font-weight:400;margin-top:0.4rem;}
+  /* MISSION */
+  .mission{padding:7rem 6vw;border-top:1px solid var(--c10);}
+  .mission-intro{max-width:640px;margin-bottom:5rem;}
+  .mission-intro p{margin-top:1.2rem;font-size:0.95rem;line-height:1.9;color:var(--c60);}
+  .mission-pillars{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:2px;}
+  .pillar{padding:2.5rem 2.2rem;border:1px solid var(--c10);transition:border-color 0.3s,background 0.3s;cursor:default;}
+  .pillar:hover{border-color:var(--g20);background:var(--g08);}
+  .pillar-num{font-family:'Cormorant Garamond',serif;font-size:3rem;font-weight:300;color:var(--gold);opacity:0.2;line-height:1;margin-bottom:1rem;}
+  .pillar h3{font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:400;color:var(--cream);margin-bottom:0.7rem;}
+  .pillar p{font-size:0.88rem;line-height:1.85;color:var(--c60);}
+  .pillar p strong{color:var(--cream);font-weight:400;}
+  /* WHERE IT WENT WRONG */
+  .went-wrong{padding:7rem 6vw;background:linear-gradient(to bottom,transparent,rgba(46,107,62,0.03),transparent);}
+  .ww-intro{max-width:640px;margin-bottom:5rem;}
+  .ww-intro p{margin-top:1.2rem;font-size:0.95rem;line-height:1.9;color:var(--c60);}
+  .ww-grid{display:grid;grid-template-columns:1fr 1fr;gap:3rem 6rem;max-width:1100px;}
+  .ww-point{border-left:1px solid var(--g20);padding-left:2rem;}
+  .ww-point h3{font-family:'Cormorant Garamond',serif;font-size:1.25rem;font-weight:400;color:var(--cream);margin-bottom:0.6rem;}
+  .ww-point p{font-size:0.88rem;line-height:1.9;color:var(--c60);}
+  .ww-point p strong{color:var(--cream);font-weight:400;}
+  /* ROOTS TEASER */
+  .roots-teaser{padding:6rem 6vw;border-top:1px solid var(--c10);display:grid;grid-template-columns:1.2fr 1fr;gap:5rem;align-items:center;}
+  .rt-left h2{font-family:'Montserrat',sans-serif;font-size-adjust:0.40;font-size:clamp(2rem,4vw,3.5rem);font-weight:300;line-height:1.15;color:var(--cream);}
+  .rt-left h2 em{font-style:italic;color:var(--gold);}
+  .rt-left p{margin-top:1.4rem;font-size:0.95rem;line-height:1.9;color:var(--c60);max-width:440px;}
+  .rt-left .read-more{display:inline-flex;align-items:center;gap:0.4rem;margin-top:1.8rem;font-size:0.74rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--gold);text-decoration:none;font-weight:500;transition:gap 0.2s;}
+  .rt-left .read-more:hover{gap:0.7rem;}
+  .rt-left .read-more::after{content:'→';}
+  .rt-right{display:grid;grid-template-columns:1fr 1fr;gap:1px;}
+  .color-block{padding:1.8rem 1.4rem;display:flex;flex-direction:column;justify-content:flex-end;min-height:120px;position:relative;overflow:hidden;}
+  .color-block.black{background:rgba(0,0,0,0.6);border:1px solid rgba(255,255,255,0.06);}
+  .color-block.red{background:rgba(193,68,14,0.35);border:1px solid rgba(193,68,14,0.2);}
+  .color-block.gold{background:rgba(218,165,32,0.2);border:1px solid rgba(218,165,32,0.2);}
+  .color-block.green{background:rgba(46,107,62,0.35);border:1px solid rgba(46,107,62,0.2);}
+  .color-label{font-size:0.72rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--cream);font-weight:500;}
+  .color-meaning{font-size:0.72rem;color:var(--c60);margin-top:0.2rem;font-style:italic;}
+  /* CLOSING */
+  .closing{padding:7rem 6vw;text-align:center;position:relative;overflow:hidden;}
+  .closing::before{content:'';position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse 70% 60% at 50% 50%,rgba(218,165,32,0.04) 0%,transparent 70%);}
+  .closing blockquote{font-family:'Cormorant Garamond',serif;font-size:clamp(1.6rem,3.2vw,2.6rem);font-weight:300;font-style:italic;line-height:1.5;color:var(--cream);max-width:700px;margin:0 auto;}
+  .closing blockquote em{font-style:normal;color:var(--gold);}
+  .closing-brand{margin-top:2.5rem;display:flex;flex-direction:column;gap:0.35rem;align-items:center;}
+  .closing-brand p{font-size:0.7rem;letter-spacing:0.26em;text-transform:uppercase;color:var(--c30);}
+  .closing-brand em{font-style:italic;color:var(--c60);font-size:0.85rem;letter-spacing:0;}
+  /* CTA STRIP */
+  .cta-strip{padding:5rem 6vw;border-top:1px solid var(--c10);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:2rem;}
+  .cta-strip-left h3{font-family:'Cormorant Garamond',serif;font-size:1.8rem;font-weight:300;color:var(--cream);}
+  .cta-strip-left h3 em{font-style:italic;color:var(--gold);}
+  .cta-strip-left p{font-size:0.88rem;color:var(--c60);margin-top:0.4rem;}
+  .cta-strip-right{display:flex;gap:1rem;flex-wrap:wrap;}
+  .btn-primary{display:inline-block;background:var(--gold);color:var(--bg);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:background 0.25s,transform 0.2s;}
+  .btn-primary:hover{background:var(--cream);transform:translateY(-2px);}
+  .btn-outline{display:inline-block;border:1px solid var(--c30);color:var(--c60);padding:0.85rem 2rem;border-radius:1px;font-size:0.78rem;font-weight:400;letter-spacing:0.16em;text-transform:uppercase;text-decoration:none;transition:border-color 0.25s,color 0.25s;}
+  .btn-outline:hover{border-color:var(--c60);color:var(--cream);}
+  .footer-logo{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.05em;}
+  .footer-logo em{font-style:italic;color:var(--gold);}
+  .footer-tagline{font-size:0.7rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--c30);margin-top:0.25rem;}
+  @keyframes up{from{opacity:0;transform:translateY(22px);}to{opacity:1;transform:translateY(0);}}
+  @media(max-width:960px){
+    .community{grid-template-columns:1fr;gap:3rem;}
+    .community-left{position:static;}
+    .ww-grid{grid-template-columns:1fr;gap:2.5rem;}
+    .roots-teaser{grid-template-columns:1fr;gap:3rem;}
+    .cta-strip{flex-direction:column;align-items:flex-start;}
+  }
+  /* SOCIAL STRIP */
+  .social-strip{padding:4.5rem 6vw;border-top:1px solid var(--c10);background:linear-gradient(to right,rgba(218,165,32,0.03),transparent,rgba(218,165,32,0.03));}
+  .ss-inner{max-width:720px;margin:0 auto;text-align:center;}
+  .ss-label{font-size:0.64rem;letter-spacing:0.3em;text-transform:uppercase;color:var(--c30);font-weight:500;margin-bottom:1.2rem;}
+  .ss-headline{font-family:'Cormorant Garamond',serif;font-size:clamp(1.5rem,2.8vw,2.2rem);font-weight:300;line-height:1.3;color:var(--cream);}
+  .ss-headline em{font-style:italic;color:var(--gold);}
+  .ss-body{margin-top:0.9rem;font-size:0.9rem;line-height:1.8;color:var(--c60);max-width:500px;margin-left:auto;margin-right:auto;}
+  .ss-actions{display:flex;gap:0.8rem;justify-content:center;flex-wrap:wrap;margin-top:2rem;}
+  .ss-btn{display:inline-flex;align-items:center;gap:0.5rem;padding:0.72rem 1.4rem;border-radius:2px;font-size:0.76rem;font-weight:500;letter-spacing:0.1em;text-decoration:none;transition:all 0.25s;cursor:pointer;border:none;font-family:'Source Sans Pro',sans-serif;}
+  .ss-btn svg{width:15px;height:15px;fill:currentColor;flex-shrink:0;}
+  .ss-btn.share{background:var(--gold);color:var(--bg);}
+  .ss-btn.share:hover{background:var(--cream);}
+  .ss-btn.follow{border:1px solid rgba(218,165,32,0.35);color:var(--gold);background:transparent;}
+  .ss-btn.follow:hover{background:var(--g08);border-color:var(--gold);}
+  .ss-socials{display:flex;gap:0.6rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;}
+  .ss-social-link{font-size:0.7rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--c30);text-decoration:none;padding:0.3rem 0.75rem;border:1px solid var(--c10);border-radius:2px;transition:color 0.2s,border-color 0.2s;}
+  .ss-social-link:hover{color:var(--gold);border-color:rgba(218,165,32,0.3);}
+  .ss-note{margin-top:1.2rem;font-size:0.74rem;font-style:italic;color:var(--c30);}
+</style>
+<!-- KWIK:SCHEMA START -->
+<script type="application/ld+json">{"@context":"https://schema.org","@type":["Organization","NGO"],"name":"Kwik Fat Cut","alternateName":"Kwik Fat Cut Health Education","url":"https://kwikfatcut.com/","logo":"https://kwikfatcut.com/favicon-512.png","email":"kwik@kwikfatcut.com","slogan":"Education before intervention","description":"A free health education platform for the Caribbean and its diaspora, grounded in ancestral food knowledge. No subscriptions, no products, no paywall.","foundingDate":"2014-01-01","areaServed":"Worldwide","knowsAbout":["Caribbean health education","Jamaican food traditions","nutrition education","ancestral food knowledge","whole food nutrition"],"address":{"@type":"PostalAddress","addressLocality":"Kingston","addressCountry":"JM"}}</script>
+<!-- KWIK:SCHEMA END -->
+<link rel="stylesheet" href="kwik-fat-cut.min.css?v=84c5a305">
+<link rel="canonical" href="https://kwikfatcut.com/about">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Kwik Fat Cut">
+<meta property="og:locale" content="en_GB">
+<meta property="og:title" content="About Kwik Fat Cut: Caribbean Health Education, Free">
+<meta property="og:description" content="Kwik Fat Cut is a family health community. Not a platform that tells you what to do — a space that helps you understand your body, your food, and your.">
+<meta property="og:url" content="https://kwikfatcut.com/about">
+<meta property="og:image" content="https://kwikfatcut.com/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Ripe ackee pods split open on the grass, showing their black seeds and cream arils.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@KwikFatCut">
+<meta name="twitter:title" content="About Kwik Fat Cut: Caribbean Health Education, Free">
+<meta name="twitter:description" content="Kwik Fat Cut is a family health community. Not a platform that tells you what to do — a space that helps you understand your body, your food, and your.">
+<meta name="twitter:image" content="https://kwikfatcut.com/og-image.jpg">
+<meta name="twitter:image:alt" content="Ripe ackee pods split open on the grass, showing their black seeds and cream arils.">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<nav class="site-nav" aria-label="Main">
+  <a href="/" class="logo" aria-label="Kwik Fat Cut home">
+    <img class="logo-shield" src="data:image/webp;base64,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" alt="Kwik Fat Cut logo" width="57" height="64" decoding="async">
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+  <div class="nav-right">
+    <div class="lang-switch"></div>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="nav-links" id="nav-links">
+    <a href="/about">About</a>
+    <a href="/why-free">Why Free</a>
+    <a href="/our-roots">Our Roots</a>
+    <a href="/learn">Learn</a>
+    <a href="/support" class="nav-btn nav-btn--support">Support</a>
+    <a href="/foods-hub" class="nav-btn">Begin Free</a>
+  </div>
+</nav>
+<main id="main">
+
+
+<!-- PAGE HEADER -->
+<!-- KWIK:PHOTO START -->
+<section class="kwik-photo">
+  <div class="ph-inner reveal">
+    <p class="ph-label">About Kwik Fat Cut</p>
+    <figure>
+      <div class="photo-frame">
+          <picture>
+            <source srcset="honey-ras-family-md.webp 780w, honey-ras-family.webp 1167w" sizes="(max-width: 1100px) 88vw, 980px" type="image/webp">
+            <img src="honey-ras-family.jpg" alt="The Honey Ras family photographed together in Kingston, Jamaica." width="1167" height="879" loading="eager" fetchpriority="high" decoding="async">
+          </picture>
+      </div>
+      <figcaption>&ldquo;Healthy communities begin at home.&rdquo;<span class="ph-credit">The Honey Ras family tree, Kingston, Jamaica.</span></figcaption>
+    </figure>
+  </div>
+</section>
+<!-- KWIK:PHOTO END -->
+<header class="page-header">
+  <p class="breadcrumb"><a href="/">Home</a><span>&middot;</span>About</p>
+  <h1>Take a seat.<br>We&rsquo;re here<br>to <em>listen.</em></h1>
+  <p class="lede">Not designed to sell products. Built to grow a knowledge tree that fosters health, wellness, awareness, and opportunity, empowering people with genuine strength and confidence through education alone.</p>
+  <p class="lede">Let&rsquo;s go through this together. No rush. No pressure. No lectures. Just clarity, at your pace, in your own time.</p>
+</header>
+
+<div class="rule"></div>
+
+<!-- COMMUNITY WELCOME -->
+<section class="community">
+  <div class="community-left reveal">
+    <p class="section-tag">Who We Are</p>
+    <h2 class="section-title">A family<br>health <em>community.</em></h2>
+    <p>Not a platform that tells you what to do. A community that helps you understand what is happening &mdash; so you can lead your own health journey with confidence.</p>
+  </div>
+  <div class="community-right">
+    <p class="comm-para reveal">We are <strong>not here to tell you what to eat.</strong> We are here to help you understand what is happening. There is a difference &mdash; and it matters enormously.</p>
+    <p class="comm-para reveal">We believe people should understand their bodies, food, and health <strong>before</strong> being asked to follow weight-loss programmes, buy weight-loss products, or make major lifestyle changes. Understanding first. Everything else after.</p>
+    <p class="comm-para reveal">Kwik Fat Cut functions as a <strong>family health community</strong> focused on learning, understanding, and building sustainable health habits &mdash; without pressure, body shaming, or quick-fix thinking. This is a space to grow, not a race to finish.</p>
+    <p class="comm-para reveal">At Kwik Fat Cut, <strong>education always comes first.</strong> We listen rather than lecture. We take action &mdash; you guide. We prioritise prevention before intervention. We row. You steer.</p>
+  </div>
+</section>
+
+<div class="rule"></div>
+
+<!-- HEALTH IS PERSONAL -->
+<section class="health-statement">
+  <div class="hs-inner">
+    <p class="section-tag reveal">A Core Belief</p>
+    <div class="hs-lines">
+      <div class="hs-line reveal">
+        Health is <em>personal.</em>
+        <span>No two bodies are the same. No single plan fits all.</span>
+      </div>
+      <div class="hs-line reveal">
+        Health is <em>adaptable.</em>
+        <span>It shifts with life. It responds to understanding.</span>
+      </div>
+      <div class="hs-line reveal">
+        Health is a journey of <em>understanding</em> &mdash; not a subscription.
+        <span>Education Before Intervention. We row. You steer.</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="rule"></div>
+
+<!-- MISSION -->
+<section class="mission">
+  <div class="mission-intro reveal">
+    <p class="section-tag">Our Mission</p>
+    <h2 class="section-title">Education<br>before <em>intervention.</em></h2>
+    <p>Our mission is to provide education that helps people make informed, accurate decisions about their health, nutrition, and lifestyle. We focus on understanding first &mdash; so individuals can make changes with <strong>confidence, not confusion.</strong> Food is more than just fuel. It is information for the body.</p>
+  </div>
+  <div class="mission-pillars">
+    <div class="pillar reveal">
+      <div class="pillar-num">01</div>
+      <h3>Essential Nutrients</h3>
+      <p>The body needs more than 20 essential vitamins and minerals regularly. When diets are high in calories but low in nutrients, people can be overweight yet <strong>undernourished at the cellular level.</strong></p>
+    </div>
+    <div class="pillar reveal">
+      <div class="pillar-num">02</div>
+      <h3>The Gut Microbiome</h3>
+      <p>Trillions of bacteria aid digestion, immune function, vitamin production, and mental health. <strong>The microbiome is shaped by diet</strong> &mdash; especially fibre, plant foods, and natural whole foods.</p>
+    </div>
+    <div class="pillar reveal">
+      <div class="pillar-num">03</div>
+      <h3>Inflammation &amp; Disease</h3>
+      <p>Poor diet fuels chronic inflammation, which underpins heart disease, diabetes, obesity, arthritis, and some cancers. <strong>Diet can increase or reduce inflammation.</strong> The choice is yours.</p>
+    </div>
+    <div class="pillar reveal">
+      <div class="pillar-num">04</div>
+      <h3>Prevention Over Intervention</h3>
+      <p><strong>Understanding your body before a problem arises</strong> is more powerful than treating one after. Education is the most effective form of intervention we know.</p>
+    </div>
+  </div>
+</section>
+
+<div class="rule"></div>
+
+<!-- WHERE IT WENT WRONG -->
+<section class="went-wrong">
+  <div class="ww-intro reveal">
+    <p class="section-tag">The Bigger Picture</p>
+    <h2 class="section-title">So, where did<br>modern diets <em>go wrong?</em></h2>
+    <p>Traditional and indigenous diets &mdash; Jamaican, West Indian, African &mdash; were built around natural, whole foods: healthy fats, fibre-rich vegetables, legumes, fruits, and ground provisions. No refined sugar. No heavily processed ingredients. Recipes passed through generations, grounded in what the body actually needs. Then something shifted.</p>
+  </div>
+  <div class="ww-grid">
+    <div class="ww-point reveal">
+      <h3>The shift to processed food</h3>
+      <p>Modern diets have moved heavily toward processed, packaged, refined, and convenience foods. Frequent consumption has been linked to lower intake of <strong>essential vitamins, minerals, and fibre.</strong></p>
+    </div>
+    <div class="ww-point reveal">
+      <h3>Hidden sugars &amp; metabolic damage</h3>
+      <p>Many modern foods contain hidden sugars and refined carbs causing rapid blood sugar spikes. Over time this can <strong>damage the metabolic system</strong> and is linked to obesity, type 2 diabetes, and fatty liver disease.</p>
+    </div>
+    <div class="ww-point reveal">
+      <h3>Engineered to overconsume</h3>
+      <p>Highly processed foods combine sugar, salt, and fat to <strong>stimulate the brain&rsquo;s reward system</strong> &mdash; making it natural to eat more than the body needs. This is design, not weakness.</p>
+    </div>
+    <div class="ww-point reveal">
+      <h3>Environmental &amp; economic pressure</h3>
+      <p>Pollution, soil erosion, and climate change affect food at the source. Systems that favour cheap, processed foods spread additives at scale &mdash; <strong>prioritising profit over nourishment.</strong></p>
+    </div>
+  </div>
+</section>
+
+<div class="rule"></div>
+
+<!-- ROOTS TEASER -->
+<section class="roots-teaser">
+  <div class="rt-left reveal">
+    <p class="section-tag">Our Roots</p>
+    <h2>Rooted in<br><em>tradition<br>&amp; resilience.</em></h2>
+    <p>The Kwik Fat Cut family tree logo is more than a symbol. It carries heritage, ancestral food wisdom, and a profound respect for the cultures &mdash; Jamaican, West Indian, African &mdash; whose traditions understood nourishment long before modern misconceptions about diet.</p>
+    <a href="/our-roots" class="read-more">Read the full story</a>
+  </div>
+  <div class="rt-right reveal">
+    <div class="color-block black">
+      <div class="color-label">Black</div>
+      <div class="color-meaning">Heritage, identity, strength</div>
+    </div>
+    <div class="color-block red">
+      <div class="color-label">Red</div>
+      <div class="color-meaning">Resistance, courage, sacrifice</div>
+    </div>
+    <div class="color-block gold">
+      <div class="color-label">Gold</div>
+      <div class="color-meaning">Prosperity, dignity, wisdom</div>
+    </div>
+    <div class="color-block green">
+      <div class="color-label">Green</div>
+      <div class="color-meaning">Life, growth, Self-sufficiency</div>
+    </div>
+  </div>
+</section>
+  <!-- KWIK:MAP START, adapted from location-map.html -->
+  <section class="kwik-map">
+    <div class="kwik-map-card reveal">
+      <div class="kwik-map-head">
+        <p class="section-tag">Rooted In</p>
+        <h2>Kingston, <em>Jamaica</em></h2>
+        <p class="kwik-map-sub">Where Kwik Fat Cut was planted, and where it still grows from.</p>
+      </div>
+      <div class="kwik-map-embed">
+        <p class="kwik-map-fallback">
+          Map unavailable.
+          <a href="https://www.openstreetmap.org/?mlat=17.9714&amp;mlon=-76.7936#map=12/17.97/-76.79"
+             target="_blank" rel="noopener">View Kingston on OpenStreetMap</a>
+        </p>
+        <iframe
+          class="kwik-map-frame"
+          title="Map showing Kingston, Jamaica"
+          loading="lazy"
+          referrerpolicy="no-referrer"
+          src="https://www.openstreetmap.org/export/embed.html?bbox=-76.85%2C17.92%2C-76.72%2C18.03&amp;layer=mapnik&amp;marker=17.9714%2C-76.7936"></iframe>
+      </div>
+      <div class="kwik-map-foot">
+        <p class="kwik-map-loc">Kingston, Jamaica</p>
+        <a class="kwik-map-btn" href="geo:17.9714,-76.7936?q=17.9714,-76.7936(Kingston,Jamaica)">Get Directions</a>
+      </div>
+    </div>
+  </section>
+  <!-- KWIK:MAP END -->
+
+
+<!-- CLOSING -->
+<section class="closing">
+  <blockquote class="reveal">&ldquo;Many people today are eating more food &mdash; but getting <em>less nutrition.</em> This is why education comes first.&rdquo;</blockquote>
+
+
+  <div class="closing-brand reveal">
+    <p>Kwik Fat Cut</p>
+    <em>culinary peace.</em>
+    <p style="margin-top:0.2rem;">We row. You steer.</p>
+  </div>
+</section>
+
+<div class="cta-strip reveal">
+  <div class="cta-strip-left">
+    <h3>Ready to <em>understand</em> what you eat?</h3>
+    <p>Start free. No subscription. No pressure. No body shaming.</p>
+  </div>
+  <div class="cta-strip-right">
+    <a href="/learn" class="btn-primary">Start Learning</a>
+    <a href="/why-free" class="btn-outline">Why It&rsquo;s Free</a>
+  </div>
+</div>
+
+
+<!-- SOCIAL ENGAGEMENT STRIP -->
+
+  <!-- KWIK:GIVE START -->
+  <aside class="kwik-give reveal">
+    <p class="kwik-give-label">Keep this free</p>
+    <p class="kwik-give-body">
+      Kwik Fat Cut is a non-profit platform. Every article stays free to read,
+      with no paywall and no subscription. Donations are what pay for it.
+    </p>
+    <a class="kwik-give-btn" href="/support">Support Kwik Fat Cut</a>
+  </aside>
+  <!-- KWIK:GIVE END -->
+
+<section class="social-strip reveal">
+  <div class="ss-inner">
+    <p class="ss-label">Spread the knowledge</p>
+    <h3 class="ss-headline">If this helped you &mdash;<br><em>pass it on.</em></h3>
+    <p class="ss-body">We take feedback like yours seriously. If Kwik Fat Cut opened your eyes, helped you understand your body better, or gave someone you love a new perspective &mdash; pass it on. Tell a friend to tell a friend. No pressure. Just a gentle invitation.</p>
+    <div class="ss-actions">
+      <button class="ss-btn share" onclick="shareKwikFatCut()">
+        <svg viewBox="0 0 24 24" style="width:15px;height:15px;fill:currentColor;flex-shrink:0;"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg>
+        Share this page
+      </button>
+      <a href="https://x.com/KwikFatCut" class="ss-btn follow" target="_blank" rel="noopener">Follow Kwik Fat Cut</a>
+    </div>
+    <div class="ss-socials">
+      <a href="https://x.com/KwikFatCut" class="ss-social-link" target="_blank" rel="noopener">X</a>
+      <span class="ss-social-link ss-social-soon" aria-disabled="true" title="Instagram: Coming Soon">Instagram <em>Coming Soon</em></span>
+      <span class="ss-social-link ss-social-soon" aria-disabled="true" title="TikTok: Coming Soon">TikTok <em>Coming Soon</em></span>
+      <span class="ss-social-link ss-social-soon" aria-disabled="true" title="Facebook: Coming Soon">Facebook <em>Coming Soon</em></span>
+    </div>
+    <p class="ss-note">Follow, like, share, comment. Tell a friend to tell a friend. &mdash; Kwik Fat Cut, Education First.</p>
+  </div>
+</section>
+
+</main>
+<footer>
+  <div>
+    <a href="/" class="footer-logo" aria-label="Kwik Fat Cut home">
+    <img class="logo-shield" src="data:image/webp;base64,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" alt="Kwik Fat Cut logo" width="57" height="64" decoding="async">
+    <span>Kwik <em>Fat Cut</em></span>
+  </a>
+    <p class="footer-tagline">A knowledge tree for health, wellness, awareness &amp; opportunity.</p>
+  </div>
+  <nav class="footer-nav" aria-label="Footer">
+    <a href="/about">About</a>
+    <a href="/why-free">Why Free</a>
+    <a href="/our-roots">Our Roots</a>
+    <a href="/foods-hub">Foods Hub</a>
+    <a href="/learn">Learn</a>
+    <a href="/team">Team</a>
+    <a href="/support">Support</a>
+    <a href="/privacy">Privacy</a>
+  </nav>
+  <div class="kwik-social" role="group" aria-label="Kwik Fat Cut on social media"><a class="kwik-social-item kwik-social--x" href="https://x.com/KwikFatCut" target="_blank" rel="noopener" aria-label="Kwik Fat Cut on X"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg><span>X</span></a><span class="kwik-social-item kwik-social--facebook is-soon" aria-disabled="true" title="Facebook: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M24 12.07C24 5.4 18.63 0 12 0S0 5.4 0 12.07C0 18.1 4.39 23.09 10.13 24v-8.44H7.08v-3.49h3.05V9.43c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.24 2.69.24v2.95h-1.52c-1.49 0-1.95.93-1.95 1.87v2.25h3.33l-.53 3.49h-2.8V24C19.61 23.09 24 18.1 24 12.07z"/></svg><span>Facebook</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--instagram is-soon" aria-disabled="true" title="Instagram: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg><span>Instagram</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--tiktok is-soon" aria-disabled="true" title="TikTok: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12.53.02C13.84 0 15.14.01 16.44 0c.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></svg><span>TikTok</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--youtube is-soon" aria-disabled="true" title="YouTube: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M23.5 6.19a3.02 3.02 0 0 0-2.12-2.14C19.5 3.55 12 3.55 12 3.55s-7.5 0-9.38.5A3.02 3.02 0 0 0 .5 6.19C0 8.07 0 12 0 12s0 3.93.5 5.81a3.02 3.02 0 0 0 2.12 2.14c1.87.5 9.38.5 9.38.5s7.5 0 9.38-.5a3.02 3.02 0 0 0 2.12-2.14C24 15.93 24 12 24 12s0-3.93-.5-5.81zM9.55 15.57V8.43L15.82 12l-6.27 3.57z"/></svg><span>YouTube</span><em>Coming Soon</em></span><span class="kwik-social-item kwik-social--linkedin is-soon" aria-disabled="true" title="LinkedIn: Coming Soon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg><span>LinkedIn</span><em>Coming Soon</em></span></div>
+  <p class="footer-copy">&copy; 2026 Kwik Fat Cut</p>
+  <div class="kwik-signoff">
+    <span class="kwik-triband" aria-hidden="true"><i></i><i></i><i></i></span>
+    <p class="kwik-signoff-text">A suh wi stay 🌿</p>
+  </div>
+</footer>
+
+
+
+
+
+<script>
+function shareKwikFatCut() {
+  const url = window.location.href;
+  const title = 'Kwik Fat Cut — Free Health Education';
+  if (navigator.share) {
+    navigator.share({title, url}).catch(()=>copyURL(url));
+  } else { copyURL(url); }
+}
+function copyURL(url) {
+  navigator.clipboard?.writeText(url).then(()=>{
+    const b = document.querySelector('.ss-btn.share');
+    if(b){const orig=b.innerHTML;b.textContent='✓ Link copied!';setTimeout(()=>b.innerHTML=orig,2500);}
+  });
+}
+</script>
+
+<script src="kwik-fat-cut.min.js?v=a15e9c12" defer></script>
+<script src="kwik-fat-cut-i18n.min.js?v=3909a36f" defer></script>
+<script src="kwik-fat-cut-chat.min.js?v=e2d189bc" defer></script>
+</body>
+</html>

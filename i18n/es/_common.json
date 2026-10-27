@@ -1,0 +1,543 @@
+{
+  "_note": "Shared chrome: nav, footer, share block. Loaded on every page.",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "20ed70ba": {
+      "src": "01",
+      "t": "01"
+    },
+    "654ec49f": {
+      "src": "01 — The Ancient Archive",
+      "t": "01 · El archivo antiguo"
+    },
+    "1fed6f27": {
+      "src": "02",
+      "t": "02"
+    },
+    "2b457935": {
+      "src": "02 — The Taino Diet",
+      "t": "02 · La dieta taína"
+    },
+    "1eed6d94": {
+      "src": "03",
+      "t": "03"
+    },
+    "e8e82dd6": {
+      "src": "03 — West African Roots",
+      "t": "03 · Raíces de África Occidental"
+    },
+    "1ded6c01": {
+      "src": "04",
+      "t": "04"
+    },
+    "f9108205": {
+      "src": "04 — The Moorish Table",
+      "t": "04 · La mesa mora"
+    },
+    "a21d0f20": {
+      "src": "05 — A Nation’s Guide",
+      "t": "05 · La guía de una nación"
+    },
+    "bad6d953": {
+      "src": "06 — Building the Community",
+      "t": "06 · Construir la comunidad"
+    },
+    "295e8bc5": {
+      "src": "07 — Living Longer & Happier",
+      "t": "07 · Vivir más y más felices"
+    },
+    "520abfaa": {
+      "src": "12 min",
+      "t": "12 min"
+    },
+    "31ec1458": {
+      "src": "A family in rural Jamaica preparing a meal together at an outdoor table of fresh vegetables, ground provisions and herbs.",
+      "t": "Una familia en la Jamaica rural prepara una comida en una mesa al aire libre con verduras frescas, víveres y hierbas."
+    },
+    "98c74e18": {
+      "src": "A knowledge tree for health, wellness, awareness & opportunity.",
+      "t": "Un árbol del conocimiento para la salud, el bienestar, la conciencia y la oportunidad."
+    },
+    "d6b7d94e": {
+      "src": "A nation’s guide: health, wealth and wisdom",
+      "t": "La guía de una nación: salud, riqueza y sabiduría"
+    },
+    "52086efa": {
+      "src": "A suh wi stay 🌿",
+      "t": "A suh wi stay 🌿"
+    },
+    "58e096de": {
+      "src": "About",
+      "t": "Acerca de"
+    },
+    "15fdf162": {
+      "src": "Ackee, Jamaica’s national fruit",
+      "t": "Ackee, la fruta nacional de Jamaica"
+    },
+    "059a01a0": {
+      "src": "Ancient oral wisdom",
+      "t": "Sabiduría bucal ancestral"
+    },
+    "1d3930b3": {
+      "src": "Ask Kwik Fat Cut",
+      "t": "Pregunta a Kwik Fat Cut"
+    },
+    "c01ff3f1": {
+      "src": "Ask about a food or a topic",
+      "t": "Pregunta sobre un alimento o un tema"
+    },
+    "aca6f950": {
+      "src": "Begin Free",
+      "t": "Empieza gratis"
+    },
+    "0a7bf25f": {
+      "src": "Blood cleansing herbs in Caribbean tradition",
+      "t": "Hierbas que limpian la sangre en la tradición caribeña"
+    },
+    "ebb72bb9": {
+      "src": "Blood, the body’s living river",
+      "t": "La sangre, el río vivo del cuerpo"
+    },
+    "b58597bf": {
+      "src": "Building the food community",
+      "t": "Construir la comunidad de la comida"
+    },
+    "afb3e591": {
+      "src": "Category",
+      "t": "Categoría"
+    },
+    "cd86acc3": {
+      "src": "Close",
+      "t": "Cerrar"
+    },
+    "e6f5a6d9": {
+      "src": "Coconut water, nature’s sports drink",
+      "t": "Agua de coco, la bebida deportiva de la naturaleza"
+    },
+    "0f47ca99": {
+      "src": "Coming Soon",
+      "t": "Próximamente"
+    },
+    "a23e7e7f": {
+      "src": "Continue the",
+      "t": "Continúa la"
+    },
+    "d549daf4": {
+      "src": "Deep Research",
+      "t": "Investigación profunda"
+    },
+    "1d723051": {
+      "src": "Digestion and food safety: it all starts with your stomach",
+      "t": "Digestión y seguridad alimentaria: todo empieza con tu estómago"
+    },
+    "ac37c251": {
+      "src": "Facebook",
+      "t": "Facebook"
+    },
+    "d10bafc3": {
+      "src": "Facebook: Coming Soon",
+      "t": "Facebook: próximamente"
+    },
+    "2e48ba34": {
+      "src": "Fat Cut",
+      "t": "Fat Cut"
+    },
+    "c68a9541": {
+      "src": "Follow Kwik Fat Cut",
+      "t": "Sigue a Kwik Fat Cut"
+    },
+    "3025cb5a": {
+      "src": "Follow, like, share, comment. Tell a friend to tell a friend.",
+      "t": "Sigue, da me gusta, comparte, comenta. Dile a un amigo que le diga a otro."
+    },
+    "e7e26241": {
+      "src": "Follow, like, share, comment. Tell a friend to tell a friend. — Kwik Fat Cut, Education First.",
+      "t": "Sigue, da me gusta, comparte, comenta. Dile a un amigo que le diga a otro. Kwik Fat Cut, la educación primero."
+    },
+    "22a51311": {
+      "src": "Foods Hub",
+      "t": "Centro de alimentos"
+    },
+    "575cffd2": {
+      "src": "Footer",
+      "t": "Pie de página"
+    },
+    "c7f68358": {
+      "src": "Fruits and nuts: the Jamaican health guide",
+      "t": "Frutas y frutos secos, la guía jamaicana de salud"
+    },
+    "c1326e23": {
+      "src": "Garlic, ancient medicine and modern science",
+      "t": "El ajo, medicina antigua y ciencia moderna"
+    },
+    "62a50daf": {
+      "src": "Greetings. Ask about any food or topic on this site. This is education, not medical advice.",
+      "t": "Saludos. Pregunta sobre cualquier alimento o tema de este sitio. Esto es educación, no consejo médico."
+    },
+    "261f8e14": {
+      "src": "Ground provisions: the Caribbean root vegetables",
+      "t": "Víveres: las raíces y tubérculos del Caribe"
+    },
+    "56290dd2": {
+      "src": "Health begins in the mouth",
+      "t": "La salud empieza en la boca"
+    },
+    "52f50eae": {
+      "src": "Home",
+      "t": "Inicio"
+    },
+    "85ebd6bf": {
+      "src": "If this helped you —",
+      "t": "Si esto te ayudó,"
+    },
+    "cb4d39d4": {
+      "src": "In this article",
+      "t": "En este artículo"
+    },
+    "0f95701b": {
+      "src": "Instagram",
+      "t": "Instagram"
+    },
+    "86be762d": {
+      "src": "Instagram: Coming Soon",
+      "t": "Instagram: próximamente"
+    },
+    "f30c9cdf": {
+      "src": "Ital food and the Rastafarian diet",
+      "t": "La comida Ital y la dieta rastafari"
+    },
+    "97d8687a": {
+      "src": "Jamaican cuisine, authentic and healthy",
+      "t": "Cocina jamaicana: auténtica y saludable"
+    },
+    "8d073b4a": {
+      "src": "Jamaican foods A to Z",
+      "t": "Alimentos jamaicanos de la A a la Z"
+    },
+    "0e2797bb": {
+      "src": "Jamaican seafood: what the island waters give",
+      "t": "Pescados y mariscos jamaicanos: lo que dan las aguas de la isla"
+    },
+    "ac7a8ccc": {
+      "src": "Keep reading",
+      "t": "Sigue leyendo"
+    },
+    "a24902da": {
+      "src": "Keep this free",
+      "t": "Mantén esto gratuito"
+    },
+    "34785993": {
+      "src": "Kwik",
+      "t": "Kwik"
+    },
+    "54b25870": {
+      "src": "Kwik Fat Cut assistant",
+      "t": "Asistente de Kwik Fat Cut"
+    },
+    "5ff1c167": {
+      "src": "Kwik Fat Cut home",
+      "t": "Inicio de Kwik Fat Cut"
+    },
+    "c9e86565": {
+      "src": "Kwik Fat Cut is a non-profit platform. Every article stays free to read, with no paywall and no subscription. Donations are what pay for it.",
+      "t": "Kwik Fat Cut es una plataforma sin fines de lucro. Cada artículo es gratuito, para siempre."
+    },
+    "1bf96287": {
+      "src": "Kwik Fat Cut logo",
+      "t": "Logotipo de Kwik Fat Cut"
+    },
+    "637bcf77": {
+      "src": "Kwik Fat Cut on Facebook",
+      "t": "Kwik Fat Cut en Facebook"
+    },
+    "9d80b0f5": {
+      "src": "Kwik Fat Cut on Instagram",
+      "t": "Kwik Fat Cut en Instagram"
+    },
+    "2c553921": {
+      "src": "Kwik Fat Cut on LinkedIn",
+      "t": "Kwik Fat Cut en LinkedIn"
+    },
+    "8dd03a0d": {
+      "src": "Kwik Fat Cut on TikTok",
+      "t": "Kwik Fat Cut en TikTok"
+    },
+    "6ac5c4b9": {
+      "src": "Kwik Fat Cut on X",
+      "t": "Kwik Fat Cut en X"
+    },
+    "1a65c008": {
+      "src": "Kwik Fat Cut on YouTube",
+      "t": "Kwik Fat Cut en YouTube"
+    },
+    "71140730": {
+      "src": "Kwik Fat Cut on social media",
+      "t": "Kwik Fat Cut en redes sociales"
+    },
+    "90575f6b": {
+      "src": "Kwik Fat Cut — Education First — A knowledge tree for health, wellness, awareness & opportunity.",
+      "t": "Kwik Fat Cut, la educación primero: un árbol del conocimiento para la salud, el bienestar, la conciencia y la oportunidad."
+    },
+    "9dc37988": {
+      "src": "Kwik Fat Cut — Return to Real Food Series — Education First",
+      "t": "Kwik Fat Cut · Serie Volver a la Comida Real · La educación primero"
+    },
+    "2524e8b5": {
+      "src": "Learn",
+      "t": "Aprende"
+    },
+    "1c8fe4f6": {
+      "src": "Learn Hub",
+      "t": "Centro de aprendizaje"
+    },
+    "4155597d": {
+      "src": "Level",
+      "t": "Nivel"
+    },
+    "2f5973bf": {
+      "src": "LinkedIn",
+      "t": "LinkedIn"
+    },
+    "d732ffa1": {
+      "src": "LinkedIn: Coming Soon",
+      "t": "LinkedIn: próximamente"
+    },
+    "4dd71e91": {
+      "src": "Living longer, healthier and happier",
+      "t": "Vivir más, con más salud y más felicidad"
+    },
+    "51707928": {
+      "src": "Main",
+      "t": "Principal"
+    },
+    "00c6075a": {
+      "src": "Menu",
+      "t": "Menú"
+    },
+    "4b3d7598": {
+      "src": "Mindful eating and the foundation of lasting health",
+      "t": "La alimentación consciente y la base de una salud duradera"
+    },
+    "9707f430": {
+      "src": "Movement is medicine",
+      "t": "El movimiento es medicina"
+    },
+    "c7649b96": {
+      "src": "Movements are medicines. We row. You steer.",
+      "t": "Los movimientos son medicina. Nosotros remamos. Tú diriges."
+    },
+    "0e0df30d": {
+      "src": "Option meals: Ital roots and plant science",
+      "t": "Option Meals: raíces Ital y ciencia vegetal"
+    },
+    "9f88b18c": {
+      "src": "Our Roots",
+      "t": "Nuestras raíces"
+    },
+    "43a01bd1": {
+      "src": "Our roots: six foundations of Caribbean wellbeing",
+      "t": "Nuestras raíces: seis fundamentos del bienestar caribeño"
+    },
+    "9836bb10": {
+      "src": "Plant-based Jamaican meals",
+      "t": "Comidas jamaicanas basadas en plantas"
+    },
+    "ebfa87e7": {
+      "src": "Privacy",
+      "t": "Privacidad"
+    },
+    "a7c3f998": {
+      "src": "Reading time",
+      "t": "Tiempo de lectura"
+    },
+    "02949b44": {
+      "src": "Return to Real Food",
+      "t": "Volver a la Comida Real"
+    },
+    "9410d3a6": {
+      "src": "Returning to real food",
+      "t": "Volver a la comida real"
+    },
+    "c91fc823": {
+      "src": "Roots never seen: water vs blood",
+      "t": "Raíces nunca vistas: agua frente a sangre"
+    },
+    "f28e14cf": {
+      "src": "Send",
+      "t": "Enviar"
+    },
+    "098b99d0": {
+      "src": "Series",
+      "t": "Serie"
+    },
+    "06d7397e": {
+      "src": "Share this article",
+      "t": "Comparte este artículo"
+    },
+    "0d557b8f": {
+      "src": "Share this page",
+      "t": "Compartir esta página"
+    },
+    "c7af44e6": {
+      "src": "Skip to content",
+      "t": "Saltar al contenido"
+    },
+    "a2c773d1": {
+      "src": "Sources",
+      "t": "Fuentes"
+    },
+    "fe2650f9": {
+      "src": "Spirit is the root",
+      "t": "El espíritu es la raíz"
+    },
+    "c27dd5c1": {
+      "src": "Spread the knowledge",
+      "t": "Difunde el conocimiento"
+    },
+    "5df3be53": {
+      "src": "Start Learning",
+      "t": "Empieza a aprender"
+    },
+    "aeb7ca63": {
+      "src": "Start here",
+      "t": "Empieza aquí"
+    },
+    "48013f42": {
+      "src": "Stillness is medicine",
+      "t": "La quietud es medicina"
+    },
+    "e8f7b9bf": {
+      "src": "Straight mixes: moment is medicine",
+      "t": "Straight Mixes: el momento es medicina"
+    },
+    "6be6f488": {
+      "src": "Support",
+      "t": "Apoyo"
+    },
+    "b432c639": {
+      "src": "Support Kwik Fat Cut",
+      "t": "Apoya a Kwik Fat Cut"
+    },
+    "cc7e382a": {
+      "src": "Sweet potato, the superfood root",
+      "t": "La batata, la raíz superalimento"
+    },
+    "2329c92c": {
+      "src": "Team",
+      "t": "Equipo"
+    },
+    "cbf4d9a0": {
+      "src": "Tell a friend to tell a friend",
+      "t": "Dile a un amigo que le diga a otro"
+    },
+    "a61c44d1": {
+      "src": "Tell a friend to tell a friend. — Kwik Fat Cut, Education First.",
+      "t": "Dile a un amigo que le diga a otro. Kwik Fat Cut, la educación primero."
+    },
+    "9b662444": {
+      "src": "The Moorish table: foods that changed the world",
+      "t": "La mesa mora: los alimentos que cambiaron el mundo"
+    },
+    "2f8b92b1": {
+      "src": "The Series",
+      "t": "La serie"
+    },
+    "8515465d": {
+      "src": "The Taino diet, Jamaica’s first food tradition",
+      "t": "La dieta taína, la primera tradición alimentaria de Jamaica"
+    },
+    "2a1c1666": {
+      "src": "The ancient archive: food wisdom before written record",
+      "t": "El archivo antiguo: sabiduría alimentaria anterior a la escritura"
+    },
+    "8d928af2": {
+      "src": "The assistant is being connected and will be available soon. In the meantime, the Learn hub has every article free, or email kwik@kwikfatcut.com.",
+      "t": "El asistente se está conectando y estará disponible pronto. Mientras tanto, el Centro de aprendizaje tiene todos los artículos gratis, o escribe a kwik@kwikfatcut.com."
+    },
+    "d692b9e5": {
+      "src": "The family tree and how your body draws nourishment",
+      "t": "El árbol genealógico y cómo se nutre tu cuerpo"
+    },
+    "a79ace9c": {
+      "src": "The family tree: where our food knowledge began",
+      "t": "El árbol genealógico: donde empezó nuestro saber alimentario"
+    },
+    "c8a113f3": {
+      "src": "TikTok",
+      "t": "TikTok"
+    },
+    "6056da35": {
+      "src": "TikTok: Coming Soon",
+      "t": "TikTok: próximamente"
+    },
+    "af757a93": {
+      "src": "We row. You steer.",
+      "t": "Nosotros remamos. Tú diriges."
+    },
+    "2c0b3dc0": {
+      "src": "We take feedback like yours seriously. If Kwik Fat Cut opened your eyes, helped you understand your body better, or gave someone you love a new perspective — pass it on. Tell a friend to tell a friend. No pressure. Just a gentle invitation.",
+      "t": "Tomamos muy en serio comentarios como el tuyo. Si Kwik Fat Cut te abrió los ojos, te ayudó a entender mejor tu cuerpo o le dio a alguien que quieres una nueva perspectiva, compártelo. Dile a un amigo que le diga a otro. Sin presión. Solo una invitación sincera."
+    },
+    "7e4b3862": {
+      "src": "West African food traditions in the Caribbean",
+      "t": "Tradiciones alimentarias de África Occidental en el Caribe"
+    },
+    "a0f952d9": {
+      "src": "What is water? The fluid of life",
+      "t": "¿Qué es el agua? El fluido de la vida"
+    },
+    "1e938601": {
+      "src": "Why Free",
+      "t": "Por qué es gratis"
+    },
+    "dd0c1e27": {
+      "src": "X",
+      "t": "X"
+    },
+    "61996d19": {
+      "src": "You have reached today's question limit for the assistant. Please come back tomorrow. In the meantime, the Learn hub has every article free.",
+      "t": "Llegaste al límite de preguntas de hoy para el asistente. Vuelve mañana. Mientras tanto, el Centro de aprendizaje tiene todos los artículos gratis."
+    },
+    "be3a531e": {
+      "src": "YouTube",
+      "t": "YouTube"
+    },
+    "aebd4962": {
+      "src": "YouTube: Coming Soon",
+      "t": "YouTube: próximamente"
+    },
+    "a0bb761e": {
+      "src": "Your question",
+      "t": "Tu pregunta"
+    },
+    "82fe5fdc": {
+      "src": "pass it on.",
+      "t": "pásalo."
+    },
+    "762dbd87": {
+      "src": "© 2026 Kwik Fat Cut",
+      "t": "© 2026 Kwik Fat Cut"
+    },
+    "b20bda76": {
+      "src": "·",
+      "t": "·"
+    },
+    "520b4356": {
+      "src": "×",
+      "t": "×"
+    },
+    "183edb08": {
+      "src": "”",
+      "t": "”"
+    },
+    "59633031": {
+      "src": "✓ Copied!",
+      "t": "✓ ¡Copiado!"
+    },
+    "1391f855": {
+      "src": "✓ Link copied!",
+      "t": "✓ ¡Enlace copiado!"
+    }
+  }
+}

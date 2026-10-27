@@ -1,0 +1,253 @@
+{
+  "_note": "Page content for support.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "210c8933": {
+      "src": "$",
+      "t": "$"
+    },
+    "5338a5da": {
+      "src": "$1,000",
+      "t": "$1,000"
+    },
+    "d5730ca2": {
+      "src": "$10",
+      "t": "$10"
+    },
+    "961cc9d6": {
+      "src": "$100",
+      "t": "$100"
+    },
+    "d270c952": {
+      "src": "$25",
+      "t": "$25"
+    },
+    "ae49d60e": {
+      "src": "$5,000",
+      "t": "$5,000"
+    },
+    "4d7cc3e6": {
+      "src": "$50",
+      "t": "$50"
+    },
+    "d16849e2": {
+      "src": "$500",
+      "t": "$500"
+    },
+    "31acd82f": {
+      "src": ", where education comes before intervention.",
+      "t": ", donde la educación va antes que la intervención."
+    },
+    "5b77b6f4": {
+      "src": "A suh wi stay!",
+      "t": "A suh wi stay!"
+    },
+    "471aa3a1": {
+      "src": "Amount in Jamaican dollars (JMD)",
+      "t": "Cantidad en dólares jamaiquinos (JMD)"
+    },
+    "ebc3bd93": {
+      "src": "Any amount",
+      "t": "Otra cantidad"
+    },
+    "e9bf5000": {
+      "src": "Be part of the community",
+      "t": "Sé parte de la comunidad"
+    },
+    "e089be09": {
+      "src": "Choose an amount",
+      "t": "Elige una cantidad"
+    },
+    "d7b3aa5e": {
+      "src": "Choose an amount (USD)",
+      "t": "Elige una cantidad (USD)"
+    },
+    "89e7f27a": {
+      "src": "Donate to Kwik Fat Cut | Help Keep Health Education Free",
+      "t": "Dona a Kwik Fat Cut | Ayuda a mantener gratuita la educación en salud"
+    },
+    "43352167": {
+      "src": "Email",
+      "t": "Correo electrónico"
+    },
+    "9010932f": {
+      "src": "Full name",
+      "t": "Nombre completo"
+    },
+    "0eddb04a": {
+      "src": "Give in Jamaican dollars (JMD) with WiPay",
+      "t": "Dona en dólares jamaiquinos (JMD) con WiPay"
+    },
+    "2d12c769": {
+      "src": "Give in US dollars with PayPal",
+      "t": "Dona en dólares estadounidenses con PayPal"
+    },
+    "35234a4c": {
+      "src": "Give with",
+      "t": "Donar con"
+    },
+    "ccf974d3": {
+      "src": "Give with PayPal",
+      "t": "Donar con PayPal"
+    },
+    "6b4ee3f8": {
+      "src": "Give with PayPal (opens in a new tab)",
+      "t": "Donar con PayPal (se abre en una pestaña nueva)"
+    },
+    "55a74b8e": {
+      "src": "Give with WiPay",
+      "t": "Donar con WiPay"
+    },
+    "5ed6eefc": {
+      "src": "Give with WiPay (JMD)",
+      "t": "Donar con WiPay (JMD)"
+    },
+    "611eacae": {
+      "src": "Help Us Keep It Free",
+      "t": "Ayúdanos a mantenerlo gratis"
+    },
+    "d669eb39": {
+      "src": "Invite anyone who wants to help Kwik Fat Cut grow. No body shaming. No pressure. We row together. You steer. Thank you!",
+      "t": "Invita a cualquiera que quiera ayudar a Kwik Fat Cut a crecer. Sin criticar el cuerpo de nadie. Sin presión. Remamos juntos. Tú diriges. ¡Gracias!"
+    },
+    "28f0f1bb": {
+      "src": "J$",
+      "t": "J$"
+    },
+    "7f571de8": {
+      "src": "Kwik Fat Cut education-first community",
+      "t": "comunidad educativa de Kwik Fat Cut"
+    },
+    "630ac41f": {
+      "src": "Online giving is being connected. To give today, email",
+      "t": "Estamos conectando las donaciones en línea. Para donar hoy, escribe a"
+    },
+    "13a9bfa6": {
+      "src": "PayPal",
+      "t": "PayPal"
+    },
+    "9614878e": {
+      "src": "PayPal opens in a new tab. Enter $25 there to complete your gift.",
+      "t": "PayPal se abre en una pestaña nueva. Ingresa $25 allí para completar tu donación."
+    },
+    "97dae989": {
+      "src": "PayPal opens in a new tab. Enter any amount you like there to complete your gift.",
+      "t": "PayPal se abre en una pestaña nueva. Ingresa allí la cantidad que desees para completar tu donación."
+    },
+    "abd0c162": {
+      "src": "Please choose or enter an amount of at least $1.",
+      "t": "Elige o escribe una cantidad de al menos $1."
+    },
+    "32b5e77e": {
+      "src": "Please enter a valid email address.",
+      "t": "Escribe un correo electrónico válido."
+    },
+    "16f88abd": {
+      "src": "Please enter an amount between J$100 and J$1,000,000.",
+      "t": "Escribe una cantidad entre J$100 y J$1,000,000."
+    },
+    "73eb6d3f": {
+      "src": "Please enter your name.",
+      "t": "Escribe tu nombre."
+    },
+    "966fc420": {
+      "src": "Problem with your gift? Email",
+      "t": "¿Algún problema con tu donación? Escribe a"
+    },
+    "11341890": {
+      "src": "Secure checkout by PayPal or WiPay. Kwik Fat Cut never sees or stores your card details.",
+      "t": "Pago seguro con PayPal o WiPay. Kwik Fat Cut nunca ve ni guarda los datos de tu tarjeta."
+    },
+    "5ac40368": {
+      "src": "Secure checkout by WiPay. Kwik Fat Cut never sees or stores your card details.",
+      "t": "Pago seguro con WiPay. Kwik Fat Cut nunca ve ni guarda los datos de tu tarjeta."
+    },
+    "8ad3e329": {
+      "src": "Share Kwik Fat Cut",
+      "t": "Comparte Kwik Fat Cut"
+    },
+    "5bc2abe4": {
+      "src": "Support the work",
+      "t": "Apoya el trabajo"
+    },
+    "32f2cf28": {
+      "src": "Tell a friend to",
+      "t": "Dile a un amigo que"
+    },
+    "892f7d57": {
+      "src": "Thank you for being part of it.",
+      "t": "Gracias por ser parte de esto."
+    },
+    "11665417": {
+      "src": "The Honey Ras family together at home in Kingston, Jamaica.",
+      "t": "La familia de Honey Ras junta en casa, en Kingston, Jamaica."
+    },
+    "1ff9f7e4": {
+      "src": "The payment did not go through. Please try again, or choose the other payment method.",
+      "t": "El pago no se realizó. Inténtalo de nuevo o elige el otro método de pago."
+    },
+    "173121ee": {
+      "src": "We could not confirm your payment automatically. If your card was charged, your gift went through and WiPay will email your receipt. Questions? Email",
+      "t": "No pudimos confirmar tu pago automáticamente. Si se hizo el cargo en tu tarjeta, tu donación se completó y WiPay te enviará el recibo por correo. ¿Preguntas? Escribe a"
+    },
+    "13cb3336": {
+      "src": "Welcome!",
+      "t": "¡Bienvenidos!"
+    },
+    "5f0fe513": {
+      "src": "We’re so glad you’re here and grateful to have you in the",
+      "t": "Nos alegra mucho que estés aquí y agradecemos tenerte en la"
+    },
+    "6589dc31": {
+      "src": "WiPay",
+      "t": "WiPay"
+    },
+    "738a1181": {
+      "src": "Your gift was not completed. You can try again whenever you are ready.",
+      "t": "Tu donación no se completó. Puedes intentarlo de nuevo cuando quieras."
+    },
+    "3a0663bd": {
+      "src": "Your name",
+      "t": "Tu nombre"
+    },
+    "d8572d81": {
+      "src": "Your support helps us continue offering free educational resources. Every seed you plant helps our community take root, grow, and build a brighter future.",
+      "t": "Tu apoyo nos ayuda a seguir ofreciendo recursos educativos gratuitos. Cada semilla que siembras ayuda a nuestra comunidad a echar raíces, crecer y construir un futuro mejor."
+    },
+    "c5ab4405": {
+      "src": "Your support helps us continue offering free educational resources. Every seed you plant helps our community take root, grow, and build a brighter future. Thank you for being part of it.",
+      "t": "Tu apoyo nos ayuda a seguir ofreciendo recursos educativos gratuitos. Cada semilla que siembras ayuda a nuestra comunidad a echar raíces, crecer y construir un futuro mejor. Gracias por ser parte de esto."
+    },
+    "efdcfc60": {
+      "src": "and we will arrange your gift personally. Thank you!",
+      "t": "y organizaremos tu donación personalmente. ¡Gracias!"
+    },
+    "87245d25": {
+      "src": "kwik@kwikfatcut.com",
+      "t": "kwik@kwikfatcut.com"
+    },
+    "5d342984": {
+      "src": "or",
+      "t": "o"
+    },
+    "8cfc7977": {
+      "src": "tell a friend.",
+      "t": "se lo diga a otro."
+    },
+    "3917dfc7": {
+      "src": "you@email.com",
+      "t": "tu@correo.com"
+    }
+  },
+  "patterns": [
+    {
+      "src": "^Donate \\$([0-9][0-9.,]*)$",
+      "t": "Donar $${1}"
+    },
+    {
+      "src": "^PayPal opens in a new tab\\. Enter \\$([0-9][0-9.,]*) there to complete your gift\\.$",
+      "t": "PayPal se abre en una pestaña nueva. Ingresa $${1} allí para completar tu donación."
+    }
+  ]
+}

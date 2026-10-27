@@ -1,0 +1,239 @@
+{
+  "_note": "Page content for why-free.html",
+  "_locale": "es",
+  "_instructions": "Fill in every \"t\". Leave it empty and that string renders in English, which is safe but visibly mixed. Never edit \"src\" or the key: the key is a hash of \"src\" and changing either breaks the lookup. If source copy changes, re-run extract --merge.",
+  "strings": {
+    "5ecc14bf": {
+      "src": "And yet, confusion often still exists after the payment is made. People are left with instructions without understanding.",
+      "t": "Y aun así, la confusión a menudo sigue ahí después de pagar. La gente se queda con instrucciones sin entendimiento."
+    },
+    "007481a6": {
+      "src": "App coming soon. Nothing here depends on it.",
+      "t": "App próximamente. Nada de lo que hay aquí depende de ella."
+    },
+    "68b6366d": {
+      "src": "At Kwik Fat Cut, we believe there must be",
+      "t": "En Kwik Fat Cut creemos que debe haber"
+    },
+    "7f68405f": {
+      "src": "Clarity",
+      "t": "Claridad"
+    },
+    "c1522ef1": {
+      "src": "Confidence",
+      "t": "Confianza"
+    },
+    "0410fc63": {
+      "src": "Every article, every food guide and every explainer on this site is free to read, with no account, no trial and no subscription. That is the whole offer, and it does not change.",
+      "t": "Cada artículo, cada guía de alimentos y cada explicación de este sitio se puede leer gratis, sin cuenta, sin período de prueba y sin suscripción. Esa es toda la oferta, y no cambia."
+    },
+    "436e7fde": {
+      "src": "Everything we have,",
+      "t": "Todo lo que tenemos,"
+    },
+    "ded40a49": {
+      "src": "It is free. It belongs to you.",
+      "t": "Es gratis. Te pertenece."
+    },
+    "1c5177b8": {
+      "src": "Just truth.",
+      "t": "Solo la verdad."
+    },
+    "42807990": {
+      "src": "Kwik Fat Cut",
+      "t": "Kwik Fat Cut"
+    },
+    "a1f24fc8": {
+      "src": "Kwik Fat Cut doesn’t sell anything. We build kin.",
+      "t": "Kwik Fat Cut doesn’t sell anything. We build kin."
+    },
+    "0b9a011f": {
+      "src": "Learn first.",
+      "t": "Aprende primero."
+    },
+    "0d13c81c": {
+      "src": "Many are taught to pay first and understand later — pay for plans, programmes, or answers that should be free from the start. Confusion often remains even after payment. We oppose this entirely.",
+      "t": "A muchos se les enseña a pagar primero y entender después: pagar por planes, programas o respuestas que deberían ser gratuitas desde el principio. La confusión suele seguir ahí incluso después del pago. Nos oponemos por completo a esto."
+    },
+    "8d085900": {
+      "src": "Many diet platforms ask you to pay for plans, pay for programmes, pay for answers",
+      "t": "Muchas plataformas de dietas te piden pagar por planes, pagar por programas, pagar por respuestas"
+    },
+    "1feebb31": {
+      "src": "No body shaming.",
+      "t": "Sin criticar el cuerpo de nadie."
+    },
+    "de6d6862": {
+      "src": "No conditions.",
+      "t": "Sin condiciones."
+    },
+    "a491a81e": {
+      "src": "No gatekeeping.",
+      "t": "Sin barreras de acceso."
+    },
+    "54d7497d": {
+      "src": "No pressure.",
+      "t": "Sin presión."
+    },
+    "c6443c84": {
+      "src": "No subscription. No pressure. No body shaming. Just begin.",
+      "t": "Sin suscripción. Sin presión. Sin criticar el cuerpo de nadie. Simplemente empieza."
+    },
+    "ca09043b": {
+      "src": "On knowing why you are making each choice",
+      "t": "Sobre saber por qué tomas cada decisión"
+    },
+    "230b3818": {
+      "src": "Our Position",
+      "t": "Nuestra postura"
+    },
+    "029ce2a0": {
+      "src": "Our Story",
+      "t": "Nuestra historia"
+    },
+    "6bb78363": {
+      "src": "Pay first.",
+      "t": "Paga primero."
+    },
+    "1a36a166": {
+      "src": "Progress",
+      "t": "Progreso"
+    },
+    "aa6361fd": {
+      "src": "Real progress — the kind that lasts — is built on understanding. Not willpower. Not restriction.",
+      "t": "El progreso real, el que dura, se construye sobre la comprensión. No sobre la fuerza de voluntad. No sobre la restricción."
+    },
+    "ece3aaf7": {
+      "src": "Start free.",
+      "t": "Empieza gratis."
+    },
+    "eb47ebb5": {
+      "src": "Start wherever",
+      "t": "Empieza donde"
+    },
+    "e92b5dc9": {
+      "src": "Start with the Learn hub →",
+      "t": "Empieza por el centro de aprendizaje →"
+    },
+    "9df8b70c": {
+      "src": "That shift happens from the inside",
+      "t": "Ese cambio ocurre desde dentro"
+    },
+    "e5668838": {
+      "src": "The Journey",
+      "t": "El Recorrido"
+    },
+    "f8ea39c6": {
+      "src": "There’s a reason you won’t find a “Subscription” button on Kwik Fat Cut. It’s not forgetfulness. It’s not a lack of business understanding. It’s a principle.",
+      "t": "Hay una razón por la que no encontrarás un botón de “Suscripción” en Kwik Fat Cut. No es un olvido. No es falta de visión de negocio. Es un principio."
+    },
+    "02ab7871": {
+      "src": "This is the foundation.",
+      "t": "Esta es la base."
+    },
+    "32577ea4": {
+      "src": "To us, you are not a “lead” or a “conversion.” You are someone deserving of true understanding, without pressure, without confusion, and without being sold something before you truly need it.",
+      "t": "Para nosotros no eres un “lead” ni una “conversión”. Eres alguien que merece una comprensión real, sin presión, sin confusión y sin que te vendan algo antes de que de verdad lo necesites."
+    },
+    "4f3d2ccb": {
+      "src": "Understand",
+      "t": "Comprende"
+    },
+    "0acf36ed": {
+      "src": "Understand what you eat, how your body responds, and why certain habits help or hinder.",
+      "t": "Entiende qué comes, cómo responde tu cuerpo y por qué ciertos hábitos ayudan o estorban."
+    },
+    "f101ee6a": {
+      "src": "Understanding is what drives real change, not desperation. First, just begin.",
+      "t": "Lo que impulsa el cambio real es la comprensión, no la desesperación. Primero, simplemente empieza."
+    },
+    "61d84667": {
+      "src": "We made a clear choice:",
+      "t": "Tomamos una decisión clara:"
+    },
+    "74b10415": {
+      "src": "We reject that.",
+      "t": "Lo rechazamos."
+    },
+    "201ca236": {
+      "src": "What you eat. How your body responds. Why some habits help or hinder. This foundation is not optional — it is essential. And it should not sit behind a paywall.",
+      "t": "Qué comes. Cómo responde tu cuerpo. Por qué algunos hábitos ayudan o estorban. Esta base no es opcional, es esencial. Y no debería estar detrás de un muro de pago."
+    },
+    "5abb5887": {
+      "src": "What’s Free",
+      "t": "Qué es gratis"
+    },
+    "99aac203": {
+      "src": "When clarity grows, doubt shrinks. Decisions that once felt overwhelming begin to feel natural.",
+      "t": "Cuando la claridad crece, la duda se achica. Las decisiones que antes parecían abrumadoras empiezan a sentirse naturales."
+    },
+    "e6f5d38f": {
+      "src": "When clarity leads, everything changes. Decisions get easier. Confidence replaces doubt. And real progress begins — built on understanding, not desperation.",
+      "t": "Cuando la claridad guía, todo cambia. Las decisiones se vuelven más fáciles. La confianza reemplaza la duda. Y comienza el progreso real, construido sobre la comprensión, no sobre la desesperación."
+    },
+    "4de71cff": {
+      "src": "Why Kwik Fat Cut Is Free, and Always Will Be",
+      "t": "Por qué Kwik Fat Cut es gratis, y siempre lo será"
+    },
+    "243f1468": {
+      "src": "You should never have to pay",
+      "t": "Nunca deberías tener que pagar"
+    },
+    "65e7ab34": {
+      "src": "and choosing it freely.",
+      "t": "y elegirla libremente."
+    },
+    "e018ea9f": {
+      "src": "clarity before structure.",
+      "t": "claridad antes que estructura."
+    },
+    "f968f006": {
+      "src": "culinary peace.",
+      "t": "paz culinaria."
+    },
+    "d175d0c8": {
+      "src": "education comes first — and it is free.",
+      "t": "la educación va primero, y es gratuita."
+    },
+    "eb412baf": {
+      "src": "free.",
+      "t": "gratis."
+    },
+    "08722722": {
+      "src": "later?",
+      "t": "después."
+    },
+    "929d092c": {
+      "src": "real progress begins.",
+      "t": "comienza el progreso real."
+    },
+    "83a4bd9d": {
+      "src": "that should be free from the start.",
+      "t": "que deberían ser gratuitas desde el principio."
+    },
+    "e0e57ebe": {
+      "src": "to understand",
+      "t": "para entender"
+    },
+    "3ba94a78": {
+      "src": "you are.",
+      "t": "estés."
+    },
+    "4e2cfd38": {
+      "src": "your own body.",
+      "t": "tu propio cuerpo."
+    },
+    "c2848ee6": {
+      "src": "— not from a plan sold to you.",
+      "t": "y no a partir de un plan que te venden."
+    },
+    "b968de7c": {
+      "src": "“Start Free” is not a strategy — it is our principle.",
+      "t": "“Empieza gratis” no es una estrategia, es nuestro principio."
+    },
+    "92e2c86e": {
+      "src": "“When clarity leads, everything changes. Decisions get easier. Confidence replaces doubt. And",
+      "t": "“Cuando la claridad guía, todo cambia. Las decisiones se vuelven más fáciles. La confianza reemplaza la duda. Y"
+    }
+  }
+}
